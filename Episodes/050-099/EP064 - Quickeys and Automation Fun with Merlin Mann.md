@@ -91,7 +91,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 00:19      | Well, that's very convenient.                                                                                 |
 | 00:20      | I do.                                                                                                         |
 | 00:21      | Because we have a guest today who is one of my very favourite people on the Internet.                          |
-| 00:25      | Welcome to the show, Merlin Man.                                                                              |
+| 00:25      | Welcome to the show, Merlin Mann.                                                                              |
 | 00:26      | Hi, David.                                                                                                    |
 | 00:27      | I have like probably two or three folders left.                                                               |
 | 00:30      | I don't have a lot in me, but I'm also feeling very productive and I'm excited to be here.                    |
@@ -120,12 +120,12 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:48      | stuff like, what's the first automation thing I used on a Mac or early things?                                |
 | 01:54      | I cannot find this to save my life, but I believe it was called Quick Keys, and there                         |
 | 01:59      | was this app that you could run that would do, in some ways, it's a little bit like the                       |
-| 02:04      | way that I would use, for example, the way you all use Keyboard Maestro, the way that                         |
+| 02:04      | way that I would use, for example, the way you all use [[Keyboard Maestro]], the way that                         |
 | 02:10      | I use [[BetterTouchTool]], but all the way down to wait this many seconds, and then click                       |
 | 02:16      | in this area, and you could create all these really wackadoo macros and Rube Goldberg devices,                |
 | 02:23      | but it was a real crapshoot if it would work at all, and that's still true in some ways                       |
 | 02:29      | today, but now there's an entire community of people like Rosemary, like all these other                      |
-| 02:34      | folks that are making the fellow that made the ThoughtAsylum thing for Drafts, there's                       |
+| 02:34      | folks that are making the fellow that made the ThoughtAsylum thing for [[Drafts]], there's                       |
 | 02:38      | people out there just making an entire worldview inside of these apps that we get to benefit                  |
 | 02:43      | from.                                                                                                         |
 | 02:44      | Yeah.                                                                                                         |
@@ -136,7 +136,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 02:58      | works, it's a beautiful thing.                                                                                |
 | 03:00      | Yeah.                                                                                                         |
 | 03:01      | I mean, that's how I started the show today, David.                                                           |
-| 03:04      | Keyboard Maestro opened Audio Hijack, waited for the right window to appear, and then clicked                 |
+| 03:04      | [[Keyboard Maestro]] opened Audio Hijack, waited for the right window to appear, and then clicked                 |
 | 03:08      | an image to find the right session, because there's no scripting support other than opening                   |
 | 03:12      | the application.                                                                                              |
 | 03:13      | So I had to click at the image that it found.                                                                 |
@@ -388,7 +388,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 15:26      | attached to the same code base, but in reality have very little to do with each other.                        |
 | 15:30      | So without actually looking at the details here, you know, I can't tell you if Siri                           |
 | 15:34      | suggestions really use the exact same stuff that the Siri, the voice assistant uses.                          |
-| 15:39      | But I can say that if I swipe down on Spotlight at the moment, the eight Siri suggestions                     |
+| 15:39      | But I can say that if I swipe down on [[Spotlight]] at the moment, the eight Siri suggestions                     |
 | 15:43      | that are there are bang on for this time of day.                                                              |
 | 15:46      | Exactly.                                                                                                      |
 | 15:47      | But there's also the thing, the Madness.                                                                      |
@@ -1060,7 +1060,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 52:16      | the beauty and the curse of automation, I feel.                                                               |
 | 52:20      | All right, before we start recording today, Merlin mentioned a word that we haven't talked                    |
 | 52:25      | about much on the automators, but I've wanted to cover this for some time.                                    |
-| 52:30      | Better touch tool.                                                                                            |
+| 52:30      | [[BetterTouchTool]].                                                                                            |
 | 52:31      | It sounds to me like you're using it a lot.                                                                   |
 | 52:33      | What are you doing with it?                                                                                   |
 | 52:34      | I'm not using it a lot, a lot.                                                                                |
@@ -1068,19 +1068,19 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 52:39      | And so what was I using it for?                                                                               |
 | 52:40      | Originally, I was, it was just so hamfisted on my Mac here at work on my iMac, I was using                    |
 | 52:46      | it to basically do F key things.                                                                              |
-| 52:48      | It was, I'm very, don't get me started, I'm very intrigued by Keyboard Maestro, but I'm                       |
-| 52:53      | terrified by Keyboard Maestro.                                                                                |
+| 52:48      | It was, I'm very, don't get me started, I'm very intrigued by [[Keyboard Maestro]], but I'm                       |
+| 52:53      | terrified by [[Keyboard Maestro]].                                                                                |
 | 52:55      | First because of its complexity, but even more because of that's exactly the kind of                          |
 | 53:00      | thing I could spend a month on.                                                                               |
 | 53:01      | And I don't want to do that.                                                                                  |
-| 53:03      | Better touch tool was like a fairly intuitive way to do things I wanted to like.                              |
-| 53:08      | So for example, here on my DOS keyboard, when I hit, you know, F13 that opens NV alts, 14                     |
-| 53:14      | opens Drafts, 15 opens Taskpaper, 12 enters my phone number, et cetera.                                      |
+| 53:03      | [[BetterTouchTool]] was like a fairly intuitive way to do things I wanted to like.                              |
+| 53:08      | So for example, here on my Das keyboard, when I hit, you know, F13 that opens NV alts, 14                     |
+| 53:14      | opens [[Drafts]], 15 opens Taskpaper, 12 enters my phone number, et cetera.                                      |
 | 53:20      | And I just wanted some really simple bonehead things like that.                                               |
 | 53:23      | When I ill-advisedly too early purchased the 2019 MacBook Pro, really wish I'd waited a                       |
 | 53:29      | little longer.                                                                                                |
 | 53:30      | Boy, that the touch bar, yeah.                                                                                |
-| 53:34      | And so I was, it's not great, but I was using BetterTouchTool on that on the laptop to                      |
+| 53:34      | And so I was, it's not great, but I was using [[BetterTouchTool]] on that on the laptop to                      |
 | 53:39      | do things that are very similar things like open Taskpaper, open this, open that.                            |
 | 53:42      | I know there's so much more that I can do with it, but that's the kind of basic stuff                         |
 | 53:46      | I've done.                                                                                                    |
@@ -1359,7 +1359,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:08:23   | The way he chose to do this is, I think, incredibly clever.                                                   |
 | 01:08:26   | So I don't know the order he did this in, but basically you have a text file,.txt,                            |
 | 01:08:30   | but it's called.bunch, and each line in that is a line that you put in that does a thing.                     |
-| 01:08:35   | So in the same way that I would introduce LaunchBar or Alfred by saying, hey, if you                          |
+| 01:08:35   | So in the same way that I would introduce [[LaunchBar]] or [[Alfred]] by saying, hey, if you                          |
 | 01:08:39   | type the first few letters of Microsoft Word, it knows you mean Microsoft Word, you hit                       |
 | 01:08:44   | enter and it opens.                                                                                           |
 | 01:08:45   | Right?                                                                                                        |
@@ -1488,11 +1488,11 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:14:48   | to me, all lives in those little text files that could fit on a thumb drive with room                         |
 | 01:14:52   | for apocalypse now, leftover.                                                                                 |
 | 01:14:54   | I have the same experience because I've been writing in Markdown for like 10 years and                        |
-| 01:14:59   | I did the same thing and Obsidian is basically a structure you can put on top of your Markdown                |
+| 01:14:59   | I did the same thing and [[Obsidian]] is basically a structure you can put on top of your Markdown                |
 | 01:15:04   | files, but there's still just your Markdown files.                                                            |
 | 01:15:08   | But I also know that you use [[Drafts]] a lot, don't you?                                                         |
 | 01:15:10   | I mean, I've seen you write and make reference to it.                                                         |
-| 01:15:13   | Oh, I love Drafts.                                                                                            |
+| 01:15:13   | Oh, I love [[Drafts]].                                                                                            |
 | 01:15:15   | [[Drafts]] is where text starts.                                                                                  |
 | 01:15:16   | I love that it's cross-platform.                                                                              |
 | 01:15:18   | The magic of the way that Greg has, I have no idea, Rose, I wonder if this blows your                         |
@@ -1502,7 +1502,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:15:37   | Mind-blowing to me, and not all of them do, but like a shocking amount of things in [[Drafts]]                   |
 | 01:15:41   | will just work and sync and do the thing on iOS and the Mac, which is mind-blowing to                         |
 | 01:15:47   | me.                                                                                                           |
-| 01:15:48   | But the only thing that keeps me from being all in on Drafts, this is so embarrassing.                        |
+| 01:15:48   | But the only thing that keeps me from being all in on [[Drafts]], this is so embarrassing.                        |
 | 01:15:55   | It's just I have to be candid.                                                                                |
 | 01:15:57   | I still use editorial on my phone.                                                                            |
 | 01:16:00   | Editorial's been dead forever, but you know what it is?                                                       |
@@ -1511,13 +1511,13 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:16:14   | It's incredibly limiting to have that be the gating factor, because [[Drafts]] will do all                        |
 | 01:16:20   | of that stuff, and [[Drafts]] has all that functionality.                                                         |
 | 01:16:22   | You just got to wire it up, but that's the one thing that keeps me from going all the                         |
-| 01:16:26   | way in on Drafts, is I still like having separate text files, A, that can be in places like                   |
+| 01:16:26   | way in on [[Drafts]], is I still like having separate text files, A, that can be in places like                   |
 | 01:16:32   | Dropbox, B, air go, that lets me have a Taskpaper document that I can use in those different                 |
-| 01:16:38   | places, and every couple of weeks I go back to seeing, can I do this all with Drafts?                         |
+| 01:16:38   | places, and every couple of weeks I go back to seeing, can I do this all with [[Drafts]]?                         |
 | 01:16:42   | I'm just not quite there yet.                                                                                 |
-| 01:16:43   | Tell me, talk me out of this, give me all in on Drafts, what do I have to do?                                 |
+| 01:16:43   | Tell me, talk me out of this, give me all in on [[Drafts]], what do I have to do?                                 |
 | 01:16:47   | It [[Drafts]] has Taskpaper formatting, and it will sync those things, and I have a workspace                    |
-| 01:16:54   | in Drafts.                                                                                                    |
+| 01:16:54   | in [[Drafts]].                                                                                                    |
 | 01:16:55   | I have one for my OmniFocus templates, actually, and when I switch to that, I set it up so                    |
 | 01:17:00   | that it switches my action groups, so that's the one on the right-hand side and the one                       |
 | 01:17:04   | above the keyboard.                                                                                           |
@@ -1547,7 +1547,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:18:03   | It won't do it on its own.                                                                                    |
 | 01:18:05   | Yeah.                                                                                                         |
 | 01:18:06   | That is most unfortunate.                                                                                     |
-| 01:18:08   | I mean, when you look at editorial and Drafts, I feel like [[Drafts]] really is the poster child                  |
+| 01:18:08   | I mean, when you look at editorial and [[Drafts]], I feel like [[Drafts]] really is the poster child                  |
 | 01:18:13   | for app subscriptions.                                                                                        |
 | 01:18:16   | You know, I think the reason editorial didn't continue to get development was there was                       |
 | 01:18:21   | no more- you couldn't afford to, you know?                                                                    |
@@ -1577,12 +1577,12 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:19:25   | this entire world view and his videos go by really fast, but at the heart of it, Hook                         |
 | 01:19:30   | is an app that lets you say to, what's the word, to, you hook a thing to another thing                        |
 | 01:19:38   | and it's bi-directional.                                                                                      |
-| 01:19:40   | So if I'm on a web page, I open this thing up, it's like LaunchBar, it's like Alfred.                         |
+| 01:19:40   | So if I'm on a web page, I open this thing up, it's like [[LaunchBar]], it's like [[Alfred]].                         |
 | 01:19:44   | Open this thing up and I want you to associate that with this Taskpaper file.                                |
 | 01:19:49   | So now, if I ever open that web page again, I'm a keystroke away from seeing all the things                   |
 | 01:19:53   | that it's attached to.                                                                                        |
 | 01:19:55   | And unlike Devon thinking stuff like that, very powerful, what I love about Hook or what                      |
-| 01:20:00   | is interesting to me about Hook, a lot of LaunchBar is that it exists outside of all                          |
+| 01:20:00   | is interesting to me about Hook, a lot of [[LaunchBar]] is that it exists outside of all                          |
 | 01:20:06   | those separate documents, all those separate web pages, small pieces loosely joined.                          |
 | 01:20:12   | There's nothing formal, there's not like a big dumb database where I have to put all                          |
 | 01:20:16   | these PDFs, you can just open up one file, drag a bunch of stuff into it and then guess                       |
@@ -1596,7 +1596,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:20:50   | is it allows you to create a URL link to a file that's not like DEVONthink will do                           |
 | 01:20:55   | it, but I mean, like generally just on your file system, you can create a link to a file.                     |
 | 01:21:00   | So you can have a link to the audio file or the outline for the podcast or like in my                         |
-| 01:21:05   | case, I use Hook in conjunction with Obsidian and Markdown files when I have a client matter                  |
+| 01:21:05   | case, I use Hook in conjunction with [[Obsidian]] and Markdown files when I have a client matter                  |
 | 01:21:12   | so I can get to the OmniFocus project, to the client folder, like everything is just                          |
 | 01:21:17   | connected.                                                                                                    |
 | 01:21:18   | So you're really, wow, that's amazing, you're doing that for your work you work.                              |
@@ -2023,7 +2023,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:43:57   | You're a wizard, Rose.                                                                                        |
 | 01:44:00   | Thank you.                                                                                                    |
 | 01:44:01   | Thank you.                                                                                                    |
-| 01:44:02   | As always, thanks to Merlin Man for coming in and sharing some wisdom with us.                                |
+| 01:44:02   | As always, thanks to Merlin Mann for coming in and sharing some wisdom with us.                                |
 | 01:44:07   | Thank you to our sponsors today, FastScripts, Smile Software Setup and the Intrazone by                         |
 | 01:44:12   | Microsoft SharePoint.                                                                                         |
 | 01:44:14   | We are the Automators, you can find us over at relay.fm/automators.                                     |

@@ -210,7 +210,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 09:32      | And number two, I was worried about if Apple shows up with shortcuts on the Mac, what,                                    |
 | 09:38      | you know, are they going to start lobbying hand grenades at their competition?                                            |
 | 09:43      | And like, are they going to disable AppleScript or are they going to make it so apps                                     |
-| 09:49      | like Keyboard Maestro can't work on a Mac?                                                                                |
+| 09:49      | like [[Keyboard Maestro]] can't work on a Mac?                                                                                |
 | 09:52      | And that's not the case.                                                                                                  |
 | 09:54      | I mean, I think my worries were ill founded in hindsight because just on the, you know,                                   |
 | 10:01      | zooming out on the 50,000 foot level, we've got shortcuts on the Mac, which brings over                                   |
@@ -220,7 +220,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 10:19      | They have not removed it.                                                                                                 |
 | 10:20      | Not only have they not removed it, they've added support for it in the new shortcuts,                                     |
 | 10:24      | which means Apple is kind of on board with that stuff.                                                                    |
-| 10:27      | And consequently, Keyboard Maestro, [[Hazel]], Shell scripting, AppleScripting, all that                                     |
+| 10:27      | And consequently, [[Keyboard Maestro]], [[Hazel]], Shell scripting, AppleScripting, all that                                     |
 | 10:34      | stuff is here, you know, for the long haul and people can go down that deep if they want                                  |
 | 10:40      | to stay at the shortcuts level and make nice little shortcuts and not worry about it.                                     |
 | 10:44      | Yeah.                                                                                                                     |
@@ -462,7 +462,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 25:25      | Yeah.                                                                                                                     |
 | 25:26      | And I think that's the trick, isn't it?                                                                                   |
 | 25:28      | You know, shortcuts is shortcuts.                                                                                         |
-| 25:30      | It's not Keyboard Maestro.                                                                                                |
+| 25:30      | It's not [[Keyboard Maestro]].                                                                                                |
 | 25:31      | It is not [[Hazel]].                                                                                                          |
 | 25:33      | It's none of the macOS applications that we are used to using right now for automation                                    |
 | 25:40      | purposes.                                                                                                                 |
@@ -527,7 +527,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 29:13      | in Dropbox, but on Apple's own iCloud service, you had to save it to a shortcut subfolder.                                |
 | 29:18      | So like I had this crazy system where I had these subfolders in the shortcut subfolder                                    |
 | 29:24      | in iCloud, and then I had [[Hazel]] on my Mac constantly watching them, like anything saved                                   |
-| 29:29      | a shortcut slash Obsidian copy to my Obsidian database, anything, and, you know, and I had                                |
+| 29:29      | a shortcut slash [[Obsidian]] copy to my [[Obsidian]] database, anything, and, you know, and I had                                |
 | 29:34      | all these weird rules that I had to like move files after I had created them via shortcuts                                |
 | 29:40      | because shortcuts wouldn't let me just put it where I wanted to, to begin with.                                           |
 | 29:44      | And that problem is now solved.                                                                                           |
@@ -541,9 +541,9 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 30:00      | So you can save files from shortcuts anywhere in iCloud drive and anywhere in Dropbox.                                    |
 | 30:07      | Dropbox was possible before, but now you've got anywhere in iCloud drive.                                                 |
 | 30:13      | Similarly, you can get files from anywhere in iCloud drive, which means if, for example,                                  |
-| 30:19      | you've been looking Obsidian going, yeah, I would really like obsidian, but you know,                                     |
+| 30:19      | you've been looking [[Obsidian]] going, yeah, I would really like [[Obsidian]], but you know,                                     |
 | 30:24      | I'm using the iCloud sync and that means it's not really automation friendly.                                             |
-| 30:27      | Well, with shortcuts, it now is.                                                                                          |
+| 30:27      | Well, with [[Shortcuts]], it now is.                                                                                          |
 | 30:30      | So you have a whole bunch more options, which I'm sure people are, you know, not sure exactly                             |
 | 30:37      | what that means yet.                                                                                                      |
 | 30:38      | In some cases, in other cases, people are there running around like headless chickens                                     |
@@ -1501,8 +1501,8 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:24:44   | stuff doesn't break.                                                                                                      |
 | 01:24:45   | I know previously, Greg Pierce, Mr. Agile Tortes, had to, this was when [[Drafts]] actions                                    |
 | 01:24:50   | were just built into shortcuts.                                                                                           |
-| 01:24:53   | He had to ping the guys on the shortcuts team and say, there's a new version of Drafts.                                   |
-| 01:25:00   | Can you change all the [[URL Schemes\|URL scheme]]s that you're using, please?                                                             |
+| 01:24:53   | He had to ping the guys on the shortcuts team and say, there's a new version of [[Drafts]].                                   |
+| 01:25:00   | Can you change all the [[URL Schemes]] that you're using, please?                                                             |
 | 01:25:03   | And then, of course, we got the actions, and that's all been sorted out since then, which                                 |
 | 01:25:07   | is great.                                                                                                                 |
 | 01:25:09   | I'm very pleased about that, but yeah, it's one of those things where there's a lot of                                    |

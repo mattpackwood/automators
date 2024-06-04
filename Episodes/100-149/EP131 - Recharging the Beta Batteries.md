@@ -405,7 +405,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 23:44      | the apps that I want, and then I'm hitting a button in [[Moom]] that does it, and I can                     |
 | 23:49      | open the apps also via automation.                                                                      |
 | 23:52      | I've been trying to figure out a way to do this with shortcuts only.                                    |
-| 23:55      | This would be a lot easier using Keyboard Maestro because it gives you more granular                    |
+| 23:55      | This would be a lot easier using [[Keyboard Maestro]] because it gives you more granular                    |
 | 23:59      | control, but the combination of open app plus that [[Moom]] AppleScript that you can embed in               |
 | 24:08      | a shortcut gives me a way to assemble setups the way I want them, and then they're just                 |
 | 24:14      | shown on the left side of the screen.                                                                   |
@@ -739,7 +739,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 45:27      | Yeah.                                                                                                   |
 | 45:28      | I want to work backwards on that for starting with what your comments on notes.                         |
 | 45:32      | I agree.                                                                                                |
-| 45:33      | People who like roam research and Obsidian even craft are not going to be looking at                    |
+| 45:33      | People who like roam research and [[Obsidian]] even [[Craft]] are not going to be looking at                    |
 | 45:38      | this as a replacement.                                                                                  |
 | 45:40      | It's not nearly as powerful, but the ability to create a link is really great.                          |
 | 45:45      | And they, they did it in a very simple way.                                                             |
@@ -914,7 +914,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 56:35      | in the years has been in the Apple platform, particularly on the Mac.                                   |
 | 56:39      | Like when it came on the Mac, there was a part of me that thought I would never really                  |
 | 56:43      | use it much because I am a power automator.                                                             |
-| 56:46      | I, I wrote a book on Keyboard Maestro.                                                                  |
+| 56:46      | I, I wrote a book on [[Keyboard Maestro]].                                                                  |
 | 56:49      | I know my way around AppleScript there.                                                                |
 | 56:52      | There's a lot of great options on the Mac.                                                              |
 | 56:53      | You know, what do I need this, you know, pedestrian themed shortcuts for?                               |

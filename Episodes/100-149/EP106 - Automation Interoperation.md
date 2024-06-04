@@ -73,7 +73,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 00:27      | where it seems like all of the tools are releasing updates        |
 | 00:31      | so they can work with all the other tools.                        |
 | 00:34      | And while we've spent a lot of time historically on the show      |
-| 00:37      | talking about, you know, Keyboard Maestro and shortcuts           |
+| 00:37      | talking about, you know, [[Keyboard Maestro]] and shortcuts           |
 | 00:40      | and [[Hazel]] and the like,                                           |
 | 00:42      | we haven't spent enough time talking about the interaction        |
 | 00:45      | between them, and all of that is happening now.                   |
@@ -167,7 +167,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 04:04      | but then when you look back in a couple of months                 |
 | 04:07      | and you're like, oh, right, well,                                 |
 | 04:08      | I actually have this thing where I always start by,               |
-| 04:11      | I don't know, doing this in Alfred.                               |
+| 04:11      | I don't know, doing this in [[Alfred]].                               |
 | 04:13      | And the end result is that I actually need a file                 |
 | 04:15      | to end up in this folder over here,                               |
 | 04:17      | so that it's available to that person,                            |
@@ -425,7 +425,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 14:36      | And you could do that logic                                       |
 | 14:38      | in a number of different applications.                            |
 | 14:39      | There is nothing stopping you.                                    |
-| 14:40      | Keyboard Maestro is an excellent one                              |
+| 14:40      | [[Keyboard Maestro]] is an excellent one                              |
 | 14:42      | for that sort of thing too.                                       |
 | 14:44      | But, you know, I think that sort of thing                         |
 | 14:47      | is probably easier to do in Shortcuts,                            |
@@ -627,14 +627,14 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 22:18      | I mean, I'm launching,                                            |
 | 22:20      | I'm not doing things as complex as you are,                       |
 | 22:22      | but I'm launching shortcuts almost exclusively                    |
-| 22:24      | through Alfred, which we're going to talk about                   |
-| 22:26      | in the after show, but I really like that Alfred,                 |
-| 22:30      | that Alfred plugin, and I just type SC space                      |
+| 22:24      | through [[Alfred]], which we're going to talk about                   |
+| 22:26      | in the after show, but I really like that [[Alfred]],                 |
+| 22:30      | that [[Alfred]] plugin, and I just type SC space                      |
 | 22:33      | and then I can search my shortcuts.                               |
 | 22:35      | I can pass variables to them.                                     |
 | 22:36      | There's a whole bunch of stuff you can do with them.              |
 | 22:38      | So, yeah, it's really.                                            |
-| 22:39      | Which Alfred plugin are you using for that?                       |
+| 22:39      | Which [[Alfred]] plugin are you using for that?                       |
 | 22:40      | There's a number of different ones.                               |
 | 22:42      | I'm using the one that they initially had on their website.       |
 | 22:47      | The, I don't know who made it.                                    |
@@ -645,15 +645,15 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 23:01      | like a text input to run, you just hit command enter              |
 | 23:04      | and then you type in the text after you type the name.            |
 | 23:06      | So let me back up, I went too fast.                               |
-| 23:08      | Okay, so you would hit command space for Alfred, then SC,         |
+| 23:08      | Okay, so you would hit command space for [[Alfred]], then SC,         |
 | 23:12      | and that shows you all your scripts,                              |
 | 23:14      | but maybe you've got a script that's gonna, you know,             |
 | 23:16      | do something to a number.                                         |
 | 23:18      | So you hit command enter instead of enter,                        |
-| 23:21      | and then it runs a script, but it asks in Alfred,                 |
+| 23:21      | and then it runs a script, but it asks in [[Alfred]],                 |
 | 23:24      | you know, what's your input?                                      |
 | 23:25      | So if I write the number 42 and then hit enter,                   |
-| 23:27      | it's gonna pass the 42 to Alfred                                  |
+| 23:27      | it's gonna pass the 42 to [[Alfred]]                                  |
 | 23:30      | and run the whole script for me.                                  |
 | 23:31      | And I just find it really handy.                                  |
 | 23:34      | And I've got that under my fingers now.                           |
@@ -664,7 +664,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 23:46      | And the one, the one that stuck with me                           |
 | 23:48      | is Stephen Millard's one from Thought Asylum.                     |
 | 23:50      | And I'll put a link to both the,                                  |
-| 23:52      | the one on the Alfred blog and Stephen's one in the show notes    |
+| 23:52      | the one on the [[Alfred]] blog and Stephen's one in the show notes    |
 | 23:55      | so that people can try both of them.                              |
 | 23:58      | I think I found Stephen's first and just started using it         |
 | 24:01      | because I was like, okay, this is, you know.                      |
@@ -710,17 +710,17 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 25:40      | Yeah, okay, so I'm going to set this aside,                       |
 | 25:41      | I'll come back to it, but I guess the point is,                   |
 | 25:44      | and this is true for all of the launchers,                        |
-| 25:45      | LaunchBar, Alfred, you know,                                      |
+| 25:45      | [[LaunchBar]], [[Alfred]], you know,                                      |
 | 25:48      | you know, all the common ones                                     |
 | 25:50      | that people are checking out right now,                           |
 | 25:53      | they've got great shortcuts implementation.                       |
-| 25:55      | Like for instance, with Raycast, it's just built-in.              |
+| 25:55      | Like for instance, with [[Raycast]], it's just built-in.              |
 | 26:00      | You don't even have to run a plugin,                              |
 | 26:02      | you just type the name of the shortcut                            |
-| 26:04      | with Spotlight after Ventura ships,                               |
+| 26:04      | with [[Spotlight]] after Ventura ships,                               |
 | 26:08      | it'll be the same way.                                            |
-| 26:10      | I actually kind of prefer the method of Alfred                    |
-| 26:15      | and LaunchBar where you run a plugin                              |
+| 26:10      | I actually kind of prefer the method of [[Alfred]]                    |
+| 26:15      | and [[LaunchBar]] where you run a plugin                              |
 | 26:17      | because then by having a qualifier,                               |
 | 26:19      | like in my current version, it's a type SC,                       |
 | 26:22      | then it just gives you a list of all your shortcuts,              |
@@ -744,14 +744,14 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 27:03      | and started searching and found it like within this timeframe.    |
 | 27:06      | So yeah, I'm, yeah, I wish it was slightly better.                |
 | 27:11      | And I prefer the fact that it's with a qualifier                  |
-| 27:13      | because it's like when I open Alfred                              |
+| 27:13      | because it's like when I open [[Alfred]]                              |
 | 27:15      | with command space and the type IMDB space,                       |
 | 27:17      | like I know I'm searching for a particular thing on IMDB,         |
 | 27:20      | I know that I'm running a shortcut.                               |
 | 27:22      | So, you know, I like having that just as an option.               |
 | 27:26      | Though I recently discovered, David,                              |
-| 27:28      | oh my gosh, I can't believe I missed this feature in Alfred.      |
-| 27:31      | You can enable your bookmarks to appear in Alfred.                |
+| 27:28      | oh my gosh, I can't believe I missed this feature in [[Alfred]].      |
+| 27:31      | You can enable your bookmarks to appear in [[Alfred]].                |
 | 27:33      | And I did not realise that.                                       |
 | 27:35      | And that's, you can either just have that show up,                |
 | 27:38      | like in the default results or via a specific keyword,            |
@@ -965,8 +965,8 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 35:38      | app. It's to set up your Mac                                      |
 | 35:40      | during work. And I have built                                     |
 | 35:42      | so many scripts into                                              |
-| 35:44      | Keyboard Maestro to do that already for me.                       |
-| 35:46      | And, you know, with Keyboard Maestro,                             |
+| 35:44      | [[Keyboard Maestro]] to do that already for me.                       |
+| 35:46      | And, you know, with [[Keyboard Maestro]],                             |
 | 35:48      | you can do just about anything.                                   |
 | 35:50      | But Bunch can too.                                                |
 | 35:52      | It can.                                                           |
@@ -997,7 +997,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 36:42      | is more                                                           |
 | 36:44      | it feels like it's kind of like                                   |
 | 36:46      | a lightweight alternative to doing                                |
-| 36:48      | this sort of thing in Keyboard Maestro,                           |
+| 36:48      | this sort of thing in [[Keyboard Maestro]],                           |
 | 36:50      | but that's underselling it because it really is                   |
 | 36:52      | powerful. It's incredibly powerful                                |
 | 36:54      | with all of the things                                            |
@@ -1012,8 +1012,8 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 37:12      | this Mac even though all of the things                            |
 | 37:14      | sync to all the Macs. And I think that's one                      |
 | 37:16      | of the problems that I occasionally run                           |
-| 37:18      | into with Keyboard Maestro,                                       |
-| 37:20      | is Keyboard Maestro                                               |
+| 37:18      | into with [[Keyboard Maestro]],                                       |
+| 37:20      | is [[Keyboard Maestro]]                                               |
 | 37:22      | is, like, disable this group on this                              |
 | 37:24      | Mac rather than                                                   |
 | 37:26      | enable this group on this Mac.                                    |
@@ -1029,7 +1029,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 37:46      | What's going on? And I'm like, you're not my                      |
 | 37:48      | work Mac. That's what's going on. So                              |
 | 37:50      | I actually have a sub Mac                                         |
-| 37:52      | inside of Keyboard Maestro to handle                              |
+| 37:52      | inside of [[Keyboard Maestro]] to handle                              |
 | 37:54      | that now where it's just say, this                                |
 | 37:56      | has, hey, are you this Mac? No,                                   |
 | 37:58      | quit. And I just, I have                                          |
@@ -1213,7 +1213,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 43:54      | been adding shortcuts actions.                                    |
 | 43:56      | It's not just all of our favourite animation                       |
 | 43:58      | tools.                                                            |
-| 44:00      | We're going to talk about Keyboard Maestro in a minute, but       |
+| 44:00      | We're going to talk about [[Keyboard Maestro]] in a minute, but       |
 | 44:02      | let's talk about some of the others that have                     |
 | 44:04      | suddenly shown up with shortcut support.                          |
 | 44:06      | Yeah, so one that                                                 |
@@ -1478,19 +1478,19 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 52:46      | smarter design guide                                              |
 | 52:48      | with fresh takes, creative ideas and smart                        |
 | 52:50      | solutions for dressing your windows.                              |
-| 52:52      | Once again that's hunterdouglas.com                               |
-| 52:54      |/automators for your                                         |
+| 52:52      | Once again that's hunterdouglas.com/automators                    |
+| 52:54      | for your                                         |
 | 52:56      | free design guide and our thanks to Hunter                        |
 | 52:58      | Douglas for their support of the Automators                       |
 | 53:00      | podcast and all of Relay FM.                                      |
 | 53:04      | So David we've been dancing around                                |
 | 53:06      | all episode.                                                      |
-| 53:08      | Keyword maestro. Keyword maestro                                  |
+| 53:08      | [[Keyboard Maestro]]. [[Keyboard Maestro]]                                  |
 | 53:10      | like everything else and like it always                           |
 | 53:12      | does has brought it's a game.                                     |
 | 53:14      | Jewel Way Shortcut Support.                                       |
-| 53:16      | Shortcut support inside of Keyword Maestro.                       |
-| 53:18      | Keyword Maestro support inside of Shortcuts.                      |
+| 53:16      | Shortcut support inside of [[Keyboard Maestro]].                       |
+| 53:18      | [[Keyboard Maestro]] support inside of Shortcuts.                      |
 | 53:20      | That's it. We're done right?                                      |
 | 53:22      | We can just walk out of here. Mic drop.                           |
 | 53:24      | Yeah well I mean what he did was                                  |
@@ -1498,17 +1498,17 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 53:28      | from both sides. So                                               |
 | 53:30      | keyboard when you open Shortcuts                                  |
 | 53:32      | and you look at the app list now there's a                         |
-| 53:34      | listening for Keyboard Maestro and                                |
+| 53:34      | listening for [[Keyboard Maestro]] and                                |
 | 53:36      | there are a bunch of actions in there                             |
-| 53:38      | where you can run Keyboard Maestro                                |
+| 53:38      | where you can run [[Keyboard Maestro]]                                |
 | 53:40      | scripts out                                                       |
 | 53:42      | of Shortcuts now.                                                 |
 | 53:44      | And you can pass information                                      |
 | 53:46      | to it. So you can actually turn it                                |
-| 53:48      | into basically a Keyboard Maestro variable                        |
+| 53:48      | into basically a [[Keyboard Maestro]] variable                        |
 | 53:50      | and                                                               |
 | 53:52      | the first half of this is okay I'm writing Shortcuts              |
-| 53:54      | but Keyboard Maestro does a couple things                         |
+| 53:54      | but [[Keyboard Maestro]] does a couple things                         |
 | 53:56      | that Shortcuts doesn't do very well                               |
 | 53:58      | actually does a lot of things                                     |
 | 54:00      | Shortcuts doesn't do very well                                    |
@@ -1516,7 +1516,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 54:04      | as I finish up running the Shortcuts                              |
 | 54:06      | but I just want to run an action                                  |
 | 54:08      | in Shortcuts that's going to open the Keyboard                    |
-| 54:10      | Maestro engine and run a Keyboard Maestro script                  |
+| 54:10      | Maestro engine and run a [[Keyboard Maestro]] script                  |
 | 54:12      | and you can do that now.                                          |
 | 54:14      | Yeah yeah and I have to say                                       |
 | 54:16      | I really like                                                     |
@@ -1559,7 +1559,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 55:30      | so the bunch that I have that starts                              |
 | 55:32      | my automators recording session                                   |
 | 55:34      | will run                                                          |
-| 55:36      | the Keyboard Maestro macro                                        |
+| 55:36      | the [[Keyboard Maestro]] macro                                        |
 | 55:38      | to say hey what's the episode number                              |
 | 55:40      | and I usually                                                     |
 | 55:42      | just click OK to confirm it because                               |
@@ -1810,7 +1810,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:03:52   | a way to do that yet but                                          |
 | 01:03:54   | it doesn't really matter because I can just                       |
 | 01:03:56   | avoid the problem entirely thanks to                              |
-| 01:03:58   | a Keyboard Maestro in this case                                   |
+| 01:03:58   | a [[Keyboard Maestro]] in this case                                   |
 | 01:04:00   | but it is just                                                    |
 | 01:04:02   | nice that there are options                                       |
 | 01:04:04   | to be able to do a                                                |
@@ -1824,12 +1824,12 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:04:20   | something run and it will just                                    |
 | 01:04:22   | span all of the automation                                        |
 | 01:04:24   | platforms because of course                                       |
-| 01:04:26   | Keyboard Maestro could put a file into a folder                   |
+| 01:04:26   | [[Keyboard Maestro]] could put a file into a folder                   |
 | 01:04:28   | that triggers hazel to run a thing it can also                    |
 | 01:04:30   | run an apple script or shell script                               |
 | 01:04:32   | and run shortcuts                                                 |
 | 01:04:34   | things and better touch                                           |
-| 01:04:36   | tool can run a Keyboard Maestro                                   |
+| 01:04:36   | tool can run a [[Keyboard Maestro]]                                   |
 | 01:04:38   | macro which will then do all of those things and                  |
 | 01:04:40   | so on and so forth you can build up                               |
 | 01:04:42   | you know a                                                        |
@@ -1860,7 +1860,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:05:32   | on the iPhone and now that Shortcuts is on                        |
 | 01:05:34   | the Mac you're like okay I'm gonna like                           |
 | 01:05:36   | really do that like I was thinking about                          |
-| 01:05:38   | Mike Hurley that that's his                                       |
+| 01:05:38   | [[Myke Hurley]] that that's his                                       |
 | 01:05:40   | that's his jam right he's really good at Shortcuts                |
 | 01:05:42   | he doesn't really want to learn all the other                     |
 | 01:05:44   | stuff on the Mac so he wants to kind of make Shortcuts            |
@@ -1881,7 +1881,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:06:14   | other other platforms                                             |
 | 01:06:16   | automation platforms on the Mac                                   |
 | 01:06:18   | and the inverse is true as well if you've been a long             |
-| 01:06:20   | time Keyboard Maestro automator                                   |
+| 01:06:20   | time [[Keyboard Maestro]] automator                                   |
 | 01:06:22   | but you know you haven't really gotten                            |
 | 01:06:24   | with Shortcuts well you know you can pick                         |
 | 01:06:26   | up just the bits of Shortcuts you need and                        |
@@ -1912,7 +1912,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:07:16   | is go hey I can't do                                              |
 | 01:07:18   | you know there there are no fantastic                             |
 | 01:07:20   | elections inside of                                               |
-| 01:07:22   | Keyboard Maestro and I don't like Apple                           |
+| 01:07:22   | [[Keyboard Maestro]] and I don't like Apple                           |
 | 01:07:24   | script so I'll just run a Shortcut that                           |
 | 01:07:26   | does the fantastic election                                       |
 | 01:07:28   | I say that without having checked the                             |
@@ -1939,7 +1939,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:08:10   | where is most of your Mac automation                              |
 | 01:08:12   | happening you know between all                                    |
 | 01:08:14   | of these tools I mean do you generally go                         |
-| 01:08:16   | to Keyboard Maestro first or                                      |
+| 01:08:16   | to [[Keyboard Maestro]] first or                                      |
 | 01:08:18   | shortcuts or you know where                                       |
 | 01:08:20   | where is your time spent                                          |
 | 01:08:22   | automating these days                                             |
@@ -1954,7 +1954,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:08:40   | be able to open a particular file                                 |
 | 01:08:42   | that's got a consistently changing name                           |
 | 01:08:44   | like it's always got today's date in it or something              |
-| 01:08:46   | Keyboard Maestro                                                  |
+| 01:08:46   | [[Keyboard Maestro]]                                                  |
 | 01:08:48   | and then you know                                                 |
 | 01:08:50   | if I want it to run on                                            |
 | 01:08:52   | the Mac and on iOS it's definitely                                |
@@ -1966,14 +1966,14 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:09:04   | if I'm manipulating files I usually                               |
 | 01:09:06   | but not always look at [[Hazel]] first                                |
 | 01:09:08   | but sometimes it's                                                |
-| 01:09:10   | Keyboard Maestro but it does                                      |
+| 01:09:10   | [[Keyboard Maestro]] but it does                                      |
 | 01:09:12   | very massively depending on what                                  |
 | 01:09:14   | the problem is that I want to solve and I feel                    |
 | 01:09:16   | so privileged that we have all of these                           |
 | 01:09:18   | options available to us because                                   |
 | 01:09:20   | you know go back a couple years ago                               |
 | 01:09:22   | and you had [[Hazel]]                                                 |
-| 01:09:24   | and you had Keyboard Maestro                                      |
+| 01:09:24   | and you had [[Keyboard Maestro]]                                      |
 | 01:09:26   | and you had AppleScript as kind of                               |
 | 01:09:28   | the bridge between them but it was a bit                          |
 | 01:09:30   | easier at times                                                   |
@@ -2017,7 +2017,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:10:46   | I have all these scripts I've written                             |
 | 01:10:48   | when I take on a new project for the                              |
 | 01:10:50   | MacSparky Labs well I wrote them                                 |
-| 01:10:52   | originally in Keyboard Maestro but now                            |
+| 01:10:52   | originally in [[Keyboard Maestro]] but now                            |
 | 01:10:54   | I've also written them in                                         |
 | 01:10:56   | shortcuts so if I'm on my                                         |
 | 01:10:58   | phone and I want to set up a new project                          |
@@ -2052,10 +2052,10 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:11:56   | experimentation and the mental capacity                           |
 | 01:11:58   | to learn you know a new automation method                         |
 | 01:12:00   | you know then maybe the time is                                   |
-| 01:12:02   | to switch from Keyboard Maestro to bunch                          |
+| 01:12:02   | to switch from [[Keyboard Maestro]] to bunch                          |
 | 01:12:04   | for your setup scripts because you know                           |
 | 01:12:06   | it's not like you're not going to use                             |
-| 01:12:08   | Keyboard Maestro anymore there's                                  |
+| 01:12:08   | [[Keyboard Maestro]] anymore there's                                  |
 | 01:12:10   | thousands of uses for that app                                    |
 | 01:12:12   | and you know you mentioned the                                    |
 | 01:12:14   | song cost fallacy earlier                                         |

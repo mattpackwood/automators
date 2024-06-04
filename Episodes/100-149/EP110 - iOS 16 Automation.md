@@ -515,7 +515,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 39:40      | of the features that you would normally have to do by tapping on the screen and giving you               |
 | 39:45      | shortcuts action so you can automate a bunch of this. And you know, then it's up to you to go            |
 | 39:49      | figure out how you're going to string this stuff together. Maybe you have maybe use Apple notes          |
-| 39:55      | as like a depository of information. It's your own personal version of Obsidian or craft. And            |
+| 39:55      | as like a depository of information. It's your own personal version of [[Obsidian]] or [[Craft]]. And            |
 | 40:02      | you go ahead and every time you get a new client, you give them a folder. Well,                          |
 | 40:05      | now you can create that folder in the same process of as part of a bigger shortcut. And                  |
 | 40:11      | I'm really excited about that, you know. Yeah, I mean, I'm just imagining like a whole new project       |
@@ -679,7 +679,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 54:44      | this is really good work from the Safari team. I'm really impressed. They've                             |
 | 54:47      | snuck in a couple of features that I hadn't realised were there. And you can also toggle                 |
 | 54:52      | like a read of you now in Safari, which is great. So yeah, I'm just, I'm loving it. It's so good.        |
-| 54:59      | And like browser setups and contexts are things I've historically done in Keyboard Maestro,              |
+| 54:59      | And like browser setups and contexts are things I've historically done in [[Keyboard Maestro]],              |
 | 55:04      | which tied me to the Mac. And now with these tools coming in, I can actually rewrite these               |
 | 55:09      | into shortcuts and use them on an iPad or a phone or Mac, you know, I can use them on any device         |
 | 55:14      | from Apple. And, you know, that's the kind of stuff I like. I like it to get my automation more          |

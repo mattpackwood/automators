@@ -343,7 +343,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 19:55      | it's because I've done this so many times, I've made so many different shortcut actions              |
 | 20:00      | that it's not really hard for me to do it, but it's just a matter of doing it, I think,              |
 | 20:09      | and just having that functionality available for anybody to use it.                                  |
-| 20:15      | That makes a lot of sense, and clearly, you've been listening to things like Cortex and so           |
+| 20:15      | That makes a lot of sense, and clearly, you've been listening to things like [[Cortex]] and so           |
 | 20:20      | on over time, because you have the basic things that you might want, like starting a timer           |
 | 20:26      | and stopping timers and things like that, but there's also things like updating time                 |
 | 20:31      | entries, starting live activities, because you may actually want this timer on your home             |
@@ -735,7 +735,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 55:53      | Some of the ways people do it is because you have a great Mac app, as you set up shortcuts to start  |
 | 56:01      | timers and maybe trigger focus modes, mine quite often do. And I just use the word track at the      |
 | 56:07      | beginning of it. So I'll say track automators. And I can trigger that with with them [[Hazel]] or,       |
-| 56:14      | you know, Raycast or any of these launchers that will run a shortcut. And then that's a great way    |
+| 56:14      | you know, [[Raycast]] or any of these launchers that will run a shortcut. And then that's a great way    |
 | 56:20      | to trigger the timer. But a power tip there is to enable the feature in Timery where it shows the    |
 | 56:27      | running timer in your menu bar. And that really helps you know that, okay, that hit. And this is     |
 | 56:33      | what I'm tracking right now. I have a similar thing. I have shortcuts for things like that,          |

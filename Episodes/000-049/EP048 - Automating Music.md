@@ -415,7 +415,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 20:17      | for music, then you usually just need to replace the word iTunes with music.                           |
 | 20:22      | And there's more information out there on Doug's site if you want to change something else.               |
 | 20:26      | So where are you bringing in automated music on your Mac?                                              |
-| 20:31      | I am primarily bringing in by having it connected to some Keyboard Maestro Stream Deck actions.        |
+| 20:31      | I am primarily bringing in by having it connected to some [[Keyboard Maestro]] Stream Deck actions.        |
 | 20:39      | So we recently talked about how I wasn't using the Stream Deck as much as I wanted to.                 |
 | 20:44      | But I've got it.                                                                                       |
 | 20:45      | I had it posted to me because I'm in the UK and my stuff is in Australia.                              |
@@ -430,31 +430,31 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 21:10      | So I'm, I'm enjoying that.                                                                             |
 | 21:12      | Yeah.                                                                                                  |
 | 21:13      | There's several ways to trigger music on your Mac.                                                     |
-| 21:15      | And if you use LaunchBar or Alfred, those are great apps that have great hooks into                    |
+| 21:15      | And if you use [[LaunchBar]] or [[Alfred]], those are great apps that have great hooks into                    |
 | 21:20      | your music library so you can, you know, kick off a music playlist with just a few clicks              |
 | 21:25      | of the keyboard.                                                                                       |
 | 21:26      | I do that.                                                                                             |
-| 21:27      | I'm using Alfred these days.                                                                           |
-| 21:28      | I keep jumping between them, but I've got the plugin in Alfred where I can kick off                    |
+| 21:27      | I'm using [[Alfred]] these days.                                                                           |
+| 21:28      | I keep jumping between them, but I've got the plugin in [[Alfred]] where I can kick off                    |
 | 21:32      | a playlist very quickly with a keyboard.                                                               |
 | 21:35      | But I think for true automation type stuff where I do this and that happens, I think                   |
-| 21:41      | there's no easier tool than, than a Keyboard Maestro.                                                  |
-| 21:45      | You can also do them via AppleScript, but Keyboard Maestro has already kind of got the                |
+| 21:41      | there's no easier tool than, than a [[Keyboard Maestro]].                                                  |
+| 21:45      | You can also do them via AppleScript, but [[Keyboard Maestro]] has already kind of got the                |
 | 21:50      | components in it to do it without having to fiddle around with AppleScript.                           |
 | 21:54      | So that's where I do it too.                                                                           |
 | 21:55      | Yeah.                                                                                                  |
 | 21:56      | Yeah.                                                                                                  |
-| 21:57      | I'm a really big fan of Keyboard Maestro.                                                              |
-| 21:59      | Just like you, I also have the Alfred plugin, but I found myself not really using it.                  |
-| 22:03      | The only other thing that I have tried, which is BetterTouchTool, you can, it can control            |
+| 21:57      | I'm a really big fan of [[Keyboard Maestro]].                                                              |
+| 21:59      | Just like you, I also have the [[Alfred]] plugin, but I found myself not really using it.                  |
+| 22:03      | The only other thing that I have tried, which is [[BetterTouchTool]], you can, it can control            |
 | 22:10      | the touch bar on a touch bar device.                                                                   |
 | 22:14      | One of the many things that it can do is it can put the, the information about the currently           |
 | 22:18      | playing track in there.                                                                                |
 | 22:20      | And I'm not going to say that's necessarily an automation is more of a, a fun hack slash               |
-| 22:24      | tool, um, but it's, it's great fun and BetterTouchTool is definitely an automation tool.             |
+| 22:24      | tool, um, but it's, it's great fun and [[BetterTouchTool]] is definitely an automation tool.             |
 | 22:29      | So you can, you can call yourself an automator, even if you only use it to do that.                    |
 | 22:32      | Yeah.                                                                                                  |
-| 22:33      | We just covered BetterTouchTool over on Mac power user yourself.                                     |
+| 22:33      | We just covered [[BetterTouchTool]] over on Mac power user yourself.                                     |
 | 22:36      | You're interested in that one.                                                                         |
 | 22:37      | There's a whole episode on it over there.                                                              |
 | 22:38      | And we'll put a link to that in the show notes as well.                                                |
@@ -910,7 +910,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 50:13      | know that the person, the artist is a singer, then of course it's easy to exclude.                     |
 | 50:17      | So I've been working on just excluding those from a smart playlist and because I'm listening           |
 | 50:21      | to this on my Mac, it's very simple.                                                                   |
-| 50:23      | I've actually been using Alfred to simply change the rating from five stars to four                    |
+| 50:23      | I've actually been using [[Alfred]] to simply change the rating from five stars to four                    |
 | 50:27      | stars.                                                                                                 |
 | 50:28      | Now, this is the one place where I am using a five and a four star rating.                             |
 | 50:30      | If I don't like the piece of music, I will just delete it.                                             |
@@ -933,7 +933,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 51:28      | Why not incorporate that into different things you do and give it a try?                               |
 | 51:32      | Yeah.                                                                                                  |
 | 51:33      | And I highly recommend that.                                                                           |
-| 51:34      | And if you've got Keyboard Maestro macros that you use to set up things on your Mac for                |
+| 51:34      | And if you've got [[Keyboard Maestro]] macros that you use to set up things on your Mac for                |
 | 51:38      | different parts of your day, then I would highly recommend putting some music playback                 |
 | 51:41      | in there as well because that's just a game changer.                                                   |
 | 51:45      | You can even do it with setups like I talk about setups that I do on my Mac or set up                  |

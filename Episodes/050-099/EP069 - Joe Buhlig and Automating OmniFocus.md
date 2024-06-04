@@ -173,7 +173,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 08:01      | teeth on scripting in general, I think, because then I started diving into some of the someday         |
 | 08:07      | maybe list auto parsing type processes like what Rose was referring to earlier. But then that also     |
 | 08:14      | helped me dive into more of like the TextExpander scripting and stuff I've done. I've done quite a    |
-| 08:19      | bit with like Alfred as well. So it's kind of helped me dive into some of these other places.          |
+| 08:19      | bit with like [[Alfred]] as well. So it's kind of helped me dive into some of these other places.          |
 | 08:26      | But I think for me, as far as like scripting things and automating things like on my Mac               |
 | 08:30      | specifically, that has been primarily in OmniFocus, which, you know, of course is what our topic is    |
 | 08:38      | here today. But that's, I think that's where the bulk of my beginnings were with that. I mean,         |
@@ -400,7 +400,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 29:38      | as possible. So I'm going to do some work upfront on that. Sure. I have a question for both of you,    |
 | 29:43      | because this is one of the things I've been wrestling with, because on the one hand, I love            |
 | 29:46      | to have, you know, my templates 100% in OmniFocus. How are you handling relative due or defer dates    |
-| 29:54      | with those scripts? Because that's one of the things I love about having my templates in Drafts,       |
+| 29:54      | with those scripts? Because that's one of the things I love about having my templates in [[Drafts]],       |
 | 29:59      | because then I can have a variable for my due date and have minus three days or whatever,              |
 | 30:04      | you know, next to it. And then that gets parsed when it gets pasted into OmniFocus.                    |
 | 30:09      | But that's something I've yet to figure out how to handle in OmniFocus itself.                         |
@@ -408,7 +408,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 30:22      | the one I have works, and I can share this with you, is I have a folder, I have a directory on         |
 | 30:29      | my computer that has a bunch of text files with Taskpaper formatted templates. And I tend to highly   |
 | 30:36      | recommend that because generally that text file is easily transportable to other systems. So I         |
-| 30:42      | don't have to keep it in Drafts. I don't have to keep like these system like template projects in      |
+| 30:42      | don't have to keep it in [[Drafts]]. I don't have to keep like these system like template projects in      |
 | 30:47      | OmniFocus. It can be outside of that. So it doesn't clutter up my project list. So I have a folder     |
 | 30:53      | for OmniFocus templates that are just Taskpaper formatted lists. And I do have those placeholders     |
 | 31:01      | in that system. And then the script in OmniFocus, whenever I hit the button for it, which I have       |
@@ -419,7 +419,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 31:30      | all of that after that date. So that way you can get all the relative pieces to that.                  |
 | 31:36      | That makes a lot of sense. And I love that idea. And I'll probably go with that. Because I mean,       |
 | 31:43      | one of the reasons why I have all of them in [[Drafts]] at the moment is because I have my scripts in      |
-| 31:47      | Drafts, of course, to pick out the placeholders and import them. But I can easily export all of        |
+| 31:47      | [[Drafts]], of course, to pick out the placeholders and import them. But I can easily export all of        |
 | 31:53      | my templates to a single folder. Yeah. Yeah. Now I want to point out I do cheat a little bit with      |
 | 32:00      | this because I'm so lazy that I didn't want to go to the menu to hit the button. And I didn't          |
 | 32:05      | want to clutter up my toolbar with it. So this, this gets in the weeds a little bit, but there is      |
@@ -437,7 +437,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 33:16      | I want it to be, you know, saved in a file that I can then open and [[BBEdit]] or text edit or       |
 | 33:22      | Textastic or whatever. I tend to use Textastic on iOS and a [[BBEdit]] on my Mac to edit my Omni group     |
 | 33:31      | or OmniFocus scripts. Yeah. Another way you could do that, at least on the Mac is you could run it     |
-| 33:36      | through a palette in Keyboard Maestro because you could trigger URLs the same way. In fact,            |
+| 33:36      | through a palette in [[Keyboard Maestro]] because you could trigger URLs the same way. In fact,            |
 | 33:43      | that may be the way you're using it with your Stream Deck. I don't know. But I can think of a          |
 | 33:48      | couple ways to do that. I think it'd be more complicated to pull that off on iPhone and iPad.          |
 | 33:53      | I'd have to stop and think about it. And now you have me worried because I'm just early in my          |
@@ -542,7 +542,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 43:26      | on my iPhone and my iPad as well as my Mac, because previously I was running all sorts of              |
 | 43:32      | hacks and tricks to try and get stuff to run automatically on my Mac when things happen.               |
 | 43:36      | So Zapier would send something off to OmniFocus usually via email. And then I had it run a             |
-| 43:44      | Keyboard Maestro macro to sync OmniFocus on my Mac. So it would ping the Keyboard Maestro URL,         |
+| 43:44      | [[Keyboard Maestro]] macro to sync OmniFocus on my Mac. So it would ping the [[Keyboard Maestro]] URL,         |
 | 43:52      | which would then run the AppleScript in OmniFocus to tell OmniFocus to sync.                          |
 | 43:57      | And then it would sleep for five minutes. And then it would ping another keyboard                      |
 | 44:00      | maestro macro URL that would say, hey, the sync's finished. Now run the past the inbox task script,    |
@@ -687,8 +687,8 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 56:57      | bunch of projects in OmniFocus for someday maybe lists. And I was lazy. And I wanted to be able to     |
 | 57:07      | put things into those individual lists without having to manually type in what project it goes         |
 | 57:14      | to once it was in the OmniFocus inbox. And the way that I was putting things into                      |
-| 57:20      | the OmniFocus inbox was via Drafts, because [[Drafts]] is phenomenal and everybody in the world should     |
-| 57:25      | be using it. And I wanted a way to pre format the task title in Drafts, send it to the inbox,          |
+| 57:20      | the OmniFocus inbox was via [[Drafts]], because [[Drafts]] is phenomenal and everybody in the world should     |
+| 57:25      | be using it. And I wanted a way to pre format the task title in [[Drafts]], send it to the inbox,          |
 | 57:37      | and let OmniFocus automatically put it where it belongs. And my head, that was pretty simple.          |
 | 57:43      | But I couldn't find any way to do that. So I did some digging, and I thought, I'll create some form    |
 | 57:50      | of a syntax. You know, this is a thing I think [[Todoist]] was doing this for a while, maybe they          |
@@ -705,7 +705,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 59:02      | task. And then that meant that the database modified date would change. So then [[Hazel]] would run the    |
 | 59:07      | rule, which would run the AppleScript, which then parsed the inbox item, and then my someday          |
 | 59:14      | maybes would show up where they were supposed to be without me having to do anything other than        |
-| 59:20      | create the someday maybe list in Drafts, action it off with the correct someday maybe list,            |
+| 59:20      | create the someday maybe list in [[Drafts]], action it off with the correct someday maybe list,            |
 | 59:26      | and it just magically showed up where it was supposed to be in OmniFocus with all the correct          |
 | 59:31      | contexts, projects, all the things. Absolutely loved that. And I think that has been something         |
 | 59:38      | a lot of people have used based on the replies and the shares and stuff I see via Twitter and          |
@@ -767,9 +767,9 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:05:06   | with JIRA tasks and such, like they'll use it in that form to automatically get things into            |
 | 01:05:12   | their OmniFocus database and put where they belong. So I mean, sky's limit, right? There's tons of     |
 | 01:05:17   | ways that you can use that thing. Yeah, I don't use this script, but I was just thinking if you        |
-| 01:05:22   | wanted to automatically trigger it, and you had Keyboard Maestro, I don't see why you couldn't         |
-| 01:05:26   | set a time trigger and Keyboard Maestro to run the menu command. Yeah, that's actually what I          |
-| 01:05:31   | have running now. I just have a time trigger in Keyboard Maestro, and I think it's running just        |
+| 01:05:22   | wanted to automatically trigger it, and you had [[Keyboard Maestro]], I don't see why you couldn't         |
+| 01:05:26   | set a time trigger and [[Keyboard Maestro]] to run the menu command. Yeah, that's actually what I          |
+| 01:05:31   | have running now. I just have a time trigger in [[Keyboard Maestro]], and I think it's running just        |
 | 01:05:36   | every hour or so. And then if I go through and I'm planning another shopping spree in IKEA,            |
 | 01:05:43   | I moved in about six months ago, so it's about time to start figuring out what things aren't           |
 | 01:05:48   | working and go shopping again, at least doing a cook and collect. So I've been adding a lot of         |
@@ -813,7 +813,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:09:09   | but if I recall correctly, I think you can do that hashtag date and then do a second hashtag           |
 | 01:09:15   | and leave it blank, I think that gets you there, but I'm not certain I'd have to test it.              |
 | 01:09:21   | Yeah, I don't use the script, so it's not that big of a deal for me, but it is impressive.             |
-| 01:09:28   | I guess I really should start thinking about using it, because I add a lot of tasks via Drafts,        |
+| 01:09:28   | I guess I really should start thinking about using it, because I add a lot of tasks via [[Drafts]],        |
 | 01:09:33   | but usually it's like kind of a watch thing, you know, it's like I just yell at my wrist for a         |
 | 01:09:38   | minute and then it gets moved to OmniFocus later.                                                      |
 | 01:09:42   | Sure.                                                                                                  |

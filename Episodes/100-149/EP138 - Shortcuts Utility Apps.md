@@ -48,12 +48,12 @@ Rose and David cover some of their favourite Apps that add additional features t
 - [Jayson](https://jayson.app/)
 - [Scriptable](https://scriptable.app/)
 - [Charty – Create charts from Shortcuts](https://chartyios.app/)
-- [Better Touch Tool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/)
+- [BetterTouchTool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/)
 - [Opener](https://www.opener.link/)
 - [Secure ShellFish – SSH Client for iOS](https://secureshellfish.app/)
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [HTTPBot - REST Client for iOS, iPadOS & macOS](https://www.httpbot.io/)
-- [Drafts | Where Text Starts](https://getdrafts.com/)
+- [[[Drafts]] | Where Text Starts](https://getdrafts.com/)
 - [Shortery on the Mac App Store](https://apps.apple.com/gb/app/shortery/id1594183810?mt=12)
 - [ShareBot for Shortcuts on the Mac App Store](https://apps.apple.com/gb/app/sharebot-for-shortcuts/id1597340986?mt=12)
 - [MenuBot: Custom Menu Bar on the Mac App Store](https://apps.apple.com/gb/app/menubot-custom-menu-bar/id6444080295?mt=12)
@@ -61,7 +61,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 - [HomeBot for Shortcuts on the App Store](https://apps.apple.com/gb/app/homebot-for-shortcuts/id1553547811)
 - [Yoink for Mac, iPad and iPhone - Simplified and Improved Drag and Drop](https://www.Yoink.app/)
 - [Keyboard Maestro 10.2: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/)
-- [Mail Assistant | Drafts User Guide](https://docs.getdrafts.com/misc/mail-assistant)
+- [Mail Assistant | [[Drafts]] User Guide](https://docs.getdrafts.com/misc/mail-assistant)
 
 # Transcription
   
@@ -108,7 +108,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 02:21      | that help you out and today what we thought we'd do is just kind of survey them, talk                |
 | 02:25      | about some of the high points.                                                                       |
 | 02:28      | The list just keeps growing as I was talking here, I got thinking, well, we've got to add            |
-| 02:32      | [[Better Touch Tool\|Better Touch Tool's]] as well because even though it's actually a third-party app, it is its            |
+| 02:32      | [[BetterTouchTool\|BetterTouchTool's]] as well because even though it's actually a third-party app, it is its            |
 | 02:37      | own form of additional features.                                                                     |
 | 02:40      | So we've got so many here, gang.                                                                     |
 | 02:43      | We're going to try and get through as many as we can and talk about them but take notes,             |
@@ -343,64 +343,64 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 17:08      | Don't forget to use the automated link so you can get an extra three months free.                    |
 | 17:13      | That's EXP-R-E-S-S-V-P-N-dot-com-slash-/automators ExpressVPN.com-slash-/automators to learn more.       |
 | 17:23      | Our thanks to ExpressVPN for their support of the show and Relay FM.                                |
-| 17:28      | Alex had another project called Nautomate, and I like it because Notion is a thing for               |
+| 17:28      | Alex had another project called Nautomate, and I like it because [[Notion]] is a thing for               |
 | 17:34      | a lot of people out there.                                                                           |
-| 17:35      | If you use Notion, wouldn't it be nice if you could, Shortcuts Automation, but it's                  |
+| 17:35      | If you use [[Notion]], wouldn't it be nice if you could, Shortcuts Automation, but it's                  |
 | 17:40      | a web service and it's not really what you would historically think of something you                 |
 | 17:45      | would connect to Shortcuts.                                                                          |
-| 17:46      | So Alex made a series of Shortcuts to address Notion that's another one that you are currently       |
+| 17:46      | So Alex made a series of Shortcuts to address [[Notion]] that's another one that you are currently       |
 | 17:53      | working on, but it's also totally worth mentioning.                                                  |
-| 17:58      | As I'm moving my team into Notion, I'm finding that I'm starting to dig into Nautomate, too.         |
+| 17:58      | As I'm moving my team into [[Notion]], I'm finding that I'm starting to dig into Nautomate, too.         |
 | 18:04      | Tell us how it works and what it is.                                                                 |
 | 18:06      | Well, I'm just going to start with a little bit of background.                                       |
 | 18:10      | I just double-checked just now, and I'll grant that you have the new iPhone 15 Pro Max, and          |
-| 18:15      | I only got it a couple of days before recording this, but I've just opened up the Notion action      |
+| 18:15      | I only got it a couple of days before recording this, but I've just opened up the [[Notion]] action      |
 | 18:19      | section in Shortcuts, and it's got this great message from me, David.                                |
-| 18:23      | No actions to show, because Notion themselves have not supported Shortcuts actions, but              |
-| 18:30      | Notion does have an API, and so what Nautomate does when you launch the app and you go into          |
+| 18:23      | No actions to show, because [[Notion]] themselves have not supported Shortcuts actions, but              |
+| 18:30      | [[Notion]] does have an API, and so what Nautomate does when you launch the app and you go into          |
 | 18:38      | the settings, you tap on integrations, and then you add an integration, and it walks                 |
 | 18:42      | you through setting it up.                                                                           |
-| 18:44      | So you need to get an API key from Notion, and then save your integration.                           |
+| 18:44      | So you need to get an API key from [[Notion]], and then save your integration.                           |
 | 18:51      | And then at that point, you get a whole bunch of Shortcuts actions in Shortcuts from Nautomate,      |
 | 18:57      | and they're also listed in the action section inside the Nautomate app.                              |
 | 19:01      | But if you're looking for, okay, what can I do with this, then there's also a Shortcuts              |
 | 19:06      | section, which gives you some little, you know, there's tutorials, there's some various              |
-| 19:11      | examples like an inventory scanner or getting a Notion ID, but it'll walk you through doing          |
+| 19:11      | examples like an inventory scanner or getting a [[Notion]] ID, but it'll walk you through doing          |
 | 19:15      | things like creating a database, creating a page, working with smart blocks to add a                 |
-| 19:21      | rich text page to Notion and stuff.                                                                  |
+| 19:21      | rich text page to [[Notion]] and stuff.                                                                  |
 | 19:23      | So yeah, with Nautomate, the idea is that pretty much anything that you could do with                |
-| 19:29      | Notion via the API should be available inside of Nautomate.                                          |
+| 19:29      | [[Notion]] via the API should be available inside of Nautomate.                                          |
 | 19:36      | And yeah, so it'll get you your databases, get you details of your databases, it'll get              |
 | 19:40      | IDs from URL, give you options from various selects that you set up, because the whole               |
-| 19:45      | thing with Notion is it's a personal wiki, but it's not a database in the sense of just              |
+| 19:45      | thing with [[Notion]] is it's a personal wiki, but it's not a database in the sense of just              |
 | 19:52      | rows and columns, it's also like every record is a page, it can have sub pages and it can            |
 | 19:58      | have things that are related to it and images embedded in it and so on.                              |
 | 20:01      | So it's not just text, it's way more than text.                                                      |
 | 20:05      | So yeah, it's really cool that that's the thing, and I've been working on moving some                |
-| 20:09      | of my stuff into Notion as well, because I'm a diehard Airtable lover, you can pry Airtable          |
+| 20:09      | of my stuff into [[Notion]] as well, because I'm a diehard Airtable lover, you can pry Airtable          |
 | 20:15      | out of my cold dead hands, but especially working on Nautomate, I'm having to get more               |
-| 20:22      | familiar with Notion, so I'm moving some stuff in there and I have to say, I'm liking it             |
+| 20:22      | familiar with [[Notion]], so I'm moving some stuff in there and I have to say, I'm liking it             |
 | 20:27      | for the things that I'm moving in there.                                                             |
 | 20:29      | I'm being very careful about what I move over and I'm trying to only move over the things            |
 | 20:32      | that I think will benefit, but so far it seems to be working out pretty well for me.                 |
 | 20:38      | Yeah, so what I'm doing with it is, I have a small team and we are decided to put some               |
 | 20:44      | of the pending projects team-wise into it, but now I still have my personal tools, you               |
-| 20:50      | know, OmniFocus, Obsidian, yada yada, and I can automate all of those with shortcuts,                |
-| 20:55      | but what I wanted to do was create a record in Notion when I set up a project for myself             |
+| 20:50      | know, OmniFocus, [[Obsidian]], yada yada, and I can automate all of those with shortcuts,                |
+| 20:55      | but what I wanted to do was create a record in [[Notion]] when I set up a project for myself             |
 | 21:01      | on my local Mac, and that's something that I probably could have done with web calls                 |
 | 21:06      | and I could have hacked it together, but it's so much easier with Nautomate, you know, and           |
 | 21:12      | then once you create the handshake with Nautomate, there's really a lot you can do.                  |
 | 21:18      | I mean, again, you can generate UUID, you can create a database, you can add a block,                |
 | 21:22      | but I'm using it in the most basic way.                                                              |
 | 21:24      | I just want to add a record to an existing database and that kind of stuff is easy peasy             |
-| 21:31      | for this thing, and if you are interested in shortcuts and use Notion, look no further.              |
+| 21:31      | for this thing, and if you are interested in shortcuts and use [[Notion]], look no further.              |
 | 21:36      | I mean, it's an entire app dedicated to it.                                                          |
-| 21:39      | There's a related one, too, like if you are a big-time Obsidian user, there's an app called          |
-| 21:48      | Actions for Obsidian, which is kind of the same thing.                                               |
-| 21:51      | I mean, Obsidian is, you know, it's not a native Mac app or iPhone, it's an Electron                 |
+| 21:39      | There's a related one, too, like if you are a big-time [[Obsidian]] user, there's an app called          |
+| 21:48      | Actions for [[Obsidian]], which is kind of the same thing.                                               |
+| 21:51      | I mean, [[Obsidian]] is, you know, it's not a native Mac app or iPhone, it's an Electron                 |
 | 21:57      | app, so it doesn't necessarily have a lot of tie-ins to shortcuts, but this developer                |
 | 22:03      | whose name escapes me, there we go, Carlo Zottman, just made 40 actions that are shortcuts actions    |
-| 22:10      | that address your Obsidian database.                                                                 |
+| 22:10      | that address your [[Obsidian]] database.                                                                 |
 | 22:13      | Very clever and just great idea, and I was on the bait on this one as he was developing              |
 | 22:18      | it and just kept getting better with every release, and this is another example like                 |
 | 22:22      | Nautomate where you're using an app that historically you would think, well, there's no shortcut     |
@@ -409,19 +409,19 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 22:33      | All you have to do is download and pay a few bucks for their app and you're off to the               |
 | 22:36      | races.                                                                                               |
 | 22:37      | Yeah, and honestly, that's just one of those great things about these apps where, yes,               |
-| 22:45      | you can figure out how to use Obsidian's [[URL Schemes\|URL scheme]] or how to sync Obsidian with Dropbox             |
+| 22:45      | you can figure out how to use Obsidian's [[URL Schemes\|URL scheme]] or how to sync [[Obsidian]] with Dropbox             |
 | 22:52      | and then put stuff in there via that, but then you lose some of the niceties that you                |
-| 22:57      | get from Obsidian Sync, or you do what I did for a while, which is set up a double sync,             |
-| 23:01      | so syncing via Obsidian Sync and then one computer is also syncing it to Dropbox so                  |
+| 22:57      | get from [[Obsidian]] Sync, or you do what I did for a while, which is set up a double sync,             |
+| 23:01      | so syncing via [[Obsidian]] Sync and then one computer is also syncing it to Dropbox so                  |
 | 23:04      | that you get the double, but then it just opens up possibilities for something to go                 |
-| 23:10      | wrong, and my problem with [[URL Schemes\|URL scheme]]s is I always think that I remember what they are.              |
+| 23:10      | wrong, and my problem with [[URL Schemes]] is I always think that I remember what they are.              |
 | 23:16      | I really, really, really need to learn that my memory is not perfect because every single            |
 | 23:20      | time I'm convinced that I know what the [[URL Schemes\|URL scheme]] is, I'll type everything in and click             |
 | 23:24      | it or run it, and then something goes wrong somewhere, and so I really should just copy              |
-| 23:30      | paste or, in the case of Obsidian, yeah, I'm also using Actions for Obsidian.                        |
+| 23:30      | paste or, in the case of [[Obsidian]], yeah, I'm also using Actions for Obsidian.                        |
 | 23:34      | I've given it a good try over the last couple of weeks, and I have to say I'm really liking          |
 | 23:37      | it.                                                                                                  |
-| 23:38      | Well, and I'm just the opposite of you when it comes to [[URL Schemes\|URL scheme]]s.                                 |
+| 23:38      | Well, and I'm just the opposite of you when it comes to [[URL Schemes]].                                 |
 | 23:41      | I have to relearn them every time I implement them because I don't do them frequently.               |
 | 23:44      | Well, I also have to relearn them.                                                                   |
 | 23:46      | The problem is, is I don't think that I have to relearn them, and that really is the problem.        |
@@ -652,7 +652,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 38:55      | And this is happening across the apps, especially since folks have been learning that we've          |
 | 38:58      | taken over Alex Hayes apps, we had a whole flood of requests of, hey, can you have support           |
 | 39:03      | for this?                                                                                            |
-| 39:04      | Oh, I found this cool thing in Notion.                                                               |
+| 39:04      | Oh, I found this cool thing in [[Notion]].                                                               |
 | 39:06      | Can you add a way to do that?                                                                        |
 | 39:08      | And so on.                                                                                           |
 | 39:09      | And it's taking a while to go through these things, because we don't want to just say,               |
@@ -871,7 +871,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 52:29      | So another app that I want to mention, David, just because it's an app that's been around            |
 | 52:36      | for a little while now, and it was written by some friends of mine, actually, Elsewhen.             |
 | 52:43      | So if anybody has ever seen a tweet, as he used to post, and any social media post by                |
-| 52:52      | Mike Hurley, who's advertising his Friday keyboard club, you might have noticed that                 |
+| 52:52      | [[Myke Hurley]], who's advertising his Friday keyboard club, you might have noticed that                 |
 | 52:56      | what he does, he posts flags and then times next to them.                                            |
 | 53:02      | And this is the time that he's going to be doing a live stream.                                      |
 | 53:05      | And this is something that lots of folks who post live streams do, you know, like they               |
@@ -960,11 +960,11 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 57:50      | So any kind of automation you want to hack together on your Mac with shortcuts.                      |
 | 57:55      | So often, [[BetterTouchTool]] is the secret sauce to get you over the finish line.                     |
 | 58:01      | Yeah.                                                                                                |
-| 58:02      | And just like Keyboard Maestro, it's got some of the same actions that Keyboard Maestro              |
+| 58:02      | And just like [[Keyboard Maestro]], it's got some of the same actions that [[Keyboard Maestro]]              |
 | 58:06      | has.                                                                                                 |
-| 58:07      | But in Keyboard Maestro, you'll need to put them into like a whole macro to use them.                |
+| 58:07      | But in [[Keyboard Maestro]], you'll need to put them into like a whole macro to use them.                |
 | 58:11      | Because like finding an image on the screen or clicking at it, like, that's something                |
-| 58:15      | that you'll do like inside of Keyboard Maestro.                                                      |
+| 58:15      | that you'll do like inside of [[Keyboard Maestro]].                                                      |
 | 58:18      | But you can find an image on your screen using [[BetterTouchTool]] and then use like that output       |
 | 58:26      | and optionally move your mouse to it and things like that just inside of a shortcut.                 |
 | 58:30      | So if you don't need, you know, everything else around it, then you can use that.                    |
@@ -1124,15 +1124,15 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:07:20   | screenshot.                                                                                          |
 | 01:07:21   | I'm like, yes, this is data I would like on occasion.                                                |
 | 01:07:23   | I'm buying this one or downloading it out.                                                           |
-| 01:07:27   | Going back to something a little more in the norm, Drafts.                                           |
-| 01:07:32   | We can't do a show like this without mentioning Drafts.                                              |
+| 01:07:27   | Going back to something a little more in the norm, [[Drafts]].                                           |
+| 01:07:32   | We can't do a show like this without mentioning [[Drafts]].                                              |
 | 01:07:35   | [[Drafts]] has its own shortcuts actions, which is great, but it also does so much more than             |
 | 01:07:40   | that with shortcuts.                                                                                 |
 | 01:07:42   | Yeah.                                                                                                |
 | 01:07:43   | I mean, one of those things that I do just end up using [[Drafts]] for is, obviously, I add              |
-| 01:07:49   | stuff to Drafts.                                                                                     |
+| 01:07:49   | stuff to [[Drafts]].                                                                                     |
 | 01:07:50   | That's one of the things that I probably do the most with shortcuts by far.                          |
-| 01:07:56   | But something else that you can do with Drafts, like there are so many things that you can           |
+| 01:07:56   | But something else that you can do with [[Drafts]], like there are so many things that you can           |
 | 01:08:00   | do with [[Drafts]] where it doesn't even need to use the [[Drafts]] app.                                     |
 | 01:08:06   | For example, there's utilities like Markdown, HTML, and HTML to Markdown.                            |
 | 01:08:11   | You might think, huh, don't those kind of exist in shortcuts?                                        |
@@ -1255,7 +1255,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:15:42   | make Teams work for me, which I really appreciate.                                                   |
 | 01:15:45   | And then work switch to Slack, and now we switch back to Teams, so it works again.                   |
 | 01:15:50   | So yeah, I highly recommend it.                                                                      |
-| 01:15:52   | HomeBot will let you like create [[URL Schemes\|URL scheme]]s for HomeKit stuff, so you can use it from               |
+| 01:15:52   | HomeBot will let you like create [[URL Schemes]] for HomeKit stuff, so you can use it from               |
 | 01:15:57   | your Stream Deck.                                                                                    |
 | 01:15:58   | Yes.                                                                                                 |
 | 01:15:59   | Yeah.                                                                                                |
@@ -1297,19 +1297,19 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:17:35   | I didn't have the console open, I'm like, backlog.                                                   |
 | 01:17:39   | That app will save me every time, so I can send folks some logs.                                     |
 | 01:17:43   | Another one that we've got to mention, because we would be doing a desk service to ourselves         |
-| 01:17:48   | as well as the rest of the universe if we did not, Keyboard Maestro.                                  |
-| 01:17:52   | Keyboard Maestro is so much more than a Shortcuts utility app, but it can run Shortcuts and           |
+| 01:17:48   | as well as the rest of the universe if we did not, [[Keyboard Maestro]].                                  |
+| 01:17:52   | [[Keyboard Maestro]] is so much more than a Shortcuts utility app, but it can run Shortcuts and           |
 | 01:17:56   | it can be run from Shortcuts.                                                                        |
 | 01:17:59   | And it can also do some other stuff as well, like calculating things, which can include              |
 | 01:18:04   | more than just calculating stuff, like it can filter things and stuff as well.                       |
-| 01:18:10   | Like it's, yeah, Keyboard Maestro definitely deserves a mention.                                      |
+| 01:18:10   | Like it's, yeah, [[Keyboard Maestro]] definitely deserves a mention.                                      |
 | 01:18:17   | We can't talk about it now because we're going to run out of universe if we try and                  |
 | 01:18:21   | fit that into this podcast episode, but yeah, you should be checking it out.                         |
-| 01:18:26   | There's something fundamentally wrong if we have an automator's episode and Keyboard Maestro          |
+| 01:18:26   | There's something fundamentally wrong if we have an automator's episode and [[Keyboard Maestro]]          |
 | 01:18:29   | doesn't get mentioned once, so there you go.                                                         |
 | 01:18:32   | Yeah, exactly.                                                                                       |
 | 01:18:33   | It's like the people on loss that got to type in the numbers every hour.                             |
-| 01:18:36   | We got to mention Keyboard Maestro every episode.                                                     |
+| 01:18:36   | We got to mention [[Keyboard Maestro]] every episode.                                                     |
 | 01:18:39   | Yes.                                                                                                 |
 | 01:18:40   | I also, I've just realised, David, I nearly did automators listeners a huge disservice.              |
 | 01:18:45   | I forgot to mention Mail Assistant.                                                                  |
@@ -1317,7 +1317,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:18:53   | format or write an email in markdown formatted text and then send it via shortcuts or any            |
 | 01:18:59   | kind of automation system on your Mac, there's no way of doing that.                                 |
 | 01:19:05   | It just doesn't work.                                                                                |
-| 01:19:06   | So Greg Pierce, developer of Drafts, created this little app called Mail Assistant.                  |
+| 01:19:06   | So Greg Pierce, developer of [[Drafts]], created this little app called Mail Assistant.                  |
 | 01:19:11   | It's free to download and use, and basically it exists to allow you to send mail properly            |
 | 01:19:17   | using [[Drafts]] on the Mac.                                                                             |
 | 01:19:21   | Yeah.                                                                                                |

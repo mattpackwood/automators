@@ -113,13 +113,13 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 03:32      | here.                                                                                                |
 | 03:33      | But we'll get there.                                                                                 |
 | 03:34      | And that's not why we're here today.                                                                 |
-| 03:36      | We're here today because of a little app called Notion, which Rose and I, I will, I'm going          |
+| 03:36      | We're here today because of a little app called [[Notion]], which Rose and I, I will, I'm going          |
 | 03:41      | to speak for you, Rose.                                                                              |
 | 03:42      | I feel like we've both been aware of this app for a long time, but it seems like the                 |
 | 03:47      | last six months or so, it has become more prominent in both of our lives.                            |
 | 03:51      | Yeah, definitely.                                                                                    |
-| 03:52      | I think for me, there were a couple of problems with the idea of using Notion when a lot of          |
-| 03:59      | people first hopped on the Notion bandwagon.                                                         |
+| 03:52      | I think for me, there were a couple of problems with the idea of using [[Notion]] when a lot of          |
+| 03:59      | people first hopped on the [[Notion]] bandwagon.                                                         |
 | 04:01      | One of them hasn't been resolved and it's that it doesn't work offline, but for what                 |
 | 04:06      | we're going to be using it for, that's not going to be a problem.                                    |
 | 04:09      | And the other problem for me was that it was a closed system.                                        |
@@ -130,19 +130,19 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 04:27      | it.                                                                                                  |
 | 04:28      | So we got an API and we got some other stuff.                                                        |
 | 04:31      | And now it's at the point where you and I, David, have decided that we're moving automators          |
-| 04:36      | into Notion from our previous system.                                                                |
+| 04:36      | into [[Notion]] from our previous system.                                                                |
 | 04:39      | And it seems to be working pretty well so far.                                                       |
 | 04:41      | I'm quite excited by it.                                                                             |
-| 04:43      | Yeah, I think Notion is a tool so long as you understand its limitations can be useful.              |
+| 04:43      | Yeah, I think [[Notion]] is a tool so long as you understand its limitations can be useful.              |
 | 04:50      | It's probably not a solution for everything.                                                         |
-| 04:53      | Like in the process of boning up on Notion, I've watched some videos and seen them.                  |
-| 04:58      | I've seen some blog posts by folks that like run their whole lives out of Notion.                    |
+| 04:53      | Like in the process of boning up on [[Notion]], I've watched some videos and seen them.                  |
+| 04:58      | I've seen some blog posts by folks that like run their whole lives out of [[Notion]].                    |
 | 05:03      | And that seems a little weird to me, but we can talk about why, but some of those limitations        |
 | 05:09      | you talk about to me make it really not the app.                                                     |
-| 05:12      | It's not going to replace Obsidian or OmniFocus or apps that are kind of more centre focused         |
+| 05:12      | It's not going to replace [[Obsidian]] or OmniFocus or apps that are kind of more centre focused         |
 | 05:18      | and frankly better for that kind of stuff.                                                           |
 | 05:21      | But it is useful and especially in the context of collaboration.                                     |
-| 05:27      | But maybe before we get into what we're doing with Notion, we should talk about where we             |
+| 05:27      | But maybe before we get into what we're doing with [[Notion]], we should talk about where we             |
 | 05:30      | were and why we're leaving.                                                                          |
 | 05:33      | Yeah, yeah, because to be clear, it's not that we hate Airtable and Google Docs now.                 |
 | 05:38      | That is not the case.                                                                                |
@@ -189,15 +189,15 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 08:33      | same time and so on.                                                                                 |
 | 08:35      | But the problem is really like understanding that we needed like these four fields filled            |
 | 08:40      | out in Airtable to, you know, produce the Google Doc and so on.                                      |
-| 08:45      | Why can't we just have this in one system when actually Notion is kind of perfect for                |
+| 08:45      | Why can't we just have this in one system when actually [[Notion]] is kind of perfect for                |
 | 08:48      | this.                                                                                                |
-| 08:49      | You can have a record in Notion that itself is a document with a whole bunch of text in              |
+| 08:49      | You can have a record in [[Notion]] that itself is a document with a whole bunch of text in              |
 | 08:53      | it.                                                                                                  |
 | 08:54      | And, you know, we were both sort of thinking that there would be ways to improve this system.        |
-| 08:59      | And I don't know about you, David, but I heard on Cortex it may have been more text                  |
-| 09:04      | actually about Mike's assistant just putting everything into Notion and just having it               |
-| 09:11      | all in Notion and Gray's assistant then did the same thing to Gray.                                  |
-| 09:15      | And I was like, huh, you know, if these two can put Cortex into Notion, I feel like we               |
+| 08:59      | And I don't know about you, David, but I heard on [[Cortex]] it may have been more text                  |
+| 09:04      | actually about Mike's assistant just putting everything into [[Notion]] and just having it               |
+| 09:11      | all in [[Notion]] and Gray's assistant then did the same thing to Gray.                                  |
+| 09:15      | And I was like, huh, you know, if these two can put [[Cortex]] into [[Notion]], I feel like we               |
 | 09:22      | should try it with automators and see what automation spin we can put on it.                         |
 | 09:26      | And so far I'm feeling like we've been pretty successful with this.                                  |
 | 09:31      | But obviously, you know, I have a perhaps different perspective because I set up the                 |
@@ -208,7 +208,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 09:52      | like you push a button on one end and the widget wouldn't come out the other end.                    |
 | 09:57      | Well, you know, I do feel like you're right about us building too many sidecars on a motorcycle.     |
 | 10:03      | And I think that's a great way to explain it.                                                        |
-| 10:06      | So Notion is something we're interested in, but just before we move on one point, I wanted           |
+| 10:06      | So [[Notion]] is something we're interested in, but just before we move on one point, I wanted           |
 | 10:12      | emphasises for what we do, you know, making podcasts, you really need contemporaneous text           |
 | 10:19      | editing.                                                                                             |
 | 10:20      | That's an absolute must.                                                                             |
@@ -225,7 +225,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 10:57      | There's a lot of companies making contemporaneous editable text documents.                           |
 | 11:05      | And you know, even Apple Notes, honestly, is pretty good at this point for that kind                 |
 | 11:10      | of thing.                                                                                            |
-| 11:11      | And, and Notion is among those.                                                                      |
+| 11:11      | And, and [[Notion]] is among those.                                                                      |
 | 11:13      | It has the ability to create a document or get related to a record, Rose and I are in                |
 | 11:18      | it right now.                                                                                        |
 | 11:19      | You can see her little face next to the line she's on and she can see my little face next            |
@@ -269,10 +269,10 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 13:39      | And that was just, you know, we had an outline in Google Docs that, you know, was being manipulated  |
 | 13:44      | and massaged together by Make.                                                                       |
 | 13:49      | And you know, we were able to just take that and modify it a little bit and turn it into             |
-| 13:55      | a Notion template that now whenever we create a new episode idea, it just feels like, you            |
-| 14:02      | know, it just pops up in Notion and ta-da, we have our outline ready to go.                          |
+| 13:55      | a [[Notion]] template that now whenever we create a new episode idea, it just feels like, you            |
+| 14:02      | know, it just pops up in [[Notion]] and ta-da, we have our outline ready to go.                          |
 | 14:07      | And that's very, very useful for us.                                                                 |
-| 14:09      | Yeah, in fact, that I think is the first official automation we've done in Notion is you have        |
+| 14:09      | Yeah, in fact, that I think is the first official automation we've done in [[Notion]] is you have        |
 | 14:16      | templated document abilities.                                                                        |
 | 14:18      | So currently we have one for a standard show.                                                        |
 | 14:23      | We're going to be in, I'm kind of in the process of outlining outlines for a focus show, like        |
@@ -284,10 +284,10 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 14:43      | We could come up with several templates where the kinds of things we cover in those shows            |
 | 14:47      | are just automatically populated into the show outline for us.                                       |
 | 14:51      | And that's kind of what we're doing with Make, but a little different.                               |
-| 14:56      | But I do think one of the things that surprised me about Notion as we got started with it            |
-| 15:00      | is that Notion has a significant amount of automation built right into the application.              |
+| 14:56      | But I do think one of the things that surprised me about [[Notion]] as we got started with it            |
+| 15:00      | is that [[Notion]] has a significant amount of automation built right into the application.              |
 | 15:07      | I mean, there are ways to automate it from outside, but for a lot of people that get                 |
-| 15:12      | into Notion, I think you're going to find that the inside automation is going to get                 |
+| 15:12      | into [[Notion]], I think you're going to find that the inside automation is going to get                 |
 | 15:18      | you a long way.                                                                                      |
 | 15:19      | Yeah, and I think that that is something that is definitely worth considering whenever               |
 | 15:23      | you're evaluating a new automation tool, you know, not just how much can it be automated,            |
@@ -298,14 +298,14 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 15:47      | and things like that, that makes this a really good choice for us.                                   |
 | 15:50      | You know, we were using Airtable, we could have the Kanban view and the calendar views               |
 | 15:55      | and the different table views in Airtable, and we did, but the fact that we have that                |
-| 16:00      | and the show notes in Notion definitely puts Notion, you know, a little bit up there.                |
+| 16:00      | and the show notes in [[Notion]] definitely puts [[Notion]], you know, a little bit up there.                |
 | 16:05      | It's also very simple to use, so you know, when we've got guests on the show and so on,              |
-| 16:09      | we can send them a link to a Notion file or the Notion document for the show and just                |
+| 16:09      | we can send them a link to a [[Notion]] file or the [[Notion]] document for the show and just                |
 | 16:15      | say, here you go, and you know, it may not necessarily be something that they've definitely          |
 | 16:21      | seen before, but let's face it, most of our guests have probably at least looked at a                |
-| 16:25      | Notion document once in their life.                                                                  |
+| 16:25      | [[Notion]] document once in their life.                                                                  |
 | 16:28      | And you know, being completely, brutally honest about it, they can't figure out how                  |
-| 16:32      | to do a Notion document, they're probably not going to be a great guest for us.                      |
+| 16:32      | to do a [[Notion]] document, they're probably not going to be a great guest for us.                      |
 | 16:36      | So you know, I think that's, you know, we're not going to have a problem with that.                  |
 | 16:40      | Yeah, yeah, when I don't think we're going to have a problem with that, you know, we                 |
 | 16:44      | certainly did have the old problem with Quip where people were going, and we sent them               |
@@ -313,13 +313,13 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 16:51      | like create accounts and we had to grant them access to stuff and all sorts of weirdness.            |
 | 16:55      | So that was definitely not great.                                                                    |
 | 16:56      | And you know, obviously Google Docs, pretty much everybody's run into Google Docs before,            |
-| 16:59      | but Notion is just as simple to use and it's got all the information in there for us, which          |
+| 16:59      | but [[Notion]] is just as simple to use and it's got all the information in there for us, which          |
 | 17:06      | definitely makes it a lot easier.                                                                    |
 | 17:08      | Yeah, so, but just to kind of get on the automation thread, templates are a great way to automate    |
-| 17:14      | in Notion and you can template not just what you want the document to say, but like one              |
+| 17:14      | in [[Notion]] and you can template not just what you want the document to say, but like one              |
 | 17:20      | of the things I was thinking about doing ultimately, I didn't do it, but I did some tests with       |
 | 17:25      | it is I have a task list related to each podcast episode.                                            |
-| 17:30      | And you know, I've got ways to script that an OmniFocus or or or Obsidian or wherever                |
+| 17:30      | And you know, I've got ways to script that an OmniFocus or or or [[Obsidian]] or wherever                |
 | 17:34      | you want to put or Apple reminders, there's a lot of ways you can do that.                           |
 | 17:38      | But like for every show, I need to work on the outline, I need to get the ads recorded.              |
 | 17:42      | If it's mine to publish, I need to get a published.                                                  |
@@ -328,19 +328,19 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 17:52      | do that.                                                                                             |
 | 17:53      | You could put checkboxes in here and say, did the ads get recorded?                                  |
 | 17:57      | Did the show get uploaded, etc.                                                                      |
-| 18:00      | But I don't like the idea of going to another place for tasks and Notion really is a collaborative   |
+| 18:00      | But I don't like the idea of going to another place for tasks and [[Notion]] really is a collaborative   |
 | 18:05      | tool for me.                                                                                         |
 | 18:06      | It's not my task manager.                                                                            |
 | 18:08      | So so I ultimately didn't do that.                                                                   |
-| 18:10      | But that's the kind of stuff you can do with built-in Notion automation.                             |
+| 18:10      | But that's the kind of stuff you can do with built-in [[Notion]] automation.                             |
 | 18:14      | If you've got a team task list, I think it's a great way to go about doing it because it             |
 | 18:18      | just shows up there.                                                                                 |
 | 18:20      | Yeah, yeah, yeah, exactly.                                                                           |
 | 18:22      | And I think with all of these things, you know, you have to be very careful about not                |
 | 18:26      | adding too many different systems that work differently.                                             |
 | 18:30      | You know, I have my task list and OmniFocus and that is my source of truth for my tasks.             |
-| 18:34      | If I start having to check OmniFocus and Notion, then there's a possibility I'm just not going       |
-| 18:40      | to see something because I'm going to forget to open Notion today and I'm not going to               |
+| 18:34      | If I start having to check OmniFocus and [[Notion]], then there's a possibility I'm just not going       |
+| 18:40      | to see something because I'm going to forget to open [[Notion]] today and I'm not going to               |
 | 18:44      | see that you've added a task that I needed to do, whereas if you just sent me a message              |
 | 18:48      | and I'd add it to OmniFocus, it would be in the system and it would get done.                        |
 | 18:52      | So we definitely, you know, had to be aware of both how we work and how the other person             |
@@ -387,7 +387,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 21:09      | Go to expressvpn.com/automators right now and you can get an extra three months                |
 | 21:15      | of ExpressVPN for free.                                                                              |
 | 21:17      | That's expressvpn.com/automators, expressvpn.com/automators to learn more.               |
-| 21:27      | Okay, Rose, in addition to the template automation, recently Notion came out with an update.         |
+| 21:27      | Okay, Rose, in addition to the template automation, recently [[Notion]] came out with an update.         |
 | 21:35      | That went more in depth with database automations where creating records can kick off automations.   |
 | 21:41      | So have you played with this at all?                                                                 |
 | 21:45      | So I have looked into this.                                                                          |
@@ -399,19 +399,19 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 21:58      | It's a team space.                                                                                   |
 | 22:00      | Sure.                                                                                                |
 | 22:01      | Yeah, I think.                                                                                       |
-| 22:04      | I'm not great at the Notion terminology.                                                             |
-| 22:06      | I should probably double check that before the show, but I was busy actually using Notion.           |
+| 22:04      | I'm not great at the [[Notion]] terminology.                                                             |
+| 22:06      | I should probably double check that before the show, but I was busy actually using [[Notion]].           |
 | 22:11      | So yeah, apologies, folks, but yeah, I played with it in my own personal area, but I haven't         |
 | 22:17      | done anything yet in the automators podcast I shared stuff, but I'm definitely intrigued             |
 | 22:23      | and interested in doing this.                                                                        |
 | 22:24      | How about you?                                                                                       |
-| 22:25      | Because I know you've been using Notion in a few other areas.                                        |
+| 22:25      | Because I know you've been using [[Notion]] in a few other areas.                                        |
 | 22:27      | Yeah, I mean, and I guess I should have said that earlier.                                           |
-| 22:31      | So Notion, we moved the MacSparky stuff into Notion.                                                |
+| 22:31      | So [[Notion]], we moved the MacSparky stuff into [[Notion]].                                                |
 | 22:35      | It's a very small team, primarily two people, myself included, but sometimes a third or              |
 | 22:41      | a fourth show up for one bit or another.                                                             |
 | 22:44      | But I just wanted a place where if I updated something that everybody else knew about it             |
-| 22:49      | and, and historically I did a lot of this project management stuff in Obsidian, I still              |
+| 22:49      | and, and historically I did a lot of this project management stuff in [[Obsidian]], I still              |
 | 22:53      | do my personal stuff there, but I don't, they don't see that.                                        |
 | 22:58      | So I needed a place where we could have collaborative truth.                                         |
 | 23:01      | And then, then it, then it multiplied like tribbles that went to the Mac power users                 |
@@ -422,7 +422,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 23:18      | But getting back to these triggers.                                                                  |
 | 23:19      | So what they've done is they've added automation triggers based on primarily two conditions.         |
 | 23:25      | One is if you add a new page, you can trigger an automation, or if you edit a property,              |
-| 23:31      | you can trigger an automation in properties in Notion or just what that sounds like.                 |
+| 23:31      | you can trigger an automation in properties in [[Notion]] or just what that sounds like.                 |
 | 23:35      | It's a thing like you could say the status of a project or the type of a project or the              |
 | 23:40      | person responsible.                                                                                  |
 | 23:42      | And those two triggers give you a lot of juice if you want to start automating things.               |
@@ -433,7 +433,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 24:04      | You can do, you can have it, the triggers, like I said, the triggers are page added or               |
 | 24:10      | or property edited, but the actual actions, there's, there's quite extensive.                        |
 | 24:14      | You can add a new page, you can edit a page, you can send a Slack notification and a lot             |
-| 24:19      | of people in Notion pair it with Slack because Notion, I don't think is great at contemporary        |
+| 24:19      | of people in [[Notion]] pair it with Slack because [[Notion]], I don't think is great at contemporary        |
 | 24:24      | news, like Tix communication, like Slack is, and you can, you can even have it just edit             |
 | 24:31      | another property.                                                                                    |
 | 24:32      | So there's, there's a lot of ways you can kind of slice it up, but those two triggers                |
@@ -445,7 +445,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 24:48      | when, you know, this status is updated, you know, which is a field, it's a property, then,           |
 | 24:54      | you know, assign it to this person, you know, we could do that if we say that Joe's recorded,        |
 | 24:58      | we could assign it to our editor Jim to do the editing, but Jim has his own system where             |
-| 25:05      | he works and he does not want or need to be dragged into the whole Notion nation of everything       |
+| 25:05      | he works and he does not want or need to be dragged into the whole [[Notion]] nation of everything       |
 | 25:11      | that we're doing here as well.                                                                       |
 | 25:13      | And so our system for that is very simple.                                                           |
 | 25:15      | You make sure all the files are there and then Jim, you know, gets to it when his regularly          |
@@ -460,11 +460,11 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 25:43      | this.                                                                                                |
 | 25:44      | But it is even like with an existing team.                                                           |
 | 25:48      | This stuff can be of use.                                                                            |
-| 25:50      | I think it really is particularly useful if you use Notion databases for task management             |
+| 25:50      | I think it really is particularly useful if you use [[Notion]] databases for task management             |
 | 25:56      | and that's not something we're actually doing.                                                       |
 | 25:59      | Like when I talked earlier about saying you could drop tasks into a record, that's just              |
 | 26:03      | a checklist.                                                                                         |
-| 26:04      | They call it to do in Notion and the way you trigger is you hit slash to do and it creates           |
+| 26:04      | They call it to do in [[Notion]] and the way you trigger is you hit slash to do and it creates           |
 | 26:09      | a little box.                                                                                        |
 | 26:10      | But, but there is another way to go about this is set up a database of tasks and then                |
 | 26:16      | each task has multiple properties and that can work well.                                            |
@@ -541,22 +541,22 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 30:28      | Yeah, agreed.                                                                                        |
 | 30:31      | And that's exactly what we're trying to do here.                                                     |
 | 30:35      | One thing I would like to, I'd like to kind of continue on the internal automation though            |
-| 30:40      | in Notion for a bit.                                                                                 |
+| 30:40      | in [[Notion]] for a bit.                                                                                 |
 | 30:42      | So we've talked about the template-based and then the more active trigger-based automations.         |
-| 30:47      | And I would say the third leg of this built into Notion is, Notion has its own AI engine             |
+| 30:47      | And I would say the third leg of this built into [[Notion]] is, [[Notion]] has its own AI engine             |
 | 30:54      | and I did some research on it over the weekend as we prepped for the show.                           |
 | 30:58      | I think it is a licensed version of [[ChatGPT]] at some level.                                          |
 | 31:04      | And I don't know the details and you need to buy like a year of it.                                  |
 | 31:11      | So I have limited experience so that you do get some free AI inquiries.                              |
 | 31:17      | And I think, as I said earlier, we're going to talk about AI more next year.                         |
-| 31:19      | I'm still kind of getting my arms around what I could do with AI in Notion.                          |
+| 31:19      | I'm still kind of getting my arms around what I could do with AI in [[Notion]].                          |
 | 31:23      | I can tell you having a [[ChatGPT]] account, I feel like that's a stronger engine and ability           |
 | 31:30      | to do it because I can [[ChatGPT]] and can have it make me pictures and do all sorts of stuff.          |
-| 31:35      | I think a lot of that is in Notion, but not all of it.                                               |
-| 31:37      | But the advantage I see in Notion is if you're in with Notion, you're using it.                      |
+| 31:35      | I think a lot of that is in [[Notion]], but not all of it.                                               |
+| 31:37      | But the advantage I see in [[Notion]] is if you're in with [[Notion]], you're using it.                      |
 | 31:42      | Like you can have it say, you know, outline an employee onboarding process and it's going            |
-| 31:47      | to use Notion syntax and organisation to put that together and it's going to just fit right          |
-| 31:55      | in your Notion database.                                                                             |
+| 31:47      | to use [[Notion]] syntax and organisation to put that together and it's going to just fit right          |
+| 31:55      | in your [[Notion]] database.                                                                             |
 | 31:56      | You're not going to have to do any massageing of data.                                                |
 | 31:59      | It just generates it for you right there.                                                            |
 | 32:01      | But you know, every app these days has an AI component to it.                                        |
@@ -572,11 +572,11 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 32:27      | The thing people forget is that the AI is not on your device.                                        |
 | 32:30      | It's somewhere else.                                                                                 |
 | 32:31      | And in order for it to do its thing, it needs to know what you're writing.                           |
-| 32:35      | But I do feel like that Notion would be a good candidate for AI if it's done right.                  |
+| 32:35      | But I do feel like that [[Notion]] would be a good candidate for AI if it's done right.                  |
 | 32:41      | And they've got a component.                                                                         |
 | 32:42      | They've been doing it for a year.                                                                    |
 | 32:44      | The most recent thing they've done is that you can ask it a question and it'll try and               |
-| 32:50      | find an answer based on your own Notion database.                                                    |
+| 32:50      | find an answer based on your own [[Notion]] database.                                                    |
 | 32:54      | So rather than go out to the internet and look for it, it will look at your database.                |
 | 32:58      | So if you've got a big extensive database, let's say like your company and you put all               |
 | 33:03      | your employee policies and procedures in there and let's say that's a 50,000 word document,          |
@@ -592,7 +592,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 33:44      | And it's one of those things where, as with all of these things, you've got to have like             |
 | 33:48      | the right data and the right structure and so on in place in the first place.                        |
 | 33:52      | And that's one of the reasons why we are not just copy pasting everything that we had.               |
-| 33:58      | I mean, we did start by copy pasting a bunch of stuff from our Google Docs into Notion,              |
+| 33:58      | I mean, we did start by copy pasting a bunch of stuff from our Google Docs into [[Notion]],              |
 | 34:03      | but we're not just leaving it at that.                                                               |
 | 34:05      | Using this as an opportunity to review how we do things and why we do things the way                 |
 | 34:09      | that we do them so that we can make sure that things are set up in a way that will make              |
@@ -615,7 +615,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 35:24      | But if you go through their connected app list, there is a lot of options in there for automation    |
 | 35:30      | tools.                                                                                               |
 | 35:31      | Yeah, there really are.                                                                              |
-| 35:32      | I mean, I'm obviously slightly biased because one of the companies that I founded, [[SnailedIt]]           |
+| 35:32      | I mean, I'm obviously slightly biased because one of the companies that I founded, [[Snailed It]]           |
 | 35:38      | development, has taken over [[Alex Hay\|Alex Hay's]] apps after his sad passing.                               |
 | 35:42      | So that means that we are now the proud keepers, grounds keepers.                                    |
 | 35:47      | I don't know what the right word is, but we're looking after Nautomate.                              |
@@ -654,31 +654,31 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 37:50      | So let's talk about that a bit.                                                                      |
 | 37:51      | First of all, not to me, as I understand it works on Mac iPhone iPad, right?                         |
 | 37:55      | It's not just the iPhone.                                                                            |
-| 37:57      | So it allows you to create shortcuts that can manipulate an existing database in Notion.             |
+| 37:57      | So it allows you to create shortcuts that can manipulate an existing database in [[Notion]].             |
 | 38:04      | So you don't have to go into the app or to the website, you can just write a shortcut.               |
-| 38:09      | And the beauty of that is not only the quick way you can add stuff to Notion, but it's               |
+| 38:09      | And the beauty of that is not only the quick way you can add stuff to [[Notion]], but it's               |
 | 38:14      | also the way you can use one set of data collection in a shortcut and put it in multiple locations.  |
 | 38:21      | Let's say you wanted to do a new project where you wanted to create a project database record        |
-| 38:27      | of Notion, you wanted to set a meeting on the calendar and you want to send an email                 |
+| 38:27      | of [[Notion]], you wanted to set a meeting on the calendar and you want to send an email                 |
 | 38:32      | to all the key participants, right?                                                                  |
 | 38:35      | Rather than do that three times, you would just write a shortcut that collected the necessary        |
 | 38:39      | data and then distributed that data to those three locations.                                        |
 | 38:43      | It took the, you know, the event time and date and name creates event.                               |
-| 38:47      | It takes the project name and puts the Notion database record in and it, you know, it has            |
+| 38:47      | It takes the project name and puts the [[Notion]] database record in and it, you know, it has            |
 | 38:53      | a template that's in the email to the key players and uses the same stuff.                           |
 | 38:57      | Here's the event time and date and the record.                                                       |
 | 39:00      | And that's the beauty of shortcuts really in a lot of ways is it allows you to automate              |
-| 39:04      | multiple apps and data sources at once, but that was always not really a thing for Notion,           |
+| 39:04      | multiple apps and data sources at once, but that was always not really a thing for [[Notion]],           |
 | 39:10      | right?                                                                                               |
-| 39:11      | Notion doesn't have shortcut support.                                                                |
+| 39:11      | [[Notion]] doesn't have shortcut support.                                                                |
 | 39:13      | So Alex and now Rosemary has built a system into that.                                               |
 | 39:18      | So to begin with, what's involved for someone listening to connect Nautomate, I don't know            |
-| 39:24      | if I'm saying it right, but I like it, Nautomate to Notion.                                           |
+| 39:24      | if I'm saying it right, but I like it, Nautomate to [[Notion]].                                           |
 | 39:27      | I mean, so you have to connect it so when you run the shortcut, it knows what database               |
 | 39:32      | to put them in.                                                                                      |
 | 39:33      | Well, so to start with the first thing you do when you, if you download Nautomate is                  |
-| 39:39      | it will prompt you and walk you through connecting your Notion account with Nautomate so that it      |
-| 39:45      | actually can talk to Notion and not just Notion generically as a whole, but your Notion.             |
+| 39:39      | it will prompt you and walk you through connecting your [[Notion]] account with Nautomate so that it      |
+| 39:45      | actually can talk to [[Notion]] and not just [[Notion]] generically as a whole, but your [[Notion]].             |
 | 39:51      | And then from there, you have a number of various different actions and they're all                  |
 | 39:57      | documented in the app, I should note.                                                                |
 | 40:00      | And the first thing that you will probably want to do is to use find databases or similar            |
@@ -690,7 +690,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 40:35      | one it's going to go into.                                                                           |
 | 40:38      | And then from there, you know, it will, they can read out the properties and so on and               |
 | 40:41      | help you figure out how to add everything that you want or need to add.                              |
-| 40:46      | And it's very, very clever the way Alex has done this, because the problem with Notion               |
+| 40:46      | And it's very, very clever the way Alex has done this, because the problem with [[Notion]]               |
 | 40:52      | is it's not just there is a database entry, it has a title, it has a note, it has a date             |
 | 41:00      | field, it has a comment field, no, no, no, like it can have any, you know, it can have               |
 | 41:05      | any number of any kind of fields.                                                                    |
@@ -735,17 +735,17 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 44:03      | And like I talked about the news, the data you put in for the notion record and use it               |
 | 44:07      | for something else too, that's, that's golden, right?                                                |
 | 44:11      | And then you just got everything together.                                                           |
-| 44:12      | Like I was talking earlier how I do a lot of project management type stuff in Obsidian.              |
+| 44:12      | Like I was talking earlier how I do a lot of project management type stuff in [[Obsidian]].              |
 | 44:18      | I like to have my project records there as local.                                                    |
 | 44:22      | It always works.                                                                                     |
 | 44:23      | There were just text files.                                                                          |
 | 44:24      | I can work in them anytime on any device.                                                            |
 | 44:27      | But I didn't like the idea of having to go into notion and create a record for a show,               |
-| 44:33      | but also create a record for a show in Obsidian.                                                     |
+| 44:33      | but also create a record for a show in [[Obsidian]].                                                     |
 | 44:37      | That's like two things, right?                                                                       |
 | 44:38      | Who wants to do two things?                                                                          |
 | 44:40      | But you can create a, yeah, you can create a shortcut.                                               |
-| 44:42      | It fills all that out, uses the template in obsidian, does its thing over there, then                |
+| 44:42      | It fills all that out, uses the template in [[Obsidian]], does its thing over there, then                |
 | 44:47      | it goes over to notion, adds the record, does its thing over there.                                  |
 | 44:51      | And very quickly, you can go from thought to fully germinated project with just a couple,            |
 | 44:58      | you know, shortcuts.                                                                                 |
@@ -754,15 +754,15 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 45:07      | Yes, definitely.                                                                                     |
 | 45:09      | And I think the other thing is, is if I've had an idea for a show, then you can also                 |
 | 45:14      | use the ability to retrieve that information and, you know, just say, hey, I just want               |
-| 45:19      | to create an obsidian note for this upcoming show, which is already in notion, and you               |
-| 45:24      | can just grab that data and pull it out and use the same setup to create that obsidian               |
+| 45:19      | to create an [[Obsidian]] note for this upcoming show, which is already in notion, and you               |
+| 45:24      | can just grab that data and pull it out and use the same setup to create that [[Obsidian]]               |
 | 45:29      | note with the information that's come from the record.                                               |
 | 45:33      | And that to me is the beauty of this kind of automation, where you're building something             |
 | 45:38      | and you go, okay.                                                                                    |
-| 45:39      | So I want to create a notion record and I want to create an obsidian document.                       |
-| 45:42      | And if I create the notion record first, that data feeds my obsidian document.                       |
+| 45:39      | So I want to create a notion record and I want to create an [[Obsidian]] document.                       |
+| 45:42      | And if I create the notion record first, that data feeds my [[Obsidian]] document.                       |
 | 45:47      | And then you can go, oh, wait, I didn't create the notion record, but I can just select the          |
-| 45:52      | notion record and feed that into my shortcut that creates the obsidian document and bam,             |
+| 45:52      | notion record and feed that into my shortcut that creates the [[Obsidian]] document and bam,             |
 | 45:58      | you've got suddenly two automations which solve problems.                                            |
 | 46:02      | And that's, you know, that's really where the whole magic begins.                                    |
 | 46:07      | You know, you're not just doing one thing, you're doing more than one thing, but because             |
@@ -826,7 +826,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 49:30      | Because, you know, we're hosting this podcast.                                                       |
 | 49:32      | We should be continually evolving and adapting our systems.                                          |
 | 49:35      | And if we're not, then I feel like we're failing you as our listeners.                               |
-| 49:39      | And so the fact that we have switched to Notion, are we going to stay here forever?                  |
+| 49:39      | And so the fact that we have switched to [[Notion]], are we going to stay here forever?                  |
 | 49:43      | Who knows?                                                                                           |
 | 49:44      | We don't know what's going to come out next year.                                                    |
 | 49:46      | We don't know what's going to come out next week or tomorrow.                                        |
@@ -1081,25 +1081,25 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:04:16   | is.                                                                                                  |
 | 01:04:17   | So either I can work on existing documentation or I can create a new one really easily and           |
 | 01:04:20   | it's all just right there.                                                                           |
-| 01:04:22   | Do you, because I've been using Keyboard Maestro like this for years for setting context.            |
+| 01:04:22   | Do you, because I've been using [[Keyboard Maestro]] like this for years for setting context.            |
 | 01:04:29   | I'm always tempted to try Bunch, but I've got this thing called inertia, right?                      |
-| 01:04:32   | I've already got all this stuff built out in Keyboard Maestro.                                       |
-| 01:04:36   | Are there features in Bunch that don't exist in Keyboard Maestro have been used both?                |
+| 01:04:32   | I've already got all this stuff built out in [[Keyboard Maestro]].                                       |
+| 01:04:36   | Are there features in Bunch that don't exist in [[Keyboard Maestro]] have been used both?                |
 | 01:04:40   | I mean, what's the case for me taking the time to move over?                                         |
 | 01:04:44   | I feel like we may need to do this in a future show, but...                                          |
 | 01:04:48   | I mean, I feel like technically everything that you can do in Bunch, you could do in                 |
-| 01:04:52   | Keyboard Maestro.                                                                                    |
-| 01:04:53   | But for me, Keyboard Maestro is like, it's like here's like the process of the chain                 |
+| 01:04:52   | [[Keyboard Maestro]].                                                                                    |
+| 01:04:53   | But for me, [[Keyboard Maestro]] is like, it's like here's like the process of the chain                 |
 | 01:05:00   | of things.                                                                                           |
 | 01:05:01   | So for example, like hitting, like when we start recording automators.                               |
-| 01:05:05   | I use a macro in Keyboard Maestro.                                                                   |
+| 01:05:05   | I use a macro in [[Keyboard Maestro]].                                                                   |
 | 01:05:08   | It's very exciting, folks.                                                                           |
 | 01:05:10   | You're never going to guess what it's called.                                                        |
 | 01:05:11   | It's called start recording and timestamp.                                                           |
 | 01:05:14   | Whoa.                                                                                                |
 | 01:05:15   | Oh, gosh, I can feel the excitement coming through right back at me.                                 |
 | 01:05:21   | So I use this and what it does activates audio hijack and it starts the recording and it             |
-| 01:05:25   | sets the timestamp in the Keyboard Maestro macro.                                                    |
+| 01:05:25   | sets the timestamp in the [[Keyboard Maestro]] macro.                                                    |
 | 01:05:28   | So whenever I hit my foot pedal on my Stream Deck, then it goes into the [[BBEdit]] document,           |
 | 01:05:34   | which is the show notes and then it's a return key and then pastes the timestamp with a colon        |
 | 01:05:39   | so I can just type whatever after that so that Jim are fabulous editor who seriously,                |
@@ -1111,13 +1111,13 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:05:59   | It's just, it's all together.                                                                        |
 | 01:06:00   | If there's something missing, then he knows he needs to ask for it.                                  |
 | 01:06:03   | But it's all right there and then we just have all of that together.                                 |
-| 01:06:08   | So I use Keyboard Maestro macros for things like that and I do have macros run as part               |
+| 01:06:08   | So I use [[Keyboard Maestro]] macros for things like that and I do have macros run as part               |
 | 01:06:13   | of some of my bunches.                                                                               |
 | 01:06:17   | I don't know what the right word is there, but bunch for me is very specifically, I want             |
 | 01:06:24   | a bunch of applications opened, hence bunch, and maybe a couple of other things to happen.           |
-| 01:06:31   | But it also closed stuff off for me, but I've never really gotten into Keyboard Maestro              |
+| 01:06:31   | But it also closed stuff off for me, but I've never really gotten into [[Keyboard Maestro]]              |
 | 01:06:36   | for the whole setup thing.                                                                           |
-| 01:06:37   | My Keyboard Maestro menu bar list is, I want these automations to be available to me.                |
+| 01:06:37   | My [[Keyboard Maestro]] menu bar list is, I want these automations to be available to me.                |
 | 01:06:44   | It's right next to fast scripts and bunch and I know that there's overlap between all                |
 | 01:06:50   | three of these.                                                                                      |
 | 01:06:51   | I'm very aware of it, but I like the fact that if I click on my bunch menu bar, then                 |
@@ -1126,7 +1126,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:07:01   | Get me ready to write docs.                                                                          |
 | 01:07:02   | Get me ready to write some code.                                                                     |
 | 01:07:03   | Get me ready to do some code review or something like that.                                          |
-| 01:07:08   | This is all day job examples where if I click the Keyboard Maestro macro, it's, hey, let's           |
+| 01:07:08   | This is all day job examples where if I click the [[Keyboard Maestro]] macro, it's, hey, let's           |
 | 01:07:14   | clean up a whole bunch of files that are probably floating around that we don't need anymore         |
 | 01:07:19   | and stuff like that.                                                                                 |
 | 01:07:20   | And fast scripts is, hey, so I'm going to want like five different things open in iTerm              |
@@ -1136,7 +1136,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:07:36   | Well, I mean, in our fancy new notion, we have an idea called setup showdown and this                |
 | 01:07:41   | is a preview because I don't really think it matters, which one you use.                             |
 | 01:07:45   | If we do that show, I will definitely figure out bunch and be able to talk about it intelligently.   |
-| 01:07:50   | But whether you do it with Keyboard Maestro bunch, you can also do it with shortcuts,                |
+| 01:07:50   | But whether you do it with [[Keyboard Maestro]] bunch, you can also do it with shortcuts,                |
 | 01:07:58   | not quite as well, but you can do it.                                                                |
 | 01:08:02   | But the idea is you push a button and your computer sets it up and then your brain sees              |
 | 01:08:07   | it and says, oh, here's all the apps that I answer email in or here are all the apps                 |
@@ -1146,7 +1146,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:08:22   | It really works on you.                                                                              |
 | 01:08:23   | So we want you to do that.                                                                           |
 | 01:08:25   | That'll be a show we do next year and stay tuned for that.                                           |
-| 01:08:28   | I think perhaps for me, the big thing with bunch versus Keyboard Maestro for this specifically       |
+| 01:08:28   | I think perhaps for me, the big thing with bunch versus [[Keyboard Maestro]] for this specifically       |
 | 01:08:33   | is that if I were to change my default browser, for example, I could just search everywhere          |
 | 01:08:38   | for Firefox and I can just replace Firefox with Chrome or whatever it is.                            |
 | 01:08:44   | I'm not planning on doing that.                                                                      |
@@ -1157,10 +1157,10 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:09:00   | And I actually use a variable for that because I'm a nerd, why wouldn't I?                           |
 | 01:09:06   | But I could just find a place because I have all of my bunch macros, well, bunch is just             |
 | 01:09:14   | a whole bunch of files.                                                                              |
-| 01:09:16   | And just like you love obsidian because it's just files, David, that's one of the reasons            |
+| 01:09:16   | And just like you love [[Obsidian]] because it's just files, David, that's one of the reasons            |
 | 01:09:19   | why I love bunch.                                                                                    |
-| 01:09:20   | Keyboard Maestro is brilliant.                                                                       |
-| 01:09:22   | I love Keyboard Maestro.                                                                             |
+| 01:09:20   | [[Keyboard Maestro]] is brilliant.                                                                       |
+| 01:09:22   | I love [[Keyboard Maestro]].                                                                             |
 | 01:09:23   | You will never take it away from me.                                                                 |
 | 01:09:25   | If you try to take it away from me, I will be very upset with you.                                   |
 | 01:09:28   | But I just use them differently, I guess.                                                            |

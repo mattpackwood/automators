@@ -39,7 +39,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 # Sponsors
 - [[LinkedIn Jobs (Sponsor)|LinkedIn Jobs]] - Post a job for free.
 - [[TextExpander (Sponsor)|TextExpander from Smile]] - Communicate Smarter.
-- [[Technology Untangled (sponsor|Technology Untangled]] - Join Michael Bird as he untangles innovation through a series of interviews, stories, and analyses with some of the industry’s brightest brains.
+- [[Technology Untangled (sponsor)|Technology Untangled]] - Join Michael Bird as he untangles innovation through a series of interviews, stories, and analyses with some of the industry’s brightest brains.
 
 # Show Notes
 - [Six Colours – Apple, technology, and other stuff by Jason Snell & Dan Moren](https://sixcolours.com/)
@@ -158,7 +158,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 06:29      | and this file path, and now I need to do a comment on this                                                       |
 | 06:32      | and explain what I'm doing here.                                                                                 |
 | 06:34      | And it's, even that step is just a huge step forward from,                                                       |
-| 06:38      | I'm going to do this thing Keyboard Maestro and it's going to run an [[AppleScript]]                                |
+| 06:38      | I'm going to do this thing [[Keyboard Maestro]] and it's going to run an [[AppleScript]]                                |
 | 06:41      | like that, and that's how I got started with this,                                                               |
 | 06:45      | is definitely that kind of stuff.                                                                                |
 | 06:48      | I never formally learned how to do any of this.                                                                  |
@@ -441,7 +441,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 18:22      | and then I realised I actually need to send an email                                                             |
 | 18:25      | every time this task comes up in OmniFocus.                                                                      |
 | 18:27      | And it's like, okay, so I need to send emails like,                                                              |
-| 18:30      | hang on a minute, [[URL Schemes\|URL scheme]]s or mail to link.                                                                   |
+| 18:30      | hang on a minute, [[URL Schemes]] or mail to link.                                                                   |
 | 18:33      | I can do that.                                                                                                   |
 | 18:34      | So make it one tap.                                                                                              |
 | 18:35      | It opens the email and bam, done.                                                                                |
@@ -494,7 +494,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 20:50      | that's kind of codeless or it can be codeless that are really great.                                             |
 | 20:55      | They're not just baby tools for people who don't know how to write scripts.                                      |
 | 20:59      | They're so good and make me not have to write a script, please.                                                  |
-| 21:03      | So [[Hazel]], I am using Keyboard Maestro.                                                                           |
+| 21:03      | So [[Hazel]], I am using [[Keyboard Maestro]].                                                                           |
 | 21:09      | I use quite a bit.                                                                                               |
 | 21:10      | I bought a Stream Deck.                                                                                          |
 | 21:12      | Hi, everybody.                                                                                                   |
@@ -508,12 +508,12 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 21:24      | And I finally was like, all right, I sort of see it,                                                             |
 | 21:26      | but I'm not buying one of those with lots of buttons.                                                            |
 | 21:28      | So I got the little one.                                                                                         |
-| 21:29      | And that has driven me into some more Keyboard Maestro stuff                                                     |
+| 21:29      | And that has driven me into some more [[Keyboard Maestro]] stuff                                                     |
 | 21:32      | because that's the best way to do that.                                                                          |
 | 21:33      | You guys have an excellent episode about it                                                                      |
 | 21:35      | that people can listen to if they haven't already.                                                               |
 | 21:37      | I enjoyed that episode a lot, gave me a lot of ideas.                                                            |
-| 21:40      | But that got me even more time spent in Keyboard Maestro.                                                        |
+| 21:40      | But that got me even more time spent in [[Keyboard Maestro]].                                                        |
 | 21:45      | Honestly, the number one automation.                                                                             |
 | 21:50      | Well, no, actually, there are two other ones.                                                                    |
 | 21:52      | It's not quite automation, but I want to put in a plug for Swift Bar,                                            |
@@ -602,7 +602,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 26:53      | So there's non-scripting things that that's just a nice Mac utility.                                             |
 | 26:57      | And then I'll throw out two other things that I've been doing.                                                   |
 | 27:00      | One of them is just straight-up [[AppleScript]].                                                                    |
-| 27:04      | I have some just straight-up [[AppleScript]]s that are great that I use all the time.                               |
+| 27:04      | I have some just straight-up [[AppleScript\|AppleScripts]] that are great that I use all the time.                               |
 | 27:07      | I have one for building.                                                                                         |
 | 27:10      | I do a lot of podcasts, as you said, and I built a system where I've got a folder                                |
 | 27:16      | that is full of zip files of basically templates of my podcasts.                                                 |
@@ -834,7 +834,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 39:33      | Because right now, I could switch to JavaScript                                                                  |
 | 39:36      | and figure it out,                                                                                               |
 | 39:38      | but the fact that I can't take my 1Writer script                                                               |
-| 39:41      | and run it in Taio or in Drafts,                                                                                  |
+| 39:41      | and run it in Taio or in [[Drafts]],                                                                                  |
 | 39:44      | because they're different,                                                                                       |
 | 39:45      | their JavaScript implementation is different.                                                                    |
 | 39:48      | They're using different things to do user interface                                                              |
@@ -1665,7 +1665,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:11:08   | actions are not working                                                                                          |
 | 01:11:10   | like full stop.                                                                                                  |
 | 01:11:12   | Greg Pierce, who's the developer                                                                                 |
-| 01:11:14   | of Drafts,                                                                                                       |
+| 01:11:14   | of [[Drafts]],                                                                                                       |
 | 01:11:16   | that's Mr. Agiletortoise                                                                                          |
 | 01:11:18   | has in the [[Drafts]]                                                                                               |
 | 01:11:20   | beta notes at this time shortcuts are not cross-platform.                                                        |

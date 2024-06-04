@@ -90,7 +90,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 02:47      | So Apple really has done a lot for automation. It almost feels like they're listening once                                                                |
 | 02:54      | in a while and I thought why don't we start with iOS because that's, I believe, probably                                                                  |
 | 03:02      | the area that needs the most help with automation. I mean, there are so many great tools on the                                                           |
-| 03:06      | Mac, whether you use like a developer generating tool like [[Keyword Maestro]] or [[TextExpander]]                                                        |
+| 03:06      | Mac, whether you use like a developer generating tool like [[Keyboard Maestro]] or [[TextExpander]]                                                        |
 | 03:13      | or you get into scripting and [[AppleScript\|AppleScripting]]. There's a lot of tools available, whereas                                                  |
 | 03:19      | iOS really the only game in town is shortcuts. So we're always very eager to see what happens                                                             |
 | 03:23      | with shortcuts.                                                                                                                                           |
@@ -1030,7 +1030,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 01:03:06   | like a lot of my [[PushCut]] automation server stuff requires [[Drafts]].                                                                                 |
 | 01:03:09   | Okay.                                                                                                                                                     |
 | 01:03:10   | And these are using [[Drafts]] actions.                                                                                                                   |
-| 01:03:12   | They're not [[URL Schemes\|URL scheme]]s, they're [[Drafts]] actions.                                                                                     |
+| 01:03:12   | They're not [[URL Schemes]], they're [[Drafts]] actions.                                                                                     |
 | 01:03:16   | Now I'm wondering, am I going to be able to install [[Drafts]] for iOS as well as [[Drafts]]                                                              |
 | 01:03:21   | for Mac or is [[Drafts]] for Mac going to be able to pick up those intents?                                                                               |
 | 01:03:26   | Because one of the things that we did see with the changes to [[SwiftUI]] is they added                                                                   |

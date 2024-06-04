@@ -2,7 +2,7 @@
 status: "complete"
 ---
 # Overview
-The templates used in this vault are applied through the use of the [[Obsidian Templater]] plugin. This allows for more sophisticated plugins than Obsidian's core template plugin.
+The templates used in this vault are applied through the use of the [[Templater|Obsidian Templater]] plugin. This allows for more sophisticated plugins than Obsidian's core template plugin.
 
 When the templates are inserted into a note, they may prompt for or read in from file additional input that is then used to either modify the file in some way (e.g., inserting text), or to trigger some sort of action.
 
@@ -21,7 +21,7 @@ Callouts are nicely formatted quotation blocks. They are intended to impart part
 | [[C.Callout - Todo (Template)]]        | Insert the code for a todo callout, using prompts to enter the title and the details.         |
 
 ## Dataview
-[[Obsidian Dataview]] templates insert code blocks for running Dataview queries. Typically, these queries will be centralised into Dataview script files to make them easier to centrally maintain.
+[[Dataview|Obsidian Dataview]] templates insert code blocks for running Dataview queries. Typically, these queries will be centralised into Dataview script files to make them easier to centrally maintain.
 
 | Template File                | Description                                                                               |
 | ---------------------------- | ----------------------------------------------------------------------------------------- |
@@ -32,6 +32,7 @@ These templates create the basic content structure for particular types of notes
 
 | Template File     | Description                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------- |
+| [[N.Automation]]  | This template inserts the default structure/content for an automation.                 |
 | [[N.Concept]]     | This template inserts the default structure/content for a (technical) concept.         |
 | [[N.Episode]]     | This template inserts the default structure/content for an Automators podcast episode. |
 | [[N.Methodology]] | This template inserts the default structure/content for a method of doing something.   |

@@ -74,7 +74,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 00:57      | We've been teasing it for quite a long time.                                                         |
 | 00:59      | Yeah, I feel like I've been talking about it too long, but it's a challenging app to                 |
 | 01:05      | cover in a field guide, but I'm really happy with the way it came out.                               |
-| 01:09      | The analogy I use in one of the videos is, Keyboard Maestro is like a massive box of                 |
+| 01:09      | The analogy I use in one of the videos is, [[Keyboard Maestro]] is like a massive box of                 |
 | 01:16      | Lego that's been dumped on your desk with no instructions.                                           |
 | 01:20      | There's just so much you can do with that application to automate your Mac.                          |
 | 01:24      | I spent a lot of time going through it and finding a way to explain it, and I think it               |
@@ -82,7 +82,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 01:31      | Yes, and you've got over 76 videos, so I've been going through and pecking through it                |
 | 01:36      | and just grabbing videos here and there as they catch my eye, and I'm really enjoying                |
 | 01:40      | it.                                                                                                  |
-| 01:41      | I'm learning a lot, even though I use Keyboard Maestro myself all the time.                          |
+| 01:41      | I'm learning a lot, even though I use [[Keyboard Maestro]] myself all the time.                          |
 | 01:45      | In my head, that was the ultimate test.                                                              |
 | 01:46      | Can I do anything in here that would teach Rosemary Orchard something if I did that?                 |
 | 01:51      | Yes.                                                                                                 |
@@ -91,7 +91,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 01:55      | You have to guess which parts of it I didn't know.                                                   |
 | 01:59      | The structure of it is there is the basics and then also explains all the triggers and               |
 | 02:04      | all the actions you can do, but then there's also a section there where I just give you              |
-| 02:07      | all of the cool Keyboard Maestro scripts I use, and then you can download them, install              |
+| 02:07      | all of the cool [[Keyboard Maestro]] scripts I use, and then you can download them, install              |
 | 02:13      | them, and automate them or adjust them.                                                              |
 | 02:16      | Like I said, the feedback's been good, and I'm really happy with the way it came out.                |
 | 02:21      | Thank you, everyone.                                                                                 |
@@ -652,7 +652,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 35:20      | with them more than most people.                                                                     |
 | 35:22      | I mean, in Vienna, you're a bit on an island in our little nerd community.                           |
 | 35:26      | I am a bit.                                                                                          |
-| 35:27      | The [[Federico Viticci]] is on the same time zone as me, and Mike Hurley is only one hour behind,         |
+| 35:27      | The [[Federico Viticci]] is on the same time zone as me, and [[Myke Hurley]] is only one hour behind,         |
 | 35:32      | which, you know, I'm not completely on my, but I use this great app called CalZones by               |
 | 35:38      | underscore David Smith, and he's made a bunch of great applications, pedometer, plus, plus,          |
 | 35:43      | sweet, plus, plus, activity, plus, plus, you can tell that there's a theme with his apps.            |
@@ -803,7 +803,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 44:53      | I feel like that could be done better.                                                               |
 | 44:54      | Yes.                                                                                                 |
 | 44:55      | I think it could be as well, but this is where shortcuts and actually [[Drafts]] can come in             |
-| 45:00      | really handy because Drafts, of course, is very scriptable, as we know from the last                 |
+| 45:00      | really handy because [[Drafts]], of course, is very scriptable, as we know from the last                 |
 | 45:04      | episode with Tim.                                                                                    |
 | 45:06      | And you can do all sorts of things, including post a bunch of data to Airtable, and you              |
 | 45:11      | can get data back from Airtable with the API, which means that you can do things like start          |
@@ -1008,7 +1008,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 56:48      | Yes, it does.                                                                                        |
 | 56:49      | And because of this API, which I know I've been talking about to death, I'm just going               |
 | 56:53      | to mention it again, you can integrate this into something like [[Drafts]] as well.                      |
-| 56:57      | So I've made, I've got a couple of different actions for Drafts.                                     |
+| 56:57      | So I've made, I've got a couple of different actions for [[Drafts]].                                     |
 | 57:00      | I've got one in my blog post workspace, I've got one in my suite set up workspace.                   |
 | 57:05      | And this means that I can grab things which are currently marked as ideas in my air table            |
 | 57:11      | basis and I can change them from idea to draft and I can just get working on them.                   |

@@ -136,7 +136,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 06:19      | store that reference or the action. I mean, we've talked about multiple task applications                |
 | 06:25      | and we've talked about multiple personal knowledge applications. I think the darling                     |
 | 06:29      | for both Rose and I at the moment is obsidian, but you know, it could be Evernote or it could            |
-| 06:34      | be just Drafts, notes or whatever. There's a lot of places you could put this stuff                      |
+| 06:34      | be just [[Drafts]], notes or whatever. There's a lot of places you could put this stuff                      |
 | 06:39      | for reference, but the goal of today's show is really to talk about how do we automate                   |
 | 06:44      | and quick in and make that capture possible. But I did think it's worth talking about that,              |
 | 06:49      | you know, understanding that whether something's going to be an action item or reference item            |
@@ -146,7 +146,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 07:09      | in specific applications? Again, there's two categories. Yeah. When I'm being deliberate                 |
 | 07:16      | about capture, I like to have very few tools. I mean, you don't want to have a lot of different          |
 | 07:22      | inboxes that you have to check every day. So the weapon of choice for a very long time                   |
-| 07:28      | for me has been Drafts. I mean, I can capture as text and we're going to get into in the                 |
+| 07:28      | for me has been [[Drafts]]. I mean, I can capture as text and we're going to get into in the                 |
 | 07:34      | meat of today's show what we can do with [[Drafts]] since we do those captures, but [[Drafts]] is                |
 | 07:40      | like the ideal capture tool. It's an app that's on your phone, which is in your pocket at                |
 | 07:44      | all times. And the beautiful, one of the best features of this app is that when you hit                  |
@@ -159,25 +159,25 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 08:30      | at least I'll say it's my favourite third party app on the watch. I mean, there's a lot of                |
 | 08:34      | people making cool watch apps, but [[Drafts]] puts a little [[Drafts]] icon in your widget screen.               |
 | 08:41      | It's on almost every watch face I own because when an idea occurs to me, I can lift my wrist,            |
-| 08:47      | tap that one icon and just start talking to my watch and it captures to Drafts. I mean,                  |
-| 08:53      | it's so good for that. So, so the first category is deliberate capture goes into Drafts. The             |
+| 08:47      | tap that one icon and just start talking to my watch and it captures to [[Drafts]]. I mean,                  |
+| 08:53      | it's so good for that. So, so the first category is deliberate capture goes into [[Drafts]]. The             |
 | 08:58      | second category is more like focused capture. And I there's a bunch of apps that I use that              |
 | 09:05      | also have quick capture built into them, like OmniFocus has a great capture tool. And they               |
 | 09:12      | also have macros you can run to capture email and, you know, different things you can do.                |
 | 09:17      | So when I'm working in OmniFocus, I'll use the OmniFocus quick capture. I won't go back                  |
-| 09:22      | to [[Drafts]] and then send it to OmniFocus later, although I can just like Obsidian when I talked           |
+| 09:22      | to [[Drafts]] and then send it to OmniFocus later, although I can just like [[Obsidian]] when I talked           |
 | 09:28      | about earlier, like client notes on calls and things. Usually when I'm on a call with                    |
-| 09:33      | a client, I've got the Obsidian note open for the transaction we're discussing so I can                  |
+| 09:33      | a client, I've got the [[Obsidian]] note open for the transaction we're discussing so I can                  |
 | 09:37      | reference prior information. So of course, I'll just capture the notes right there in                    |
-| 09:42      | Obsidian during that call. I don't need to put in [[Drafts]] come back. I don't I don't need                 |
+| 09:42      | [[Obsidian]] during that call. I don't need to put in [[Drafts]] come back. I don't I don't need                 |
 | 09:47      | to be pedantic about it. I guess is what I'm saying. If it makes sense to go straight to                 |
 | 09:52      | the reference app or the action app and put it in, I'll do that. But if I'm just wandering               |
 | 09:57      | around and a random idea occurs to me or I just hang up the phone with my mom about how                  |
-| 10:02      | to cook roast beef, likely I'll go to Drafts.                                                            |
+| 10:02      | to cook roast beef, likely I'll go to [[Drafts]].                                                            |
 | 10:05      | Yeah, yeah, I very much do the same. I've assigned a shortcut to the double back tap                     |
 | 10:11      | on my iPhone. This is something you can do in accessibility settings that came up with                   |
 | 10:15      | iOS 14. You can you can set it to do specific things like take a screenshot or something                 |
-| 10:20      | like that. But I have set it to open Drafts. And for a long time, I thought that this feature            |
+| 10:20      | like that. But I have set it to open [[Drafts]]. And for a long time, I thought that this feature            |
 | 10:25      | was kind of flaky. And that was because I was trying to double tap the bottom of my                      |
 | 10:28      | iPhone. It turns out if you double tap the Apple logo, then it works every single time,                  |
 | 10:33      | guaranteed. And I've set that up so they create a new draft automatically. That's the shortcut           |
@@ -186,7 +186,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 10:49      | I've got a widget on my home screen, which has got [[Drafts]] in it. So I can see my inbox.                  |
 | 10:52      | I've got a plus button. I've got a clipboard button. And I also have a search and then                   |
 | 10:58      | I have four different workspaces that I frequently use, which is really handy so that I can go           |
-| 11:07      | into workspaces specifically, rather than just, you know, a generic area of Drafts.                      |
+| 11:07      | into workspaces specifically, rather than just, you know, a generic area of [[Drafts]].                      |
 | 11:14      | Because workspaces have the action groups and so on associated with them. So when I                      |
 | 11:18      | open my processing workspace, then it very specifically loads, you know, things so that                  |
 | 11:22      | I can, you know, get my captured items then to their destination really quickly. I've                    |
@@ -196,12 +196,12 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 11:45      | like it's like you, you know, you said with the with the client notes, if you're if you're               |
 | 11:49      | an obsidian, then you'll capture into that. If I'm in the right place to capture, you                    |
 | 11:54      | know, into that, then I will absolutely proceed to. But otherwise, I will change things up               |
-| 12:00      | and just switch it straight over to Drafts. So and again, you know, like you, I also occasionally        |
+| 12:00      | and just switch it straight over to [[Drafts]]. So and again, you know, like you, I also occasionally        |
 | 12:08      | capture into OmniFocus, but I've really been trying to not be in OmniFocus as silly as                   |
 | 12:14      | that sounds for actual task completion. Because if I find if I sit in my task manager, then              |
 | 12:19      | I end up, you know, shuffling the deck rather than actually dealing the cards. So yeah,                  |
 | 12:26      | I'm trying to work on capturing and I, you know, I don't want thousands of inboxes. So                   |
-| 12:31      | I I'm pretty much doing that in Drafts, though there are some exceptions, which we will get              |
+| 12:31      | I I'm pretty much doing that in [[Drafts]], though there are some exceptions, which we will get              |
 | 12:37      | to.                                                                                                      |
 | 12:38      | I do think that one of the important things to make a capture system, automated or not                   |
 | 12:45      | automated work is just low resistance. And yes, being able to work on project A and have                 |
@@ -234,13 +234,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 14:54      | Yeah, I just don't trust the HomePod enough yet to do quick capturing it with my voice                  |
 | 15:01      | because too often it gets it wrong. And then it ends up taking you more time. It's so much               |
 | 15:06      | faster, which is kind of curious because my watch is also doing Siri voice to text                       |
-| 15:12      | dictation, but it just seems like it does such a better job capturing straight to Drafts.                |
+| 15:12      | dictation, but it just seems like it does such a better job capturing straight to [[Drafts]].                |
 | 15:17      | And to follow up on your earlier point, I had forgotten that you can get [[Drafts]] for free                    |
 | 15:20      | and the stuff we're talking about for like quick capture, I think the free model is almost               |
 | 15:25      | everything you need. Although of course we're going to improve that with custom actions                  |
 | 15:30      | and things later, which we'll talk about later in the show.                                              |
 | 15:34      | Yes, but yeah, the fundamentally what we're talking about here can be done the free version.             |
-| 15:38      | So if you've if you've been going, I'm not sure about Drafts, then you know, you can                     |
+| 15:38      | So if you've if you've been going, I'm not sure about [[Drafts]], then you know, you can                     |
 | 15:41      | grab the free version for this episode and give it a shot because it does work really,                   |
 | 15:46      | really well.                                                                                             |
 | 15:49      | This episode of Automators is brought to you by Sync Up, a OneDrive podcast. I love finding               |
@@ -261,7 +261,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 16:53      | Go and listen to it now. Just search for Sync Up wherever you get your podcasts. That's                   |
 | 16:57      | S-Y-N-C-U-P, or just click the link in the show notes. Go check it out. Our thanks to                    |
 | 17:03      | Sync Up and Microsoft for their support of this show and all of Relay FM.                                 |
-| 17:07      | All right, so we've convinced you to use Drafts, but we haven't really got into the                      |
+| 17:07      | All right, so we've convinced you to use [[Drafts]], but we haven't really got into the                      |
 | 17:13      | good stuff you can do with [[Drafts]] to make capture more automated. So let's talk about                    |
 | 17:18      | that a little bit. What are you doing with [[Drafts]] as Rosemary Orchard professional automator             |
 | 17:26      | to make that a faster process?                                                                           |
@@ -279,7 +279,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 18:02      | So there's two kinds of things that you can do with this. So if you go into settings,                    |
 | 18:10      | accessibility, back tap, and then you pick either double or triple, then there are system                |
 | 18:15      | actions, there's accessibility actions, there's scroll gestures, and then there's shortcuts.             |
-| 18:20      | Shortcuts, as far as I can tell, at least for something like opening Drafts, need your                   |
+| 18:20      | Shortcuts, as far as I can tell, at least for something like opening [[Drafts]], need your                   |
 | 18:25      | phone to be unlocked, which means that if your phone is in your pocket, your face isn't                  |
 | 18:30      | in your pocket, so it's not going to unlock it.                                                          |
 | 18:35      | And there hopefully are no faces in your pocket for a face ID to falsely detect you once                 |
@@ -307,7 +307,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 19:46      | Well, so you're getting into the app pretty quick.                                                       |
 | 19:49      | The way I do it is I've just got the widget on my, and I have a rotating widget on my                    |
 | 19:55      | home screen.                                                                                             |
-| 19:56      | It's the four shortcuts icons, or if I swipe it, it's Drafts.                                            |
+| 19:56      | It's the four shortcuts icons, or if I swipe it, it's [[Drafts]].                                            |
 | 20:01      | And it's only two, the stack only has two items in it, [[Drafts]] and shortcuts.                             |
 | 20:06      | So I can get to it pretty quickly.                                                                       |
 | 20:08      | And like you, I use the eight button widget.                                                             |
@@ -345,24 +345,24 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 22:09      | kinds.                                                                                                   |
 | 22:10      | I mean, you can go from the very smallest with just inbox to the very largest with so                    |
 | 22:15      | many buttons.                                                                                            |
-| 22:16      | If you've gone all in with Drafts, for instance, making [[Drafts]] your reference system and you've          |
+| 22:16      | If you've gone all in with [[Drafts]], for instance, making [[Drafts]] your reference system and you've          |
 | 22:20      | got a bunch of workspaces, you can access all of them right from the widget.                             |
 | 22:24      | So that is a form of automation, I would argue.                                                          |
 | 22:28      | Yes, absolutely.                                                                                         |
 | 22:30      | And it works really nicely for this too.                                                                 |
 | 22:32      | I've not had any issues with it at all.                                                                  |
-| 22:36      | And I do keep a lot of things in Drafts, which is why I have my own custom inbox, which                  |
+| 22:36      | And I do keep a lot of things in [[Drafts]], which is why I have my own custom inbox, which                  |
 | 22:40      | is everything that isn't tagged because things that stay in [[Drafts]] have got a tag on them.               |
 | 22:47      | And so that allows me to filter things out.                                                              |
 | 22:49      | So I go from thousands of notes to just the notes that need processing, of which there                   |
 | 22:53      | are of course still too many, but I'm working on getting to inbox zero there.                            |
-| 22:58      | Well, like I'm just the opposite with Drafts.                                                            |
+| 22:58      | Well, like I'm just the opposite with [[Drafts]].                                                            |
 | 23:02      | I actually badge the app, which is very rare for me, but I badge it with any inbox items.                |
 | 23:08      | And then when I see the widget, it shows me the count on my inbox, which annoys the heck                 |
 | 23:13      | out of me.                                                                                               |
-| 23:14      | And part of my shutdown procedure every day is going through and emptying the Drafts.                    |
+| 23:14      | And part of my shutdown procedure every day is going through and emptying the [[Drafts]].                    |
 | 23:19      | I think that really is part of the automated capture for me in that I need to at the end                 |
-| 23:23      | of the day empty Drafts.                                                                                 |
+| 23:23      | of the day empty [[Drafts]].                                                                                 |
 | 23:25      | [[Drafts]] is not the spot where these things linger because if I don't get my agreement                     |
 | 23:30      | to make that client contract an OmniFocus, I'm never going to do it.                                    |
 | 23:34      | So it's real important that I process it.                                                                |
@@ -373,28 +373,28 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 23:47      | It's not the end point.                                                                                  |
 | 23:48      | At the very least, you should say, hey, this is a piece of reference material and market                 |
 | 23:53      | as such so that it's distinguishable from all of the other stuff that you have hanging                   |
-| 23:58      | around, which is one of the reasons why I've relatively recently started using Obsidian,                 |
-| 24:05      | which I sing through Dropbox because then I can have things go easily to Obsidian from                   |
+| 23:58      | around, which is one of the reasons why I've relatively recently started using [[Obsidian]],                 |
+| 24:05      | which I sing through Dropbox because then I can have things go easily to [[Obsidian]] from                   |
 | 24:11      | [[Drafts]] because I just save it to a Dropbox folder.                                                       |
 | 24:14      | Or for work, I'm actually saving it to own cloud because [[Drafts]] can do that as well.                     |
-| 24:19      | Obsidian can just point at any folder on your Mac and that works perfectly for work.                     |
+| 24:19      | [[Obsidian]] can just point at any folder on your Mac and that works perfectly for work.                     |
 | 24:23      | So I'm pretty happy about that.                                                                          |
 | 24:24      | Actually, let's talk about that right now because that is an interesting part of the                     |
-| 24:29      | capture process is where you've got these text files that you've saved in Drafts, but                    |
+| 24:29      | capture process is where you've got these text files that you've saved in [[Drafts]], but                    |
 | 24:34      | you've got a particular place you need them to be.                                                       |
 | 24:37      | And depending on the apps you're working with, that really can be an issue.                              |
-| 24:42      | An app that is Dropbox friendly like Obsidian makes it really easy because [[Drafts]] has Dropbox            |
+| 24:42      | An app that is Dropbox friendly like [[Obsidian]] makes it really easy because [[Drafts]] has Dropbox            |
 | 24:48      | systems built in.                                                                                        |
-| 24:49      | The way I use Obsidian is I actually use, because I've got client notes in it, I use                     |
+| 24:49      | The way I use [[Obsidian]] is I actually use, because I've got client notes in it, I use                     |
 | 24:54      | their end-to-end encrypted product, I pay extra, and I have my own password for my data.                 |
 | 24:59      | So if you got on any server, you wouldn't be able to access it.                                          |
-| 25:04      | But what that means is I can't easily write to the cloud with Obsidian data because it's                 |
+| 25:04      | But what that means is I can't easily write to the cloud with [[Obsidian]] data because it's                 |
 | 25:09      | all encrypted.                                                                                           |
 | 25:12      | But the way my data is stored, it's stored locally on my drive on a protected drive.                     |
 | 25:18      | But that drive is not anywhere in the cloud.                                                             |
-| 25:23      | It's off iCloud, it's off Dropbox, but then Obsidian sends it up to a cloud service that                 |
+| 25:23      | It's off iCloud, it's off Dropbox, but then [[Obsidian]] sends it up to a cloud service that                 |
 | 25:29      | they provide for a fee that holds the encrypted data.                                                    |
-| 25:34      | And so for me to write to my Obsidian data on Mac, I actually have end [[Drafts]] save local                 |
+| 25:34      | And so for me to write to my [[Obsidian]] data on Mac, I actually have end [[Drafts]] save local                 |
 | 25:41      | saves of markdown files to that particular folder on my local folder.                                    |
 | 25:46      | I can't do any of the cool Dropbox stuff Rose does, but that's the way I'm able to use the               |
 | 25:52      | app for the stuff I need to use with encryption.                                                         |
@@ -408,8 +408,8 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 26:26      | sensitive, then I think we're going to have a much bigger issue than the fact that we're                 |
 | 26:31      | running 7.4, because it's still supported.                                                               |
 | 26:37      | But I'm just trying to stick with good practices of work stuff goes up here and other stuff              |
-| 26:42      | goes over there, but because I've set things up, so I have inside of my Obsidian folder,                 |
-| 26:49      | I have a folder or instead of my Obsidian vault, which is basically a folder.                            |
+| 26:42      | goes over there, but because I've set things up, so I have inside of my [[Obsidian]] folder,                 |
+| 26:49      | I have a folder or instead of my [[Obsidian]] vault, which is basically a folder.                            |
 | 26:55      | I have a folder called lists, and this contains, surprise, a series of lists.                            |
 | 27:00      | So this is stuff like TV shows to watch, books to read, things like that.                                |
 | 27:04      | And I am constantly experimenting with where these things go, but at the moment I'm really               |
@@ -422,7 +422,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 27:43      | in that for my personal stuff, I can use Dropbox.                                                        |
 | 27:46      | And so I love it, because that works, and it means that I both captured to the right                     |
 | 27:53      | place, but then when I'm looking for the data, it's going to be really easy to find.                     |
-| 27:58      | And of course, because I'm using Dropbox, I'm not married to Obsidian, I can then just                   |
+| 27:58      | And of course, because I'm using Dropbox, I'm not married to [[Obsidian]], I can then just                   |
 | 28:02      | open the entire folder in [[BBEdit]] or Nova or something else if I want to.                                 |
 | 28:09      | And I can, of course, open individual files anytime, and I can even get stuff with shortcuts,            |
 | 28:13      | which is pretty handy.                                                                                   |
@@ -432,7 +432,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 28:26      | it all in one place.                                                                                     |
 | 28:28      | And so I'll err on the side of caution, just make it all encrypted.                                      |
 | 28:32      | But the point you made there, I think, which is helpful for automators, is you're capturing              |
-| 28:37      | with Drafts.                                                                                             |
+| 28:37      | with [[Drafts]].                                                                                             |
 | 28:38      | Well, it's great.                                                                                        |
 | 28:40      | [[Drafts]] is great.                                                                                         |
 | 28:41      | Like I said earlier, you open it, you can just dictate right into it and get it out.                     |
@@ -460,14 +460,14 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 29:47      | It then has a list of things like prompts or what did we discuss?                                        |
 | 29:52      | What are my action items following it?                                                                   |
 | 29:55      | All this stuff, I can just write that in and then I press one button and it saves that                   |
-| 30:00      | out as a markdown file to what's in essence my inbox and Obsidian and that gets synced                   |
+| 30:00      | out as a markdown file to what's in essence my inbox and [[Obsidian]] and that gets synced                   |
 | 30:06      | through the end and encrypted, you know, encryption.                                                     |
 | 30:09      | And it just happens that fast and it's just awesome, you know, and I really find that                    |
 | 30:16      | the ability to create these custom actions can make your capture so much more efficient                  |
 | 30:21      | and accurate.                                                                                            |
 | 30:22      | Yes.                                                                                                     |
 | 30:24      | And that's the thing, you know, I've done some little tweaks.                                            |
-| 30:27      | So usually the way if you share something from Safari to Drafts, it would usually create                 |
+| 30:27      | So usually the way if you share something from Safari to [[Drafts]], it would usually create                 |
 | 30:32      | a markdown link with the title of the page as the name of the link, the URL and brackets                 |
 | 30:39      | and then a quote and the quote would be whatever selected.                                               |
 | 30:42      | And if you've got nothing selected, you end up with this empty quote mark.                               |
@@ -491,35 +491,35 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 31:59      | And then under that, it's got the URL format because I like that that will, you know, it                 |
 | 32:06      | doesn't necessarily get parsed when I send it to OmniFocus, it's just, it's plain text,                  |
 | 32:13      | but I can read it, it's marked down, marked down as plain text works really well.                        |
-| 32:17      | And then if it's in Obsidian and I'm using the preview, then of course it's nicely clickable.            |
+| 32:17      | And then if it's in [[Obsidian]] and I'm using the preview, then of course it's nicely clickable.            |
 | 32:22      | And then underneath that, there's a selection, but I changed that because that works better              |
 | 32:25      | with my workflow.                                                                                        |
 | 32:26      | And that's, I think, the key part of Capture.                                                            |
 | 32:29      | You need to have, or automate a Capture, you need to tweak your tools to work for you.                   |
 | 32:34      | Yeah, I have so many text entry templates and [[Drafts]] where things are going to maybe                     |
-| 32:39      | go into day one or Obsidian or even maybe an OmniFocus task, but I customise everything                  |
+| 32:39      | go into day one or [[Obsidian]] or even maybe an OmniFocus task, but I customise everything                  |
 | 32:47      | in the template forms in [[Drafts]] so I can do as much of the work automatically without                    |
 | 32:52      | me having to type in.                                                                                    |
 | 32:54      | Which is so useful using this text, it's just not a difficult action at all.                             |
 | 32:59      | The trick is you save it, if it's where it's sitting, you save it as a markdown file, maybe              |
 | 33:03      | some other places you save it as text.                                                                   |
 | 33:06      | Another thing is like one wrinkle on this for me is if I'm on my Mac, I can save it directly             |
-| 33:11      | to the Obsidian file, but if I'm on my iOS device, I can't because I don't have access                   |
+| 33:11      | to the [[Obsidian]] file, but if I'm on my iOS device, I can't because I don't have access                   |
 | 33:17      | to it because of the ended encryption, so I save it to a particular folder and then                      |
 | 33:22      | I've got [[Hazel]] doing work on the Mac to get it to the right place.                                       |
 | 33:28      | That's the most complicated way you could do it.                                                         |
 | 33:30      | That's only because I've added all this end-to-end nonsense.                                             |
 | 33:34      | If you're just doing it in Dropbox, it would be easier.                                                  |
 | 33:39      | But create some actions.                                                                                 |
-| 33:40      | I've got a whole list of them for Obsidian entries, so if I come across a website and                    |
+| 33:40      | I've got a whole list of them for [[Obsidian]] entries, so if I come across a website and                    |
 | 33:46      | I want to write a blog post about it, I push out a shortcut that opens a draft where it                  |
 | 33:56      | saves the name of the post, the URL in a summary, and then from there, I may write the post              |
-| 34:02      | or just save it into Obsidian and write the post there.                                                  |
+| 34:02      | or just save it into [[Obsidian]] and write the post there.                                                  |
 | 34:05      | But the whole thing is just quick capture, getting the data I need, and moving on.                       |
 | 34:11      | Yeah.                                                                                                    |
 | 34:12      | Yeah.                                                                                                    |
 | 34:13      | And that's the thing, it's about being able to do this really, really quickly.                           |
-| 34:17      | So a lot of the time, I will share it directly to Drafts, but whenever I want a specific                 |
+| 34:17      | So a lot of the time, I will share it directly to [[Drafts]], but whenever I want a specific                 |
 | 34:22      | format, it's been very, very easy for me to either write a draft section, which takes,                   |
 | 34:29      | it parses what's in the draft and manipulates that to be whatever I want.                                |
 | 34:36      | Or most of the time, like you, I write shortcuts.                                                        |
@@ -538,7 +538,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 35:24      | I will say that my code is not the best, but it was something I wrote quickly and it works.              |
 | 35:29      | But a lot of the time now, I find that I'm using handoff to pick up the Safari page on                   |
 | 35:35      | my iPhone.                                                                                               |
-| 35:36      | And then I send it to shortcuts, which manipulate stuff and chucks it into Drafts.                       |
+| 35:36      | And then I send it to shortcuts, which manipulate stuff and chucks it into [[Drafts]].                       |
 | 35:41      | It adds an extra step, but I've then got everything in the format that I desire on my phone or           |
 | 35:51      | in [[Drafts]] specifically so that I can then send it wherever I need it to go.                              |
 | 35:55      | Yeah.                                                                                                    |
@@ -589,13 +589,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 38:38      | They are a great intersection in many, many ways.                                                        |
 | 38:42      | Either way, [[Drafts]] actions are, to me, the secret sauce of automating capture.                           |
 | 38:50      | Because you just create a whole bunch of these templates.                                                |
-| 38:54      | I even do it for the templates, like Obsidian has a built-in template system, which is also              |
-| 39:00      | kind of automated capture if you want it to be, but I'm not necessarily in Obsidian all                  |
+| 38:54      | I even do it for the templates, like [[Obsidian]] has a built-in template system, which is also              |
+| 39:00      | kind of automated capture if you want it to be, but I'm not necessarily in [[Obsidian]] all                  |
 | 39:05      | the time.                                                                                                |
 | 39:06      | And so I've recreated those all in [[Drafts]] with [[Drafts]] quick capture templates.                           |
 | 39:12      | And I've just got a whole menu of them and I can pick any one of them.                                   |
-| 39:15      | So if I'm laying in bed and I think of something I want to capture, I'll just open up Drafts,            |
-| 39:21      | pick the appropriate Obsidian template and dictate into it.                                              |
+| 39:15      | So if I'm laying in bed and I think of something I want to capture, I'll just open up [[Drafts]],            |
+| 39:21      | pick the appropriate [[Obsidian]] template and dictate into it.                                              |
 | 39:24      | And all this stuff is just, the trick is putting a little time in the head of time.                      |
 | 39:30      | So when that moment of inspiration hits you, you can get that idea captured with the least               |
 | 39:37      | amount of friction.                                                                                      |
@@ -616,11 +616,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 40:37      | content that corrects your spelling and keeps your language consistent with a few keystrokes.            |
 | 40:43      | TextExpander is on all of the Apple platforms as well as Windows, and I find so many uses                |
 | 40:49      | for it.                                                                                                  |
-| 40:50      | We're talking a lot today about Drafts, but did you know [[Drafts]] has built-in TextExpander                |
+| 40:50      | We're talking a lot today about [[Drafts]], but did you know [[Drafts]] has built-in TextExpander                |
 | 40:54      | support?                                                                                                 |
-| 40:55      | That's right, you can expand your snippets right in Drafts, so you get all the benefit                   |
-| 40:59      | of TextExpander with that quick capture we're talking about today in Drafts.                             |
-| 41:04      | That's one of my secrets to getting the most out of Drafts.                                              |
+| 40:55      | That's right, you can expand your snippets right in [[Drafts]], so you get all the benefit                   |
+| 40:59      | of TextExpander with that quick capture we're talking about today in [[Drafts]].                             |
+| 41:04      | That's one of my secrets to getting the most out of [[Drafts]].                                              |
 | 41:08      | If you haven't tried TextExpander yet, you should do so.                                                 |
 | 41:11      | There's no better time than now, because the Automator's listeners get 20% off their                     |
 | 41:15      | first year.                                                                                              |
@@ -693,7 +693,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 45:29      | I mean, rather than going to specific apps.                                                              |
 | 45:31      | Yeah.                                                                                                    |
 | 45:32      | Yeah.                                                                                                    |
-| 45:33      | Because you can say, hey, Apple Lady, create a note in Drafts.                                           |
+| 45:33      | Because you can say, hey, Apple Lady, create a note in [[Drafts]].                                           |
 | 45:40      | But that's more words than, well, it's actually the same number of words as remind me to,                |
 | 45:46      | or pretty much.                                                                                          |
 | 45:48      | But I just find that remind me to is easy syntax.                                                        |
@@ -793,13 +793,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 51:14      | this is really annoying.                                                                                 |
 | 51:16      | That is one of the cheapest iOS devices that I can purchase that will make my life easier.               |
 | 51:20      | So I am the proud owner of a gold iPod touch sitting here on my desk, um, which is just                  |
-| 51:27      | running push cut automation server, shortcuts, Drafts, due, um, and a couple of other apps,              |
+| 51:27      | running push cut automation server, shortcuts, [[Drafts]], due, um, and a couple of other apps,              |
 | 51:32      | uh, like Scriptable, um, Toolbox Pro, things like that.                                                  |
 | 51:36      | Anything that basically allows my, my automations to work magically.                                     |
 | 51:40      | So I've got an automation set up that whenever the due app opens, it waits 10 seconds on                 |
 | 51:44      | the open shortcuts, um, and I also have, uh, similar things actually for several other                   |
 | 51:49      | applications, including the Eve app, uh, because that opens periodically to make sure that               |
-| 51:54      | all of my data is grabbed, um, uh, because when we talked to Merlin Man on the show,                     |
+| 51:54      | all of my data is grabbed, um, uh, because when we talked to Merlin Mann on the show,                     |
 | 51:58      | he said, you know, sometimes you just lose data from the Eve app.                                        |
 | 52:01      | So I've got it just opening periodically on this iPhone, uh, so that I always have that                  |
 | 52:05      | data.                                                                                                    |
@@ -816,12 +816,12 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 52:49      | still in beta, but most of the time those things aren't running through Pushcut anyway.                |
 | 52:53      | All right.                                                                                               |
 | 52:54      | So on behalf of the audience and myself, can I ask that you share your shortcut where you're             |
-| 52:58      | just so I can see the steps, uh, for getting the things to, um, to Drafts?                               |
+| 52:58      | just so I can see the steps, uh, for getting the things to, um, to [[Drafts]]?                               |
 | 53:03      | Yes.                                                                                                     |
 | 53:04      | Yes.                                                                                                     |
 | 53:05      | The link for that will indeed be in the show notes.                                                      |
 | 53:07      | Well, that's, that's really clever as I don't do any of that stuff.                                      |
-| 53:10      | Honestly, I, I, I, uh, lift my wrist to my, my, my mouth and I talk into Drafts.                         |
+| 53:10      | Honestly, I, I, I, uh, lift my wrist to my, my, my mouth and I talk into [[Drafts]].                         |
 | 53:17      | That's, and everything goes in, let's go in there and everything.                                        |
 | 53:20      | And to tell you the truth, I have so few time related, like do short cause that, like I've               |
 | 53:26      | got like in due right now, I've got every, after remind myself every Thursday night to                   |
@@ -887,7 +887,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 57:17      | I mean, just grab a screenshot when I have, you know, three or four messages with the                    |
 | 57:22      | client, I'll save it.                                                                                    |
 | 57:24      | And then I've got automation involved with save to file where it's putting it in a very                  |
-| 57:28      | specific place on iCloud, and I can put links to it if I want in Obsidian and do other kinds             |
+| 57:28      | specific place on iCloud, and I can put links to it if I want in [[Obsidian]] and do other kinds             |
 | 57:35      | of things with it.                                                                                       |
 | 57:36      | But my ultimate solution for a quick capture of text messages is this screenshot.                        |
 | 57:43      | What are you doing?                                                                                      |
@@ -1150,13 +1150,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:13:56   | that somewhat automates that.                                                                            |
 | 01:13:59   | Yeah.                                                                                                    |
 | 01:14:00   | The only thing I'll say here is usually our default Mac recommendation for automating                    |
-| 01:14:05   | stuff would be Keyboard Maestro.                                                                         |
-| 01:14:07   | However, in this particular case, Keyboard Maestro can't do this.                                        |
-| 01:14:11   | And Keyboard Maestro doesn't have as many options available to it as Automator does.                     |
+| 01:14:05   | stuff would be [[Keyboard Maestro]].                                                                         |
+| 01:14:07   | However, in this particular case, [[Keyboard Maestro]] can't do this.                                        |
+| 01:14:11   | And [[Keyboard Maestro]] doesn't have as many options available to it as Automator does.                     |
 | 01:14:16   | It's only got two macros or two actions, whereas Automator has several.                                  |
 | 01:14:23   | So if you need to upgrade from Automator, you are going to be looking at AppleScript                     |
 | 01:14:27   | pretty much, and that is going to be, you know, your process.                                            |
-| 01:14:33   | Now you could probably use Keyboard Maestro's click-it image to find the drop-down arrow                 |
+| 01:14:33   | Now you could probably use [[Keyboard Maestro]]'s click-it image to find the drop-down arrow                 |
 | 01:14:42   | next to the person in the to field and click that, and then click search for person.                     |
 | 01:14:51   | But I think that's going to be a pretty hacky way of doing it.                                           |
 | 01:14:54   | So I would recommend sticking to it manually unless you can find an AppleScript that solves              |
@@ -1257,20 +1257,20 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:21:20   | Yeah, yeah, and that's the thing.                                                                        |
 | 01:21:22   | You have to figure out where the balance lies for you.                                                   |
 | 01:21:26   | And for me, I decided that in this particular case, what I like about this is I can trigger              |
-| 01:21:30   | it from a shortcut, I can trigger it from Drafts, I can trigger it from [[Airmail]] through                  |
+| 01:21:30   | it from a shortcut, I can trigger it from [[Drafts]], I can trigger it from [[Airmail]] through                  |
 | 01:21:36   | shortcuts, and all sorts of things.                                                                      |
 | 01:21:40   | So I've got it set up so that then I don't have to create hundreds of almost identical                   |
 | 01:21:46   | automations on my side, and it means that if we ever change something and add an extra                   |
 | 01:21:50   | status or remove a status, then I can easily renumber that step, and I do that once, and                 |
 | 01:21:57   | then all of the automations have been updated, which works really nicely.                                |
-| 01:22:00   | Well, I'll tell you what I've been having fun automating lately is the word Obsidian                     |
+| 01:22:00   | Well, I'll tell you what I've been having fun automating lately is the word [[Obsidian]]                     |
 | 01:22:06   | had come up way too many times in today's show.                                                          |
 | 01:22:09   | But as I continue to dig in with it as my PKM solution, the addition of their end-to-end                 |
 | 01:22:16   | encryption made it possible for me to use the app the way I wanted to use it.                            |
 | 01:22:21   | But it's an electron app, and as we record, it's on the Mac only, but their mobile apps                  |
 | 01:22:27   | are very, very shortly coming.                                                                           |
 | 01:22:29   | But wanting to automate an electron app has got its own unique set of challenges.                        |
-| 01:22:35   | A lot of the stuff I would typically do in Keyboard Maestro doesn't work with an electron                |
+| 01:22:35   | A lot of the stuff I would typically do in [[Keyboard Maestro]] doesn't work with an electron                |
 | 01:22:38   | app.                                                                                                     |
 | 01:22:40   | Even stuff like dictation tools often break with electron apps.                                          |
 | 01:22:45   | So I've had a good time and a challenge, kind of figuring out what I can and cannot automate             |
@@ -1340,12 +1340,12 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:27:01   | one that this is great for is Microsoft Word, because there's a whole bunch of weird stuff               |
 | 01:27:05   | you can do with Word, like sharing [[Drafts]] as PDF, and things that require a lot of clicks                |
 | 01:27:10   | to get to, and they don't even have shortcuts.                                                           |
-| 01:27:12   | I've been able to map using Keyboard Maestro and choose from menu item in Keyboard Maestro.              |
-| 01:27:20   | That's like a very simple command in Keyboard Maestro, but you can go many layers deep                   |
-| 01:27:24   | in submenus and get features added to a Keyboard Maestro script.                                         |
+| 01:27:12   | I've been able to map using [[Keyboard Maestro]] and choose from menu item in [[Keyboard Maestro]].              |
+| 01:27:20   | That's like a very simple command in [[Keyboard Maestro]], but you can go many layers deep                   |
+| 01:27:24   | in submenus and get features added to a [[Keyboard Maestro]] script.                                         |
 | 01:27:29   | And then there is a third-party plugin for the Stream Deck called KMLink.                                |
 | 01:27:35   | I want to say TJ turned me on to this, but I'm not sure who turned me on to it.                          |
-| 01:27:40   | But the thing I like about that over the native Keyboard Maestro integration is that once                |
+| 01:27:40   | But the thing I like about that over the native [[Keyboard Maestro]] integration is that once                |
 | 01:27:45   | you put a KMLink script on your Stream Deck, you can move it around.                                     |
 | 01:27:51   | You can drag it to different places on the Stream Deck and the Stream Deck app and not                   |
 | 01:27:57   | have to remap it, because with the built-in one, you have to map it to a particular button.              |

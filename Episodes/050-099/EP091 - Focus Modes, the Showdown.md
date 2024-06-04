@@ -526,7 +526,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 30:49      | in your user's applications folder.                                                                     |
 | 30:51      | It does not put them in the global applications folder available to everyone.                           |
 | 30:54      | It's for your specific user, but that then makes that shortcut available to all of the                  |
-| 31:00      | other apps like Alfred, Bunch, and so on and so forth.                                                  |
+| 31:00      | other apps like [[Alfred]], Bunch, and so on and so forth.                                                  |
 | 31:04      | And this is a great way to add ways to trigger shortcuts to any of your automations on the              |
 | 31:11      | Mac because keep up my stroke and run these applications because they are essentially                   |
 | 31:15      | just saying, hey, I'm going to run a shortcut now, and that's it.                                       |
@@ -934,7 +934,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 56:29      | I can do that with a custom perspective.                                                                |
 | 56:32      | It shows a version of a Fantastical that gives me a list of my events for the day.                      |
 | 56:38      | It puts a lot of my work-related apps right on the screen for me, like Slack, I work in                 |
-| 56:44      | a lot, Basecamp, I work in a lot, Obsidian, and then Drafts.                                            |
+| 56:44      | a lot, Basecamp, I work in a lot, [[Obsidian]], and then [[Drafts]].                                            |
 | 56:47      | So a bunch of apps show up that I generally use for this stuff.                                         |
 | 56:52      | And now in terms of the permissions that I give through work mode, this is one where                    |
 | 56:58      | I do allow VIPs through.                                                                                |
@@ -1077,7 +1077,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:05:41   | home screen came out here.                                                                              |
 | 01:05:42   | Let me turn it on so I can just show you.                                                               |
 | 01:05:44   | Maybe we'll figure out a way to share some of these home screens.                                       |
-| 01:05:47   | But I've got the audible Kindle, I've got Obsidian and day one here, because I actually take            |
+| 01:05:47   | But I've got the audible Kindle, I've got [[Obsidian]] and day one here, because I actually take            |
 | 01:05:55   | notes sometimes on books in different contexts.                                                         |
 | 01:05:57   | I've got the Apple Books app.                                                                           |
 | 01:05:58   | Do you know the Apple Books app does not have a widget?                                                 |
@@ -1211,7 +1211,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:13:18   | quick note.                                                                                             |
 | 01:13:19   | Daisy's a deep sleeper, so it doesn't bother her either way.                                            |
 | 01:13:22   | And then I can go back to sleep.                                                                        |
-| 01:13:23   | So I've, it's like in case of emergency, press button inbox to Drafts, you know, and                    |
+| 01:13:23   | So I've, it's like in case of emergency, press button inbox to [[Drafts]], you know, and                    |
 | 01:13:29   | all right.                                                                                              |
 | 01:13:30   | You've given me an idea here, David.                                                                    |
 | 01:13:31   | I'm officially modifying my, um, my, my sleep, um, uh, home screen right now, right at the              |
@@ -1357,7 +1357,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:24:16   | friendly because they're automating things, you know, like it would be so difficult to                  |
 | 01:24:21   | go in and change notification settings every time you go from working on your day job to,               |
 | 01:24:27   | you know, wanting to be, you know, a gamer or going to ballet, right?                                   |
-| 01:24:31   | Yeah. I heard Gray talking about this very problem on Cortex a while ago, and then focus                |
+| 01:24:31   | Yeah. I heard Gray talking about this very problem on [[Cortex]] a while ago, and then focus                |
 | 01:24:37   | modes came along and that pretty much solved the problem for him. And I feel, you know,                 |
 | 01:24:42   | a lot of us can do with without certain notifications at certain times of day. So it's great that       |
 | 01:24:48   | we now have this as an option. And also that they built so much automation into the focus               |

@@ -400,23 +400,23 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 20:34      | there you go.                                                                                          |
 | 20:35      | That's it.                                                                                             |
 | 20:36      | That's a tip for you today.                                                                            |
-| 20:37      | You know, honestly, what I'd like is for the shortcuts team just to use Keyboard Maestro               |
+| 20:37      | You know, honestly, what I'd like is for the shortcuts team just to use [[Keyboard Maestro]]               |
 | 20:40      | for a week.                                                                                            |
 | 20:41      | I mean, and you know, I'm kind of flipping about that.                                                 |
 | 20:46      | The people on shortcuts and they're really smart.                                                      |
 | 20:48      | They know all this stuff, but you know, it's just priorities and time.                                 |
-| 20:51      | But you know, Keyboard Maestro has the ability to fold up blocks so you can fold them up               |
+| 20:51      | But you know, [[Keyboard Maestro]] has the ability to fold up blocks so you can fold them up               |
 | 20:56      | so you don't have to do that.                                                                          |
 | 20:58      | They have the ability to lock blocks and they have the ability to colour code blocks.                   |
 | 21:03      | And for anybody that makes long shortcuts, those three items together are what makes                   |
 | 21:09      | it easy.                                                                                               |
-| 21:10      | You know, like I, I have some very long Keyboard Maestro scripts that do text replacement in           |
+| 21:10      | You know, like I, I have some very long [[Keyboard Maestro]] scripts that do text replacement in           |
 | 21:15      | Microsoft Word.                                                                                        |
 | 21:16      | And, uh, I just have the top block of each section is orange and it's mixed.                           |
 | 21:21      | So easy for me to get through, manage that and not screw it up as I'm working on that                  |
 | 21:25      | script.                                                                                                |
 | 21:26      | Whereas with, um, you know, shortcuts, it's kind of the wild west still.                               |
-| 21:29      | Well, you know what else exists in Keyboard Maestro, it's not in shortcuts.                            |
+| 21:29      | Well, you know what else exists in [[Keyboard Maestro]], it's not in shortcuts.                            |
 | 21:34      | Copy and paste.                                                                                        |
 | 21:35      | Yes.                                                                                                   |
 | 21:36      | Yes.                                                                                                   |
@@ -841,7 +841,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 47:19      | Yeah.                                                                                                  |
 | 47:20      | Yeah.                                                                                                  |
 | 47:21      | See, I have a very simple solution to all of this.                                                     |
-| 47:24      | I use Drafts, which has universally unique IDs for every draft.                                        |
+| 47:24      | I use [[Drafts]], which has universally unique IDs for every draft.                                        |
 | 47:28      | And when I need to, I store those IDs either in air table or in Data Jar or in some cases              |
 | 47:34      | both.                                                                                                  |
 | 47:35      | Yes.                                                                                                   |
@@ -858,7 +858,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 47:55      | Yeah.                                                                                                  |
 | 47:56      | As David said, if you're starting notes in iOS, the correct way is using what they've                  |
 | 48:02      | said for about ISO 8601 for dates.                                                                     |
-| 48:05      | If you're starting notes in iOS, the best, the correct way is the Drafts.                              |
+| 48:05      | If you're starting notes in iOS, the best, the correct way is the [[Drafts]].                              |
 | 48:09      | Yes.                                                                                                   |
 | 48:10      | Yeah.                                                                                                  |
 | 48:11      | No kidding.                                                                                            |

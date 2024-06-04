@@ -853,31 +853,31 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 55:43      | And that's something anybody can do with a little bit of investment of time.                             |
 | 55:47      | Definitely.                                                                                              |
 | 55:48      | And this actually brings to mind something that I was experimenting with today.                          |
-| 55:52      | I have a fairly large library of Keyboard Maestro macros and I didn't have time when I was playing       |
+| 55:52      | I have a fairly large library of [[Keyboard Maestro]] macros and I didn't have time when I was playing       |
 | 55:58      | with this today to really convert all of those to AppleScripts.                                         |
 | 56:03      | Some of them probably should be AppleScripts, most of them can be AppleScripts.                        |
-| 56:07      | But what I did is I used AppleScript to run my Keyboard Maestro macros because that's                   |
+| 56:07      | But what I did is I used AppleScript to run my [[Keyboard Maestro]] macros because that's                   |
 | 56:12      | three lines of AppleScript and I then didn't actually have to write any AppleScript because            |
-| 56:18      | I already had these in my Keyboard Maestro macros.                                                       |
+| 56:18      | I already had these in my [[Keyboard Maestro]] macros.                                                       |
 | 56:21      | And this also lets me do some things with some apps which maybe don't have AppleScript                  |
 | 56:26      | support because I have to click it images and things like that.                                          |
 | 56:29      | And I can use all of these features from this accessibility pane on my iPad now through                  |
-| 56:35      | Keyboard Maestro.                                                                                        |
+| 56:35      | [[Keyboard Maestro]].                                                                                        |
 | 56:36      | And it's actually really good.                                                                           |
 | 56:37      | And for anybody interested, I'll try and make sure the link is in the show notes of how                  |
-| 56:41      | to run a Keyboard Maestro macro through AppleScript.                                                    |
+| 56:41      | to run a [[Keyboard Maestro]] macro through AppleScript.                                                    |
 | 56:45      | There are two ways of doing it.                                                                          |
 | 56:46      | You can either call it with the name or call it with the ID of the macro, but it's very                  |
 | 56:50      | simple to do.                                                                                            |
-| 56:51      | And so if you've already got stuff in Keyboard Maestro, that's something that you can do                 |
+| 56:51      | And so if you've already got stuff in [[Keyboard Maestro]], that's something that you can do                 |
 | 56:56      | and I know a lot of people have been playing with things like a Stream Deck recently.                    |
 | 56:59      | But this, if you already have an iPad, it's a free alternative.                                          |
 | 57:03      | So it's definitely worth giving it a try.                                                                |
 | 57:05      | Yeah, if you're going to set this up, you can not only run AppleScripts, you can run                    |
-| 57:09      | Keyboard Maestro scripts off a button on your iPad that drives on your Mac.                              |
+| 57:09      | [[Keyboard Maestro]] scripts off a button on your iPad that drives on your Mac.                              |
 | 57:14      | I mean, it's great.                                                                                      |
 | 57:16      | And the nice thing about that is you get the contextual sensitivity.                                     |
-| 57:19      | So you can say, when I open pages, give me all my Keyboard Maestro pages scripts or my                   |
+| 57:19      | So you can say, when I open pages, give me all my [[Keyboard Maestro]] pages scripts or my                   |
 | 57:26      | text writing scripts.                                                                                    |
 | 57:28      | And then suddenly your iPad reformats itself to give you those buttons, whereas when you                 |
 | 57:33      | go over to numbers, you get a different set of buttons.                                                  |
@@ -933,7 +933,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:00:41   | the icons.                                                                                               |
 | 01:00:42   | You can go on a Google images search, they're almost all there, or you can just go into the              |
 | 01:00:46   | applications, right click on it, and pull it out, or in fact, I wrote one of the first                   |
-| 01:00:52   | [[AppleScript]]s I ever wrote years ago in your class was an [[AppleScript]] to pull the application           |
+| 01:00:52   | [[AppleScript\|AppleScripts]] I ever wrote years ago in your class was an [[AppleScript]] to pull the application           |
 | 01:00:58   | icon out of the resources file.                                                                          |
 | 01:01:00   | Yeah.                                                                                                    |
 | 01:01:01   | There's so many ways to do this stuff.                                                                   |
@@ -1115,19 +1115,19 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:13:28   | and expressive and they come up with some great ideas and everybody's always willing                     |
 | 01:13:33   | to share what they have.                                                                                 |
 | 01:13:35   | And I'm always amazed at some of the integration that they've been able to do with other applications    |
-| 01:13:41   | like Drafts.                                                                                             |
+| 01:13:41   | like [[Drafts]].                                                                                             |
 | 01:13:44   | And it's just remarkable the tools that they've created using JavaScript where they're communicating     |
 | 01:13:51   | between all of these different applications and the Omni apps, too, as well.                              |
 | 01:13:56   | It's just remarkable.                                                                                    |
 | 01:13:58   | It is.                                                                                                   |
 | 01:13:59   | It really is.                                                                                            |
 | 01:14:00   | And I mean, so you talked about your packing lists earlier, I've created a whole action                  |
-| 01:14:05   | group for doing my packing lists and Drafts, which I've been working on enhancing a little               |
+| 01:14:05   | group for doing my packing lists and [[Drafts]], which I've been working on enhancing a little               |
 | 01:14:10   | bit today as well, because that's what I do in my spare time, apparently.                                |
 | 01:14:15   | But the other thing with all of the Omni Automation stuff is they're using JavaScript, well,[[Drafts]]      |
 | 01:14:20   | also uses JavaScript and Scriptable uses JavaScript.                                                     |
 | 01:14:23   | So if you start learning JavaScript for automation purposes, then suddenly, instead of being able        |
-| 01:14:28   | to automate just Drafts, you can also use Scriptable.                                                    |
+| 01:14:28   | to automate just [[Drafts]], you can also use Scriptable.                                                    |
 | 01:14:32   | You can use four Omni Group apps and whatever other apps that are out there that can use                  |
 | 01:14:37   | JavaScript as well, because it's very similar.                                                           |
 | 01:14:41   | Like AppleScript, you need to read a library, but you can get kind of crazy with this stuff.             |
@@ -1182,7 +1182,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:18:22   | show, or do we just give it a whole show?                                                                |
 | 01:18:26   | And we were right, it needed a whole show, because this is excellent, and I would encourage              |
 | 01:18:31   | people, even if you think, oh, scripting, no.                                                            |
-| 01:18:33   | Remember, you can trigger a Keyboard Maestro scripts with just three lines of AppleScript,              |
+| 01:18:33   | Remember, you can trigger a [[Keyboard Maestro]] scripts with just three lines of AppleScript,              |
 | 01:18:39   | and you can copy and paste so much from all the websites out there that you don't need                   |
 | 01:18:43   | to know how to script by yourself.                                                                       |
 | 01:18:45   | You can just put it all together, and it works.                                                          |

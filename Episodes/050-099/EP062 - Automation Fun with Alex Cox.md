@@ -109,7 +109,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 04:07      | all it really takes. Once you get there, you are an automator. You've already arrived. Now,             |
 | 04:12      | it's just a question of how far down the rabbit hole do you go. But I think just having that            |
 | 04:18      | awareness is really all it takes. Yeah, someone once said to me, and then I heard it repeated,          |
-| 04:25      | I think to [[Mike Hurley]], maybe it was one of you, it's like, sure, you're not a programmer, but          |
+| 04:25      | I think to [[Myke Hurley]], maybe it was one of you, it's like, sure, you're not a programmer, but          |
 | 04:31      | you're an automator, because it's kind of like someone has given me a bunch of Lego and Tinkertoy,      |
 | 04:40      | and then Mega Blocks. And so there's all these different tools that don't necessarily                   |
 | 04:47      | play together perfectly. But if you build it the right way, you can make some sort of                   |
@@ -132,9 +132,9 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 06:41      | in a while, someone would mention just a cool thing that was happening, right? And then I would         |
 | 06:47      | do a deep dive of like, okay, how does this actually work? And then after discovering Brett             |
 | 06:53      | Terpstra, one day I'll get his name right, discovering his work. And of course, our mutual              |
-| 07:00      | friend, Merlin Man, it was kind of the thing of like, they're okay, there are more blocks to            |
+| 07:00      | friend, Merlin Mann, it was kind of the thing of like, they're okay, there are more blocks to            |
 | 07:06      | build with. But also now there's a lot more duct tapes that I can actually see what I'm putting         |
-| 07:12      | together. And my main duct tape right now is shortcuts and the app Drafts, which I'm sure               |
+| 07:12      | together. And my main duct tape right now is shortcuts and the app [[Drafts]], which I'm sure               |
 | 07:20      | we're going to get into. But so much of the automation I use is literally just a cut in                 |
 | 07:27      | paste. And then finding that one, I wouldn't even know the one variable that I need to change to        |
 | 07:36      | make it work with my calendar or something like that. Yeah. No, that's totally true. And both of        |
@@ -291,8 +291,8 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 22:38      | Dropbox or iCloud. Learn more about PDFpen and PDFpen Pro at smilesoftware.com/podcast.           |
 | 22:47      | Once again, that's smilesoftware.com/podcast and let them know you heard about it on the          |
 | 22:52      | automators. Our thanks to PDFpen from Smile for their support of this show and relay FM.                |
-| 22:58      | Alex, earlier you said a word that piqued my interest, and that's, of course, Drafts.                   |
-| 23:06      | You're doing automation and Drafts. Tell us what you're doing.                                          |
+| 22:58      | Alex, earlier you said a word that piqued my interest, and that's, of course, [[Drafts]].                   |
+| 23:06      | You're doing automation and [[Drafts]]. Tell us what you're doing.                                          |
 | 23:10      | I don't want to say everything because that makes it sound like I'm competent.                          |
 | 23:17      | [[Drafts]] is, if folks don't know, which I can't imagine if you've listened to the show,                   |
 | 23:21      | it's sold as where text starts. It's an app for iOS and macOS, but for me, it's almost                  |
@@ -300,8 +300,8 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 23:42      | everywhere and anywhere. Where I do work and meeting notes or show notes for podcasts or                |
 | 23:50      | perhaps writing the manual for my home, which I do indeed have for when people used to have to          |
 | 23:58      | house it. It's also the place where my brain starts. That used to be what OmniFocus was for             |
-| 24:09      | me, and I still adore OmniFocus. Everything and anything I put into Drafts, I can put into              |
-| 24:16      | somewhere else because of the wonderful Drafts, what's it called? The [[Drafts]] action directory,          |
+| 24:09      | me, and I still adore OmniFocus. Everything and anything I put into [[Drafts]], I can put into              |
+| 24:16      | somewhere else because of the wonderful [[Drafts]], what's it called? The [[Drafts]] action directory,          |
 | 24:23      | which has a bajillion, I believe is the correct number, of things that have been put there,             |
 | 24:32      | actions that have been put there by users, so that there's something that can change                    |
 | 24:38      | something, not just into markdown, but a specific weird form of markdown and                            |
@@ -310,9 +310,9 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 25:00      | Orchards, the packing list that you did on your traveling episode. It's a lifesaver. Right now,         |
 | 25:09      | actually, I just started playing with this group of actions and workspace called ThoughtAsylum,        |
 | 25:17      | which I kind of enjoy because that's sort of how my brain feels at some points.                         |
-| 25:24      | It's kind of an app within Drafts. It's hard for me to explain, and I'll get the link for               |
+| 25:24      | It's kind of an app within [[Drafts]]. It's hard for me to explain, and I'll get the link for               |
 | 25:34      | show notes, but it's sort of like, all right, we're going to remove another level of your thinking      |
-| 25:41      | so that you can do all of that within Drafts. Yeah, ThoughtAsylum also, they have this suite           |
+| 25:41      | so that you can do all of that within [[Drafts]]. Yeah, ThoughtAsylum also, they have this suite           |
 | 25:48      | for [[Drafts]] that they introduced in, I believe, at the end of September, but they also have              |
 | 25:55      | a ton of shortcuts if you want to make the most of your experiences on mobile as well.                  |
 | 26:04      | That's kind of what I am looking for is something that will work both always on my Mac and always       |
@@ -323,10 +323,10 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 26:44      | like 12 because it's just so much more useful when you're switching between platforms and all           |
 | 26:50      | that stuff just comes along for the ride. And I totally get what you mean for [[Drafts]] like               |
 | 26:56      | as an automation platform. And we never really, I don't know if we ever really acknowledged that        |
-| 27:01      | in the show because we talk about shortcuts, we talk about Keyword Maestro and [[Hazel]] and all            |
+| 27:01      | in the show because we talk about shortcuts, we talk about [[Keyboard Maestro]] and [[Hazel]] and all            |
 | 27:05      | these after [[Drafts]] itself as a platform for automation. Recently, I've been playing a lot               |
 | 27:11      | with backlinks and using some of this software. And there's a whole action group in [[Drafts]] for          |
-| 27:16      | backlinks that it's already there. I mean, if you just add double brackets around things in Drafts,     |
+| 27:16      | backlinks that it's already there. I mean, if you just add double brackets around things in [[Drafts]],     |
 | 27:21      | you'll be able to see everything that links to your current draft with an action group that             |
 | 27:26      | somebody already created. I mean, I texted Greg the developer draft saying you should add backlink      |
 | 27:34      | support. And he's like, it's already there. Somebody else already did it. And I'm like, okay.           |
@@ -337,7 +337,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 28:07      | put those brackets in, and then suddenly I have this directory of notes and I've built my own           |
 | 28:12      | wiki, which is wild. Like baby me trying to build wikis. Oh, so hard in like 2001 when you had no       |
 | 28:22      | programming experience. And now it is, you do a couple clicks and you have a wiki for your cats.        |
-| 28:30      | It's great. So what are some of the automations that you use in Drafts? What are some of your           |
+| 28:30      | It's great. So what are some of the automations that you use in [[Drafts]]? What are some of your           |
 | 28:37      | actions? My favourite, honestly, is just changing my show notes from markdown to like a few small        |
 | 28:49      | adjustments to get them into simple cast, which is one of the web apps I use for hosting podcasts.      |
 | 28:59      | Because there's one thing like a dash means something different. It's not multi markdown.               |
@@ -375,7 +375,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 32:41      | and just gets rid of that. And then in order to send, how I'm opening [[Drafts]] right now to               |
 | 32:48      | figure out how I send it to simple cast. Oh yeah, that just ends up being a Zapier automation,          |
 | 32:56      | actually, to get it into simple cast. It creates, it's, it creates a draft of an episode. And then      |
-| 33:05      | Merlin man goes in there and uploads an episode, which I wish we could automate that. We've been        |
+| 33:05      | Merlin Mann goes in there and uploads an episode, which I wish we could automate that. We've been        |
 | 33:10      | trying for, for so long. And, but you can, I finally found out, or I found a good shortcut,             |
 | 33:19      | as in iOS shortcut, to upload an episode to overcast to listen to it, but haven't found a way           |
 | 33:27      | to automate an upload of an episode to simple cast without having to go into the web interface          |
@@ -385,7 +385,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 33:52      | not necessarily the parentheses and the wiki link that you're dealing with, but everybody has this      |
 | 33:58      | thing where you write text and something has to change, or you have like, you routinely import          |
 | 34:04      | text, like a lot of times you bring text in from a spreadsheet or a website, and you've got to make     |
-| 34:10      | these changes to it. And there are apps out there like TextSoap that can help you. But if it's a        |
+| 34:10      | these changes to it. And there are apps out there like [[TextSoap]] that can help you. But if it's a        |
 | 34:16      | very particular kind of modification, doing it in [[Drafts]] makes a lot of sense. And I'm guessing         |
 | 34:23      | it took you a while to kind of tune that to get exactly what you wanted in terms of removing            |
 | 34:28      | parentheses and removing the Amazon colon. It didn't work the first time, right? Yeah, I mean,          |
@@ -394,7 +394,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 34:48      | weeks of tuning it exactly to like our show notes needs. And I actually have another action for         |
 | 34:56      | different show notes, not for posting, just for formatting them in the way that my co-host and          |
 | 35:01      | I like. And yeah, I mean, that's totally taken from like, I guess the reverse, I tried to like          |
-| 35:09      | reverse TextExpander it. And Drafts, I mean, [[Drafts]] just having such a simple way to reorganise        |
+| 35:09      | reverse TextExpander it. And [[Drafts]], I mean, [[Drafts]] just having such a simple way to reorganise        |
 | 35:17      | blocks of text is, I mean, I know it's not really automation, but trying to do that in another,         |
 | 35:24      | any other app is just, you know, 20 minutes of Googling until you can figure it out that is             |
 | 35:33      | buried in some setting. I mean, any, I think the more visible in automation is initially the            |
@@ -412,16 +412,16 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 36:43      | people from my meetings. At the bottom, it has an action list. And you can just like go in and          |
 | 36:49      | just set the template around it and anybody can do this. Anybody listening to this is so easy.          |
 | 36:54      | And then once you have that one, then suddenly you have an excuse to make so many more like I've        |
-| 37:00      | been playing a lot lately with this Mac app called obsidian, which is kind of like, you know,           |
+| 37:00      | been playing a lot lately with this Mac app called [[Obsidian]], which is kind of like, you know,           |
 | 37:04      | getting to that Zettelkasten thing. It's a kind of app that really focuses on that,                   |
 | 37:09      | but they don't have an iOS app. So I took all, but it works in markdown. So I took all my templates     |
-| 37:15      | out of the Obsidian and added them to [[Drafts]] as an action list, where it's just insert text. So I       |
-| 37:21      | can write anything for Obsidian on my iPhone using Drafts. And like, there's so many uses for this      |
+| 37:15      | out of the [[Obsidian]] and added them to [[Drafts]] as an action list, where it's just insert text. So I       |
+| 37:21      | can write anything for [[Obsidian]] on my iPhone using [[Drafts]]. And like, there's so many uses for this      |
 | 37:27      | stuff. And that's the most basic easy automation. I mean, what you just said blew my mind, because      |
-| 37:34      | my one thing about not trying Obsidian was the fact that it wasn't on iOS. Because when you get         |
+| 37:34      | my one thing about not trying [[Obsidian]] was the fact that it wasn't on iOS. Because when you get         |
 | 37:44      | down to it, my phone is truly my main computer, actually. So, but I think I'm getting more out          |
 | 37:53      | of this episode than anybody else right now. Well, if you want to go down that rabbit hole,             |
-| 37:59      | Obsidian is just markdown files. So you put it on Dropbox. And if you have one,                         |
+| 37:59      | [[Obsidian]] is just markdown files. So you put it on Dropbox. And if you have one,                         |
 | 38:03      | why didn't put that together? Like, that's awesome. Oh, of course. Oh, I hope that this team gets,      |
 | 38:08      | oh, I wish I could give them money. Can I give them money, David? Oh, good. If you give them money,     |
 | 38:15      | you get into the insider build. So you get ahead of the, you know, the rest of the proletariat.         |
@@ -430,10 +430,10 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 38:34      | access the whole database with one writer on an iPhone or iPad. But I actually create all the           |
 | 38:40      | notes and [[Drafts]] because [[Drafts]] has this great, you know, plugin style automation.                      |
 | 38:47      | So anything I'm writing new, I write in draft. If I need to access an existing one, I just go to        |
-| 38:51      | one writer. But that's not why we're here today. You got any more Drafts, magic you can share with us?  |
+| 38:51      | one writer. But that's not why we're here today. You got any more [[Drafts]], magic you can share with us?  |
 | 38:58      | What? I mean, they're all very boring and you have sort of made all of them. Yeah, you can find         |
 | 39:07      | them all in the automated show notes. No, actually, the one thing I actually just realised is I         |
-| 39:17      | share a bunch of meeting note templates with folks and they download Drafts. Oh, this free              |
+| 39:17      | share a bunch of meeting note templates with folks and they download [[Drafts]]. Oh, this free              |
 | 39:24      | application. And they share it. I just share this with them. And then they actually, you know, we       |
 | 39:29      | now have universal meeting notes that look the same in Google Docs every time. And I'm like,            |
 | 39:34      | oh, my gosh. Yeah, it's been amazing. I also have, you know, really simple, like single action          |
@@ -450,9 +450,9 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 41:02      | action to see your stats. So, and by stats, I just mean, you know, like the word count, paragraph       |
 | 41:10      | count, stuff like that. And it has a way to, instead of saying like, oh, and insert a dash,             |
 | 41:19      | bracket, bracket, it's just tasks. So then suddenly I have this great markdown or test paper            |
-| 41:27      | list that I can do anything with or, you know, put it into Obsidian, which I have now downloaded        |
+| 41:27      | list that I can do anything with or, you know, put it into [[Obsidian]], which I have now downloaded        |
 | 41:35      | and I'm super psyched to try. And even things like send to bear, the, oh, send to Dropbox with          |
-| 41:46      | link, which I think Rose, you made this for me. It's just a, it's in one of my workspaces in Drafts.    |
+| 41:46      | link, which I think Rose, you made this for me. It's just a, it's in one of my workspaces in [[Drafts]].    |
 | 41:55      | I have a bunch of images that I need to reference all the time for work, but they need to live in       |
 | 42:02      | Dropbox and it's so much easier to hand my phone to somebody with a list of, just a list of images      |
 | 42:14      | basically. And then they click that one and then it opens the [[Drafts]] app with the exact image that      |
@@ -522,7 +522,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 48:14      | I can use that in my own personal automations. Go and listen to it now. Just search for the Intrazone   |
 | 48:21      | wherever you get your podcasts. That's I-N-T-R-A-Z-O-N-E, or just click the link in the show notes.     |
 | 48:29      | Go check it out. Our thanks to the Intrazone by Microsoft SharePoint for their support of this          |
-| 48:33      | show and all of Relay FM. Okay, Alex. So we've talked about Drafts, but you mentioned one of my         |
+| 48:33      | show and all of Relay FM. Okay, Alex. So we've talked about [[Drafts]], but you mentioned one of my         |
 | 48:40      | other key loves, which is shortcuts. How are you using shortcuts? How many shortcuts do you have?       |
 | 48:44      | Let's start with that one. Oh, I really pruned. Right now I have 194, and which I know is like          |
 | 48:53      | nothing. Well, I shouldn't say it's like nothing, but recently I made the mistake of updating           |
@@ -600,7 +600,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 57:41      | your data and sort of helping you make sense of it, like I was noting before with the COVID             |
 | 57:47      | tracking shortcut, as well as a shortcut called Omni Focus Day that our friend Scotty Jackson made,       |
 | 57:56      | is just, I don't know, [[Drafts]] and, or I'm sorry, data just comforts me for some reason. And I think     |
-| 58:05      | a lot of nerds have that as well. And I really like Data Jar as sort of kind of similar to Drafts,       |
+| 58:05      | a lot of nerds have that as well. And I really like Data Jar as sort of kind of similar to [[Drafts]],       |
 | 58:16      | a repository of information that shortcuts can just pull from. Like when I am recently,                 |
 | 58:23      | I've actually been tracking the amount of caffeine I've been having. And for a bunch of boring reasons, |
 | 58:31      | I keep that outside of WaterMinder. And in Data Jar, I'm just able to keep the                           |
@@ -806,10 +806,10 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:19:13   | understand what you say about like trying to learn this stuff. Are there any areas of automation        |
 | 01:19:18   | that you're looking to go deeper on that you just haven't got to yet? And what, you know,               |
 | 01:19:22   | what are you thinking about in the future as an automator? Absolutely. Keyboard,                        |
-| 01:19:28   | maestro, and BetterTouchTool, because I am primarily a trackpad person. I always have been            |
+| 01:19:28   | maestro, and [[BetterTouchTool]], because I am primarily a trackpad person. I always have been            |
 | 01:19:37   | because until this year, I think this this year, I got an iMac pro for work, and it's been              |
 | 01:19:46   | amazing. But I literally haven't used a desktop as my main computer since my first iMac when I was      |
-| 01:19:53   | 11. So I mean, there's so much to do with BetterTouchTool. And with keyword, maestro, I forget        |
+| 01:19:53   | 11. So I mean, there's so much to do with [[BetterTouchTool]]. And with keyword, maestro, I forget        |
 | 01:20:04   | who started the Stream Deck trend. But wow, the Stream Deck is so cool. And I still don't really        |
 | 01:20:13   | know what to do with it. But I know I want to do a lot of things with it. But I'm also cautious         |
 | 01:20:19   | about going down these rabbit holes, because, you know, I don't know when this is coming out,           |
@@ -854,7 +854,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:24:37   | of, I'll use the silly phrase again, ambient computing, or that great idea that you brought up          |
 | 01:24:44   | with contextual computing and cognitive computing. Yeah, I think that really is something that is       |
 | 01:24:50   | a natural for automators. I can tell you, like, for example, the way I do that with                     |
-| 01:24:55   | them, Keyboard Maestro is I just have three phases of my life. There's MacSparky,                      |
+| 01:24:55   | them, [[Keyboard Maestro]] is I just have three phases of my life. There's MacSparky,                      |
 | 01:25:01   | personal and legal. And if I hold down control option command, and I hit LM or P,                       |
 | 01:25:08   | it just gives me a menu of all the most common things I do in that area of my life. One of them         |
 | 01:25:14   | may be check legal email, you know, I hit one button, and it's a conflict palette. It just              |

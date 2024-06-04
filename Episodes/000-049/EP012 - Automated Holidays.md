@@ -436,7 +436,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 20:15      | Well, I mean, this is a bit of a rabbit hole.                                                        |
 | 20:17      | We're not strictly speaking of automating holidays now, but on this week's Connected,                |
 | 20:21      | [[Federico Viticci\|Federico]] was talking about how he set up [[Homebridge]] on his brand new Mac Mini.                       |
-| 20:26      | And he's using integration to trigger [[AppleScript]]s on the Mac Mini via HomeKit, which               |
+| 20:26      | And he's using integration to trigger [[AppleScript\|AppleScripts]] on the Mac Mini via HomeKit, which               |
 | 20:33      | means that it can then address iTunes, which means it can talk to specific HomePods and              |
 | 20:37      | play specific music as part of a scene.                                                              |
 | 20:43      | And so for anybody looking for a holiday project who is in the HomeKit and [[AppleScript]] world,       |
@@ -728,7 +728,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 35:46      | And maybe you just need a list of those URLs.                                                        |
 | 35:50      | That's kind of an interesting problem to automate that issue.                                        |
 | 35:53      | I was kind of playing with it before we recorded.                                                    |
-| 35:57      | There is a Keyboard Maestro command to get URL and then you would have to force it to                |
+| 35:57      | There is a [[Keyboard Maestro]] command to get URL and then you would have to force it to                |
 | 36:02      | go through for each tab and get the URL for each tab.                                                |
 | 36:06      | There's also an [[AppleScript]] phrase that can look at Safari and pull the URL of the                  |
 | 36:10      | frontmost tab.                                                                                       |

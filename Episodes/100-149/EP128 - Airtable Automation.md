@@ -252,12 +252,12 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 12:50      | or use [[Drafts]] or something to interact with Airtable directly or if you want to use a                     |
 | 12:54      | service like make or that was previously called Integromat Zapier or if this and that, then              |
 | 13:01      | you've got options there, which is really nice.                                                           |
-| 13:03      | I feel like this is a no-brainer if you're working with a team and you're not using Notion.               |
-| 13:10      | I think there is a bit of a tipping point with Notion because you can do a lot of this                    |
-| 13:14      | with Notion tables, but Airtable is better at it in my experience and it's more automation                |
+| 13:03      | I feel like this is a no-brainer if you're working with a team and you're not using [[Notion]].               |
+| 13:10      | I think there is a bit of a tipping point with [[Notion]] because you can do a lot of this                    |
+| 13:14      | with [[Notion]] tables, but Airtable is better at it in my experience and it's more automation                |
 | 13:22      | friendly.                                                                                                 |
-| 13:23      | So even if you're using Notion, you could make the argument that you'd want an Airtable,                  |
-| 13:26      | but I know a lot of people that use Notion that put this kind of information in Notion                    |
+| 13:23      | So even if you're using [[Notion]], you could make the argument that you'd want an Airtable,                  |
+| 13:26      | but I know a lot of people that use [[Notion]] that put this kind of information in [[Notion]]                    |
 | 13:31      | tables themselves, but I do think it really just shines with collaboration.                               |
 | 13:38      | Yes, absolutely it does.                                                                                  |
 | 13:41      | And it's really nice to be able to just have that information in a way that everybody can                 |
@@ -349,7 +349,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 19:14      | Expressvpn.com/automators to learn more.                                                            |
 | 19:17      | And our thanks to ExpressVPN for their support of the automators and all of Relay FM.                     |
 | 19:23      | All right, now, Airtable also got some great new integration with one of our favourite apps                |
-| 19:31      | Drafts.                                                                                                   |
+| 19:31      | [[Drafts]].                                                                                                   |
 | 19:32      | Yeah, it did.                                                                                             |
 | 19:34      | So this came out in [[Drafts]] update 37, which came out a little while ago, not that long                    |
 | 19:40      | ago.                                                                                                      |
@@ -365,7 +365,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 20:18      | And now [[Drafts]] is added, not just scripting support, which we'll get to in a little bit,                  |
 | 20:23      | but they've added a simple action to actually send data to Airtable.                                      |
 | 20:31      | And so now in the actions that you create, and these are the actions that display on                      |
-| 20:36      | the right-hand side with Drafts, so you'll need the [[Drafts]] pro subscription to be able                    |
+| 20:36      | the right-hand side with [[Drafts]], so you'll need the [[Drafts]] pro subscription to be able                    |
 | 20:41      | to create and edit actions.                                                                               |
 | 20:44      | But then once you've got that, as you create an action, one of the things that you can                    |
 | 20:48      | do is actually send to Airtable.                                                                          |
@@ -374,7 +374,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 21:01      | And then you can actually use that information to do whatever it is you want with.                        |
 | 21:07      | And I really appreciate the fact that Greg has gone through and done this, because being                  |
 | 21:13      | able to add something there does just make it nice and easy.                                              |
-| 21:19      | And I think a lot of people would like to be able to do more with things like Drafts,                     |
+| 21:19      | And I think a lot of people would like to be able to do more with things like [[Drafts]],                     |
 | 21:23      | but the idea of scripting scares them a little bit, and that's understandable.                            |
 | 21:28      | So now you don't actually have to start by writing a script to do this, or start by borrowing             |
 | 21:32      | somebody else's script.                                                                                   |
@@ -407,7 +407,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 23:05      | and powerful app.                                                                                         |
 | 23:06      | So one of the things that you can use in the air table support for creating records is                    |
 | 23:12      | you can use [[Drafts]] tags.                                                                                  |
-| 23:14      | Now tags are something that you can use in, for example, an insert text action in Drafts,                 |
+| 23:14      | Now tags are something that you can use in, for example, an insert text action in [[Drafts]],                 |
 | 23:20      | where you would use two square brackets to open something and then you type a thing and                   |
 | 23:26      | then you type two closing square brackets.                                                                |
 | 23:29      | But these, these things that you can insert, for example, could be for the word created.                  |
@@ -449,7 +449,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 25:54      | simple templating.                                                                                        |
 | 25:55      | Imagine, David, that you need to create a series of records.                                              |
 | 25:58      | For example, you're upcoming, you know, or you're creating a new field guide.                             |
-| 26:02      | So you create some Drafts, which will let you, you know, do some scripting to, you know,                  |
+| 26:02      | So you create some [[Drafts]], which will let you, you know, do some scripting to, you know,                  |
 | 26:09      | create the [[Drafts]] of the actual, you know, individual videos that you want to create                      |
 | 26:14      | or, you know, ideas.                                                                                      |
 | 26:15      | And then you, you know, use some prompts to ask you some questions.                                       |
@@ -483,7 +483,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 28:00      | But it's no longer just a text tool, it is an automation tool that happens to use text                    |
 | 28:09      | as a lot of it, but you don't actually have to create a draft to do a lot of the automation,              |
 | 28:13      | which is really cool.                                                                                     |
-| 28:14      | Yeah, and because Greg never rests, they've also added mustache templates to Drafts, which                |
+| 28:14      | Yeah, and because Greg never rests, they've also added mustache templates to [[Drafts]], which                |
 | 28:21      | is another markup syntax, I guess you'd call it.                                                          |
 | 28:24      | How do you use mustache?                                                                                  |
 | 28:26      | Yes, I do use mustache.                                                                                   |
@@ -523,7 +523,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 30:50      | it in the draft forums because, you know, so many people are going, oh, wait, wait,                       |
 | 30:55      | this is cool.                                                                                             |
 | 30:56      | And they see an example of how somebody else is using it and go, okay, I really need this.                |
-| 31:01      | And yeah, it just, every time I look at Drafts, I feel like I've missed about 17 releases.                |
+| 31:01      | And yeah, it just, every time I look at [[Drafts]], I feel like I've missed about 17 releases.                |
 | 31:08      | And I've still found so many new features like during that time that I don't feel like                    |
 | 31:13      | I could have missed anything anyway.                                                                      |
 | 31:14      | Yeah.                                                                                                     |
@@ -541,7 +541,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 31:54      | Yeah.                                                                                                     |
 | 31:55      | It really is.                                                                                             |
 | 31:56      | I've been doing some nice things with it, and you know, I should note that it sounds                      |
-| 31:59      | like we're saying that the mustache templating just came out in Drafts.                                   |
+| 31:59      | like we're saying that the mustache templating just came out in [[Drafts]].                                   |
 | 32:03      | It did.                                                                                                   |
 | 32:04      | It came out like a couple of years ago at the end of 2020.                                                |
 | 32:07      | But so it's been there for a while, but I've just seen more and more people recently messaging            |
@@ -559,7 +559,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 33:02      | templates perhaps, but you don't want to have to go through to the trouble of writing lots                |
 | 33:06      | of scripts and so on.                                                                                     |
 | 33:08      | So yeah, you can just include this action and run from there, which, you know, I like                     |
-| 33:13      | the fact as well in Drafts, you can include an action.                                                    |
+| 33:13      | the fact as well in [[Drafts]], you can include an action.                                                    |
 | 33:16      | So if you've created an action, you're like, oh, but I need to do this again, but I don't                 |
 | 33:24      | need to, you know, do that bit over there, then what you can do is you can include the                    |
 | 33:27      | original action or you can duplicate it and create a new one that you can include in both                 |
@@ -571,14 +571,14 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 33:47      | and fonts and all that, because I found myself tempted by some of the third party tech senators           |
 | 33:52      | out there, I played with a few of them and they all look pretty, but none of them have                    |
 | 33:57      | the [[Drafts]] power.                                                                                         |
-| 33:58      | So I decided to make Drafts.                                                                              |
+| 33:58      | So I decided to make [[Drafts]].                                                                              |
 | 34:00      | It's easier to make [[Drafts]] look pretty than to make a pretty app have these features.                     |
 | 34:03      | If that makes sense, you know, so.                                                                        |
 | 34:05      | It definitely is.                                                                                         |
 | 34:06      | Yeah.                                                                                                     |
 | 34:07      | So I've gone through and redid that.                                                                      |
 | 34:10      | Are you into that, Rose?                                                                                  |
-| 34:11      | I mean, do you spend a lot of time setting up the look and feel of your Drafts?                           |
+| 34:11      | I mean, do you spend a lot of time setting up the look and feel of your [[Drafts]]?                           |
 | 34:15      | Honestly, I find that I tend to sort of forget that this exists for a long period of time                 |
 | 34:21      | because everything's just working.                                                                        |
 | 34:23      | And then I'll find myself going, hmm, you know, why aren't I using [[Drafts]] for this thing?                 |
@@ -628,10 +628,10 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 37:02      | But what you can now do is you can actually create Airtable instances and use those in                    |
 | 37:08      | your actions instead.                                                                                     |
 | 37:10      | So instead of, you know, creating a HTTP call and, you know, spinning it all up with                      |
-| 37:14      | the headers and stuff so that you can talk to Drafts, you can now actually do this directly               |
+| 37:14      | the headers and stuff so that you can talk to [[Drafts]], you can now actually do this directly               |
 | 37:18      | with Airtable through the scripting support.                                                              |
 | 37:21      | And I have been working on updating some of my actions for this because, of course, with                  |
-| 37:26      | the change of token, I need to update the token in Drafts.                                                |
+| 37:26      | the change of token, I need to update the token in [[Drafts]].                                                |
 | 37:30      | Now, updating the token in [[Drafts]] is not a problem.                                                       |
 | 37:32      | It's not difficult to do.                                                                                 |
 | 37:33      | But I decided to make it much better and just update to use everything with the new Airtable              |
@@ -846,8 +846,8 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 51:35      | I just press the button when I walk away and it takes care of it for me.                                  |
 | 51:39      | Yeah.                                                                                                     |
 | 51:40      | So one of the things that I'm using this for is actually, and this is part of a longer                    |
-| 51:46      | shortcut that I wrote that is then run through Keyboard Maestro of all things, actually.                  |
-| 51:52      | I could probably have written everything that I needed to do in Keyboard Maestro, but as                  |
+| 51:46      | shortcut that I wrote that is then run through [[Keyboard Maestro]] of all things, actually.                  |
+| 51:52      | I could probably have written everything that I needed to do in [[Keyboard Maestro]], but as                  |
 | 51:55      | it is, I only have my iPad with me and I realised I needed to run a series of actions on my               |
 | 52:00      | Mac that was at home and shut it down and my internet connection wasn't great.                            |
 | 52:05      | So I wasn't confident that I was going to be able to remote desktop in my home internet                   |
@@ -1083,13 +1083,13 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:06:45   | I would recommend Learn [[Hazel]].                                                                            |
 | 01:06:47   | Hazel's a great app, but it really shines when it's managing documents.                                   |
 | 01:06:56   | If you're doing something like shortcuts and you're getting good at it, but you want to                   |
-| 01:06:59   | go level deeper, then I think you go to Keyboard Maestro, which has some more powerful tools.             |
+| 01:06:59   | go level deeper, then I think you go to [[Keyboard Maestro]], which has some more powerful tools.             |
 | 01:07:05   | I know that people will write me saying there's things that shortcuts can do that Keyboard                |
 | 01:07:08   | Maestro can't, but I'm going to assume you've already got a handle on shortcuts when you                  |
-| 01:07:13   | go to Keyboard Maestro and then you can combine them.                                                     |
+| 01:07:13   | go to [[Keyboard Maestro]] and then you can combine them.                                                     |
 | 01:07:17   | The good knowledge of all this, I really think, is that all this stuff at this point builds               |
 | 01:07:21   | on each other.                                                                                            |
-| 01:07:24   | Once you learn shortcuts, maybe you go to Keyboard Maestro, then suddenly things like                     |
+| 01:07:24   | Once you learn shortcuts, maybe you go to [[Keyboard Maestro]], then suddenly things like                     |
 | 01:07:28   | AppleScript, JavaScript, all that stuff becomes additive and you can learn it as you need                 |
 | 01:07:35   | it.                                                                                                       |
 | 01:07:36   | My recommendation if you're getting started with automation, start easy and I can confidently             |
@@ -1098,16 +1098,16 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:07:49   | If you're a programmer and you've already done some of this stuff before, maybe even                      |
 | 01:07:55   | if it was a while ago and you're like, I'm not sure about drag and drop blocks, I kind                    |
 | 01:07:59   | of really wanted to type something, I'd definitely be recommending JavaScript as the language             |
-| 01:08:05   | just because then you can create actions for Obsidian or extensions for Obsidian.                         |
-| 01:08:10   | You can create actions for Drafts.                                                                        |
+| 01:08:05   | just because then you can create actions for [[Obsidian]] or extensions for [[Obsidian]].                         |
+| 01:08:10   | You can create actions for [[Drafts]].                                                                        |
 | 01:08:12   | You can create Safari bookmarklets and all sorts of things.                                               |
 | 01:08:16   | That gives you a lot of options and especially with things like Scriptable and so on, then                |
 | 01:08:23   | JavaScript is just a good place to start for that, but really, you should probably look                   |
 | 01:08:30   | at shortcuts first and don't forget if you're there going, okay, but what if I can't do                   |
-| 01:08:34   | something in Shortcuts and I need AppleScript or I need [[Drafts]] or any Keyboard Maestro?                   |
+| 01:08:34   | something in Shortcuts and I need AppleScript or I need [[Drafts]] or any [[Keyboard Maestro]]?                   |
 | 01:08:40   | Well, Shortcuts has got great action support for lots of things and more importantly, those               |
 | 01:08:46   | apps have got action support in Shortcuts, so you can run a [[Drafts]] action on a draft                      |
-| 01:08:51   | or on text, you can run AppleScript, you can run a Keyboard Maestro macro, it's called                    |
+| 01:08:51   | or on text, you can run AppleScript, you can run a [[Keyboard Maestro]] macro, it's called                    |
 | 01:08:55   | Execute Macro, that's the name of the action, but you can do all of these things from the                 |
 | 01:09:00   | other stuff, so if you find that you can just download this bit from here or copy that bit                |
 | 01:09:04   | from there, then you can stick it all together, duct tape, superglue, WD-40, whatever it is               |

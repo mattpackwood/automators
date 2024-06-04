@@ -308,7 +308,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 10:28      | and how do you get from A to B?                                   |
 | 10:30      | And do you also do C as well?                                     |
 | 10:33      | And that's a good chunk of it.                                    |
-| 10:35      | And oftentimes tools like Keyboard Maestro                        |
+| 10:35      | And oftentimes tools like [[Keyboard Maestro]]                        |
 | 10:38      | or Shortcuts abstract some of the difficulties involved.          |
 | 10:41      | I spent a good 15 minutes earlier today                           |
 | 10:44      | attempting to read some specific files with Python.               |
@@ -769,7 +769,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 32:07      | and all the ways we struggle with getting data out of the web,    |
 | 32:11      | because I can tell you,                                           |
 | 32:12      | I've written some real janky keyboard nitro scripts               |
-| 32:16      | and Alfred workflows,                                             |
+| 32:16      | and [[Alfred]] workflows,                                             |
 | 32:18      | and I've done some really crazy stuff over the years              |
 | 32:20      | to try and automation,                                            |
 | 32:22      | I call it like scraping my data out of a website,                 |
@@ -1238,7 +1238,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 52:54      | I do think that we've lost the thread a little bit.               |
 | 52:57      | Yes.                                                              |
 | 52:58      | So you've made this app Fast Scripts,                             |
-| 52:59      | and there are other ways to launch [[AppleScript]]s on your Mac,     |
+| 52:59      | and there are other ways to launch [[AppleScript\|AppleScripts]] on your Mac,     |
 | 53:02      | but tell us, why does Fast Scripts exist?                         |
 | 53:06      | Well, Fast Scripts goes back to a time                            |
 | 53:09      | before there were many other ways to run scripts                  |
@@ -1335,7 +1335,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 57:27      | like I think my Mac Studio that's sitting here,                   |
 | 57:29      | like I didn't even go all out on the spec,                        |
 | 57:31      | I'm pretty certain it can run                                     |
-| 57:33      | the vast majority of [[AppleScript]]s insanely quickly,              |
+| 57:33      | the vast majority of [[AppleScript\|AppleScripts]] insanely quickly,              |
 | 57:36      | which is a great thing.                                           |
 | 57:38      | Speaking of updates that you've done recently,                    |
 | 57:40      | one of the ones that I loved,                                     |
@@ -1374,7 +1374,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 59:12      | even if you're not running the script from Fast Scripts,          |
 | 59:15      | but it kind of includes its own scripting additions               |
 | 59:18      | and this regular expression thing that Rose is alluding to        |
-| 59:22      | is basically a way to process text in your [[AppleScript]]s          |
+| 59:22      | is basically a way to process text in your [[AppleScript\|AppleScripts]]          |
 | 59:29      | without the usual mechanism                                       |
 | 59:32      | for using regular expressions was to dispatch out                 |
 | 59:35      | to a shell script or to use a third party script library          |
@@ -1453,7 +1453,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:02:59   | I love that so much, you know?                                    |
 | 01:03:00   | Yeah, I mean, that's funny too,                                   |
 | 01:03:02   | because that's like, Rose was saying earlier,                     |
-| 01:03:05   | like she hadn't noticed that you can run non-[[AppleScript]]s.       |
+| 01:03:05   | like she hadn't noticed that you can run non-[[AppleScript\|AppleScripts]].       |
 | 01:03:07   | And I was thinking to myself, you know,                           |
 | 01:03:09   | it's all on me, but the main thing I've done wrong                |
 | 01:03:13   | with Fast Scripts over all these years,                           |
@@ -1511,7 +1511,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:05:25   | it deals with it as an app or as a document.                      |
 | 01:05:28   | So it just opens things in that sense.                            |
 | 01:05:31   | It's like so many other launchers in that way.                    |
-| 01:05:34   | But it's unlike something like LaunchBar,                         |
+| 01:05:34   | But it's unlike something like [[LaunchBar]],                         |
 | 01:05:36   | it's not really oriented around general purpose launching.        |
 | 01:05:40   | It's oriented around launching things                             |
 | 01:05:42   | that you organise to be in the scripts folder.                    |
@@ -1519,8 +1519,8 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:05:48   | do you discourage people from using sim links                     |
 | 01:05:51   | to put scripts in there?                                          |
 | 01:05:53   | Because I've got scripts that are stored                          |
-| 01:05:55   | for various reasons inside of this Git repo                       |
-| 01:05:58   | or that Git repo.                                                 |
+| 01:05:55   | for various reasons inside of this [[Git]] repo                       |
+| 01:05:58   | or that [[Git]] repo.                                                 |
 | 01:05:59   | And I don't necessarily want to put them all                      |
 | 01:06:02   | in the library scripts folder.                                    |
 | 01:06:04   | Is that something you recommend or discourage                     |
@@ -1743,7 +1743,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:15:59   | I believe it was for audio hijack.                                |
 | 01:16:02   | Obviously, Omni Group have got custom JavaScript,                 |
 | 01:16:05   | [[Drafts]] has got custom JavaScript.                                 |
-| 01:16:07   | If you get nerdy, you can write Obsidian plugins.                 |
+| 01:16:07   | If you get nerdy, you can write [[Obsidian]] plugins.                 |
 | 01:16:09   | Do you think maybe there's a future                               |
 | 01:16:11   | of a custom JavaScript automation inside of Mars Edit             |
 | 01:16:14   | or are you just gonna stick with                                  |

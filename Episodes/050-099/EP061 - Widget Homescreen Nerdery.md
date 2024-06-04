@@ -286,7 +286,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 18:13      | more convenient than going and digging for apps.                                                       |
 | 18:16      | Yes. Yeah. That's the thing. Like I, I pretty much, if I'm looking for an app, I open the              |
 | 18:20      | app library now. Um, but most of the time I don't need to, because either I've hooked                  |
-| 18:24      | it to the double back tap on my phone, opens Drafts. Um, and it's straight to a new draft              |
+| 18:24      | it to the double back tap on my phone, opens [[Drafts]]. Um, and it's straight to a new draft              |
 | 18:29      | so that I can, you know, start capturing immediately or it's a widget on my home screen.               |
 | 18:34      | All right. Um, one, another one. And I, I promise we're going to get to the nerdy or,                  |
 | 18:40      | you know, build your own widgets in a minute, but there's a couple I just want to call out.            |
@@ -637,7 +637,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 47:26      | own, in that it just runs a shortcut, and then uses that to figure out what the widget is,             |
 | 47:33      | and then displays it, which means that in order to update it, you have to run a shortcut. So I         |
 | 47:38      | now have a shortcut called widget updates, which I just run on a regular basis. I have it run,         |
-| 47:44      | I think, every time I close Drafts, and at the moment is running once an hour. And these widgets       |
+| 47:44      | I think, every time I close [[Drafts]], and at the moment is running once an hour. And these widgets       |
 | 47:48      | don't sync between your devices, but you can create a widget on, say, one device and then              |
 | 47:54      | run it on another, and it will just create the widget and update it as well. But it won't update       |
 | 47:59      | something on another device. But what I like about this is everything is inside of shortcuts.          |
@@ -805,8 +805,8 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:02:50   | comes in. FastScripts picks up where Apple leaves off. With FastScripts, you get that enhanced upgrade |
 | 01:02:57   | to the [[AppleScript]] menu. And it's a familiar design that you see, but it's a better user interface    |
 | 01:03:03   | and easier to get to your scripts. But even more important is the powerful keyboard shortcuts. With    |
-| 01:03:09   | FastScripts, you can set global or application specific control of the [[AppleScript]]s at the tip        |
-| 01:03:16   | of your fingers. I use these all the time because I have too many [[AppleScript]]s. For example, I have   |
+| 01:03:09   | FastScripts, you can set global or application specific control of the [[AppleScript\|AppleScripts]] at the tip        |
+| 01:03:16   | of your fingers. I use these all the time because I have too many [[AppleScript\|AppleScripts]]. For example, I have   |
 | 01:03:21   | one that creates a whole nested set of folders for new client projects. I tied that to a FastScript    |
 | 01:03:28   | script. So when I'm in the Finder, I get a new client, I push one keyboard shortcut and get all        |
 | 01:03:33   | my folders generated for me automatically. Because it's all done in [[AppleScript]], I don't need to go   |

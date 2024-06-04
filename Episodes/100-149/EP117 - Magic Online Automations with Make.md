@@ -257,7 +257,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 10:08      | Um, so, you know, it, it's, it's really good for connecting any of those services which                   |
 | 10:13      | are already online or also, you know, it can be for connecting things which are on your                   |
 | 10:17      | Mac to, you know, the wider internet.                                                                     |
-| 10:20      | You can easily have Keyboard Maestro paying a web hook URL and then it, uh, make, um,                     |
+| 10:20      | You can easily have [[Keyboard Maestro]] paying a web hook URL and then it, uh, make, um,                     |
 | 10:26      | or if your a user of Zapier, can then pick that up and go off and just do the rest of                     |
 | 10:30      | it for you because you don't necessarily need to do that all on your device.                              |
 | 10:34      | And when it's, you know, taking thing from internet service A and putting it in internet                  |
@@ -343,7 +343,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 15:26      | right now.                                                                                                |
 | 15:27      | Um, but, um, you know, I use PushCut Automation server as a bridge because I haven't, I have              |
 | 15:32      | a couple of services like that, you know, I have OmniFocus, um, I want to get things                      |
-| 15:36      | into Drafts.                                                                                              |
+| 15:36      | into [[Drafts]].                                                                                              |
 | 15:37      | Um, I use good links for my read it later service and these don't have, you know, uh,                     |
 | 15:42      | a web service that you can connect to with just an API that you can fire data at, um,                     |
 | 15:47      | you know, they're partially able to do some of this stuff, but for me, it's just easier                   |

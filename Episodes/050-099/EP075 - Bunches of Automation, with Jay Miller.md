@@ -241,7 +241,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 17:34      | been there for some time now that allows for JavaScript. And I was like, Oh, I can use this to           |
 | 17:43      | learn how to code. So for me, going in and learning, you know, Python and learning JavaScript for        |
 | 17:51      | most of this type of automation stuff. And I had, I had not really at the time, I don't even think       |
-| 17:57      | I'd only had like one like MacBook Pro. And I wasn't thinking about things like Keyboard Maestro                |
+| 17:57      | I'd only had like one like MacBook Pro. And I wasn't thinking about things like [[Keyboard Maestro]]                |
 | 18:03      | or all this other stuff. So yeah, a lot of my automation really started on iOS devices and,       |
 | 18:09      | you know, [[Drafts]] being the biggest part of that. Because at the time, I think I remember the day         |
 | 18:16      | when a friend of mine showed me this app called Workflow. And I was just like, Apple's never             |
@@ -266,7 +266,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 20:15      | mind, I'm like, oh, this works like this. But then there are all these other things that I don't really  |
 | 20:21      | know about. And it just became, well, let's try it and let's build what we know and build off of what    |
 | 20:28      | we know and continue from there until you start doing more and more with it. And then you're like,       |
-| 20:34      | oh, wow, I built like a mood tracker and Drafts. And that's like, has all these menu options and         |
+| 20:34      | oh, wow, I built like a mood tracker and [[Drafts]]. And that's like, has all these menu options and         |
 | 20:42      | auto date finding stuff and natural language processing. And you're like, I don't know how I             |
 | 20:48      | did this. And then eventually you realise it's all built on, you know, Band-Aids, patches, and a lot     |
 | 20:54      | of copy pasting. So I would, I would always say you, you learn by breaking stuff and then figuring       |
@@ -281,7 +281,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 21:45      | I mean, obviously, we just have days where we just can't even. And, and that's, you know,                |
 | 21:49      | for me, that seems to be more days than, than often. But I wanted to have this                           |
 | 21:55      | like line of [[Drafts]] that were just emojis. And the emojis would be my, my mood so that                   |
-| 22:03      | if I were scrolling through my Drafts, because like most people up until a few weeks ago,                |
+| 22:03      | if I were scrolling through my [[Drafts]], because like most people up until a few weeks ago,                |
 | 22:07      | I had several thousand [[Drafts]] that were still in my inbox, I, I could see a pattern of how my days       |
 | 22:17      | had been going. And what I would do is I would just, you know, I would trigger the action, it would      |
 | 22:23      | pull up, you know, how are you feeling with a couple of emojis there, I'd push the emoji,                |
@@ -331,14 +331,14 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 26:25      | the Mac as well. It's on your Mac, your iPhone, your iPad, you know, wherever you want to code,          |
 | 26:31      | you can, and then you can use that same solution to solve your problem wherever you are.                 |
 | 26:35      | Well, I mean, the funny thing to me is how often I pull [[Drafts]] out of my tool belt and use it. I         |
-| 26:42      | mean, we've got an episode of Mac Power Users publishing next week that really isn't about Drafts,       |
+| 26:42      | mean, we've got an episode of Mac Power Users publishing next week that really isn't about [[Drafts]],       |
 | 26:47      | but I think I mentioned the app like four or five times in the episode because                           |
 | 26:51      | it just is kind of a Swiss Army knife for text. And if someone works with text, this is a great          |
 | 26:57      | automation platform because you can make your life so much easier with it. But let's talk a bit about    |
 | 27:05      | some of your other automation because you've gone far beyond that since, you know, your initial          |
 | 27:10      | exploration into [[Drafts]] and JavaScript. Yeah, so I mentioned that, you know, that quickly turned         |
 | 27:16      | into programming. And I feel like anyone that can write a shortcut, anyone that can write a              |
-| 27:24      | workflow or a Keyboard Maestro action, you're already on the right track. I tell people my             |
+| 27:24      | workflow or a [[Keyboard Maestro]] action, you're already on the right track. I tell people my             |
 | 27:32      | claim to automation fame for the people that I worked around was I got in trouble once for not           |
 | 27:41      | working. But that was because my computer was working for me. And we had, we had this big project,       |
 | 27:49      | the company I used to work for acquired another company, and they had 40,000 items that they             |
@@ -351,8 +351,8 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 28:30      | downloading to my computer, which my computer was not happy about, but it did it. After that,            |
 | 28:36      | I had to figure out how to upload it into our system, which was this Java based, you know,               |
 | 28:42      | older platform. So I couldn't just, you know, click a button and watch it go. But what I could do        |
-| 28:48      | was integrate things like Keyboard Maestro into certain steps. So it was like, okay, let's upload        |
-| 28:54      | all the files into the back end and then use Keyboard Maestro to just iterate through this               |
+| 28:48      | was integrate things like [[Keyboard Maestro]] into certain steps. So it was like, okay, let's upload        |
+| 28:54      | all the files into the back end and then use [[Keyboard Maestro]] to just iterate through this               |
 | 29:01      | long list and iterate just a fancy word that says go through it line by line. And, and just, okay,       |
 | 29:07      | here's the URL. Here's the, you know, path that you need to take. Here's the file name. Here's           |
 | 29:12      | the information. And then my screen just started flickering basically as mice were, you know,            |
@@ -360,7 +360,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 29:23      | well, I can't touch anything. So I'm just going to go walk around, I guess. So I wound up doing          |
 | 29:29      | what we considered to be my entire year's job in about eight hours because it was just doing             |
 | 29:37      | its thing and doing it on its own. Thanks to, you know, a little bit of programming knowledge,           |
-| 29:41      | which wasn't even the superstar, the real superstar was Keyboard Maestro.                                |
+| 29:41      | which wasn't even the superstar, the real superstar was [[Keyboard Maestro]].                                |
 | 29:45      | So you can compact it a year's worth of work into eight hours. David, I think we have our                |
 | 29:52      | automation, our automation crown winner right here. If we can, if we've got the coronation               |
 | 29:58      | ceremony set up, we'll just go ahead and do that. That's amazing. And I feel like a lot of people        |
@@ -370,7 +370,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 30:20      | itself was just HTML. So once, as long as the web page didn't change, you could basically say,            |
 | 30:27      | hey, fill out this form. Here's the information for the form. Keyboard maestro has all of that           |
 | 30:31      | built in. And then you just have to have, you know, all of your, all your stuff and something for        |
-| 30:38      | Keyboard Maestro to look at to say, what do I need to get? And I think at the time I was using like      |
+| 30:38      | [[Keyboard Maestro]] to look at to say, what do I need to get? And I think at the time I was using like      |
 | 30:44      | OmniOutliner, but I mean, I could have used [[Drafts]] or anything else. It was, but I mean,                |
 | 30:49      | it was so fragile. And that's why I didn't want to touch it because I mean, you're literally             |
 | 30:54      | switching applications like lying down to the next cell copy. Okay, parse this information out.          |
@@ -389,11 +389,11 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 32:02      | it will make mistakes. But, you know, it sounds like you did the right thing and you made it             |
 | 32:06      | smart enough. Yeah, like you, you I scripting feels like the most powerful thing in the world            |
 | 32:11      | and a house of cards all at once every time I do it, you know, because it doesn't take much for          |
-| 32:17      | everything to go sideways when you're programming at that level with Keyboard Maestro. I just put        |
+| 32:17      | everything to go sideways when you're programming at that level with [[Keyboard Maestro]]. I just put        |
 | 32:23      | one of those together recently for Grammarly, because I run all my texts through Grammarly.              |
 | 32:27      | And I realised what a pain it was to copy the text, open the website. And there's no way on the          |
 | 32:32      | website with a keyboard shortcut to open a new, open a new document. So I just use the                   |
-| 32:40      | Keyboard Maestro trick, you know, look for this image on the screen and click it. And so it was          |
+| 32:40      | [[Keyboard Maestro]] trick, you know, look for this image on the screen and click it. And so it was          |
 | 32:44      | all UI scripted and it works fine. But all that stuff is very tenuous as you put it together.            |
 | 32:51      | But the, you know, what is it? Wait is my friend, you know, wait a half second between steps.            |
 | 32:57      | And you definitely want to develop that in like in strokes. You say like, okay,                          |
@@ -418,7 +418,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 34:38      | And in my case, it nearly always turns out that I do something, I do an automation for one thing         |
 | 34:43      | that is definitely only ever a one time thing. And three days later, I can reuse it with a very          |
 | 34:48      | minor tweak to something else. So, you know, it usually works out these things.                          |
-| 34:53      | Yeah. So when you did this Keyboard Maestro UI scripting automation, did it, did it work                 |
+| 34:53      | Yeah. So when you did this [[Keyboard Maestro]] UI scripting automation, did it, did it work                 |
 | 34:59      | for all the images without stopping once? Or did you have any, any complications you had to solve?       |
 | 35:05      | Well, and like I said, I kind of did it like the 110 100 path. And I ran into a lot of problems          |
 | 35:12      | around 100. There was some weird like timeout stuff that kept happening. So,                             |
@@ -517,13 +517,13 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 43:51      | at that company. I'm doing something else now. So I don't really have a need for this, you know,         |
 | 43:56      | my magnum opus of automation glory. So now I've retreated into the quiet life of, I call it              |
 | 44:05      | shortcut bettering, which means every time I have an application, which I think that there               |
-| 44:10      | should be a shortcut for, I just make one using Keyboard Maestro. Or if I think that there should        |
+| 44:10      | should be a shortcut for, I just make one using [[Keyboard Maestro]]. Or if I think that there should        |
 | 44:18      | be maybe a better shortcut, not to pick on [[Drafts]] again, but that's one that I distinctly know of        |
 | 44:25      | that like draft supports marked on the Mac and marked does this great preview of markdown content.       |
-| 44:32      | And anytime that I want to preview markdown and Drafts, I want marked to be running and I want           |
+| 44:32      | And anytime that I want to preview markdown and [[Drafts]], I want marked to be running and I want           |
 | 44:37      | marked to be the thing that's doing the preview. So I just hot wired the preview shortcut to make        |
 | 44:43      | sure that marked is open and then just open up the mark streaming window. And then also when I           |
-| 44:48      | close draft Drafts, then Keyboard Maestro says, Oh, yeah, let me close mark two while you're at it.      |
+| 44:48      | close draft [[Drafts]], then [[Keyboard Maestro]] says, Oh, yeah, let me close mark two while you're at it.      |
 | 44:53      | That's ingenious. I really think it's those two and three step automations that really, you know,        |
 | 45:00      | provide the lubricant of the day, you know, it's like just little things like that,                      |
 | 45:05      | even like the one I was talking about earlier, copy text, open Grammarly, push this button and           |
@@ -542,29 +542,29 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 46:17      | at it. So I'm good. I do something similar to catch the URL and copy it. I don't necessarily put         |
 | 46:25      | it into deliveries, which I should because I have deliveries open and I was expecting a delivery         |
 | 46:29      | yesterday and it was late. But I use the hyper key for a lot. And I know, David, I think you've          |
-| 46:35      | talked about the hyper key on your on your blog, some of BetterTouchTool, you just hit caps lock       |
+| 46:35      | talked about the hyper key on your on your blog, some of [[BetterTouchTool]], you just hit caps lock       |
 | 46:40      | and then now it hits shift control option in command for you. So hyper key L, when the browser is        |
-| 46:48      | open, Keyboard Maestro says, Oh, let me, what's that URL? Okay, that's on your clipboard now. You're     |
-| 46:54      | good. Yeah. And we've talked about hyper key in relation to Keyboard Maestro. But in the past,           |
+| 46:48      | open, [[Keyboard Maestro]] says, Oh, let me, what's that URL? Okay, that's on your clipboard now. You're     |
+| 46:54      | good. Yeah. And we've talked about hyper key in relation to [[Keyboard Maestro]]. But in the past,           |
 | 47:00      | it required installing carbine or elements, which is an amazing app, but it has very questionable        |
 | 47:07      | support in, you know, the most recent update to the Mac OS, you know, it doesn't, I don't think          |
-| 47:12      | it's really stable yet. And the guy at BetterTouchTool just decided, I'll heck with it,                |
-| 47:18      | I'll just write it into BetterTouchTool. And it's a one button where you can take the caps lock        |
+| 47:12      | it's really stable yet. And the guy at [[BetterTouchTool]] just decided, I'll heck with it,                |
+| 47:18      | I'll just write it into [[BetterTouchTool]]. And it's a one button where you can take the caps lock        |
 | 47:23      | key and turn it into shift command control option. And it gives you a whole another set of like 30       |
 | 47:32      | buttons you can use for keyboard shortcut, you know, the whole keyboard plus caps lock. And              |
 | 47:37      | also it allows you to avoid doing that, you know, that jujitsu with your fingers where you're            |
 | 47:43      | trying to hold down eight keys at once. Yes, holding eight keys at once is is a fast track               |
 | 47:49      | way to not being particularly happy with your workflow. So I can highly recommend. Also,                 |
-| 47:56      | just a side note, the guy behind BetterTouchTool went full time on that recently. And he was able      |
+| 47:56      | just a side note, the guy behind [[BetterTouchTool]] went full time on that recently. And he was able      |
 | 48:02      | to do that. And I'm really pleased about that. So I just wanted to mention that. So if you haven't       |
-| 48:06      | tried BetterTouchTool before, and you have a trackpad, and you want to add support for automation      |
+| 48:06      | tried [[BetterTouchTool]] before, and you have a trackpad, and you want to add support for automation      |
 | 48:11      | to it, or you have a mouse with a mapped buttons, or you like window snapping, just look at better       |
 | 48:17      | touch tool. It's it's amazing. Yeah, we need to at some point, dig in on that. We did a whole            |
 | 48:21      | Mac Power Users episode on it in the past, but maybe it's a point we need to dig into the Rosemary             |
-| 48:26      | Orchard brain on BetterTouchTool and hear what you're doing with it. Because you're right, it's        |
+| 48:26      | Orchard brain on [[BetterTouchTool]] and hear what you're doing with it. Because you're right, it's        |
 | 48:31      | an app that's not expensive. If you're a set up subscriber, it's you get it in there and he still        |
 | 48:36      | gets paid. So, you know, it for automators, this is such a great tool, you know, it's kind of like       |
-| 48:42      | Drafts. Like once you install it, you find all these uses for it. You forget that you're running it      |
+| 48:42      | [[Drafts]]. Like once you install it, you find all these uses for it. You forget that you're running it      |
 | 48:48      | until it's not running. And then you're like, wait, what? Yeah, exactly. I had to do something on my     |
 | 48:53      | dad's Mac for him the other day. He wanted to know why try time machine wasn't backing up. It            |
 | 48:58      | turns out if you turn off your Wi Fi connection, then time machine doesn't back up that. Yeah.           |
@@ -573,7 +573,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 49:14      | machines, I've mapped the three finger tap to the middle click, which usually means like close a tab     |
 | 49:20      | if you're middle clicking on a tab, or open a link in a new tab. And I was doing this, and I was         |
 | 49:25      | trying to figure out why it wasn't working. And it took me much too long to realise that it was          |
-| 49:31      | because he doesn't have BetterTouchTool installed, because he doesn't, he doesn't know how to          |
+| 49:31      | because he doesn't have [[BetterTouchTool]] installed, because he doesn't, he doesn't know how to          |
 | 49:36      | use that yet. So he'll be getting my first birthday next month.                                          |
 | 49:40      | Rose, you mentioned kind of the like joint pains and stuff that come with, you know,                     |
 | 49:44      | using a Mac a lot, you know, especially when it's our daily jobs. There's actually a new app. And        |
@@ -581,13 +581,13 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 49:56      | And in that, it's called Menuwhere, which takes your top left menu, your app menu,                      |
 | 50:05      | and your app menu bar, and it just puts it wherever your mouse is. And one of the things                 |
 | 50:10      | that I've done is I've actually, you have to use like a hot key to trigger it normally. I've just        |
-| 50:15      | configured BetterTouchTool with like shift double click to just it's almost like a second              |
+| 50:15      | configured [[BetterTouchTool]] with like shift double click to just it's almost like a second              |
 | 50:20      | right click. It's like, oh, if you right click, you get your options. But if you shift double click      |
 | 50:24      | on your, you know, trackpad, now you get that menu bar that if you are like me and you can never         |
 | 50:30      | remember where your mouse is, you don't have to worry about that because the menu bar went to            |
 | 50:34      | your mouse, not the other way around. That is genius. I'm going to use this. I love it. Fortunately,     |
 | 50:40      | I do very well by mixing up the trackpad and my Logitech mouse, but it's always good to spare            |
-| 50:45      | yourself any potential future problems if at all possible. And with BetterTouchTool, you could         |
+| 50:45      | yourself any potential future problems if at all possible. And with [[BetterTouchTool]], you could         |
 | 50:50      | also just configure it for your mouse as well. Yep. Yep. Though there is one button on my                |
 | 50:55      | mouse that I've forbidden myself from using. I'm not allowed to program it. And that is the              |
 | 50:59      | down button on the thumb rest. I don't know who Logitech thought that up, but everybody I knew           |
@@ -598,18 +598,18 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 51:27      | at it just now and no, I'm not even going to try and use that again. My hands will not let me do         |
 | 51:32      | that. I feel like all the years of playing the saxophone, my fingers are, they're very,                  |
 | 51:37      | they're like athletes. They're super soldiers of fingerness.                                             |
-| 51:41      | Okay, well, so we took a side diversion there, Jay, into [[BetterTouchTool]], but Keyboard Maestro         |
+| 51:41      | Okay, well, so we took a side diversion there, Jay, into [[BetterTouchTool]], but [[Keyboard Maestro]]         |
 | 51:49      | and [[BetterTouchTool]] are not the only applications you are using on the Mac. And I know we keep         |
-| 51:54      | meaning to talk about Alfred more on the show, David. We're going to have to do an entire episode        |
-| 51:58      | on it. And Jay, we might have to get you back for a segment in that. But you are using Alfred in a       |
+| 51:54      | meaning to talk about [[Alfred]] more on the show, David. We're going to have to do an entire episode        |
+| 51:58      | on it. And Jay, we might have to get you back for a segment in that. But you are using [[Alfred]] in a       |
 | 52:03      | couple of ways, which I really need to get better at doing, Jay. So would you like to tell us about      |
-| 52:08      | some of your favourite Alfred scripts? So Alfred is awesome. I will say I think Alfred was probably       |
+| 52:08      | some of your favourite [[Alfred]] scripts? So [[Alfred]] is awesome. I will say I think [[Alfred]] was probably       |
 | 52:16      | the first Mac automation-ish tool that I ever used. And I've been a power user ever since.               |
 | 52:24      | I guess the quite literal, that's what they call it. But I, so I use Duck.Go for search and Duck.Go      |
 | 52:35      | for those that don't know, have a bunch of documented and undocumented commands that they                |
 | 52:41      | call bang commands. So if you do exclamation point and whatever the shortcut is, and there's             |
 | 52:48      | actually another app called Keyword Search on the Mac that does something similar. And I run that        |
-| 52:53      | as well for different things. But the cool thing is Alfred can have its default action B to search       |
+| 52:53      | as well for different things. But the cool thing is [[Alfred]] can have its default action B to search       |
 | 53:03      | for something on the internet. And over time, you start memorising the bang commands that you use        |
 | 53:08      | for everything. So if I want to go to Google Images, I can just do like, you know, exclamation           |
 | 53:16      | point IMG and then whatever I want to search. And because I don't have to like create the                |
@@ -624,11 +624,11 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 54:09      | well, it's actually going to search for David, but then I can see at, you know, David Sparks             |
 | 54:14      | at MacSparky right there, first option. Yeah. Perfect. Yes. Yeah. No, I'm a big fan of those.           |
 | 54:21      | And there's a, we've got a link actually to David, you've been diving into                               |
-| 54:28      | to Alfred a little bit more recently. I noticed, you know, they've been posting things on your           |
+| 54:28      | to [[Alfred]] a little bit more recently. I noticed, you know, they've been posting things on your           |
 | 54:33      | blog again, 10 out of 10 for that. I really need to do a better job at that, where you've been           |
-| 54:38      | diving into Alfred as well. Yeah, well, there's just so much you can do with it from an automation       |
+| 54:38      | diving into [[Alfred]] as well. Yeah, well, there's just so much you can do with it from an automation       |
 | 54:44      | perspective. And what there's two things I like about it that I've been embracing more lately.           |
-| 54:50      | First is just native file search, because there are, there are built-in samples in the Alfred,           |
+| 54:50      | First is just native file search, because there are, there are built-in samples in the [[Alfred]],           |
 | 54:59      | you know, sample pack where, like you can say, search for just folders that have this name.              |
 | 55:05      | Like, I think a lot of time on your drive, you want to just find folders. And for me,                    |
 | 55:09      | since I have a separate folder for every client name, that one made a lot of sense for me,               |
@@ -651,31 +651,31 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 56:40      | folders because, you know, I have a lot of different things I'm responsible for. And                     |
 | 56:44      | I hit, or I can hit period P, and it goes to a specific project, you know. And so                        |
 | 56:51      | it just makes navigating through this stuff much faster. And all of that just is triggered by            |
-| 56:58      | Alfred. And, you know, how do you not love Alfred? Yeah, I would highly second the recommendation        |
+| 56:58      | [[Alfred]]. And, you know, how do you not love [[Alfred]]? Yeah, I would highly second the recommendation        |
 | 57:04      | that you've got there for [[Packal]]. It's a website where a lot of different people have submitted          |
-| 57:09      | different scripts over time for Alfred. Now, some of these have been around for quite a                  |
+| 57:09      | different scripts over time for [[Alfred]]. Now, some of these have been around for quite a                  |
 | 57:14      | while. So there might be newer forks of them, you know, alternative versions, which are more             |
 | 57:18      | up to date and have more features. So you might want to do a little bit of digging around there.         |
-| 57:23      | But, you know, it's an excellent resource if you want to dive more into Alfred.                          |
-| 57:30      | And I know that I found Alfred is one of those tools where I don't really think about it much,           |
+| 57:23      | But, you know, it's an excellent resource if you want to dive more into [[Alfred]].                          |
+| 57:30      | And I know that I found [[Alfred]] is one of those tools where I don't really think about it much,           |
 | 57:35      | but I use it a lot. And actually, [[Stephen Millard]], who was on the show relatively recently, has a        |
 | 57:40      | whole two actions. They're just two actions, one for [[Keyboard Maestro]] and one for [[Drafts]].                |
-| 57:46      | And it doesn't sound like a lot. He's put the entire [[Drafts]] library inside of Alfred.                    |
+| 57:46      | And it doesn't sound like a lot. He's put the entire [[Drafts]] library inside of [[Alfred]].                    |
 | 57:51      | So, you know, that's something that I really, I've been playing with a lot and I really like.            |
-| 57:58      | Yeah. I mean, the ability to trigger Keyboard Maestro scripts while you're                               |
-| 58:02      | from Alfred is just a remarkable little tool because Alfred is always very close.                        |
-| 58:09      | Do you guys trigger Alfred with Command Space, Control Space? How do you trigger Alfred?                 |
-| 58:14      | Oh, Command Space. Absolutely. It has replaced Spotlight.                                                |
-| 58:19      | Yeah. I remap Spotlight to Option Space and then Alfred is Command Space.                                |
+| 57:58      | Yeah. I mean, the ability to trigger [[Keyboard Maestro]] scripts while you're                               |
+| 58:02      | from [[Alfred]] is just a remarkable little tool because [[Alfred]] is always very close.                        |
+| 58:09      | Do you guys trigger [[Alfred]] with Command Space, Control Space? How do you trigger [[Alfred]]?                 |
+| 58:14      | Oh, Command Space. Absolutely. It has replaced [[Spotlight]].                                                |
+| 58:19      | Yeah. I remap [[Spotlight]] to Option Space and then [[Alfred]] is Command Space.                                |
 | 58:24      | Every so often, my Mac has been doing this weird thing because I'm back on the Intel Mac and I           |
 | 58:28      | think it's throwing a wobbly because I was on the M1 and I liked it more. So, it throws a wobbly         |
-| 58:34      | and it doesn't start Alfred at launch. And I'm not quite sure why this is. I've narrowed it down to      |
-| 58:39      | it's not an Alfred problem because Alfred is doing all the right things that it's supposed to do.        |
+| 58:34      | and it doesn't start [[Alfred]] at launch. And I'm not quite sure why this is. I've narrowed it down to      |
+| 58:39      | it's not an [[Alfred]] problem because [[Alfred]] is doing all the right things that it's supposed to do.        |
 | 58:46      | So, I've narrowed it down to Mac OS is being weird. So, I need Option Space available. Should I          |
-| 58:53      | need to start Alfred from Spotlight, which is pretty much the only thing I use Spotlight for             |
-| 58:57      | nowadays. All you do is to remap that, all you do is you open up Spotlight and then hit Command          |
+| 58:53      | need to start [[Alfred]] from [[Spotlight]], which is pretty much the only thing I use [[Spotlight]] for             |
+| 58:57      | nowadays. All you do is to remap that, all you do is you open up [[Spotlight]] and then hit Command          |
 | 59:02      | Comma and then you can remap it to Option or Control Space and then that allows you to set               |
-| 59:07      | the Alfred trigger to Command Space as you do. This episode of Automators is brought to you              |
+| 59:07      | the [[Alfred]] trigger to Command Space as you do. This episode of Automators is brought to you              |
 | 59:14      | by Forward Networks. Forward Networks produces business risks by revolutionising the way large           |
 | 59:18      | networks are managed. How? Well, their advanced software delivers a digital twin of the network,         |
 | 59:24      | which is a completely accurate mathematical model in software. The model serves as a single              |
@@ -696,26 +696,26 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:00:44   | we talked about just triggering, you know,OmniFocus searches, I mean, are, and, you know,               |
 | 01:00:51   | drafting Keyboard Maestros. I've actually built, and I'm the maintainer of, there's another tool         |
 | 01:00:56   | called Bunch, and it's built by automator, mad scientist [[Brett Terpstra]], and it is, I would say,         |
-| 01:01:03   | it's very, it's Keyboard Maestro if it were only for context. So for me, I actually triggered those      |
-| 01:01:12   | bunches via Alfred, and I maintained the Alfred workflow for that. And it's cool because, you            |
+| 01:01:03   | it's very, it's [[Keyboard Maestro]] if it were only for context. So for me, I actually triggered those      |
+| 01:01:12   | bunches via [[Alfred]], and I maintained the [[Alfred]] workflow for that. And it's cool because, you            |
 | 01:01:22   | know, it becomes this thought of instead of just saying, oh, I need a website or oh, I need to open      |
 | 01:01:27   | an app or a file, it's like, I need to get into podcasting mode, or I need to get into presentation      |
-| 01:01:33   | mode, or I need to get into video mode. And I just, you know, hit Alfred, hit B to activate Bunch,       |
+| 01:01:33   | mode, or I need to get into video mode. And I just, you know, hit [[Alfred]], hit B to activate Bunch,       |
 | 01:01:39   | and then it searches for all of my active, all of my bunches that are available. And I just type         |
 | 01:01:44   | the one that I'm looking for really quick, hit enter, and then boom, you got windows that are            |
 | 01:01:48   | closing and new windows that are opening and do not disturb being set or unset and all this other        |
 | 01:01:53   | stuff happening. Yeah, I need to get into Bunch. I, you know, I know anything Brett makes I usually      |
 | 01:01:59   | fall for, and that's one I just haven't got to yet. I have all these complex setups with keyboard        |
 | 01:02:06   | maestro, and I suspect a lot of this stuff would probably be easier with Bunch. I think the difference   |
-| 01:02:14   | between in my, from what I can tell with Bunch and Keyboard Maestro, and I've got 20 bunches,            |
+| 01:02:14   | between in my, from what I can tell with Bunch and [[Keyboard Maestro]], and I've got 20 bunches,            |
 | 01:02:20   | I think on here at this point, some that are just tests. But a lot of it is, I don't want to have        |
 | 01:02:27   | to think about how I'm going to do a thing. It's like once you learn the, like the Bunch syntax,         |
-| 01:02:32   | then it, what could be like a bunch of blocks and Keyboard Maestro becomes like 10 lines of just         |
+| 01:02:32   | then it, what could be like a bunch of blocks and [[Keyboard Maestro]] becomes like 10 lines of just         |
 | 01:02:41   | text in Bunch, and then you're, you're there, you're ready to go. Yeah. And what I, what I really like   |
 | 01:02:48   | about Bunch as well is David, it uses X callback URLs. And we recently had a show on the stream          |
 | 01:02:54   | deck where we talked about using these URLs in the web action. Now [[Brett Terpstra]] had had a post         |
-| 01:03:00   | about doing this from Keyboard Maestro. And the, there's a bit of a delay if you, if you put             |
-| 01:03:12   | X callback URLs in the website action, versus if you trigger them from Keyboard Maestro. But it          |
+| 01:03:00   | about doing this from [[Keyboard Maestro]]. And the, there's a bit of a delay if you, if you put             |
+| 01:03:12   | X callback URLs in the website action, versus if you trigger them from [[Keyboard Maestro]]. But it          |
 | 01:03:17   | means that you can easily trigger things from the Stream Deck as well. And yeah, I'm loving              |
 | 01:03:23   | Bunch. I've been playing with it a little bit actually recently. So we might have to look                |
 | 01:03:28   | into that one in a future show as well. Yeah. So give me just kind of an overview since I haven't        |
@@ -739,7 +739,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:05:18   | which closes Dropbox and CloudMounter, which is, you know, all the little big bandwidth consuming        |
 | 01:05:25   | things. It closes Logic, Final Cut, Skype, Zoom, Dropbox, and my email client. It sets my do not         |
 | 01:05:32   | disturbed on, it changes my audio inputs and outputs to my Focusrite Scarlet and it opens up             |
-| 01:05:39   | Audio Hijack and triggers a Keyboard Maestro snippet that says, Hey, look at Audio Hijack and            |
+| 01:05:39   | Audio Hijack and triggers a [[Keyboard Maestro]] snippet that says, Hey, look at Audio Hijack and            |
 | 01:05:47   | select the image that says that podcast name. And then from there, when I'm done recording,              |
 | 01:05:55   | I hit close that bunch. And when I close it, it has a whole other set of instructions like              |
 | 01:06:01   | reactivate Dropbox, open up the Dropbox request URL, and then also open up Patreon so I can send the     |
@@ -760,7 +760,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:07:34   | I got to wrap my head around that a little bit more to get it. But then once you do,                     |
 | 01:07:38   | you're able to just start writing things. And if I mean, even when you take stuff out and,               |
 | 01:07:45   | you know, with snippets and menu options and stuff like that, there's there's a lot of room to           |
-| 01:07:50   | to think about things differently. I like this because I feel like in Keyboard Maestro, there's          |
+| 01:07:50   | to think about things differently. I like this because I feel like in [[Keyboard Maestro]], there's          |
 | 01:07:55   | like one way to do a thing in most cases, or there's probably two. But if you don't know those           |
 | 01:08:01   | ways, it becomes hard. And something like Bunch, you just start typing, I always say like, just try      |
 | 01:08:07   | the file first. If you just try the file and it doesn't do what you want it to do, then go to            |
@@ -771,20 +771,20 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:08:31   | front matter to it. So now you can have all those things run at once, you can have them run in line.     |
 | 01:08:35   | And again, a lot of it is confusing, but a lot of it is also very optional. So you don't have to         |
 | 01:08:41   | feel like writing your magnum opus, save you a year's worth of work in one text file, you can            |
-| 01:08:47   | again, start slow, do like, I want these few things. And if you already have Keyboard Maestro            |
-| 01:08:53   | doing the rest, just add the Keyboard Maestro, your X callback URL, and it'll just run it.               |
+| 01:08:47   | again, start slow, do like, I want these few things. And if you already have [[Keyboard Maestro]]            |
+| 01:08:53   | doing the rest, just add the [[Keyboard Maestro]], your X callback URL, and it'll just run it.               |
 | 01:08:59   | Yeah, I mean, the nice thing about this is it has URLs in it. So you can do basically anything on        |
 | 01:09:05   | your computer from a bunch. And if it's, and if it's something Brett makes, you know that it's           |
 | 01:09:12   | going to be constantly getting updated. And, you know, there's not going to be any rust in the           |
 | 01:09:18   | machine. If there's something that doesn't work, Brett, I'll just go in and fix it.                      |
 | 01:09:23   | Yeah, a bunch of something I've definitely been playing with more and more, especially when I            |
-| 01:09:27   | realised that it might even in some ways be better than Keyboard Maestro for some of what I'm doing.     |
-| 01:09:33   | You know, Keyboard Maestro is excellent, but it's an extremely powerful tool. And sometimes I don't      |
+| 01:09:27   | realised that it might even in some ways be better than [[Keyboard Maestro]] for some of what I'm doing.     |
+| 01:09:33   | You know, [[Keyboard Maestro]] is excellent, but it's an extremely powerful tool. And sometimes I don't      |
 | 01:09:38   | need all of that power. And, you know, it's always good to have the right tool for the right job.        |
-| 01:09:43   | So the other thing, of course, is, you know, if people don't have Keyboard Maestro, but they like        |
+| 01:09:43   | So the other thing, of course, is, you know, if people don't have [[Keyboard Maestro]], but they like        |
 | 01:09:48   | the idea of opening a series of applications at the same time, then of course, bunch is a great          |
-| 01:09:51   | way of doing that. You know, if you don't have Keyboard Maestro, and we might convince you on            |
-| 01:09:55   | Keyboard Maestro another day, and if we don't, then that's totally fine. You're still an                 |
+| 01:09:51   | way of doing that. You know, if you don't have [[Keyboard Maestro]], and we might convince you on            |
+| 01:09:55   | [[Keyboard Maestro]] another day, and if we don't, then that's totally fine. You're still an                 |
 | 01:09:59   | automator without it.                                                                                    |
 | 01:10:01   | Bunch is also free. I should throw that in there. But I think it will be moving to paid. Right now,      |
 | 01:10:06   | it's in beta. But yeah, I know Brett's, Brett's got a lot of stuff going on, but I know Bunch is         |
@@ -852,12 +852,12 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:16:26   | video that's on my local storage so that the next time I'm playing it, I can go, wait, what was that     |
 | 01:16:32   | one thing? Oh yeah, let me just activate hook. There it is. I think that's the thing, isn't it?          |
 | 01:16:36   | It's all about the interlinking between things. That's one of the reasons why I'm such a big             |
-| 01:16:40   | fan of Obsidian. I have done a little playing with hook. But in my day job, I don't really need to       |
+| 01:16:40   | fan of [[Obsidian]]. I have done a little playing with hook. But in my day job, I don't really need to       |
 | 01:16:46   | link files together or link much of anything together. It's it's all interconnected in an IDE.           |
 | 01:16:52   | So I've not had a huge chance to play with it from that perspective. But it's something I'm,             |
 | 01:16:57   | I've started experimenting with more and more, you know, as me rather than working me. And I'm           |
-| 01:17:03   | liking it. Yeah. And, you know, now Obsidian has URL integration, where you can easily save the          |
-| 01:17:09   | URL to an Obsidian page. And it has hook integration. So you can hook your Obsidian page. So I just      |
+| 01:17:03   | liking it. Yeah. And, you know, now [[Obsidian]] has URL integration, where you can easily save the          |
+| 01:17:09   | URL to an [[Obsidian]] page. And it has hook integration. So you can hook your [[Obsidian]] page. So I just      |
 | 01:17:15   | love the way all this stuff ties together. Me too. Explain to me a little bit more, Jay,                 |
 | 01:17:21   | how this new integration is going to work to allow you to use it on mobile devices, because              |
 | 01:17:25   | that's the one thing I'm sad about with hook is that like the URL links I have to files and folders      |
@@ -884,7 +884,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:19:34   | to day would help, I think. So if I can, if we can talk inside baseball on a podcast,                    |
 | 01:19:42   | we have the automators dock here that we've planned. I have that hooked to a lot of the                  |
 | 01:19:50   | different websites that we've talked about. So I have it hooked to Bunch. I have it hooked to            |
-| 01:19:55   | Alfred's website. I have it hooked to some of the videos that I have in the notes and a lot of           |
+| 01:19:55   | [[Alfred]]'s website. I have it hooked to some of the videos that I have in the notes and a lot of           |
 | 01:20:02   | the documentation and a lot of these links that we've, we've saved here, I have them all hooked.         |
 | 01:20:08   | So in the future, if I'm talking with someone and maybe we're talking about Mac automation and           |
 | 01:20:14   | they're like, oh, hey, you did that cool thing with Bunch. I can go, yeah, let me show you               |
@@ -896,7 +896,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:20:44   | it's really cool. You know what, I could talk about this for hours, but I already did that               |
 | 01:20:51   | on the show. And here's a link to it. And then just copy that link and then send it off to him.          |
 | 01:20:55   | Nice. Yeah, I use it both for MacSparky and Legal in much the same way. And like one thing              |
-| 01:21:02   | that is always hooked is the Obsidian URL, because that's kind of the ground zero for a lot of this      |
+| 01:21:02   | that is always hooked is the [[Obsidian]] URL, because that's kind of the ground zero for a lot of this      |
 | 01:21:07   | stuff. But it also can be an OmniFocus project, or it can be a website or, you know, or a folder,        |
 | 01:21:13   | full of files. And to me, that's kind of the killer feature of it. And something I sorely miss           |
 | 01:21:20   | when I'm on an iPad that I don't have my hook security blanket available to me.                          |
@@ -957,15 +957,15 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:26:40   | It's got a lot of stuff in it. And I know that a lot, I know it is on a feature free. So there's         |
 | 01:26:47   | going to be nothing new until the brand, like the big version that comes up right now. It's just         |
 | 01:26:53   | fixing a lot of minor stuff and documenting those things. And I did mention before, I'm also the         |
-| 01:27:00   | maintainer of the unofficial Bunch Alfred workflow, but it's the one that's on the website. So           |
+| 01:27:00   | maintainer of the unofficial Bunch [[Alfred]] workflow, but it's the one that's on the website. So           |
 | 01:27:09   | do you want to try that out and run into any problems with it? You know who you can yell at              |
 | 01:27:14   | and I will be there to solve any problems, but it's a pretty simple system. And it's all using           |
 | 01:27:20   | those X callback URLs that people are so excited about. Nice. And we've got a link to that plug          |
-| 01:27:27   | in or workflow, sorry, for Alfred in the show notes as well for everybody as well. And it is             |
+| 01:27:27   | in or workflow, sorry, for [[Alfred]] in the show notes as well for everybody as well. And it is             |
 | 01:27:32   | indeed installed on my Mac and it has been since we did our show preparation, Jay. So thank you          |
 | 01:27:36   | for that. That makes me feel good because you didn't yell at me. No, no, I'm ribbing you to come back.    |
 | 01:27:43   | I do think while you're at it, Jay, though, you might as well just go ahead and make the hook            |
-| 01:27:46   | Alfred integration to because I know you have tons of free time. So just go ahead and whip that up.      |
+| 01:27:46   | [[Alfred]] integration to because I know you have tons of free time. So just go ahead and whip that up.      |
 | 01:27:52   | Brett's made the CLI. Unfortunately, the hook, the way that hook works, the X callback URLs              |
 | 01:28:00   | aren't quite there yet, but I have it on good faith that they're working on that as well. So             |
 | 01:28:06   | once they get those going, then definitely. But until then, I'll just keep making videos about           |

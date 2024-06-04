@@ -623,7 +623,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 36:00      | support for tab groups in Safari, David. Tab groups in Safari have shortcut support.                      |
 | 36:05      | I am unbelievably ridiculously excited by this. Because again, this is something that                     |
 | 36:11      | we always get asked by people, how do I access a tab group in shortcuts and AppleScript                  |
-| 36:16      | and through Keyboard Maestro and [[Hazel]] and things like that. And the answer was, sorry,                   |
+| 36:16      | and through [[Keyboard Maestro]] and [[Hazel]] and things like that. And the answer was, sorry,                   |
 | 36:21      | not. And the answer now is you can use shortcuts for that, which is great. So you can open                |
 | 36:28      | a tab group, and you can add a tab to a tab group, and you can create a tab group. And                    |
 | 36:33      | you can also configure your Safari focus filter, which means that just, you know, like you                |
@@ -662,7 +662,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 39:20      | groups which are kind of like work in progress. So I've got a tab group of front doorbell,                |
 | 39:26      | which sounds much more ominous than it is, but it's an automated front doorbell system                    |
 | 39:30      | for my parents in France, where I've got a blog post and some other stuff all in there.                   |
-| 39:37      | And yes, I could bookmark these, yes, I could put them into Obsidian. But it also means                   |
+| 39:37      | And yes, I could bookmark these, yes, I could put them into [[Obsidian]]. But it also means                   |
 | 39:43      | that when I tap and hold on a link on iOS or I right click on a link on Mac, I can send                   |
 | 39:48      | it to a specific tab group. So that tab group can always just receive that link. And that's,              |
 | 39:53      | that to me is the key for the tab groups there, which is why I think they're so powerful and              |
@@ -1011,7 +1011,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:07:46   | a simple timer on their Mac, they can do that. And just like a spotlight on iOS could open                |
 | 01:07:52   | a Shortcut to run it, well, a spotlight on macOS can run Shortcuts now, which is great                    |
 | 01:07:57   | because we now have the same experience where you press Command Space on all your devices,                |
-| 01:08:01   | unless you've put something like Alfred in place, of course. Yeah, it's progress. I                       |
+| 01:08:01   | unless you've put something like [[Alfred]] in place, of course. Yeah, it's progress. I                       |
 | 01:08:06   | mean, I feel like there's still a ways to go. But I think that this is a lot better.                      |
 | 01:08:11   | I mean, it really felt broken when you could do something on one platform that seemed like                |
 | 01:08:16   | it should work on another platform and it didn't. Yes, yeah, exactly. And I think it's                    |
@@ -1080,8 +1080,8 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:13:27   | Thus far, I've been using a combination of random things sort of duct tape together with                  |
 | 01:13:31   | wishes and hope and a bit of gum and definitely more duct tape. Being able to just use the                |
 | 01:13:36   | clock app inside of that. Thank you very much. I'll take that. You know, why not?                         |
-| 01:13:42   | Some other improvements. You can now run shortcuts straight from Spotlight. So you can just type          |
-| 01:13:47   | in the shortcut name and run it and you can run specific app actions from Spotlight like                  |
+| 01:13:42   | Some other improvements. You can now run shortcuts straight from [[Spotlight]]. So you can just type          |
+| 01:13:47   | in the shortcut name and run it and you can run specific app actions from [[Spotlight]] like                  |
 | 01:13:52   | a timer if you want. That's kind of cool. Yes. I think this is related to the new API,                    |
 | 01:13:57   | the intense API that we're getting because the idea behind this is essentially if you've                  |
 | 01:14:04   | never opened the Shortcuts app before and you go and you open the Shortcuts app, it's empty               |
@@ -1093,7 +1093,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:14:37   | so that it, you know, it doesn't interfere with my life. And this thing that I always                     |
 | 01:14:42   | say the wrong thing, I'm going to put that to be the right thing or I'm going to add                      |
 | 01:14:45   | another version of it so that I can just say whatever I want and it'll do it. But this                    |
-| 01:14:49   | means that all of those can then be made available to Spotlight, which works on the iPad as far           |
+| 01:14:49   | means that all of those can then be made available to [[Spotlight]], which works on the iPad as far           |
 | 01:14:55   | as I can tell as well as the Mac. And I'm sure it works in on the iPhone as well with                     |
 | 01:15:01   | the new search bar at the bottom as well, which is nice. But, you know, it's, it's just                   |
 | 01:15:05   | an improvement, a big improvement because everything is everywhere. And even if you're                    |
@@ -1123,7 +1123,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:17:06   | And I can toggle off suggest in search. So if something is showing up in the search that                  |
 | 01:17:11   | I don't want to, then I can get rid of that, which is quite nice. So yay. I'm really pleased              |
 | 01:17:18   | about that.                                                                                               |
-| 01:17:19   | You can also just generally remove shortcuts from Spotlight if you just hit the three dots.               |
+| 01:17:19   | You can also just generally remove shortcuts from [[Spotlight]] if you just hit the three dots.               |
 | 01:17:25   | So they've made a way, before they made a way to add them, now they've made a way to                      |
 | 01:17:29   | remove them if there was ones that keep showing up and conflicting with things you want to                |
 | 01:17:32   | search for. All this is just really nice quality of life. Kind of getting back to the top of              |
@@ -1199,7 +1199,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:23:33   | into the nose team and like getting the code in. I don't know how it happens, but, but                    |
 | 01:23:38   | they definitely, I think it's a combination of what API's shortcuts has available to those                |
 | 01:23:44   | apps. So for example, the new intense API is obviously available to, you know, every                      |
-| 01:23:50   | app from yellow season Obsidian to [[Drafts]] and, and Scriptable, but it's also available                    |
+| 01:23:50   | app from yellow season [[Obsidian]] to [[Drafts]] and, and Scriptable, but it's also available                    |
 | 01:23:55   | to Mail and sSfari. But also if those teams want something specific to be available, then                 |
 | 01:24:01   | they can put it into their API, um, which makes it in turn available back to the shortcuts                |
 | 01:24:06   | app because that's how shortcuts did a lot of stuff before, you know, it was using a                      |

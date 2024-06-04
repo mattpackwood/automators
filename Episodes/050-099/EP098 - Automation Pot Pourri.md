@@ -84,7 +84,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 00:48      | because there's a whole bunch of new stuff                            |
 | 00:50      | and obsidian, which isn't really enough for a whole show,             |
 | 00:54      | but I do have a bunch of stuff to share                               |
-| 00:55      | with what I'm automating Obsidian.                                    |
+| 00:55      | with what I'm automating [[Obsidian]].                                    |
 | 00:57      | So we've got a bunch of cool topics today                             |
 | 00:59      | and we're really looking forward to sharing them with you.            |
 | 01:02      | Now that we have Automator's Macs,                                    |
@@ -887,7 +887,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 34:00      | [[AppleScript]] is another way that you can run shortcuts                |
 | 34:03      | and there's just a simple [[AppleScript]] call.                          |
 | 34:05      | Like I did the thing at MacSparky recently                           |
-| 34:08      | with a Keyboard Maestro script                                        |
+| 34:08      | with a [[Keyboard Maestro]] script                                        |
 | 34:10      | and I ran a shortcut in it just with an [[AppleScript]] call.            |
 | 34:14      | It's just, it's not that hard, you know?                              |
 | 34:17      | Yes, yeah, it is.                                                     |
@@ -903,8 +903,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 34:43      | and just play with that a little bit,                                 |
 | 34:44      | then it's gonna be pretty easy to do                                  |
 | 34:46      | and you'll be able to reuse that same logic                           |
-| 34:48      | in things like Bunch, Keyboard Maestro,                               |
-| 34:50      | Alfred and so on and so forth,                                        |
+| 34:48      | in things like Bunch, [[Keyboard Maestro]],                               |
+| 34:50      | [[Alfred]] and so on and so forth,                                        |
 | 34:52      | that we do have some special options to share for those.              |
 | 34:55      | Yeah, anywhere you can run an [[AppleScript]],                           |
 | 34:57      | you can run it and that's nice.                                       |
@@ -976,30 +976,30 @@ Rose and David have several automation topics on the table in this episode inclu
 | 38:00      | it runs the shortcut on those 15 items.                               |
 | 38:04      | Yeah, the one that I really like                                      |
 | 38:06      | and the one I find myself using the most                              |
-| 38:08      | just kind of in under fire is the Alfred integration.                 |
-| 38:12      | And not everybody uses Alfred,                                        |
+| 38:08      | just kind of in under fire is the [[Alfred]] integration.                 |
+| 38:12      | And not everybody uses [[Alfred]],                                        |
 | 38:14      | we did a whole show on it, both Rose and I are big fans,              |
-| 38:17      | but I think the Alfred integration is great.                          |
+| 38:17      | but I think the [[Alfred]] integration is great.                          |
 | 38:20      | There's a couple different ways to do this.                           |
 | 38:22      | [[Stephen Millard]] did one over at [ThoughtAsylum](https://thoughtasylum.com)                       |
-| 38:27      | and there's also a kind of a plug-in for Alfred                       |
+| 38:27      | and there's also a kind of a plug-in for [[Alfred]]                       |
 | 38:30      | who was just by, I've got it, let me just get in here                 |
 | 38:33      | hold on a second.                                                     |
 | 38:34      | If it's called Bypass, that is from [[Stephen Millard]].                   |
 | 38:37      | No, the one I'm using is called Shortcuts by Vitor Galveo.            |
 | 38:47      | And I just type SC and then space                                     |
 | 38:51      | in the name of the shortcut and it fires off,                         |
-| 38:54      | which is a shortcut workflow for Alfred.                              |
+| 38:54      | which is a shortcut workflow for [[Alfred]].                              |
 | 38:56      | We'll put a link for both of these and they're both great.            |
-| 38:59      | And running a shortcut from Alfred                                    |
-| 39:02      | because I do so much else from Alfred                                 |
+| 38:59      | And running a shortcut from [[Alfred]]                                    |
+| 39:02      | because I do so much else from [[Alfred]]                                 |
 | 39:03      | is kind of the way to go for me.                                      |
 | 39:06      | Yes, yes.                                                             |
 | 39:07      | One of the things I should mention                                    |
 | 39:08      | and that there's going to be a mini-segment                           |
 | 39:11      | now probably called the Stephen Millard appreciation segment           |
-| 39:14      | is that his shortcuts integration for Alfred,                         |
-| 39:18      | he's also got one for a Keyboard Maestro,                             |
+| 39:14      | is that his shortcuts integration for [[Alfred]],                         |
+| 39:18      | he's also got one for a [[Keyboard Maestro]],                             |
 | 39:21      | but it really does let you do everything.                             |
 | 39:22      | So you can run a shortcut, you can run it with input,                 |
 | 39:25      | you can run it for a specific folder,                                 |
@@ -1027,8 +1027,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 40:23      | Stephen Miller depreciated in section.                                |
 | 40:24      | He did a bypass for shortcuts,                                        |
 | 40:27      | which comes in three parts.                                           |
-| 40:28      | There's a Stream Deck, there's Alfred                                 |
-| 40:30      | and then there's Keyboard Maestro,                                    |
+| 40:28      | There's a Stream Deck, there's [[Alfred]]                                 |
+| 40:30      | and then there's [[Keyboard Maestro]],                                    |
 | 40:32      | which isn't called bypass,                                            |
 | 40:34      | but I'm gonna classify it in the same group                           |
 | 40:37      | because it's another excellent integration                            |
@@ -1045,7 +1045,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 41:05      | the Mac automation community would embrace shortcuts                  |
 | 41:08      | in a way that makes it easy to trigger them anywhere.                 |
 | 41:10      | We still have all the other stuff,                                    |
-| 41:12      | Keyboard Maestro, [[Hazel]], [[AppleScript]], Terminal,                      |
+| 41:12      | [[Keyboard Maestro]], [[Hazel]], [[AppleScript]], Terminal,                      |
 | 41:15      | whatever you want.                                                    |
 | 41:16      | And now we can mix and match.                                         |
 | 41:18      | And that's exactly what I was hoping for                              |
@@ -1055,16 +1055,16 @@ Rose and David have several automation topics on the table in this episode inclu
 | 41:27      | And especially when we can weave them                                 |
 | 41:30      | into everything else that we do on a daily basis.                     |
 | 41:33      | Well, it's easy to call a shortcut from other automation tools        |
-| 41:38      | like Keyboard Maestro or what have you.                               |
+| 41:38      | like [[Keyboard Maestro]] or what have you.                               |
 | 41:41      | What I would really like is the ability                               |
 | 41:43      | to kind of like go deeper and embed portions of a shortcut,           |
-| 41:47      | like in a Keyboard Maestro,                                           |
+| 41:47      | like in a [[Keyboard Maestro]],                                           |
 | 41:49      | shortcuts, contacts, actions are really good.                         |
 | 41:52      | And the way I've been getting around it is                            |
-| 41:53      | I'll just do the stuff that's easy in Keyboard Maestro first,         |
+| 41:53      | I'll just do the stuff that's easy in [[Keyboard Maestro]] first,         |
 | 41:57      | and then I'll do the stuff that's easy to do                          |
 | 41:59      | in shortcuts at the end                                               |
-| 42:00      | and just call it out of Keyboard Maestro.                             |
+| 42:00      | and just call it out of [[Keyboard Maestro]].                             |
 | 42:03      | I do, I would like to see even deeper integration,                    |
 | 42:08      | but we'll get there.                                                  |
 | 42:11      | This is early days.                                                   |
@@ -1245,7 +1245,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 49:45      | Like it's got some web links                                          |
 | 49:47      | like to the sponsor read page                                         |
 | 49:49      | or to the show planning documents.                                    |
-| 49:51      | It's got a Keyboard Maestro script                                    |
+| 49:51      | It's got a [[Keyboard Maestro]] script                                    |
 | 49:55      | that takes the selected file                                          |
 | 49:57      | and copies it to the folder that we share with our editor.            |
 | 50:02      | And I've got another one that just opens up a folder                  |
@@ -1331,8 +1331,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 53:23      | whenever I go in Apple Mail so I can process mail                     |
 | 53:25      | without having to like navigate to it on the Stream Deck.             |
 | 53:30      | The other one I do that for,                                          |
-| 53:31      | which I may turn off as an Obsidian                                   |
-| 53:33      | because I've also programmed a lot of Obsidian                        |
+| 53:31      | which I may turn off as an [[Obsidian]]                                   |
+| 53:33      | because I've also programmed a lot of [[Obsidian]]                        |
 | 53:36      | into Stream Deck buttons.                                             |
 | 53:38      | So there's a couple where it makes sense for me,                      |
 | 53:40      | but generally I don't have those automatic triggers                   |
@@ -1375,30 +1375,30 @@ Rose and David have several automation topics on the table in this episode inclu
 | 55:27      | I just use the built-in action to open a folder.                      |
 | 55:29      | That makes sense for me.                                              |
 | 55:30      | But for anything with any complexity,                                 |
-| 55:34      | I just build a Keyboard Maestro script                                |
+| 55:34      | I just build a [[Keyboard Maestro]] script                                |
 | 55:36      | and just tie it with KM Link.                                         |
 | 55:38      | And that is by far the most useful for me                             |
-| 55:42      | because I can do almost anything with Keyboard Maestro,               |
+| 55:42      | because I can do almost anything with [[Keyboard Maestro]],               |
 | 55:45      | including launch shortcuts.                                           |
 | 55:46      | So it's just like the kind of like magic bullet.                      |
-| 55:50      | A Keyboard Maestro for me has become a liability                      |
+| 55:50      | A [[Keyboard Maestro]] for me has become a liability                      |
 | 55:54      | in a certain extent because, you know,                                |
 | 55:56      | would they say when you have a hammer,                                |
 | 55:58      | everything's a nail?                                                  |
-| 56:00      | I mean, for me, Keyboard Maestro is like the place                    |
+| 56:00      | I mean, for me, [[Keyboard Maestro]] is like the place                    |
 | 56:03      | I want to automate everything on my Mac                               |
 | 56:05      | because I'm so familiar with its tool set                             |
 | 56:07      | and what it can do and it's so powerful                               |
 | 56:10      | that it almost holds me back on some things.                          |
 | 56:13      | Yes, it is one of those things                                        |
-| 56:14      | where I end up using Keyboard Maestro                                 |
+| 56:14      | where I end up using [[Keyboard Maestro]]                                 |
 | 56:16      | for a lot of things that maybe it wasn't intended to do.              |
 | 56:20      | But you know what,                                                    |
 | 56:21      | it's been working pretty darn well for that.                          |
 | 56:23      | Yeah, it does, that's the thing, right, it works.                     |
 | 56:25      | Yeah, it can save the day in so many ways                             |
 | 56:28      | and I'm gonna give a great example here.                              |
-| 56:30      | So I'm using KM Link and Keyboard Maestro                             |
+| 56:30      | So I'm using KM Link and [[Keyboard Maestro]]                             |
 | 56:33      | with my Stream Deck pedal.                                            |
 | 56:35      | Okay, and so we're talking right now,                                 |
 | 56:36      | we're recording a podcast and I click over                            |
@@ -1417,7 +1417,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 57:06      | that does the timestamp.                                              |
 | 57:09      | So when we start recording,                                           |
 | 57:11      | I save the current timestamp into a variable                          |
-| 57:15      | through Keyboard Maestro and that macro starts                        |
+| 57:15      | through [[Keyboard Maestro]] and that macro starts                        |
 | 57:17      | the recording in audio hijack as well.                                |
 | 57:20      | And I've got another one which gets the current timestamp             |
 | 57:23      | and that's hooked up to a couple of things,                           |
@@ -1482,7 +1482,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 59:33      | And so I've just left it there.                                       |
 | 59:34      | And then I'm using the bring windows                                  |
 | 59:36      | with name containing to front.                                        |
-| 59:39      | And this is a great Keyboard Maestro action.                          |
+| 59:39      | And this is a great [[Keyboard Maestro]] action.                          |
 | 59:41      | So you can say bring to front                                         |
 | 59:43      | or minimise a minimise zoom, close, centre,                           |
 | 59:46      | move and resize, whatever you like.                                   |
@@ -1582,7 +1582,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:03:20   | and go, even if I'm not using it 100% as like a macro pad,            |
 | 01:03:24   | I'm using as an information pad                                       |
 | 01:03:26   | because I've got TJ Luoma as little fantastical                       |
-| 01:03:30   | or iCalBuddy magic Keyboard Maestro actions                           |
+| 01:03:30   | or iCalBuddy magic [[Keyboard Maestro]] actions                           |
 | 01:03:35   | which change the colour of that button                                 |
 | 01:03:38   | so that I get updated calendar information                            |
 | 01:03:42   | on the Stream Deck in one particular spot.                            |
@@ -1642,18 +1642,18 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:05:47   | That URL one more time, NewRelic.com/Automators.                |
 | 01:05:50   | Our thanks to New Relic for their support of this show                |
 | 01:05:52   | and all of Relay FM.                                                 |
-| 01:05:53   | So Obsidian is a thing that comes up on our show once in a while.     |
+| 01:05:53   | So [[Obsidian]] is a thing that comes up on our show once in a while.     |
 | 01:05:59   | I think I'm really invested in it                                     |
 | 01:06:01   | as kind of my note storage reference system at this point.            |
-| 01:06:04   | I think you are still, are you still Obsidian?                        |
-| 01:06:07   | Yeah, I use Obsidian for a lot of things,                             |
+| 01:06:04   | I think you are still, are you still [[Obsidian]]?                        |
+| 01:06:07   | Yeah, I use [[Obsidian]] for a lot of things,                             |
 | 01:06:10   | but a lot of that is essentially markdown notes of stuff              |
 | 01:06:15   | that I just want to be able to keep going and add to                  |
 | 01:06:17   | and use as reference and things like that.                            |
 | 01:06:20   | So, if there's text that I keep to send to my parents                 |
 | 01:06:25   | every single time they ask,                                           |
 | 01:06:26   | wait, how do we do this particular thing?                             |
-| 01:06:28   | Then I've got a help the parents folder in Obsidian for it            |
+| 01:06:28   | Then I've got a help the parents folder in [[Obsidian]] for it            |
 | 01:06:33   | and things like that.                                                 |
 | 01:06:34   | And I've got other stuff in there too,                                |
 | 01:06:36   | project information, lots of project information.                     |
@@ -1683,16 +1683,16 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:07:52   | or each of the entries in my network diagram                          |
 | 01:07:55   | links to a page for that item,                                        |
 | 01:07:57   | which has like the MAC address and everything on it.                  |
-| 01:08:00   | And then I went kind of crazy with the Obsidian Dataview tables       |
+| 01:08:00   | And then I went kind of crazy with the [[Obsidian]] [[Dataview]] tables       |
 | 01:08:06   | and that prints out a table of all of the different devices           |
 | 01:08:09   | and their information as well,                                        |
 | 01:08:11   | which I'm just really impressed as a thing I can do to be honest.     |
 | 01:08:15   | Yeah, I had a listener ask me,                                        |
 | 01:08:17   | he said, I was listening to Automators                                |
-| 01:08:18   | and you guys started talking about Obsidian                           |
+| 01:08:18   | and you guys started talking about [[Obsidian]]                           |
 | 01:08:20   | and I didn't even know what you were talking about.                   |
 | 01:08:23   | We did a show on it on Mac Power Users.                                |
-| 01:08:25   | Obsidian is basically, it takes a folder full of markdown folders     |
+| 01:08:25   | [[Obsidian]] is basically, it takes a folder full of markdown folders     |
 | 01:08:30   | and it adds like power tools on top of them,                          |
 | 01:08:32   | adds a very easy way to link to them                                  |
 | 01:08:34   | with like wiki style double brackets.                                 |
@@ -1708,8 +1708,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:09:02   | There's just a whole lot to do with it.                               |
 | 01:09:04   | But from an automation perspective,                                   |
 | 01:09:06   | there's a lot in here if you're an automator.                         |
-| 01:09:09   | Rose just mentioned, for instance, Dataview.                          |
-| 01:09:12   | And Dataview is one of the plugins                                    |
+| 01:09:09   | Rose just mentioned, for instance, [[Dataview]].                          |
+| 01:09:12   | And [[Dataview]] is one of the plugins                                    |
 | 01:09:14   | that lets you collect like collections of data                        |
 | 01:09:18   | in your sitting database without,                                     |
 | 01:09:21   | it just like lays a logic on top of all these markdown files.         |
@@ -1719,7 +1719,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:09:32   | for lack of a better term is I have a page in there                   |
 | 01:09:35   | called, you know, MacSparky status board.                             |
 | 01:09:39   | And it is like everything I'm working on is MacSparky                 |
-| 01:09:43   | and it's a bunch of Dataview formulas.                                |
+| 01:09:43   | and it's a bunch of [[Dataview]] formulas.                                |
 | 01:09:45   | Like one of them is it's looking for,                                 |
 | 01:09:48   | it makes me a list of every note that has the tags in it,             |
 | 01:09:52   | MacSparky, blog, post, and active.                                    |
@@ -1737,33 +1737,33 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:10:25   | but if I look for automators and planning, you know,                  |
 | 01:10:28   | so I've found ways to slice and dice these,                           |
 | 01:10:31   | these folders or these markdown files using these                     |
-| 01:10:34   | automation tools like Dataview to give me a very easy way             |
+| 01:10:34   | automation tools like [[Dataview]] to give me a very easy way             |
 | 01:10:39   | to access everything that needs to be important to me today.          |
 | 01:10:43   | And it just wasn't that hard.                                         |
-| 01:10:45   | Dataview is the plug and I use it.                                    |
+| 01:10:45   | [[Dataview]] is the plug and I use it.                                    |
 | 01:10:47   | Sounds like you're using it too.                                      |
 | 01:10:48   | Oh yeah. Yeah.                                                        |
-| 01:10:49   | I have to say what I like about Dataview is it has                    |
+| 01:10:49   | I have to say what I like about [[Dataview]] is it has                    |
 | 01:10:53   | the ability to just grab like a list of posts,                        |
 | 01:10:57   | but you can also go in deep and do things like the table              |
 | 01:11:01   | that I've created and just a little bit of information                |
 | 01:11:04   | for people who are going,                                             |
 | 01:11:06   | oh wait, that sounds really interesting.                              |
-| 01:11:08   | Every note in Obsidian is a markdown file                             |
+| 01:11:08   | Every note in [[Obsidian]] is a markdown file                             |
 | 01:11:11   | or should be a markdown file ideally.                                 |
-| 01:11:13   | And you can have a YAML header at the top                             |
+| 01:11:13   | And you can have a [[YAML]] header at the top                             |
 | 01:11:15   | where you have three dashes and then you have like a name,            |
 | 01:11:20   | colon and then the value.                                             |
 | 01:11:21   | And so what I've done for all of these devices                        |
 | 01:11:24   | that I have in my network,                                            |
 | 01:11:25   | every single one of them has its own note.                            |
-| 01:11:28   | And in that YAML header,                                              |
+| 01:11:28   | And in that [[YAML]] header,                                              |
 | 01:11:30   | I've got the IP address, the MAC address,                             |
 | 01:11:32   | the room, the categories,                                             |
 | 01:11:34   | if it's got categories and a connection.                              |
 | 01:11:37   | I'm not really using categories,                                      |
 | 01:11:38   | so I should probably get rid of that.                                 |
-| 01:11:39   | But then in my Dataview,                                              |
+| 01:11:39   | But then in my [[Dataview]],                                              |
 | 01:11:42   | I'm getting all of that data out                                      |
 | 01:11:45   | so that I can see it in a table.                                      |
 | 01:11:47   | And that means that I can really easily see,                          |
@@ -1783,15 +1783,15 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:12:23   | and I do use it actually in my Help the Parents folder.               |
 | 01:12:27   | I've got another plugin installed,                                    |
 | 01:12:30   | which is the folder notes,                                            |
-| 01:12:32   | where you can have notes on a folder in Obsidian.                     |
-| 01:12:36   | And so I'm using a Dataview in that                                   |
+| 01:12:32   | where you can have notes on a folder in [[Obsidian]].                     |
+| 01:12:36   | And so I'm using a [[Dataview]] in that                                   |
 | 01:12:37   | to just list all the files inside of it,                              |
 | 01:12:39   | which I know I could get to from the sidebar,                         |
 | 01:12:41   | but it's just nice to be able to jump in from the folder itself.      |
 | 01:12:47   | Yeah, there's just like always new plugins showing up,                |
 | 01:12:50   | and it's kind of awesome.                                             |
 | 01:12:52   | Now, that was a lot of word soup,                                     |
-| 01:12:53   | but just for people who are not familiar with YAML,                   |
+| 01:12:53   | but just for people who are not familiar with [[YAML]],                   |
 | 01:12:55   | it's really just an embedded set of data                              |
 | 01:12:59   | about your file at the very top.                                      |
 | 01:13:00   | Yeah, it's just key value pairs, essentially.                         |
@@ -1810,20 +1810,20 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:13:37   | And if you think this sounds a bit familiar                           |
 | 01:13:39   | and you've used Jekyll or something as a blog before,                 |
 | 01:13:41   | then it's the same format as used there.                              |
-| 01:13:45   | And one of the best advantages of YAML                                |
+| 01:13:45   | And one of the best advantages of [[YAML]]                                |
 | 01:13:47   | is you can embed tags there.                                          |
 | 01:13:49   | So, like, all the data view sorting tags I use,                       |
 | 01:13:52   | like MacSparky, blog, all that stuff,                                |
-| 01:13:55   | is in the YAML data.                                                  |
+| 01:13:55   | is in the [[YAML]] data.                                                  |
 | 01:13:57   | And as an automator, you can create this super easy.                  |
 | 01:14:00   | So, like, let's say I want to standardise                             |
-| 01:14:04   | the blog note for Obsidian.                                           |
+| 01:14:04   | the blog note for [[Obsidian]].                                           |
 | 01:14:08   | So, one of the things I've done is I've created                       |
-| 01:14:11   | a Keyboard Maestro script that says new blog posts.                   |
+| 01:14:11   | a [[Keyboard Maestro]] script that says new blog posts.                   |
 | 01:14:16   | And I trigger it in the MacSparky contextual menu.                   |
 | 01:14:19   | And this is stuff I've talked about before.                           |
 | 01:14:21   | I'm not going to go back and explain it all.                          |
-| 01:14:22   | But I can, through a conflict menu in Keyboard Maestro,               |
+| 01:14:22   | But I can, through a conflict menu in [[Keyboard Maestro]],               |
 | 01:14:26   | I can very easily trigger this shortcut.                              |
 | 01:14:29   | And the shortcut will say, oh, what's the blog post title?            |
 | 01:14:32   | And I'll type in the title, and they'll say,                          |
@@ -1832,52 +1832,52 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:14:39   | to actively work on right now, and I can check the box                |
 | 01:14:42   | for one or the other.                                                 |
 | 01:14:43   | And then there's another check box built with a user input            |
-| 01:14:48   | field in Keyboard Maestro that says,                                  |
+| 01:14:48   | field in [[Keyboard Maestro]] that says,                                  |
 | 01:14:50   | do you want me to copy the clipboard content?                         |
 | 01:14:52   | So, there's only three things I need.                                 |
 | 01:14:53   | The name, active or planning, and the clipboard contents.             |
 | 01:14:57   | And the reason the clipboard contents is there is I may see,          |
-| 01:15:00   | like, hey, here's a really cool Alfred plugin I want to write         |
+| 01:15:00   | like, hey, here's a really cool [[Alfred]] plugin I want to write         |
 | 01:15:03   | about, I'll block and copy the URL for the plugin                     |
 | 01:15:07   | or a description of it.                                               |
 | 01:15:09   | And then when I run that script, it just automatically                |
 | 01:15:11   | pastes it in.                                                         |
 | 01:15:12   | And all the script is doing is creating a markdown node               |
-| 01:15:16   | in the Obsidian folder on my drive.                                   |
+| 01:15:16   | in the [[Obsidian]] folder on my drive.                                   |
 | 01:15:20   | That's all it's doing.                                                |
 | 01:15:21   | I mean, it's not like this is not fancy scripting.                    |
 | 01:15:23   | It's like taking the text, turning it into a note,                    |
-| 01:15:26   | and needs to be saved as a markdown because Obsidian                  |
+| 01:15:26   | and needs to be saved as a markdown because [[Obsidian]]                  |
 | 01:15:28   | only sees markdown files.                                             |
 | 01:15:30   | And then it saves it.                                                 |
-| 01:15:31   | But because it filled in all that YAML data when it created it,       |
-| 01:15:35   | it immediately shows up in all my searches in Obsidian.               |
+| 01:15:31   | But because it filled in all that [[YAML]] data when it created it,       |
+| 01:15:35   | it immediately shows up in all my searches in [[Obsidian]].               |
 | 01:15:39   | It's such a beautiful, simple automation system.                      |
 | 01:15:43   | I just kind of wanted to put a bit of a spotlight on it.              |
 | 01:15:46   | Yes, it is really great.                                              |
-| 01:15:48   | The other advantage of YAML, which I should note,                     |
+| 01:15:48   | The other advantage of [[YAML]], which I should note,                     |
 | 01:15:50   | because I'm aware some people have told me before they've had         |
 | 01:15:53   | this problem with Bear, is you don't have to put the text,            |
 | 01:15:57   | the tags, sorry, of whatever it is that you're using                  |
 | 01:16:00   | in the body of your text.                                             |
-| 01:16:02   | It just can be in the YAML header,                                    |
+| 01:16:02   | It just can be in the [[YAML]] header,                                    |
 | 01:16:04   | which means that when you preview it,                                 |
 | 01:16:06   | you don't see that anywhere.                                          |
 | 01:16:08   | And that is a really nice bonus of doing that.                        |
 | 01:16:12   | And so it's worth doing.                                              |
-| 01:16:14   | The only thing to watch out for with YAML                             |
+| 01:16:14   | The only thing to watch out for with [[YAML]]                             |
 | 01:16:16   | is if you're going to make a list,                                    |
 | 01:16:19   | or indent things and nest properties,                                 |
 | 01:16:22   | you need to make sure your spacing is 100% spot on                    |
 | 01:16:25   | because if you use three spaces instead of two or four,               |
 | 01:16:28   | it will just not work at all.                                         |
 | 01:16:31   | But that is the only potential negative.                              |
-| 01:16:34   | And if you're using Obsidian and you just do it in Obsidian,          |
+| 01:16:34   | And if you're using [[Obsidian]] and you just do it in [[Obsidian]],          |
 | 01:16:38   | it'll help you get it right every single time,                        |
 | 01:16:40   | making it much, much easier,                                          |
 | 01:16:42   | which is one of the things I like.                                    |
-| 01:16:44   | Obsidian makes some markdown things a lot easier, like tables.        |
-| 01:16:48   | I always have beautifully formatted markdown tables in Obsidian       |
+| 01:16:44   | [[Obsidian]] makes some markdown things a lot easier, like tables.        |
+| 01:16:48   | I always have beautifully formatted markdown tables in [[Obsidian]]       |
 | 01:16:51   | because I use the table plugin,                                       |
 | 01:16:53   | which just does all the work for me.                                  |
 | 01:16:55   | And the beauty of using automation to create these files              |
@@ -1887,29 +1887,29 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:17:07   | and it's an easy environment to work in                               |
 | 01:17:09   | because at the end of the day, it's just text files.                  |
 | 01:17:12   | Any automation you can write to change text,                          |
-| 01:17:15   | you can change the results in Obsidian with.                          |
+| 01:17:15   | you can change the results in [[Obsidian]] with.                          |
 | 01:17:19   | I am working on a little automation.                                  |
-| 01:17:22   | Here's a real simple one in Obsidian right now.                       |
+| 01:17:22   | Here's a real simple one in [[Obsidian]] right now.                       |
 | 01:17:24   | I just started working out this morning.                              |
 | 01:17:26   | I haven't got it working 100% of the time yet.                        |
 | 01:17:28   | So I have an active tag,                                              |
-| 01:17:30   | and that doesn't go in YAML for me.                                   |
+| 01:17:30   | and that doesn't go in [[YAML]] for me.                                   |
 | 01:17:32   | The status of the project goes into the body of the file              |
 | 01:17:38   | because that changes over time,                                       |
-| 01:17:40   | and I don't want to be changing the YAML stuff.                       |
-| 01:17:42   | So I'm creating a simple little Keyboard Maestro script               |
+| 01:17:40   | and I don't want to be changing the [[YAML]] stuff.                       |
+| 01:17:42   | So I'm creating a simple little [[Keyboard Maestro]] script               |
 | 01:17:48   | that is just using UI scripting.                                      |
 | 01:17:51   | So it's hitting the keyboard shortcut for the find and replace        |
-| 01:17:55   | in Obsidian,                                                          |
+| 01:17:55   | in [[Obsidian]],                                                          |
 | 01:17:57   | and then it's typing the word active for active flag                  |
 | 01:18:01   | with that pound before, and then replacing it with shipped.           |
 | 01:18:04   | So once I finish something, I can just push a button,                 |
 | 01:18:07   | and it changes the tag so it drops off all my active lists.           |
-| 01:18:11   | So I'm just doing that with the Keyboard Maestro,                     |
+| 01:18:11   | So I'm just doing that with the [[Keyboard Maestro]],                     |
 | 01:18:14   | hitting the tab key, pausing, blah, blah, blah.                       |
 | 01:18:18   | I've almost got it working 100% of the time.                          |
 | 01:18:21   | For some reason, sometimes the trigger to hit the...                  |
-| 01:18:26   | in Obsidian, it is option command return                              |
+| 01:18:26   | in [[Obsidian]], it is option command return                              |
 | 01:18:30   | to fire off the actual thing.                                         |
 | 01:18:32   | It's not hitting 100% of the time,                                    |
 | 01:18:34   | and I literally just ran out of time this morning to debug it.        |
@@ -1942,9 +1942,9 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:19:53   | so I can just open the template picker anytime I want.                |
 | 01:19:56   | But over time as I use this app more,                                 |
 | 01:19:59   | I am increasingly generating templates outside of it                  |
-| 01:20:03   | using initially Keyboard Maestro.                                     |
+| 01:20:03   | using initially [[Keyboard Maestro]].                                     |
 | 01:20:06   | And basically I've recreated the templates                            |
-| 01:20:08   | in Keyboard Maestro scripts,                                          |
+| 01:20:08   | in [[Keyboard Maestro]] scripts,                                          |
 | 01:20:10   | and that way I can add additional information,                        |
 | 01:20:12   | and use all of Keyboard Maestro's kind of user input fields           |
 | 01:20:16   | to do things like toggle between active and planning                  |
@@ -1961,7 +1961,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:20:45   | Yes.                                                                  |
 | 01:20:46   | But it's a little more extra work.                                    |
 | 01:20:48   | Now, one of the challenges I'm currently facing                       |
-| 01:20:50   | is I'm really considering getting those out of Keyboard Maestro       |
+| 01:20:50   | is I'm really considering getting those out of [[Keyboard Maestro]]       |
 | 01:20:56   | and putting them just into shortcuts                                  |
 | 01:20:58   | because this is all completely doable with shortcuts as well.         |
 | 01:21:02   | The trick in shortcuts is when you save,                              |
@@ -1970,7 +1970,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:21:10   | And that would give me the advantage                                  |
 | 01:21:13   | of taking the variables I add in                                      |
 | 01:21:16   | and then use those with other things.                                 |
-| 01:21:18   | For instance, a lot of people are looking at Obsidian                 |
+| 01:21:18   | For instance, a lot of people are looking at [[Obsidian]]                 |
 | 01:21:21   | as a task manager and I don't.                                        |
 | 01:21:23   | I'm running an experiment on that right now                           |
 | 01:21:25   | that I'm about to share in the labs.                                  |
@@ -1983,7 +1983,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:21:39   | create an OmniFocus project                                           |
 | 01:21:41   | and then I can just cross-link them                                   |
 | 01:21:43   | because it's just URL links and this stuff all works.                 |
-| 01:21:47   | But that actually is not as easy with Keyboard Maestro                |
+| 01:21:47   | But that actually is not as easy with [[Keyboard Maestro]]                |
 | 01:21:50   | as it would be with a shortcut.                                       |
 | 01:21:52   | So I'm right now toying with different platforms                      |
 | 01:21:55   | for automating stuff like this and trying to decide.                  |
@@ -1995,31 +1995,31 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:22:11   | and all of our listeners here                                         |
 | 01:22:12   | who are looking at doing something like that is                       |
 | 01:22:14   | I would still create the template file                                |
-| 01:22:16   | and put it in Obsidian                                                |
+| 01:22:16   | and put it in [[Obsidian]]                                                |
 | 01:22:18   | because that way you've got your template file                        |
 | 01:22:19   | and you've got it everywhere.                                         |
 | 01:22:20   | And what you can do is even if you...                                 |
-| 01:22:23   | So the template or plug-in in Obsidian                                |
+| 01:22:23   | So the template or plug-in in [[Obsidian]]                                |
 | 01:22:26   | will allow you to just run JavaScript.                                |
 | 01:22:28   | So you could write your own JavaScript automations                    |
 | 01:22:30   | that will ask you questions and pop up fields                         |
 | 01:22:33   | and prompts and let you input stuff.                                  |
 | 01:22:35   | But what you could also do is just input placeholders.                |
 | 01:22:39   | And my usual format for this is a single set of square brackets.      |
-| 01:22:44   | So with this being Obsidian and square brackets                       |
+| 01:22:44   | So with this being [[Obsidian]] and square brackets                       |
 | 01:22:47   | meaning things in markdown and double square brackets                 |
-| 01:22:49   | meaning more things in Obsidian,                                      |
+| 01:22:49   | meaning more things in [[Obsidian]],                                      |
 | 01:22:51   | I might use curly brackets for this.                                  |
 | 01:22:53   | And then you can do a find and replace.                               |
-| 01:22:55   | So you can grab that file and you can do this with Keyboard Maestro.  |
+| 01:22:55   | So you can grab that file and you can do this with [[Keyboard Maestro]].  |
 | 01:22:58   | You could do this with shortcuts.                                     |
 | 01:23:00   | And you can then grab the file                                        |
 | 01:23:02   | and you can just replace your placeholders                            |
 | 01:23:05   | and then you can send the entire file back                            |
-| 01:23:07   | and Obsidian does have [[URL Schemes\|URL scheme]] support                             |
+| 01:23:07   | and [[Obsidian]] does have [[URL Schemes\|URL scheme]] support                             |
 | 01:23:09   | to allow you to create files via the [[URL Schemes\|URL scheme]]                       |
 | 01:23:13   | which would allow you to just create everything                       |
-| 01:23:17   | and you could stick with Keyboard Maestro on the Mac                  |
+| 01:23:17   | and you could stick with [[Keyboard Maestro]] on the Mac                  |
 | 01:23:20   | but also have a shortcut option for iOS.                              |
 | 01:23:24   | And of course the other one that springs to mind for this             |
 | 01:23:28   | almost the exact purpose is [[Drafts]]                                   |
@@ -2027,10 +2027,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:23:32   | and it can even prompt you for input                                  |
 | 01:23:34   | without scripting actions and everything                              |
 | 01:23:36   | and then you can take that data                                       |
-| 01:23:38   | and dump it into an Obsidian file                                     |
+| 01:23:38   | and dump it into an [[Obsidian]] file                                     |
 | 01:23:41   | and do some magic with it.                                            |
 | 01:23:44   | But I probably start with replace some placeholders                   |
-| 01:23:47   | in the Obsidian file                                                  |
+| 01:23:47   | in the [[Obsidian]] file                                                  |
 | 01:23:50   | because that's what templates are for.                                |
 | 01:23:53   | And then you've got a template                                        |
 | 01:23:54   | that you can very easily tweak at all times                           |
@@ -2042,22 +2042,22 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:24:09   | and forget about it.                                                  |
 | 01:24:11   | There's no needing to add an OmniFocus action                         |
 | 01:24:13   | for when you get home.                                                |
-| 01:24:14   | [[Drafts]] is totally another way to automate Obsidian.                   |
+| 01:24:14   | [[Drafts]] is totally another way to automate [[Obsidian]].                   |
 | 01:24:17   | I mean, somebody wrote me recently saying,                            |
 | 01:24:19   | well, is [[Drafts]] even a thing anymore                                  |
-| 01:24:21   | now that you've seen Obsidian?                                        |
+| 01:24:21   | now that you've seen [[Obsidian]]?                                        |
 | 01:24:22   | I'm like, oh, of course.                                              |
-| 01:24:23   | Obsidian is terrible for text capture                                 |
+| 01:24:23   | [[Obsidian]] is terrible for text capture                                 |
 | 01:24:26   | but it's really good at what you do with text                         |
 | 01:24:28   | after you've captured it                                              |
 | 01:24:29   | where [[Drafts]] is awesome for text capture                              |
 | 01:24:32   | and you can automate the [[Drafts]] process.                              |
 | 01:24:34   | Another one, which I use more on the Mac than iOS                     |
 | 01:24:38   | but is TextExpander.                                                 |
-| 01:24:40   | You can build Obsidian commands into TextExpander too.               |
+| 01:24:40   | You can build [[Obsidian]] commands into TextExpander too.               |
 | 01:24:44   | There's just so many ways to do it                                    |
 | 01:24:46   | because it's just text.                                               |
-| 01:24:48   | That's the thing that I just can't say enough with Obsidian.          |
+| 01:24:48   | That's the thing that I just can't say enough with [[Obsidian]].          |
 | 01:24:52   | It's a folder full of markdown files.                                 |
 | 01:24:54   | If the app stops development tomorrow,                                |
 | 01:24:57   | I still have my folder full of markdown files                         |
@@ -2097,30 +2097,30 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:26:26   | And you'll only find it by going and searching.                       |
 | 01:26:29   | And don't forget as well,                                             |
 | 01:26:31   | not everything is in the community plugin.                            |
-| 01:26:33   | Search inside of Obsidian, check the forums                           |
+| 01:26:33   | Search inside of [[Obsidian]], check the forums                           |
 | 01:26:35   | because sometimes people are still                                    |
 | 01:26:37   | in the early stages of creating it                                    |
 | 01:26:39   | but it's in a state where you can use it already                      |
 | 01:26:43   | and you can install it directly.                                      |
 | 01:26:46   | There are so many great plugins.                                      |
 | 01:26:48   | I mean, maybe that's a show someday,                                  |
-| 01:26:50   | our favourite Obsidian plugins.                                        |
+| 01:26:50   | our favourite [[Obsidian]] plugins.                                        |
 | 01:26:52   | Maybe what I'll try and do is I'll put together                       |
-| 01:26:54   | a list of the Obsidian plugins that I'm using                         |
+| 01:26:54   | a list of the [[Obsidian]] plugins that I'm using                         |
 | 01:26:57   | so we can link to that because things like the folder note            |
 | 01:27:00   | and so on are pretty handy                                            |
 | 01:27:02   | and I'm sure people would appreciate having that                      |
 | 01:27:05   | as well as the advanced URI,                                          |
-| 01:27:07   | which is advanced [[URL Schemes\|URL scheme]]s,                                        |
+| 01:27:07   | which is advanced [[URL Schemes]],                                        |
 | 01:27:09   | for things that's another great one.                                  |
 | 01:27:12   | Yeah, there are a lot.                                                |
-| 01:27:14   | I mean, Dataview to me brings this app to a whole new level.          |
+| 01:27:14   | I mean, [[Dataview]] to me brings this app to a whole new level.          |
 | 01:27:18   | It's like a whole feature set added to the...                         |
 | 01:27:20   | I mean, it's crazy.                                                   |
 | 01:27:22   | Yes, yes.                                                             |
 | 01:27:23   | And at the end of the day, as you said,                               |
 | 01:27:25   | it's a pile of text files.                                            |
-| 01:27:27   | So if something were to go wrong and Obsidian disappears,             |
+| 01:27:27   | So if something were to go wrong and [[Obsidian]] disappears,             |
 | 01:27:30   | I don't think that's going to happen at all                           |
 | 01:27:32   | because it's installed on my computer,                                |
 | 01:27:34   | they can't take it away from me.                                      |
@@ -2131,22 +2131,22 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:27:50   | And that does really show on iOS, unfortunately,                      |
 | 01:27:53   | where it does feel like the Mac app.                                  |
 | 01:27:55   | It's not too bad on 12.9 inch iPad Pro,                               |
-| 01:27:57   | but you try using Obsidian on iPhone mini                             |
+| 01:27:57   | but you try using [[Obsidian]] on iPhone mini                             |
 | 01:27:59   | and it's like, whoa, okay,                                            |
 | 01:28:01   | somebody crammed a Mac app into my iPhone mini.                       |
 | 01:28:05   | But, you know, it still works.                                        |
 | 01:28:07   | And most of the time,                                                 |
 | 01:28:09   | I would be editing things like this on my phone.                      |
 | 01:28:13   | It'll be a case of I'll check something in [[Drafts]]                    |
-| 01:28:15   | and, you know, use the Obsidian advanced URI                          |
+| 01:28:15   | and, you know, use the [[Obsidian]] advanced URI                          |
 | 01:28:17   | to stick it onto an existing note or similar.                         |
 | 01:28:22   | Yeah, I've kind of got to the point where I use it on iOS             |
-| 01:28:25   | as a window into my Obsidian data,                                    |
+| 01:28:25   | as a window into my [[Obsidian]] data,                                    |
 | 01:28:27   | not necessarily something I work on.                                  |
 | 01:28:30   | But, you know, that's it.                                             |
 | 01:28:32   | Like, I had a Mac mini and a little Bluetooth keyboard                |
 | 01:28:35   | and I can sit down and write a ton of blog posts                      |
-| 01:28:38   | straight into Obsidian once I get there.                              |
+| 01:28:38   | straight into [[Obsidian]] once I get there.                              |
 | 01:28:41   | You know, it takes a little kind of doing                             |
 | 01:28:43   | to get to the text file on an iPad mini.                              |
 | 01:28:47   | But once you're in there, you can type on it, it works fine.          |
@@ -2155,7 +2155,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:28:55   | which kind of gets back to the earlier discussion                     |
 | 01:28:57   | of why I would like to have maybe                                     |
 | 01:28:59   | a little MacBook Air I could carry around.                            |
-| 01:29:01   | It's almost like an Obsidian machine, you know.                       |
+| 01:29:01   | It's almost like an [[Obsidian]] machine, you know.                       |
 | 01:29:04   | Yeah, though I have to say,                                           |
 | 01:29:06   | I think if you want something                                         |
 | 01:29:08   | where you've got a small portable device with a keyboard,             |

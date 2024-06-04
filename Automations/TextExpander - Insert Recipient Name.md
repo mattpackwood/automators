@@ -6,6 +6,7 @@ author: "David Sparks"
 
 **Author:** `$="[[" + dv.current().author + "]]"`
 
+# Overview
 This automation utilises [[AppleScript]], Apple's [[Mail]] app, and [[TextExpander]] to automatically populate a mail with a suitable first name intro when replying to an e-mail.
 
 TextExpander is used to trigger the following AppleScript.
@@ -35,3 +36,8 @@ You can reuse the AppleScript by nesting it as a snippet in other snippets. The 
 # Links
 - [Improved AppleScript to Automatically Insert Recipient's Name in Apple Mail using TextExpander - MacSparky](https://www.macsparky.com/blog/2019/02/2019-2-improved-applescript-to-automatically-insert-recipients-name-in-apple-mail-using-textexpander/)
 - [Automatically Add Recipient's Name to Email with TextExpander - MacSparky](https://www.macsparky.com/blog/2015/6/automatically-add-recipients-name-to-email-with-textexapnder)
+
+# Episodes
+```dataviewjs
+await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
+```

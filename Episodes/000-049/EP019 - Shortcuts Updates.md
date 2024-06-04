@@ -447,7 +447,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 20:08      | And maybe because you only occasionally wake up early,                                            |
 | 20:11      | it's harder to get up early                                                                       |
 | 20:12      | and your body isn't really ready for it.                                                          |
-| 20:15      | I think Mike Hurley was telling me                                                                |
+| 20:15      | I think [[Myke Hurley]] was telling me                                                                |
 | 20:17      | he sets multiple alarms like six or seven                                                         |
 | 20:20      | to get himself up.                                                                                |
 | 20:22      | But if that was you,                                                                              |
@@ -1398,9 +1398,9 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 57:59      | That would be key.                                                                                |
 | 58:01      | Yeah, folders for the shortcuts would be nice.                                                    |
 | 58:04      | And also just the fact that like when you do something that's tedious,                            |
-| 58:08      | like in, like I think about something like Keyboard Maestro,                                      |
+| 58:08      | like in, like I think about something like [[Keyboard Maestro]],                                      |
 | 58:11      | which is a similar paradigm,                                                                      |
-| 58:13      | but it's very easy and Keyboard Maestro to select multiple items,                                 |
+| 58:13      | but it's very easy and [[Keyboard Maestro]] to select multiple items,                                 |
 | 58:17      | you know, and copy and paste them.                                                                |
 | 58:19      | And you can't do that on Siri shortcuts.                                                          |
 | 58:21      | You have to go back to dragging every individual step in.                                         |
@@ -1464,7 +1464,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:00:34   | between multiple Shortcuts.                                                                       |
 | 01:00:36   | Then the same template, for example,                                                              |
 | 01:00:39   | can be called from multiple Shortcuts.                                                            |
-| 01:00:41   | And in others, I use Drafts.                                                                      |
+| 01:00:41   | And in others, I use [[Drafts]].                                                                      |
 | 01:00:43   | And I have a tag in [[Drafts]] called Shortcuts Text,                                                 |
 | 01:00:47   | and a workspace that I can easily access this.                                                    |
 | 01:00:51   | And then I get the contents of a draft,                                                           |

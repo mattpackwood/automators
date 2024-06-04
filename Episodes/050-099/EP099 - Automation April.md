@@ -180,8 +180,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 06:40      | you're asking a group of 10 people, you know, our judges, including both of you, in fact,             |
 | 06:45      | like we're just 10 people and we are expecting, you know, many shortcuts submitted by folks.          |
 | 06:50      | It just becomes impossible to say, well, okay, this is a shortcut.                                    |
-| 06:54      | This is a Keyboard Maestro utility.                                                                   |
-| 06:55      | This is an Alfred workflow.                                                                           |
+| 06:54      | This is a [[Keyboard Maestro]] utility.                                                                   |
+| 06:55      | This is an [[Alfred]] workflow.                                                                           |
 | 06:56      | And look, there's also the guy who came up with the Python script.                                    |
 | 07:00      | Yeah.                                                                                                 |
 | 07:01      | Right.                                                                                                |
@@ -273,8 +273,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 12:15      | Yeah.                                                                                                 |
 | 12:16      | I'm just going to mention, too, I love to run shortcuts on my iPad as quickly as I can                |
 | 12:22      | on the Mac.                                                                                           |
-| 12:23      | Especially since on my MacBook, I started using Raycast, but it's, you know, the same                 |
-| 12:28      | applies if you're using LaunchBar, I think, or Alfred.                                                |
+| 12:23      | Especially since on my MacBook, I started using [[Raycast]], but it's, you know, the same                 |
+| 12:28      | applies if you're using [[LaunchBar]], I think, or [[Alfred]].                                                |
 | 12:32      | It's really fast to, you know, you really run shortcuts by typing their name, and especially          |
 | 12:38      | these utilities that have fuzzy search built in, you can just type a few letters and press            |
 | 12:43      | return and run a shortcut immediately from anywhere.                                                  |
@@ -295,7 +295,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 13:53      | to see an API or, you know, a developer framework of some kind for third-party triggers.              |
 | 14:00      | So let third-party apps define a set of conditions that can trigger an automation in shortcuts.       |
 | 14:08      | Like, I don't know, I just saved a draft for the article that I'm working on in IA                    |
-| 14:14      | writer or Obsidian, or I just marked a tweet as a favourite in Tweetbot.                               |
+| 14:14      | writer or [[Obsidian]], or I just marked a tweet as a favourite in Tweetbot.                               |
 | 14:20      | You know, once you consider, well, what if third-party apps could be triggers for automations?        |
 | 14:25      | There could be so many different ideas for that, and that would be pretty awesome.                    |
 | 14:30      | Yeah, and they could even limit that to things in the foreground as well.                             |
@@ -499,7 +499,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 27:55      | John was referencing Safari Actions earlier, that's to me one of the biggest offenders                |
 | 27:59      | at this point.                                                                                        |
 | 28:00      | I mean, people want to do stuff with the browser.                                                     |
-| 28:03      | I can make these things to work in Keyboard Maestro, but I can't make them work on shortcuts          |
+| 28:03      | I can make these things to work in [[Keyboard Maestro]], but I can't make them work on shortcuts          |
 | 28:08      | because, you know, of, I guess, background issues.                                                    |
 | 28:12      | Right.                                                                                                |
 | 28:13      | Yeah.                                                                                                 |
@@ -546,9 +546,9 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 30:55      | That's the idea.                                                                                      |
 | 30:56      | So maybe Apple is listening to this feedback, asking for the share sheet on the Mac, but              |
 | 31:02      | maybe they will have a special twist on it, which is, well, it's not a share sheet, but               |
-| 31:09      | now you can trigger all your shortcuts with input from Spotlight or something like that.              |
+| 31:09      | now you can trigger all your shortcuts with input from [[Spotlight]] or something like that.              |
 | 31:16      | So like the idea that it's a Mac and it's different and it's primarily keyboard based,                |
-| 31:22      | the share sheet makes more sense for an iPhone, but on the Mac, I could see like Spotlight            |
+| 31:22      | the share sheet makes more sense for an iPhone, but on the Mac, I could see like [[Spotlight]]            |
 | 31:27      | become this like smart shortcuts activator of sorts where depending on what you're doing,             |
 | 31:34      | it lets you pass input to a shortcut in different ways.                                               |
 | 31:39      | Yeah, that would be pretty cool.                                                                      |
@@ -557,7 +557,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 31:51      | it's not there on the Mac.                                                                            |
 | 31:52      | And I know that there are many ways that you can trigger shortcuts actions or shortcuts               |
 | 31:57      | on the Mac from a number of different things, but I think for your less technical user,               |
-| 32:03      | the idea of having to use something like Keyboard Maestro or an AppleScript or something to          |
+| 32:03      | the idea of having to use something like [[Keyboard Maestro]] or an AppleScript or something to          |
 | 32:07      | trigger a shortcut to run automatically is a step too far where they're just not even                 |
 | 32:14      | going to try.                                                                                         |
 | 32:15      | You try and tell somebody what a cron job is and they're just going to run away screaming             |
@@ -572,7 +572,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 32:55      | kind of get through the day automations, not necessarily the stuff you're sharing on the              |
 | 33:01      | website, but just the stuff you're making to get your work done?                                      |
 | 33:06      | Well, by far, I think the shortcut that I use the most on my Mac is something that I                  |
-| 33:14      | built for my Obsidian setup. I like to use this single note in Obsidian, it's called                  |
+| 33:14      | built for my [[Obsidian]] setup. I like to use this single note in [[Obsidian]], it's called                  |
 | 33:21      | my dashboard note, which is like a starting place for all the work that I do and all the              |
 | 33:27      | things that are on my mind.                                                                           |
 | 33:30      | This note is structured in a way that at the top I see the things that I'm working on,                |
@@ -597,7 +597,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 35:28      | the screen with one app filling the left half, and the other filling the right half of the            |
 | 35:34      | screen. And with the shortcut that I've built, I have defined a list of my favourites. So              |
 | 35:40      | there's a literally a list at the beginning of the shortcut that says Safari plus messages            |
-| 35:45      | or Safari plus obsidian, or Obsidian plus discord, like all these different combos of                 |
+| 35:45      | or Safari plus obsidian, or [[Obsidian]] plus discord, like all these different combos of                 |
 | 35:51      | apps that I find myself using in this kind of setup on a regular basis. And when I run                |
 | 35:56      | the shortcut, I can choose the pair of these two apps that I want to use. And I select                |
 | 36:04      | it and I press return and the multitasking actions for macOS, they arrange my desktop                 |
@@ -689,29 +689,29 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 43:52      | What are the non shortcuts automation platforms you're using at this point on your Mac?               |
 | 44:00      | I think the sort of the auxiliary tools that I'm using, I'm mostly copying copying copying            |
 | 44:07      | from John. So John has gone, I think has a few more examples to share here. But John                  |
-| 44:12      | really introduced me to this sort of cult in a good way of BetterTouchTool. All the                 |
-| 44:20      | things you can do with BetterTouchTool, if you combine that with shortcuts. So that's               |
+| 44:12      | really introduced me to this sort of cult in a good way of [[BetterTouchTool]]. All the                 |
+| 44:20      | things you can do with [[BetterTouchTool]], if you combine that with shortcuts. So that's               |
 | 44:25      | also something that I've been doing. Especially in terms of sending keystrokes to apps from           |
-| 44:35      | a shortcut via the BetterTouchTool action. And I'm actually surprised that Apple doesn't            |
-| 44:41      | have a native version of this, that you have to use the BetterTouchTool action to simulate          |
+| 44:35      | a shortcut via the [[BetterTouchTool]] action. And I'm actually surprised that Apple doesn't            |
+| 44:41      | have a native version of this, that you have to use the [[BetterTouchTool]] action to simulate          |
 | 44:46      | sending a keystroke to an app. But for example, I have a shortcut that in the music app for           |
 | 44:52      | Mac, it lets me view the lyrics sidebar. When I'm listening to a song and I want to check             |
 | 44:59      | out the lyrics, lyrics on the Mac are a sidebar on the right side of the screen. And I wanted         |
 | 45:04      | to have this quick way to toggle the lyrics sidebar from the keyboard. So I built this                |
-| 45:09      | shortcut that uses the BetterTouchTool sends a keystroke, I think it's called action to             |
+| 45:09      | shortcut that uses the [[BetterTouchTool]] sends a keystroke, I think it's called action to             |
 | 45:17      | toggle back and forth between hiding the sidebar and showing the sidebar. But yeah,                   |
 | 45:22      | essentially, because I'm new to all this and John has been using macOS for far longer than            |
-| 45:27      | I have, whenever he comes up with something that involves either BetterTouchTool or                 |
-| 45:31      | Raycast, I steal everything that John shares. Yeah, all right. And then I want to talk to             |
+| 45:27      | I have, whenever he comes up with something that involves either [[BetterTouchTool]] or                 |
+| 45:31      | [[Raycast]], I steal everything that John shares. Yeah, all right. And then I want to talk to             |
 | 45:38      | you about this, John, because to me, Better Touch is like the pot of gold in shortcuts,               |
-| 45:43      | like you install BetterTouchTool, which is a great app to do a bunch of stuff. But then             |
+| 45:43      | like you install [[BetterTouchTool]], which is a great app to do a bunch of stuff. But then             |
 | 45:46      | you look at it shortcut sections, and it's like, all of the stuff that fell off the back              |
-| 45:50      | of the truck at Apple got added to BetterTouchTool. I mean, not only can you trigger                |
+| 45:50      | of the truck at Apple got added to [[BetterTouchTool]]. I mean, not only can you trigger                |
 | 45:54      | short keyboard, you can also trigger menu items. I mean, I, when we had the Apple guys                |
 | 46:00      | on Mac Power users, I'd asked them, are you ever going to let us do that? And they, they              |
-| 46:04      | were very nice, but they kind of said no, you know, and, and BetterTouchTool is like,               |
+| 46:04      | were very nice, but they kind of said no, you know, and, and [[BetterTouchTool]] is like,               |
 | 46:09      | oh, no problem, we'll let you trigger anything in your menu bar with the shortcut. So what            |
-| 46:14      | do you do with BetterTouchTool, John?                                                               |
+| 46:14      | do you do with [[BetterTouchTool]], John?                                                               |
 | 46:17      | All sorts of things. I mean, it really is impressive because it came out of the gates                 |
 | 46:22      | when Monterey was released with an extensive list of actions that you can trigger that                |
 | 46:28      | I've just not seen any other developer really accomplish. First of all, at a minimum, the             |
@@ -721,59 +721,59 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 46:48      | a lot of the things that as Federico said, I'm doing triggering keyboard shortcuts. That's            |
 | 46:54      | something that you just don't have. And it's very explicitly not allowed because you can,             |
 | 47:00      | if you try to do it with AppleScript, you'll get an error that says that you can't send              |
-| 47:04      | keystrokes with AppleScript using shortcuts. So I always fall back with BetterTouchTool            |
+| 47:04      | keystrokes with AppleScript using shortcuts. So I always fall back with [[BetterTouchTool]]            |
 | 47:11      | on that because even sometimes when I'm trying to trigger a shortcut, you can obviously create        |
 | 47:18      | your own keyboard shortcuts in the shortcuts app itself. However, I found at least early,             |
-| 47:26      | in the first releases of Monterey, the BetterTouchTool implementation of that actually              |
+| 47:26      | in the first releases of Monterey, the [[BetterTouchTool]] implementation of that actually              |
 | 47:31      | running the shortcuts was more reliable. Now that's, that's a closer race now. I mean,                |
 | 47:36      | I think that that shortcuts is caught up there. But that's why I started relying on it so             |
 | 47:41      | heavily so quickly, because both it's both the reliability and the extensive list of                  |
 | 47:48      | things that you can do, you know, you can even do things like have a menu pop up on                   |
 | 47:53      | screen that'll show you shortcuts that you have in your library and pick from them using              |
-| 47:57      | that. I mean, there's another thing I did at one point was BetterTouchTool will allow               |
+| 47:57      | that. I mean, there's another thing I did at one point was [[BetterTouchTool]] will allow               |
 | 48:02      | you to create a little HTML window. And so I used a bunch of shortcuts actions to create              |
 | 48:10      | myself a little weather forecast that would pop up each morning. And when I arrived at                |
 | 48:16      | my desk, I'd have this window that would bring in information from the weather actions, information   |
 | 48:22      | from my Natatmo weather station that sits on the windowsill outside my house and a bunch              |
-| 48:27      | of other things like that. And that was all run through BetterTouchTool because I could             |
+| 48:27      | of other things like that. And that was all run through [[BetterTouchTool]] because I could             |
 | 48:32      | create this little quick HTML UI that would pop up. And then I ran it on a schedule because           |
-| 48:38      | scheduling is another feature of BetterTouchTool, which works really well too.                      |
-| 48:44      | Yeah. Yeah, BetterTouchTool really is great because it goes both ways. As you said, you             |
+| 48:38      | scheduling is another feature of [[BetterTouchTool]], which works really well too.                      |
+| 48:44      | Yeah. Yeah, [[BetterTouchTool]] really is great because it goes both ways. As you said, you             |
 | 48:49      | know, it does, it gives you the option to run shortcuts and it makes your shortcuts much              |
 | 48:52      | more powerful. So it's, it's, it's a little secret hack for everybody who's going, why                |
 | 48:58      | can't I do this in shortcuts?                                                                         |
 | 49:00      | Yeah, I was gonna say, Federico, anytime that there's something that I feel like I can't              |
-| 49:07      | do the first place I look is BetterTouchTool at this point. Yeah. Yeah. Yeah. Something             |
-| 49:12      | that I mentioned, running shortcuts on the Mac with Raycast or LaunchBar, that is actually            |
-| 49:18      | one thing that I wish Raycast would copy from LaunchBar. And that is when you're selecting            |
-| 49:26      | a shortcut in LaunchBar, I believe you can press space or tab to enter some input for                 |
-| 49:35      | the shortcut from LaunchBar itself, which is a super clever way to do this, which is                  |
+| 49:07      | do the first place I look is [[BetterTouchTool]] at this point. Yeah. Yeah. Yeah. Something             |
+| 49:12      | that I mentioned, running shortcuts on the Mac with [[Raycast]] or [[LaunchBar]], that is actually            |
+| 49:18      | one thing that I wish [[Raycast]] would copy from [[LaunchBar]]. And that is when you're selecting            |
+| 49:26      | a shortcut in [[LaunchBar]], I believe you can press space or tab to enter some input for                 |
+| 49:35      | the shortcut from [[LaunchBar]] itself, which is a super clever way to do this, which is                  |
 | 49:44      | you stay in the launcher itself. So if you want to pass some text, for example, to the                |
-| 49:51      | shortcut that I mentioned a few minutes ago to save ideas, LaunchBar is actually perfect              |
+| 49:51      | shortcut that I mentioned a few minutes ago to save ideas, [[LaunchBar]] is actually perfect              |
 | 49:55      | for this because you can type a few letters to find the shortcut, then you press a key,               |
 | 50:02      | you type the text you want to save, you enter, you know, you press return, the shortcut runs          |
 | 50:08      | in the background, which is another benefit of Mac OS compared to iPadOS, and you're done.            |
-| 50:14      | Instead with Raycast, because it doesn't have that built in method of passing text to the             |
+| 50:14      | Instead with [[Raycast]], because it doesn't have that built in method of passing text to the             |
 | 50:21      | shortcut, you need to do it yourself. So in my case, I'm using the ask for input action               |
-| 50:26      | in the shortcut, but I very much prefer the LaunchBar approach here. That said, Raycast               |
+| 50:26      | in the shortcut, but I very much prefer the [[LaunchBar]] approach here. That said, [[Raycast]]               |
 | 50:33      | has another thing, two other things that I love for the shortcuts integration. One is                 |
-| 50:40      | you can mark certain shortcuts as favourites, so that when you open Raycast, and in my case,           |
-| 50:45      | it's a full on spotlight replacement, so that when I press command space, I see the Raycast           |
-| 50:50      | window. And in the Raycast window, you have a favourite section, so you can pin your most              |
+| 50:40      | you can mark certain shortcuts as favourites, so that when you open [[Raycast]], and in my case,           |
+| 50:45      | it's a full on spotlight replacement, so that when I press command space, I see the [[Raycast]]           |
+| 50:50      | window. And in the [[Raycast]] window, you have a favourite section, so you can pin your most              |
 | 50:56      | frequently used shortcuts at the top of that section, and you always see them. But it also            |
 | 51:02      | makes it very easy. This is my second, the second thing that I like. It also makes it                 |
 | 51:06      | very easy to give a to give a hotkey to any shortcut. And for whatever reason, these hotkeys          |
-| 51:12      | that I set in Raycast are more reliable than the native hotkeys in shortcuts itself. So               |
-| 51:21      | I never use the Apple provided option for system white hotkeys. I use Raycast because                 |
-| 51:28      | they trigger all the time without error whatsoever. Yeah, I've talked to Raycast about that doing     |
+| 51:12      | that I set in [[Raycast]] are more reliable than the native hotkeys in shortcuts itself. So               |
+| 51:21      | I never use the Apple provided option for system white hotkeys. I use [[Raycast]] because                 |
+| 51:28      | they trigger all the time without error whatsoever. Yeah, I've talked to [[Raycast]] about that doing     |
 | 51:35      | the input thing, Federico, and I have my fingers across that they're going to allow it because        |
 | 51:42      | they have something similar, which is you can set up a website query where you type                   |
 | 51:48      | in a keyboard, you know, a keyboard combination, and then you type in your search terms, hit          |
 | 51:53      | return, and then it does the search on Mac stories or Google or wherever you happen to                |
 | 51:58      | be. And I think they should be able to do something like that for shortcuts as a result.              |
-| 52:03      | I was going to say Alfred does offer the ability to do things like that to pass specific text         |
+| 52:03      | I was going to say [[Alfred]] does offer the ability to do things like that to pass specific text         |
 | 52:08      | or files and so on straight to a shortcut. So that that would seem like something that                |
-| 52:13      | Raycast would want to add if only from the competition perspective of, you know, one                  |
+| 52:13      | [[Raycast]] would want to add if only from the competition perspective of, you know, one                  |
 | 52:17      | of the alternatives to us does this. And of course, both of them have different features              |
 | 52:21      | which makes them both great. Are we all agreed is everybody here triggering shortcuts with            |
 | 52:26      | some form of launcher other than shortcuts? Because I think I think all four of us are                |
@@ -858,7 +858,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:00:20   | of snippets, which is something that very much exists for people who are doing programming            |
 | 01:00:25   | and X code and that sort of thing would be fantastic and make the process for power users             |
 | 01:00:30   | a lot easier.                                                                                         |
-| 01:00:31   | Yeah, I mean, using Keyboard Maestro, you can do a lot of that stuff. And it really feels             |
+| 01:00:31   | Yeah, I mean, using [[Keyboard Maestro]], you can do a lot of that stuff. And it really feels             |
 | 01:00:37   | crippling when you get over to shortcuts for Mac and you can't. But I want to talk about              |
 | 01:00:42   | the, the debugging stuff, because I feel like that is a tough needle to thread for Apple              |
 | 01:00:47   | because I agree with everything you said. I think we need better debugging tools, especially          |
@@ -938,12 +938,12 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:09:46   | for a total of five. Getting back to the idea that anybody can automate, Federico, you are            |
 | 01:09:52   | now legendary for your prowess with shortcuts, but you had to start somewhere. Where was              |
 | 01:09:57   | the first thing you ever automated on one of your computers or devices?                               |
-| 01:10:02   | Man, probably Launch Center Pro, I think, back in the days of [[URL Schemes\|URL scheme]]s, it was probably            |
+| 01:10:02   | Man, probably Launch Center Pro, I think, back in the days of [[URL Schemes]], it was probably            |
 | 01:10:12   | like, well, no, no, it was AppleScript. Before I was a primarily iPhone and iPad user, I              |
 | 01:10:23   | realised, I don't know, I've always been into like, customising things and modifying things           |
 | 01:10:28   | to make them more personalised and better for me. I've always been a tinkerer with computers.         |
 | 01:10:36   | And I don't know how exactly, but it must have been one of [[Brett Terpstra\|Brett Terpstra's]] old Apple                 |
-| 01:10:43   | Scripts or like Markdown things or something from Doug's iTunes [[AppleScript]]s back in the             |
+| 01:10:43   | Scripts or like Markdown things or something from Doug's iTunes [[AppleScript\|AppleScripts]] back in the             |
 | 01:10:52   | day. And I think I started tinkering there on my Mac. So we're talking 2008, 2009. And                |
 | 01:11:02   | later, my interest in automation really picked up though with Launch Center Pro [[Drafts]] and            |
 | 01:11:08   | really with Pythonista and Editorial. So that would be 2012 and 2013 when Editorial came              |
@@ -952,7 +952,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:11:31   | automation. And then with Workflow and later shortcuts. And here we are today.                        |
 | 01:11:36   | How about you, John? Where did you get started with automation?                                       |
 | 01:11:40   | It really kicked in for me around 2013 when I got into iOS development. And I did a little            |
-| 01:11:47   | bit of development myself that was centred around things like [[URL Schemes\|URL scheme]]s and affiliate              |
+| 01:11:47   | bit of development myself that was centred around things like [[URL Schemes]] and affiliate              |
 | 01:11:53   | linking and that sort of thing. And I had an app for a while that did that. And it got                |
 | 01:11:58   | me... It's interesting because I think one of the harder things to do is to get into                  |
 | 01:12:03   | shortcuts from a start of doing development work because it's just such a different mindset           |
@@ -1063,7 +1063,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:18:54   | And I feel like the Venn diagram of people who would like the automators and app stories,             |
 | 01:18:58   | it looks like a circle drills in this show. You should go check out app stories. I think              |
 | 01:19:02   | you would probably dig it. I will note that at the 33 minute mark, Federico used the word             |
-| 01:19:09   | Obsidian and I did not take the bait, but that doesn't mean I'm saving it for the after               |
+| 01:19:09   | [[Obsidian]] and I did not take the bait, but that doesn't mean I'm saving it for the after               |
 | 01:19:15   | show, David.                                                                                          |
 | 01:19:16   | We're good.                                                                                           |
 | 01:19:17   | I noticed that.                                                                                       |
@@ -1095,24 +1095,24 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:21:21   | of relay FM.                                                                                          |
 | 01:21:24   | So David, you mentioned before we let John and Federico run away that you heard the magic             |
 | 01:21:30   | word obsidian, you didn't dive in, but I'm not going to let you off that easily because               |
-| 01:21:33   | I know that your Obsidian setup is being tweaked and played with, you know, well, it's always         |
+| 01:21:33   | I know that your [[Obsidian]] setup is being tweaked and played with, you know, well, it's always         |
 | 01:21:39   | being evolved because that's what our systems are. But what have you been automating there            |
 | 01:21:43   | recently?                                                                                             |
-| 01:21:44   | I'm actually looking right now because I built all of my Obsidian automations and keyboard            |
+| 01:21:44   | I'm actually looking right now because I built all of my [[Obsidian]] automations and keyboard            |
 | 01:21:50   | maestro initially. And I find it really easy because I use, you know, I, you know, the                |
 | 01:21:57   | contextual computing thing that I like to do where if I hit option control command M,                 |
-| 01:22:03   | it opens up a quick conflict palette and Keyboard Maestro that has like everything in my life         |
+| 01:22:03   | it opens up a quick conflict palette and [[Keyboard Maestro]] that has like everything in my life         |
 | 01:22:09   | related to MacSparky, you know, M. And if I type L for, for labs, then there's a bunch               |
-| 01:22:16   | of Keyboard Maestro actions or scripts. What do they call it in Keyboard Maestro? I guess             |
+| 01:22:16   | of [[Keyboard Maestro]] actions or scripts. What do they call it in [[Keyboard Maestro]]? I guess             |
 | 01:22:23   | are they scripts or are they automations?                                                             |
 | 01:22:25   | Macros.                                                                                               |
 | 01:22:26   | Macros. Okay.                                                                                         |
-| 01:22:27   | It's a Keyboard Maestro macro.                                                                        |
+| 01:22:27   | It's a [[Keyboard Maestro]] macro.                                                                        |
 | 01:22:28   | Keyboard maestro macros. I always forget that. But anyway, so I've got them like if                   |
 | 01:22:30   | I want to create a new early access, you know, content for the early access subscribers,              |
 | 01:22:37   | I can hit the magic M, then L, then E, and then it just opens up a field where I can                  |
 | 01:22:44   | fill things in and I have checkboxes and all kinds of cool things going on. And then it               |
-| 01:22:48   | creates a note for me in Obsidian. So I've been doing that historically, but, you know,               |
+| 01:22:48   | creates a note for me in [[Obsidian]]. So I've been doing that historically, but, you know,               |
 | 01:22:55   | because now we can save to anywhere on the directory with shortcuts, I've been toying                 |
 | 01:23:01   | with the idea of moving that stuff into shortcuts. I do have some inconsistencies though. And         |
 | 01:23:07   | in accessing the local area of the drive when I run that shortcut, like on an iPhone versus           |
@@ -1130,7 +1130,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:24:12   | Yeah, that's the way I've solved it is I'm just generally running, still running them                 |
 | 01:24:17   | from keyboard master on my Mac. And then when I'm on, I generally run them with shortcuts             |
 | 01:24:22   | on my iPhone and that they all work there. And yeah, it just takes a minute. Another                  |
-| 01:24:27   | thing I'm doing in Obsidian is data view filters, you know, you can filter on different               |
+| 01:24:27   | thing I'm doing in [[Obsidian]] is data view filters, you know, you can filter on different               |
 | 01:24:33   | methods. And like, one of the things I keep, Federico had talked about how he has like                |
 | 01:24:38   | a single page where he kind of does everything, I've consolidated that on to my Sparky OS             |
 | 01:24:43   | page. And I've got a group of data view filters, which are related to active MacSparky projects.     |
@@ -1157,14 +1157,14 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:26:32   | drop out onto my blog. But it, it, it works very well for me tags. I, I tend-to-end up                |
 | 01:26:39   | wanting. So for me, a tag ends up being static, whereas a folder can be dynamic. And it sounds        |
 | 01:26:45   | a bit weird, but it means it's easy to move things between different folders. And I don't             |
-| 01:26:50   | have to try and change the tags on different things, which I know there are some Obsidian             |
+| 01:26:50   | have to try and change the tags on different things, which I know there are some [[Obsidian]]             |
 | 01:26:55   | plugins, which can make this easier. There's one meta view, I think it's called for updating          |
 | 01:27:03   | your metadata meta table, meta edit, sorry, that's the one meta edit is the one I'm thinking          |
 | 01:27:09   | of where you can change properties of things directly from like, say a Kanban view. But               |
 | 01:27:16   | I find it's a bit difficult because I still want the list to be dynamically created of                |
 | 01:27:21   | just things in the folder. I don't want to add something to the folder. And then it not               |
 | 01:27:26   | to appear in a list somewhere. So I've stuck with a lot of those as well. One thing I'm               |
-| 01:27:32   | curious to do, have you played with the calendar option in Dataview at all? Is that something         |
+| 01:27:32   | curious to do, have you played with the calendar option in [[Dataview]] at all? Is that something         |
 | 01:27:36   | you've worked with? Slightly, I want to hear what you're doing with it. But before we                 |
 | 01:27:41   | move on, I just wanted to add another piece of this puzzle for me is I have attached the              |
 | 01:27:47   | keyboard shortcut control F or command F, I'm sorry, no control F, you know, it's under               |
@@ -1173,9 +1173,9 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:28:03   | works is because I can be in a note and say, okay, this is done. And I can just type blog             |
 | 01:28:09   | a and it goes to the blog archive folder or blog C and it goes to the blog cooking folder.            |
 | 01:28:14   | So I just found it was faster to move them with a keyboard shortcut than to go in and                 |
-| 01:28:18   | try and reset attack. But yeah. All right, so tell me about calendars and Dataview.                   |
+| 01:28:18   | try and reset attack. But yeah. All right, so tell me about calendars and [[Dataview]].                   |
 | 01:28:23   | Well, it's one of those things where I love the idea of the calendar query. So, you know,             |
-| 01:28:28   | for people who are thinking, wait, Dataview does calendars. So it does lists, tables, it              |
+| 01:28:28   | for people who are thinking, wait, [[Dataview]] does calendars. So it does lists, tables, it              |
 | 01:28:34   | can do like a list, it can do tasks. But it also has the option to do a calendar, where               |
 | 01:28:40   | you can do a calendar and you can do it by, for example, the modified time file. And then             |
 | 01:28:46   | from the from part of the query is the same as you would do anywhere else where you can               |
@@ -1211,15 +1211,15 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:31:11   | I can just set up a view that just shows me the the the planning calendars in the quarter             |
 | 01:31:18   | view. And since there's no hourly events in it, it all just shows up as day long events.              |
 | 01:31:23   | And then there are links in there to in the event there's a link to OmniFocus if applicable,          |
-| 01:31:30   | there's always a link to an Obsidian project page. And so everything ties together that               |
+| 01:31:30   | there's always a link to an [[Obsidian]] project page. And so everything ties together that               |
 | 01:31:34   | way. So I've just put it into my calendar is how I yeah, I mean, that that's how I've                 |
 | 01:31:38   | been doing a lot of things. It's just when I realised that you could also create a calendar           |
 | 01:31:42   | with data viewers, like, Oh, Oh, is this solving the problem that I have? And it's almost there,      |
 | 01:31:48   | it's so close to almost there. And so I think I just need to maybe do a little bit of searching       |
-| 01:31:52   | on the Obsidian forums of I've yet to spend real time doing that. I've just tried a few               |
+| 01:31:52   | on the [[Obsidian]] forums of I've yet to spend real time doing that. I've just tried a few               |
 | 01:31:57   | of what seemed to me like the obvious things. Of course, I'm looking at this from the perspective     |
 | 01:32:02   | as a developer who writes PHP and JavaScript every single day. So it may not be actually              |
-| 01:32:07   | what the logical thing is for an Obsidian user. But I yeah, I'm I'm very much enjoying                |
+| 01:32:07   | what the logical thing is for an [[Obsidian]] user. But I yeah, I'm I'm very much enjoying                |
 | 01:32:13   | how extensible the data view plugin is. And also just the template or plugin as well, because         |
 | 01:32:20   | I know you use a lot of templates, but I realised the template or plugin and there's also another     |
 | 01:32:25   | plugin called custom JS will let you just run JavaScript on things, which means that                  |
@@ -1231,21 +1231,21 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:32:59   | that file to the correct name, which has everything in it as it as it needs to for Jekyll, which      |
 | 01:33:04   | is really nice. And I really like that. Yeah, I mean, my work is kind of wrapping up on               |
 | 01:33:09   | the shortcuts or Mac field guide now, there's still post production happening, but I'm not            |
-| 01:33:13   | doing as much of that. And I'm starting this, the Obsidian field guide, I can't wait this             |
-| 01:33:19   | this app is so fun. Have you gone down the rabbit hole of task management and Obsidian                |
+| 01:33:13   | doing as much of that. And I'm starting this, the [[Obsidian]] field guide, I can't wait this             |
+| 01:33:19   | this app is so fun. Have you gone down the rabbit hole of task management and [[Obsidian]]                |
 | 01:33:24   | much? So I have and I haven't so I have certain projects which repeat on a regular basis.             |
-| 01:33:30   | So for example, releasing automators. And so I've put some of those lists into Obsidian               |
+| 01:33:30   | So for example, releasing automators. And so I've put some of those lists into [[Obsidian]]               |
 | 01:33:38   | for various things, but I found that it doesn't necessarily work very well for me in the in           |
 | 01:33:44   | the sense that unless there is other data that I need to collect and write as part of                 |
 | 01:33:52   | my my plan for whatever it is that I'm doing, it doesn't make sense for me to have my tasks           |
 | 01:33:59   | in there. The exception to this is my projects where I have like, I've got a note for most            |
 | 01:34:06   | projects. And that that is in there and that may contain ideas for tasks. But once I've               |
-| 01:34:12   | decided I'm actually going to go actively do with the thing, I it doesn't live in Obsidian            |
+| 01:34:12   | decided I'm actually going to go actively do with the thing, I it doesn't live in [[Obsidian]]            |
 | 01:34:17   | anymore. I put it in OmniFocus just because that means that I've only got one place to                |
 | 01:34:21   | check and for me, the automation and indeed life fails when not everything is in one place.           |
 | 01:34:27   | It gets too complicated to keep track of where everything is, which is just frustrating.              |
 | 01:34:32   | I agree totally. I have the same thing. I've been playing with the idea like with podcasts.           |
-| 01:34:37   | I have a checklist for every podcast that goes out. And I built that now into the Obsidian            |
+| 01:34:37   | I have a checklist for every podcast that goes out. And I built that now into the [[Obsidian]]            |
 | 01:34:42   | template. So it just gets added to each show. And honestly, this is stuff almost kind of              |
 | 01:34:49   | it's just not almost not worthy of OmniFocus. That makes sense to you. Yeah. And I'm in the           |
 | 01:34:55   | note for the show as we record it and I'm record the ads and do all that. So I'm I put that all       |
@@ -1254,7 +1254,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:35:13   | And I think a lot of people can make it work. But I still kind of believe that there's nothing        |
 | 01:35:19   | wrong with having like a best in class app for the stuff you do. Like, yeah, like [[Fantastical]].          |
 | 01:35:24   | Because I feel like it's the best calendar app. And I like OmniFocus. I think it's the best task      |
-| 01:35:29   | app. And, you know, just because you can do everything in a tool like Obsidian, Roam, Craft,          |
+| 01:35:29   | app. And, you know, just because you can do everything in a tool like [[Obsidian]], Roam, Craft,          |
 | 01:35:35   | whatever, you know, doesn't necessarily mean you need to turn it into everything.                     |
 | 01:35:40   | Yeah, I think the other element of this and this is a mental things as opposed to, you know, a        |
 | 01:35:47   | productivity specifically or automation thing is having everything in one app, it kind of             |
@@ -1267,7 +1267,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:36:23   | didn't mark off because I was in a rush making sure I was actually ready for the show, rather         |
 | 01:36:27   | than checking off the items. And, you know, I've since marked those off, you'll be pleased to hear.   |
 | 01:36:34   | Which is good. The one exception is I should say is I don't have tasks for my bulk posts.             |
-| 01:36:40   | I don't do that. I just have a view in Obsidian where or a file in Obsidian which lists all           |
+| 01:36:40   | I don't do that. I just have a view in [[Obsidian]] where or a file in [[Obsidian]] which lists all           |
 | 01:36:51   | of my draft blog posts so I can kind of see them as a list of things to do. And when I'm done,        |
 | 01:36:59   | then it's finished. And that's it. So that's what I do there instead. And I don't know,               |
 | 01:37:06   | is that something you also do? Because then it is kind of task management, but it's also              |
@@ -1285,7 +1285,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:38:13   | or if it's just three words, it's totally okay. And I'm trying to, you know, not make myself          |
 | 01:38:20   | overthink these things, because it doesn't have to be a task if it doesn't need to be,                |
 | 01:38:25   | which is quite useful. And I think that's one of the things where I've been, I've done very well      |
-| 01:38:30   | with Obsidian, you know, my entire home network, the setup of it, the structure, all of the MAC       |
+| 01:38:30   | with [[Obsidian]], you know, my entire home network, the setup of it, the structure, all of the MAC       |
 | 01:38:36   | addresses, fixed IP addresses and stuff, all of that pretty much right now is documented. There's     |
 | 01:38:40   | a few things missing in a couple of places. And that's it. And I've been able to do that just         |
 | 01:38:45   | because I added like the first file. And then I progressed from there and added more and more         |
@@ -1296,13 +1296,13 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:39:12   | it is surprisingly easy once you've got a good application for things like that to just               |
 | 01:39:17   | keep it all rolling. Well, I mean, they're called personal knowledge management for a reason, right?  |
 | 01:39:20   | And exactly, you know, the, and I get like, I do have notes in here on stoicism and meditation        |
-| 01:39:28   | and Buddhism. And I have, I have like kind of the intellectual wing of my Obsidian install,           |
+| 01:39:28   | and Buddhism. And I have, I have like kind of the intellectual wing of my [[Obsidian]] install,           |
 | 01:39:33   | but I also have the note that shows when my dog needs her vaccines. So it is kind of,                 |
 | 01:39:39   | you know, all encompassing in some respects, but I don't take it to the length of,                    |
 | 01:39:44   | of managing tasks and calendars as well. Or the other one people always do with it is they put        |
 | 01:39:49   | their journals in it. And, you know, if you've got the end date encryption, I think there's no        |
 | 01:39:54   | reason why you shouldn't. But I like using day one, I've been using it for a long time.               |
-| 01:40:01   | Like making an entry in day one on my iPhone is way easier than it is in Obsidian on my iPhone.       |
+| 01:40:01   | Like making an entry in day one on my iPhone is way easier than it is in [[Obsidian]] on my iPhone.       |
 | 01:40:07   | So, you know, I've chosen to, you know, leave other some areas out of it.                             |
 | 01:40:13   | One thing I want to go back to real quick, you talked about like ideas or blog posts,                 |
 | 01:40:18   | and I, that is something I've thought through a lot lately because I am suddenly,                     |
@@ -1316,13 +1316,13 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:40:57   | out the decision of what I do with it at the moment of capture has really helped me.                  |
 | 01:41:01   | Yeah, honestly, that's why the reason is why I end up using draft so much because I just              |
 | 01:41:05   | write something that's like, okay, right, this is a note that I'm going to want to like,              |
-| 01:41:08   | flesh out and do stuff with, I'll just chuck it into Obsidian. Or, hey, this is probably              |
-| 01:41:13   | a blog post idea. And so it also throws it in obsidian, but it throws it in a specific Obsidian       |
+| 01:41:08   | flesh out and do stuff with, I'll just chuck it into [[Obsidian]]. Or, hey, this is probably              |
+| 01:41:13   | a blog post idea. And so it also throws it in obsidian, but it throws it in a specific [[Obsidian]]       |
 | 01:41:19   | folder for me, which is, which is nice. And, you know, just trying to remove some of that,            |
 | 01:41:24   | that friction, which means that you can actually do all the things that we need to do instead of,     |
 | 01:41:29   | you know, spending all of our time tweaking gears and stuff so that we can crank the widgets          |
 | 01:41:34   | in exactly the right way that is needed, which is not so much fun.                                    |
-| 01:41:38   | All right. Well, so we did get to talk to about Obsidian after all today, Rose.                       |
+| 01:41:38   | All right. Well, so we did get to talk to about [[Obsidian]] after all today, Rose.                       |
 | 01:41:43   | Yeah, not, not the four hours you wanted with Federico, but I'm sure we can get him back in           |
 | 01:41:47   | the future. I just won't tell him it'll be a four hour show in advance.                               |
 | 01:41:50   | Actually, if we tell him it's about obsidian, I think he'd probably be down with it.                  |

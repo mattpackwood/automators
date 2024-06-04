@@ -596,8 +596,8 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 31:16      | And the spotlight thing, I think, is great for people who aren't even interested in shortcuts.         |
 | 31:20      | I think this is an automation that's worth checking out.                                               |
 | 31:24      | So walk us through.                                                                                    |
-| 31:25      | Rose, how do you check the weather using Spotlight?                                                    |
-| 31:28      | Well, so I have Spotlight under, I've actually got it under option P on my Mac OS Ventura              |
+| 31:25      | Rose, how do you check the weather using [[Spotlight]]?                                                    |
+| 31:28      | Well, so I have [[Spotlight]] under, I've actually got it under option P on my Mac OS Ventura              |
 | 31:37      | Mac, which is off here to my left.                                                                     |
 | 31:39      | And then I just typed weather.                                                                         |
 | 31:41      | And of course, now I've dismissed it because the machine's off to my left.                             |
@@ -614,7 +614,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 32:31      | Did that work for you as well, David?                                                                  |
 | 32:33      | Yeah, yeah.                                                                                            |
 | 32:34      | And hopefully it's more discoverable by people as well in that sense.                                  |
-| 32:38      | Spotlight for me, I always have to think about it too, because I use Alfred as my command              |
+| 32:38      | [[Spotlight]] for me, I always have to think about it too, because I use [[Alfred]] as my command              |
 | 32:42      | space, you know, so I've got to go over to option space to get that going.                             |
 | 32:47      | I haven't used it a lot through the beta because frankly, I've got other ways to do this stuff.        |
 | 32:52      | But I do think, you know, this is kind of like a boon from bringing those apps over.                   |
@@ -651,7 +651,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 34:50      | And then it's going into documents.                                                                    |
 | 34:52      | So I'm going to have to go back in and fiddle with the settings or the system, well, it                |
 | 34:56      | is system settings now, isn't it, because they've changed the name of system preferences.              |
-| 35:00      | But yeah, so for anybody who had Spotlight disabled, because they've been using Alfred                 |
+| 35:00      | But yeah, so for anybody who had [[Spotlight]] disabled, because they've been using [[Alfred]]                 |
 | 35:05      | or something, and they want to go ahead and re-enable it, you'll need to look for the                  |
 | 35:10      | keyboard options in the new settings, system settings app.                                             |
 | 35:15      | And then you can actually re-enable it under keyboard shortcuts, which is quite good, and              |
@@ -695,13 +695,13 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 38:18      | when I like absurd rows, I can actually see your next birthday showing up here in my calendar          |
 | 38:24      | list and some other stuff.                                                                             |
 | 38:26      | So that's kind of nice, right?                                                                         |
-| 38:29      | And that's stuff that you don't traditionally get with something like Alfred.                          |
-| 38:33      | But then at the same time, it just doesn't have nearly the power of something like Alfred              |
+| 38:29      | And that's stuff that you don't traditionally get with something like [[Alfred]].                          |
+| 38:33      | But then at the same time, it just doesn't have nearly the power of something like [[Alfred]]              |
 | 38:36      | does.                                                                                                  |
 | 38:37      | So it's like, you got to figure it out.                                                                |
 | 38:38      | I, what I've chosen to do is just keep it as a separate, you know, keyboard shortcut.                  |
 | 38:44      | And there are certain things I use it for, but I still kind of be honest with you, I                   |
-| 38:49      | still prefer Alfred.                                                                                   |
+| 38:49      | still prefer [[Alfred]].                                                                                   |
 | 38:50      | I mean, as an automator, there's just so much more I can do with it.                                   |
 | 38:54      | Yes, exactly.                                                                                          |
 | 38:56      | And you know, it's just nice to have those, you know, same features regardless, even if                |
@@ -936,14 +936,14 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 53:32      | I mean, it really depends.                                                                             |
 | 53:33      | Like, I still find myself struggling a little bit to remember to run [[Shortcuts]] on the Mac.             |
 | 53:38      | You know, I do, and I've got them built into a number of other places.                                 |
-| 53:44      | But I find that for me on the Mac, it's the sort of thing where Keyboard Maestro will                  |
+| 53:44      | But I find that for me on the Mac, it's the sort of thing where [[Keyboard Maestro]] will                  |
 | 53:49      | fire off a, you know, a run this shortcut action, or Bunch will fire off a run this shortcut           |
 | 53:54      | action versus, you know, it being a shortcut to do whatever the thing is that I want to                |
 | 54:02      | do.                                                                                                    |
 | 54:03      | You know, there are some exceptions.                                                                   |
 | 54:04      | I've got some stream type buttons, which will allow me to select certain focus modes                   |
 | 54:08      | or various other things which are running shortcuts to do this.                                        |
-| 54:13      | But it is predominantly still [[Keyboard Maestro]], [[Bunch]], you know, [[AppleScript]]s still in there.         |
+| 54:13      | But it is predominantly still [[Keyboard Maestro]], [[Bunch]], you know, [[AppleScript\|AppleScripts]] still in there.         |
 | 54:21      | You know, all of the automation tools are there.                                                       |
 | 54:24      | And you know, shortcuts isn't bad or wrong.                                                            |
 | 54:27      | It's just not quite there yet.                                                                         |
@@ -985,10 +985,10 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 56:51      | and it's multi-platform.                                                                               |
 | 56:52      | So all the time I put into creating it means I can run it on any device and the project                |
 | 56:57      | creation happens.                                                                                      |
-| 57:00      | Where Keyboard Maestro for me is number one, single app customisations, you know, we're                |
+| 57:00      | Where [[Keyboard Maestro]] for me is number one, single app customisations, you know, we're                |
 | 57:06      | talking about Kraft, there are some things Kraft doesn't do that I'd like and I basically              |
-| 57:11      | added the features with Keyboard Maestro trickery and like I've got a Kraft directory                  |
-| 57:17      | that only these Shortcuts or Keyboard Maestro scripts only run if Kraft is the active document.        |
+| 57:11      | added the features with [[Keyboard Maestro]] trickery and like I've got a Kraft directory                  |
+| 57:17      | that only these Shortcuts or [[Keyboard Maestro]] scripts only run if Kraft is the active document.        |
 | 57:23      | There's no mechanism for that in Shortcuts and it would be super slow if it did.                       |
 | 57:30      | And then like the contextual computing stuff where like I have a bunch of like crazy Keyboard          |
 | 57:37      | Maestro scripts that I've written just on an as needed basis.                                          |
@@ -1038,7 +1038,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:00:41   | And they've also snuck in a button for add a keyboard shortcut.                                        |
 | 01:00:46   | So you can in the sidebar of any shortcut, you can actually add a keyboard shortcut to                 |
 | 01:00:50   | run that keyboard to run that shortcut.                                                                |
-| 01:00:53   | But unlike, say, Keyboard Maestro, you can't have like a conflict palette where you just               |
+| 01:00:53   | But unlike, say, [[Keyboard Maestro]], you can't have like a conflict palette where you just               |
 | 01:00:57   | assign everything to a couple of different keyboard shortcuts.                                         |
 | 01:01:00   | And that's it, you know, you figure it out from there.                                                 |
 | 01:01:05   | You do have to assign a specific keyboard shortcut, which is unique.                                   |
@@ -1048,12 +1048,12 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:01:18   | Like you assign the shortcut and sometimes it would trigger and sometimes it wouldn't.                 |
 | 01:01:23   | And if you have a keyboard shortcut that only works part of the time, then you might as                |
 | 01:01:27   | well not have a keyboard shortcut because you got to depend on that happening.                         |
-| 01:01:31   | Whereas with Keyboard Maestro, it's very snappy, you know.                                             |
+| 01:01:31   | Whereas with [[Keyboard Maestro]], it's very snappy, you know.                                             |
 | 01:01:34   | So it is there.                                                                                        |
 | 01:01:36   | I really feel like they're both playing to their strengths, like shortcuts for people                  |
-| 01:01:40   | who haven't done a lot of automation, who don't own Keyboard Maestro, shortcuts does                   |
+| 01:01:40   | who haven't done a lot of automation, who don't own [[Keyboard Maestro]], shortcuts does                   |
 | 01:01:45   | a lot of great stuff and they're easy to build and they're consistent.                                 |
-| 01:01:51   | Whereas Keyboard Maestro is kind of the in case of firebreak last thing where it can                   |
+| 01:01:51   | Whereas [[Keyboard Maestro]] is kind of the in case of firebreak last thing where it can                   |
 | 01:01:55   | do anything.                                                                                           |
 | 01:01:56   | I mean, like, yeah, I still am amazed like that because I have that Grammarly script                   |
 | 01:02:01   | I run and Grammarly works much better on the internet than it does in the app.                         |
@@ -1130,7 +1130,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:06:44   | It's, you know, now we're at release and it's still not there.                                         |
 | 01:06:46   | And like you can't work around that stuff.                                                             |
 | 01:06:48   | Like the Mail one, you can use it.                                                                     |
-| 01:06:51   | There's a BetterTouchTool action to trigger a keyboard shortcut than you then you use the            |
+| 01:06:51   | There's a [[BetterTouchTool]] action to trigger a keyboard shortcut than you then you use the            |
 | 01:06:56   | the Mail feature to, you know, use a keyboard shortcut to open the box.                                |
 | 01:07:01   | But that's like two or three actions.                                                                  |
 | 01:07:03   | It's a point of failure.                                                                               |
@@ -1533,7 +1533,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:31:37   | and they'll have gone, Oh, we listen to automators.                                                    |
 | 01:31:39   | Yeah.                                                                                                  |
 | 01:31:40   | Add shortcuts actions for all the things.                                                              |
-| 01:31:41   | It's had an API, so that bunch and Keyboard Maestro and all the other things can integrate             |
+| 01:31:41   | It's had an API, so that bunch and [[Keyboard Maestro]] and all the other things can integrate             |
 | 01:31:45   | with this stuff.                                                                                       |
 | 01:31:46   | Uh, if you're listening and you do that, thank you very much.                                          |
 | 01:31:48   | But, uh, if not, we're just going to all have to cross our fingers and sit and wait and                |

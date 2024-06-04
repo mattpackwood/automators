@@ -20,7 +20,7 @@ title: "27: Shortcuts in iOS 13 - Diving into the Deep End!"
 ![[Logo.jpg|200x200]]
 
 # Synopsis
-In this episode, Rose and David throw caution to the wind and install iOS &amp; iPadOS betas on everything. There are crashes and updates, all in the name of finding out just how impressive the new Shortcuts really is.
+In this episode, Rose and David throw caution to the wind and install iOS & iPadOS betas on everything. There are crashes and updates, all in the name of finding out just how impressive the new Shortcuts really is.
 
 # Hosts
 - [[David Sparks]]
@@ -333,7 +333,7 @@ In this episode, Rose and David throw caution to the wind and install iOS &amp; 
 | 26:51      | and then you could compare it to your sleep log. Just be curious to see how often you snooze compared   |
 | 26:56      | to, you know, to what the quality of your sleep is. Yeah. And I mean, you can use all sorts of          |
 | 27:03      | things this. You could just use the text file, but you could also use something like the Tally app       |
-| 27:06      | by Agile Tortoise, the same people who make Drafts.                                                     |
+| 27:06      | by Agile Tortoise, the same people who make [[Drafts]].                                                     |
 | 27:09      | Want to something weird about me? I don't use snooze. I don't even turn it on.                          |
 | 27:13      | I try not to. I've seen to remember at some point Dwayne The Rock Johnson released an                   |
 | 27:20      | alarm app for iOS, which had no snooze button. Yeah. And people went crazy and he was like,             |
@@ -608,13 +608,13 @@ In this episode, Rose and David throw caution to the wind and install iOS &amp; 
 | 51:09      | enhanced the ability to move data from one application to the next. And it's built for                  |
 | 51:15      | that. It's not a hack that was thought of later. And as developers incorporate this,                    |
 | 51:21      | it's going to greatly increase the things you can do with shortcuts.                                    |
-| 51:25      | Yes, it absolutely is. Because for example, now when creating a new draft in Drafts,                    |
+| 51:25      | Yes, it absolutely is. Because for example, now when creating a new draft in [[Drafts]],                    |
 | 51:32      | I can specify what tags I want to apply to that, which also means that I could have a list to           |
 | 51:38      | say four tags I use frequently in shortcuts and select those and then pass that through instead         |
 | 51:44      | of having to type them out once I'm in [[Drafts]] or trying to URL encode them and add them into a          |
 | 51:50      | [[URL Schemes\|URL scheme]], which yes, I have previously been doing and now I no longer need to do. So yeah,            |
 | 51:57      | this is really good. And hopefully this will replace the [[URL Schemes\|URL scheme]]. This is not to say that            |
-| 52:03      | [[URL Schemes\|URL scheme]]s are bad, but I mean, Apple have been saying [[URL Schemes\|URL scheme]]s are not the most secure because     |
+| 52:03      | [[URL Schemes]] are bad, but I mean, Apple have been saying [[URL Schemes]] are not the most secure because     |
 | 52:09      | well, anybody can run them with anything. And this is a framework offered by Apple specifically for     |
 | 52:13      | shortcuts, which means that you can pass data to it and from it. Because once you've created that       |
 | 52:19      | draft in [[Drafts]] and adult horses can pass back whatever information they think you're going to          |

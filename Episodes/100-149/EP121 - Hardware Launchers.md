@@ -156,8 +156,8 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 05:27      | And I think that's what's really for me so magical about this.                                         |
 | 05:30      | And for people who are going, okay, but how do I, how do I set this up so that the capsule             |
 | 05:34      | key does that?                                                                                         |
-| 05:35      | I'm just going to say the magic words, which is BetterTouchTool.                                     |
-| 05:39      | It's a magic name really, BetterTouchTool.                                                           |
+| 05:35      | I'm just going to say the magic words, which is [[BetterTouchTool]].                                     |
+| 05:39      | It's a magic name really, [[BetterTouchTool]].                                                           |
 | 05:43      | If you don't have it, it's going to be very useful for a bunch of the stuff that we're                 |
 | 05:46      | going to talk about here, but it actually has a hyper key function built in and I'll                   |
 | 05:51      | link folks to the docs on that so that you can just set that up and bam, off you go.                   |
@@ -170,7 +170,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 06:29      | That's why the hyper key really comes into play.                                                       |
 | 06:31      | I try to use hyper key shortcuts for global shortcuts.                                                 |
 | 06:35      | I have tons of shortcuts that are triggered in specific apps and I do this largely using               |
-| 06:41      | Keyboard Maestro because you can have scripts that only run when a certain app is active               |
+| 06:41      | [[Keyboard Maestro]] because you can have scripts that only run when a certain app is active               |
 | 06:47      | and then you can apply shortcuts.                                                                      |
 | 06:49      | So when I'm in mail, option D will do something that when I'm in Safari does something different.      |
 | 06:58      | So those key mappings change depending on the application, but for me, a hyper key shortcut            |
@@ -179,13 +179,13 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 07:14      | The setups is one that's absolutely worthy.                                                            |
 | 07:16      | I think we're going to do a show on setups because I've been thinking about this a lot                 |
 | 07:19      | lately, but just where like, before I start recording today, I hit hyper key plus S, which             |
-| 07:25      | is the setups conflict palette and Keyboard Maestro.                                                   |
+| 07:25      | is the setups conflict palette and [[Keyboard Maestro]].                                                   |
 | 07:28      | And I said typed AU for automators and it loaded all the apps to do a recording of the                 |
 | 07:33      | show and the recording software and turned off the other apps I didn't need.                           |
 | 07:37      | And it just, you know, just set everything up for me.                                                  |
 | 07:40      | You do this with bunch, but you can trigger them the same way with the hyper key.                      |
 | 07:45      | So it's just really fun to, you know, to use that, that additional hyper key.                          |
-| 07:50      | And like Rose said, you can do a BetterTouchTool.                                                    |
+| 07:50      | And like Rose said, you can do a [[BetterTouchTool]].                                                    |
 | 07:53      | Yeah.                                                                                                  |
 | 07:54      | You touch, you touch on something else though that I want to mention, and that is your keyboard        |
 | 07:58      | itself.                                                                                                |
@@ -424,7 +424,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 22:41      | And the way that it does this really depends on the Macro Pad and how you set it up.                   |
 | 22:47      | So a way to do this would be to have it mapped to something like the hyper key and then a              |
 | 22:53      | number of other keys as well, and then have those keyboard shortcuts run things for you.               |
-| 23:01      | Or you could just have something like Better Touch Tools sit there and when a particular               |
+| 23:01      | Or you could just have something like [[BetterTouchTool\|BetterTouchTool's]] sit there and when a particular               |
 | 23:06      | key code is sent, because every key on a keyboard will send a key code when it's pressed.              |
 | 23:11      | So when that particular key code is sent, then a [[BetterTouchTool]] goes, oh, right,                    |
 | 23:15      | this keyboard sent this key code.                                                                      |
@@ -531,14 +531,14 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 28:59      | it.                                                                                                    |
 | 29:00      | If you go to the mouse settings, they've got some additional settings where you can                    |
 | 29:03      | do scrolling and swiping with that surface of the apple magic mouse.                                   |
-| 29:08      | But this is another one where BetterTouchTool really comes to the rescue.                            |
-| 29:13      | The BetterTouchTool, the tool set for the apple magic mouse is I think that's the reason             |
+| 29:08      | But this is another one where [[BetterTouchTool]] really comes to the rescue.                            |
+| 29:13      | The [[BetterTouchTool]], the tool set for the apple magic mouse is I think that's the reason             |
 | 29:19      | I think that's the original reason better touch will exist was either the mouse of the                 |
 | 29:24      | track that I'm not sure which one came first, but there are so many gestures that they add             |
 | 29:29      | like, you know, one finger tap to the left, you know, scroll up with a modifier key, you               |
 | 29:36      | know, four finger gestures, three finger gestures, three finger double tap, you know, like you         |
 | 29:42      | could put, I don't know, something like 50 different triggers onto a magic mouse if you                |
-| 29:48      | wanted to using the, you know, using the BetterTouchTool tool set, which is really kind              |
+| 29:48      | wanted to using the, you know, using the [[BetterTouchTool]] tool set, which is really kind              |
 | 29:56      | of amazing.                                                                                            |
 | 29:57      | Yeah, exactly.                                                                                         |
 | 29:59      | And, you know, you might be thinking, I don't really like, you know, the magic mouse, you              |
@@ -569,7 +569,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 31:20      | But if you want to just get started with something that's, you know, very easy to just, you know,      |
 | 31:25      | I can see the button, I click the picture of the button and then I select what it does.                |
 | 31:31      | It's a very good way to get started with that stuff.                                                   |
-| 31:33      | And then, of course, there's BetterTouchTool for, you know, the next level up, as you                |
+| 31:33      | And then, of course, there's [[BetterTouchTool]] for, you know, the next level up, as you                |
 | 31:39      | might say, with all of these things.                                                                   |
 | 31:41      | So yeah, it's definitely something I like.                                                             |
 | 31:45      | And of course, David, we can't possibly let this moment slide without mentioning the                   |
@@ -579,7 +579,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 32:00      | Well, maybe some magic happens, depends on what you've programmed, right?                              |
 | 32:03      | Yeah.                                                                                                  |
 | 32:04      | Yeah.                                                                                                  |
-| 32:05      | And that can all be done with BetterTouchTool.                                                       |
+| 32:05      | And that can all be done with [[BetterTouchTool]].                                                       |
 | 32:07      | Yeah.                                                                                                  |
 | 32:08      | I'm actually dual-wielding currently.                                                                  |
 | 32:10      | I have the trackpad on the left and the mouse on the right.                                            |
@@ -587,7 +587,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 32:20      | Like, you know, I've got all the gestures down.                                                        |
 | 32:22      | Like I do a lot of video edits because of, you know, my job.                                           |
 | 32:25      | And, you know, zooming timelines, moving in the timeline.                                              |
-| 32:29      | I've got a bunch of gestures in there programmed through BetterTouchTool and like I have             |
+| 32:29      | I've got a bunch of gestures in there programmed through [[BetterTouchTool]] and like I have             |
 | 32:35      | custom ones for ScreenFlow, which is what I do, screen casting, a different one set                   |
 | 32:39      | of gestures that I do in Final Cut.                                                                    |
 | 32:41      | But I honestly sitting here probably couldn't tell you all the gestures I use because at               |
@@ -602,7 +602,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 33:11      | And then you find that you do a lot of gesture-based stuff on the trackpad to make a window look       |
 | 33:16      | right or something.                                                                                    |
 | 33:17      | And like, I was talking earlier about window management from the keyboard, but you can                 |
-| 33:21      | also with BetterTouchTool enable like force pressing corners and do all sorts of weird               |
+| 33:21      | also with [[BetterTouchTool]] enable like force pressing corners and do all sorts of weird               |
 | 33:26      | magic on the trackpad to do window management, if that's your thing or you know, launch certain        |
 | 33:32      | apps.                                                                                                  |
 | 33:33      | It's really amazing.                                                                                   |
@@ -1074,7 +1074,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:00:49   | as we're going through.                                                                                |
 | 01:00:51   | So I have it set up for that, obviously.                                                               |
 | 01:00:55   | I have different modes with this, so I don't always have it looking show note timestamps,              |
-| 01:01:02   | which is to be clear, that just runs a Keyboard Maestro macro.                                         |
+| 01:01:02   | which is to be clear, that just runs a [[Keyboard Maestro]] macro.                                         |
 | 01:01:06   | Like for example, when I'm recording iOS today, I have it activate different scenes in Ecamm           |
 | 01:01:10   | Live so I can pop up my iPhone or I can pop up my iPad or I can just switch back to just               |
 | 01:01:15   | me.                                                                                                    |
@@ -1093,7 +1093,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:02:15   | so on.                                                                                                 |
 | 01:02:16   | But some of the keyboard shortcuts I want to trigger aren't actually keyboard shortcuts.               |
 | 01:02:19   | And you can't add them to a keyboard shortcut and triggering them via menus, not possible.             |
-| 01:02:24   | So I have to use Keyboard Maestros, click an image and that doesn't necessarily work                   |
+| 01:02:24   | So I have to use [[Keyboard Maestro\|Keyboard Maestro's]], click an image and that doesn't necessarily work                   |
 | 01:02:28   | if the window is too small.                                                                            |
 | 01:02:29   | So I'm still figuring that out, but generally I'm reserving it for recording, but it does              |
 | 01:02:35   | make my life a lot easier with that.                                                                   |
@@ -1146,7 +1146,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:05:30   | But fortunately, that after we've been talking about all episode and I mean all episode better         |
 | 01:05:35   | touch tool can program the Stream Deck and I am really pleased I was just poking around                |
 | 01:05:40   | in there again because I go back in and check periodically, maybe not as often as I should             |
-| 01:05:46   | on how BetterTouchTool is doing with the Stream Deck Plus.                                           |
+| 01:05:46   | on how [[BetterTouchTool]] is doing with the Stream Deck Plus.                                           |
 | 01:05:49   | David, it supports everything except double press on the dials.                                        |
 | 01:05:53   | Yeah, it is.                                                                                           |
 | 01:05:54   | It supports the touch screen and everything.                                                           |
@@ -1265,7 +1265,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:11:56   | that largely for recording tools and action.                                                           |
 | 01:12:00   | And then I've got the buttons below, you know, in the pedal.                                           |
 | 01:12:03   | So I have four Stream Decks running.                                                                   |
-| 01:12:05   | And that's one of the reasons why I'm a little intimidated by going a BetterTouchTool over           |
+| 01:12:05   | And that's one of the reasons why I'm a little intimidated by going a [[BetterTouchTool]] over           |
 | 01:12:11   | because I've got to reconfigure four Stream Decks, not just one.                                       |
 | 01:12:15   | And that's going to be work.                                                                           |
 | 01:12:17   | And the one, the dynamic one has about 10 different setups on it, you know, 10 different               |
@@ -1282,7 +1282,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:12:58   | You can just like look at the words and then you'll see like something that's called omnifocus.        |
 | 01:13:03   | And then, you know, and it does this thing and this thing and this thing.                              |
 | 01:13:06   | And that was very useful.                                                                              |
-| 01:13:08   | The other thing that I did, because once you switch BetterTouchTool to taking over the               |
+| 01:13:08   | The other thing that I did, because once you switch [[BetterTouchTool]] to taking over the               |
 | 01:13:13   | Stream Deck, you need to quit the Stream Deck software to be able to work with it.                     |
 | 01:13:17   | So I did screenshots of all of the different screens so that I had all of them and that                |
 | 01:13:24   | worked out really nicely as well.                                                                      |
@@ -1292,7 +1292,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:13:32   | have a lot of buttons and it feels like every time I sit down to do it, I end up being pulled          |
 | 01:13:36   | into six other things.                                                                                 |
 | 01:13:38   | But you know, it's worth doing it.                                                                     |
-| 01:13:41   | My work machine is a lot happier since I switched to using a BetterTouchTool instead                 |
+| 01:13:41   | My work machine is a lot happier since I switched to using a [[BetterTouchTool]] instead                 |
 | 01:13:46   | of the Stream Deck software.                                                                           |
 | 01:13:47   | So I definitely recommend it.                                                                          |
 | 01:13:49   | Yeah.                                                                                                  |
@@ -1372,7 +1372,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:16:24   | Did I tempt you to buy anything today?                                                                 |
 | 01:16:26   | I'm not sure.                                                                                          |
 | 01:16:27   | I mean, mostly that I just need to sit down and spend some time moving everything over                 |
-| 01:16:31   | into the BetterTouchTool app for my Stream Deck stuff, and then we can come back and                 |
+| 01:16:31   | into the [[BetterTouchTool]] app for my Stream Deck stuff, and then we can come back and                 |
 | 01:16:35   | talk about that.                                                                                       |
 | 01:16:37   | I am definitely intrigued with the, the contour design shuttle, the little one, not the pro,           |
 | 01:16:46   | but or the controller express, sorry, but I'm not sure.                                                |

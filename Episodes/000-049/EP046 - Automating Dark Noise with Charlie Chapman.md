@@ -343,7 +343,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 18:21      | of 100% automating them.                                                                                  |
 | 18:23      | Now, Charlie, were you ever a workflow user or did you find shortcuts after Apple acquired                |
 | 18:27      | workflow?                                                                                                 |
-| 18:29      | So as a Cortex listener, I had been taught the praises of workflow for a long time, but                   |
+| 18:29      | So as a [[Cortex]] listener, I had been taught the praises of workflow for a long time, but                   |
 | 18:36      | I had never bitten the bullet and actually jumped into it until right after Apple bought                  |
 | 18:40      | them and then they made it free.                                                                          |
 | 18:41      | And I was like, Oh, maybe I'll dip my toes in the water.                                                  |
@@ -1096,9 +1096,9 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 01:01:58   | It's only for customers.                                                                                  |
 | 01:02:00   | And people save the code so that they can reuse them, which makes perfect sense to me.                    |
 | 01:02:04   | Because if you need a bathroom, you need a bathroom.                                                      |
-| 01:02:07   | And so they had this saved in Drafts.                                                                     |
+| 01:02:07   | And so they had this saved in [[Drafts]].                                                                     |
 | 01:02:08   | And because [[Drafts]] was donating, not just when they opened it, but where they opened                      |
-| 01:02:12   | it, when they got to this place, it automatically said, hey, you usually do this thing in Drafts.         |
+| 01:02:12   | it, when they got to this place, it automatically said, hey, you usually do this thing in [[Drafts]].         |
 | 01:02:17   | So they're definitely getting there with this thing.                                                      |
 | 01:02:20   | And if they could add hooks so that when this thing happens, it suggests that you trigger                 |
 | 01:02:25   | that that is definitely going to be the next step from taking those actions from inside                   |

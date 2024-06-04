@@ -146,12 +146,12 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 03:46      | Something that Rose and I talk about a lot on the show are setups, you know, setting                 |
 | 03:50      | up your computer for a certain context to do certain work.                                           |
 | 03:54      | And historically, I've done that a lot of ways, but the current method that works best               |
-| 04:00      | for me is Keyboard Maestro scripts combined with Moom shortcuts, you know, because window            |
+| 04:00      | for me is [[Keyboard Maestro]] scripts combined with Moom shortcuts, you know, because window            |
 | 04:08      | management is a key part of any setup system and Moom is so much better at it than keyboard          |
 | 04:16      | maestro.                                                                                             |
 | 04:17      | So I just program the shortcuts and then use them.                                                   |
 | 04:21      | And that's fine, but it is also, you know, pretty tedious to set these up and you've                 |
-| 04:26      | got to really understand how to use Keyboard Maestro.                                                |
+| 04:26      | got to really understand how to use [[Keyboard Maestro]].                                                |
 | 04:31      | Brett has done a system where you do it with a text file, where you just issue commands              |
 | 04:36      | to your computer and you just create a text file once you learn the commands, you can                |
 | 04:39      | fire it off and your computer does really cool stuff.                                                |
@@ -159,7 +159,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 04:46      | How'd you come up with the idea for it?                                                              |
 | 04:48      | Well, very much what you're describing, like I wanted at the base level, I just wanted               |
 | 04:55      | to be able to launch and quit a group of applications with one keystroke.                            |
-| 05:01      | And so obviously that was a combination of, in this case, BetterTouchTool and some Apple           |
+| 05:01      | And so obviously that was a combination of, in this case, [[BetterTouchTool]] and some Apple           |
 | 05:07      | script and the process of doing it once, not a big deal, but once you start wanting                  |
 | 05:13      | to expand that and have different sets of apps in different groups, it just seemed like              |
 | 05:18      | there should be, I just wanted to write it down in a plain text document and, and like               |
@@ -211,9 +211,9 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 07:49      | Yeah.                                                                                                |
 | 07:50      | I've merged all windows and then close.                                                              |
 | 07:53      | So I've been, I've been trying to figure out a way to do that with, with Bunch.                      |
-| 07:55      | At the moment, I'm still using a Keyboard Maestro macro for that, but maybe by the end of the        |
+| 07:55      | At the moment, I'm still using a [[Keyboard Maestro]] macro for that, but maybe by the end of the        |
 | 07:59      | show, I will be able to do this with Bunch or maybe not.                                             |
-| 08:03      | Maybe it is right to do that with Keyboard Maestro, but I'm loving everything that I've              |
+| 08:03      | Maybe it is right to do that with [[Keyboard Maestro]], but I'm loving everything that I've              |
 | 08:06      | done so far.                                                                                         |
 | 08:07      | The fact that I can toggle D and D is just, oh my God, that's a lifesaver.                           |
 | 08:12      | So much a lifesaver.                                                                                 |
@@ -254,7 +254,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 10:17      | project for me where someone has an idea that I can see being at all useful and I'll probably        |
 | 10:23      | try to figure out a way to do it.                                                                    |
 | 10:25      | Okay.                                                                                                |
-| 10:26      | So I just want, whenever I launch Drafts, I want my keyboard to only have Latin characters           |
+| 10:26      | So I just want, whenever I launch [[Drafts]], I want my keyboard to only have Latin characters           |
 | 10:30      | on it, you know, Domina, Delta, you know, say, if you can find a matching input source               |
 | 10:38      | for that bunch can do it.                                                                            |
 | 10:41      | Yeah.                                                                                                |
@@ -271,7 +271,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 11:23      | Yeah.                                                                                                |
 | 11:24      | And in fact, let's just talk about that right now because window management, as I was saying,        |
 | 11:27      | is a difficult part of this, but you're using the same cheat I've been using historically            |
-| 11:30      | with Keyboard Maestro.                                                                                |
+| 11:30      | with [[Keyboard Maestro]].                                                                                |
 | 11:31      | And that's just install Moom because with Moom, you can set a grid on your screen and                |
 | 11:39      | attach, you know, and, and define grids like it could be left half of the screen or bottom           |
 | 11:44      | left half of the screen or middle two thirds of the screen or just almost anything you               |
@@ -365,7 +365,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 17:26      | ScreenFlow.                                                                                         |
 | 17:27      | I've started recording again.                                                                        |
 | 17:29      | It drives me insane.                                                                                 |
-| 17:30      | So I actually have a Keyboard Maestro macro which interferes with this so that screen                |
+| 17:30      | So I actually have a [[Keyboard Maestro]] macro which interferes with this so that screen                |
 | 17:36      | flow never gets that message.                                                                        |
 | 17:37      | All right.                                                                                           |
 | 17:38      | So gang, right now we are standing around a rabbit hole called keyboard shortcut.                    |
@@ -472,10 +472,10 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 24:00      | So you can give it whatever name you like, and so you have a file name, which means something        |
 | 24:03      | to you.                                                                                              |
 | 24:04      | And then inside of the file, you have a title section at the top, which looks to me like             |
-| 24:09      | YAML.                                                                                                |
-| 24:10      | Is it YAML, Brett?                                                                                   |
+| 24:09      | [[YAML]].                                                                                                |
+| 24:10      | Is it [[YAML]], Brett?                                                                                   |
 | 24:11      | Yeah.                                                                                                |
-| 24:12      | It's YAML-esque, like it doesn't handle advanced structures like arrays and objects that YAML        |
+| 24:12      | It's YAML-esque, like it doesn't handle advanced structures like arrays and objects that [[YAML]]        |
 | 24:19      | normally would, but it is basically key.                                                             |
 | 24:22      | It's a lot like markdown metadata too, or multi-markdown.                                            |
 | 24:26      | So it's just key, colon, and then a value.                                                           |
@@ -604,7 +604,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 31:40      | One of the things you've done in this, and as soon as I saw it in there, Mike, of course             |
 | 31:42      | spread out of this, it's some thorough support for URL callbacks.                                    |
 | 31:47      | And I use those so much on my Mac because, you know, OmniFocus projects are URL callbacks            |
-| 31:54      | for me, Obsidian pages or URL callbacks.                                                             |
+| 31:54      | for me, [[Obsidian]] pages or URL callbacks.                                                             |
 | 31:57      | So I've got them sprinkled all over my system and you can embed them in a bunch.                     |
 | 32:02      | So if you want to make a bunch to do one specific project, you can get to all of the pages or        |
 | 32:09      | app locations you need out of your bunch, which is really nice.                                      |
@@ -627,7 +627,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 33:14      | Yeah.                                                                                                |
 | 33:15      | I mean, it's just to have a very unique user experience.                                             |
 | 33:18      | In fact, you could do this before you made my Latin plug-in if you wanted is like, I'd               |
-| 33:24      | like you to look at my Kanban page in Obsidian and just show me everything that's an active          |
+| 33:24      | like you to look at my Kanban page in [[Obsidian]] and just show me everything that's an active          |
 | 33:29      | project and populate that and then I could just trigger a bunch and say, okay, I'm going             |
 | 33:34      | to go work on the Smith contract now or I'm going to go work on it.                                  |
 | 33:37      | Is there a way to get that data as it's a markdown file on your drive?                               |
@@ -665,7 +665,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 35:37      | I mean, Keyboard Master is still amazing app, but I still use it all the time, but I feel            |
 | 35:40      | like this might be a more efficient way for me to handle the setup issue.                            |
 | 35:45      | And I don't even need to pass a variable to Bunch.                                                   |
-| 35:48      | I just need to like, because for me kind of mission control for me is Obsidian.                      |
+| 35:48      | I just need to like, because for me kind of mission control for me is [[Obsidian]].                      |
 | 35:53      | Every project I have as a page in there with a bunch of links in it, like I've got to link           |
 | 35:57      | to OmniFocus or I've got to link to the relevant files using hook, but I could have an entry         |
 | 36:02      | in there for a bunch too and I just click it and it sets my desktop for that project,                |
@@ -677,11 +677,11 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 36:22      | And that would sound like a lot of work, but it's not because if it's templated, like                |
 | 36:27      | all my legal projects have the same setup, but I'm just changing the locations, making               |
 | 36:32      | a bunch of bunches, I guess that's what you call it.                                                 |
-| 36:36      | In many, several bunches for the specific active projects would allow me to be an Obsidian           |
+| 36:36      | In many, several bunches for the specific active projects would allow me to be an [[Obsidian]]           |
 | 36:43      | and literally make my computer jump into that project with one click and that to me is very          |
 | 36:49      | exciting.                                                                                            |
 | 36:50      | Yeah.                                                                                                |
-| 36:51      | Well, and to your point, like I love BetterTouchTool, I love Keyboard Maestro, I love              |
+| 36:51      | Well, and to your point, like I love [[BetterTouchTool]], I love [[Keyboard Maestro]], I love              |
 | 36:58      | [[Hazel]], like these are, I'm not trying to replace those.                                              |
 | 37:02      | There are some things though that like building a context.                                           |
 | 37:06      | It's just way easier for me to just type it out rather than having to use a UI and add               |
@@ -834,17 +834,17 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 46:59      | How are you doing your Hyper Key?                                                                     |
 | 47:00      | Are you still using Karabiner?                                                                       |
 | 47:02      | Are you using something else?                                                                        |
-| 47:03      | So BetterTouchTool added the capability.                                                             |
+| 47:03      | So [[BetterTouchTool]] added the capability.                                                             |
 | 47:08      | But last time I tried it, it wasn't as lag-free and seamless as using Karabiner elements.            |
-| 47:17      | So I still am currently using Karabiner elements, but I use BetterTouchTool so much that if it       |
-| 47:24      | becomes truly viable, I will gladly consolidate and just do it all in BetterTouchTool.               |
+| 47:17      | So I still am currently using Karabiner elements, but I use [[BetterTouchTool]] so much that if it       |
+| 47:24      | becomes truly viable, I will gladly consolidate and just do it all in [[BetterTouchTool]].               |
 | 47:30      | And I'm hearing reports from people on Apple Silicon having significant problems with Karabiner?     |
 | 47:36      | Oh, I am not.                                                                                        |
 | 47:39      | Even with SIP enabled on my M1, Karabiner works fine, the latest versions do.                        |
 | 47:43      | Well, I heard from one listener who was having crashes until he had installed Karabiner and          |
 | 47:47      | then it started working fine.                                                                        |
 | 47:50      | I have not had that trouble.                                                                         |
-| 47:52      | So either way, I've been running it just on BetterTouchTool and it's been okay.                      |
+| 47:52      | So either way, I've been running it just on [[BetterTouchTool]] and it's been okay.                      |
 | 47:56      | But for the listeners who aren't aware, Hyper Key, I think did you coin that term, Brett, or          |
 | 48:02      | did you get that?                                                                                    |
 | 48:03      | No, I did not.                                                                                       |
@@ -884,16 +884,16 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 50:10      | my brain immediately went, yes, I like this, I shall use this only to discover that something        |
 | 50:16      | else had already co-opted it.                                                                        |
 | 50:18      | So if you want to take that a step further, then you get into key sequences, and you can             |
-| 50:24      | do this with a Keyboard Maestro, you can do it with BetterTouchTool, and you can do                |
+| 50:24      | do this with a [[Keyboard Maestro]], you can do it with [[BetterTouchTool]], and you can do                |
 | 50:28      | it with, if you want to hack your own key bindings file, basically make it so that like on my        |
-| 50:35      | keyboard, if I hit Hyper S, it opens up a launcher, like a macro group in Keyboard Maestro, and       |
+| 50:35      | keyboard, if I hit Hyper S, it opens up a launcher, like a macro group in [[Keyboard Maestro]], and       |
 | 50:45      | then another letter will launch an app.                                                              |
 | 50:47      | So instead of taking up Hyper KeyS with, say, Skype, I can make it Hyper KeyS, and then I              |
 | 50:53      | have to ask again to launch Skype, but any other letter.                                             |
 | 50:56      | So like your entire keyboard opens up again.                                                         |
 | 51:00      | And so it's like gateways into new groups of hotkeys, a lot to memorise, but a lot,                  |
 | 51:05      | but not that much.                                                                                   |
-| 51:06      | If you use those bunchings, and the way I do that in Keyboard Maestro, I'm curious how               |
+| 51:06      | If you use those bunchings, and the way I do that in [[Keyboard Maestro]], I'm curious how               |
 | 51:10      | you do it, Brett, is I actually just use conflict palettes for it because with the keyboard          |
 | 51:15      | maestro, it auto-generates the secondary key presses.                                                |
 | 51:20      | Like for me, Hyper KeyM is MacSparky, and from that, it's a full list of items.                      |
@@ -905,7 +905,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 51:49      | Or you could use Hyper KeyB to trigger all your bunches.                                              |
 | 51:54      | Yes.                                                                                                 |
 | 51:55      | I actually have quite a few of my bunches on exactly that kind of grouping.                          |
-| 52:01      | There's a bunch folder in Keyboard Maestro, but I actually mostly launch my bunches from             |
+| 52:01      | There's a bunch folder in [[Keyboard Maestro]], but I actually mostly launch my bunches from             |
 | 52:08      | my Stream Deck, which is kind of a whole other keyboard shortcut thing.                              |
 | 52:12      | Yeah.                                                                                                |
 | 52:13      | Yeah, it is.                                                                                         |
@@ -1209,7 +1209,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:09:59   | It's true.                                                                                           |
 | 01:10:01   | I mean, there are worse things to run out of.                                                        |
 | 01:10:03   | You'll be proud of me, Brett.                                                                        |
-| 01:10:04   | I've been doing a lot of Vim lately, because I'm really sold on Obsidian.                            |
+| 01:10:04   | I've been doing a lot of Vim lately, because I'm really sold on [[Obsidian]].                            |
 | 01:10:08   | I'm doing so much work in it that they have a Vim mode I've enabled.                                 |
 | 01:10:12   | And I get it.                                                                                        |
 | 01:10:13   | I can see how this is faster.                                                                        |
@@ -1257,7 +1257,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:12:44   | I did figure out how to get MailMate to connect to their SSO or their OAuth.                         |
 | 01:12:49   | Anyway, I have been having to figure out how to use the tools I love with the tools that             |
 | 01:12:55   | they allow.                                                                                          |
-| 01:12:56   | And I have a work laptop that I'm not supposed to install things like Keyboard Maestro on.           |
+| 01:12:56   | And I have a work laptop that I'm not supposed to install things like [[Keyboard Maestro]] on.           |
 | 01:13:04   | And so, yeah, a lot of it has been compromising to work with the available tools.                    |
 | 01:13:12   | However, my job includes a lot of markdown and they're even going to be building out                 |
 | 01:13:21   | some content in Jekyll.                                                                              |
@@ -1280,7 +1280,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:14:09   | But one of the things that was appealing was, yeah, so we're just going to ship you whatever         |
 | 01:14:13   | you laptop you'd like directly from the manufacturer and it's like, oh, you're not going to lock     |
 | 01:14:18   | it down with a whole bunch of, yeah, okay, we'll get, yeah.                                          |
-| 01:14:21   | I can install, you know, Bunch and Keyboard Maestro and things like that.                            |
+| 01:14:21   | I can install, you know, Bunch and [[Keyboard Maestro]] and things like that.                            |
 | 01:14:25   | Yeah.                                                                                                |
 | 01:14:26   | Mine came locked down.                                                                               |
 | 01:14:28   | It even had requirements, when you change your password, it requires the character,                  |
@@ -1306,7 +1306,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:15:46   | Do you want to hear about the automation that I'm working on but have not solved yet?                |
 | 01:15:52   | Yes.                                                                                                 |
 | 01:15:53   | Oh, yes, please.                                                                                     |
-| 01:15:54   | So a BetterTouchTool can function as your default browser and perform actions if a URL             |
+| 01:15:54   | So a [[BetterTouchTool]] can function as your default browser and perform actions if a URL             |
 | 01:16:04   | matches a certain regex or like wild card string and then anything else that can pass                |
 | 01:16:12   | off to your default browser.                                                                         |
 | 01:16:15   | And so I want to have it so that when I click a work Zoom URL, it pipes that into a bunch            |
@@ -1315,11 +1315,11 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:16:35   | I just do better with speakers if I don't have to record my audio.                                   |
 | 01:16:39   | So change my audio settings and basically get my meetings all set up just by clicking                |
 | 01:16:45   | on a Zoom URL.                                                                                       |
-| 01:16:47   | I'm having a little trouble with the BetterTouchTool part of it, but it's going to work.           |
+| 01:16:47   | I'm having a little trouble with the [[BetterTouchTool]] part of it, but it's going to work.           |
 | 01:16:52   | I'm talking to Andreas right now.                                                                    |
 | 01:16:54   | It's going to work.                                                                                  |
 | 01:16:55   | It's going to be a cool automation.                                                                  |
-| 01:16:57   | I feel like BetterTouchTool because Andreas, the developer, has kind of gone 100% on that          |
+| 01:16:57   | I feel like [[BetterTouchTool]] because Andreas, the developer, has kind of gone 100% on that          |
 | 01:17:03   | app the last few years.                                                                              |
 | 01:17:06   | And I don't think the community, myself included, have acknowledged enough of what he has done       |
 | 01:17:12   | because that started out as an app to say, oh, this is where you can add cool features               |
@@ -1333,16 +1333,16 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:17:39   | And Andreas actually helped with several features in Bunch.                                          |
 | 01:17:42   | When it comes to automation, he's my guy.                                                            |
 | 01:17:46   | And yeah, honestly, even on my work laptop, there's no way I was working without installing          |
-| 01:17:50   | BetterTouchTool.                                                                                   |
+| 01:17:50   | [[BetterTouchTool]].                                                                                   |
 | 01:17:51   | Yeah.                                                                                                |
 | 01:17:52   | Yeah, it's the same.                                                                                 |
 | 01:17:53   | The app that I was using, and actually I'm still using it, I've not yet switched over                |
-| 01:17:58   | to BetterTouchTool for this, is Choosy.                                                            |
+| 01:17:58   | to [[BetterTouchTool]] for this, is Choosy.                                                            |
 | 01:18:02   | And Choosy works the same way pretty much.                                                           |
 | 01:18:05   | Which is the problem.                                                                                |
 | 01:18:06   | Yeah.                                                                                                |
 | 01:18:07   | That's what I'm talking to Andreas about is I want Choosy to be the default fallback                 |
-| 01:18:12   | browser, but when I try to add it as a custom URL command, BetterTouchTool is erasing my           |
+| 01:18:12   | browser, but when I try to add it as a custom URL command, [[BetterTouchTool]] is erasing my           |
 | 01:18:19   | custom command.                                                                                      |
 | 01:18:20   | If I can solve that one little problem, this automation I'm talking about is cake.                   |
 | 01:18:24   | It's done.                                                                                           |
@@ -1372,7 +1372,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:20:13   | I just had to probably solve recently BetterTouchTools that I, you know, you occasionally          |
 | 01:20:19   | click that green button, traffic button on your window and it goes into full screen mode,            |
 | 01:20:25   | which is kind of a train wreck.                                                                      |
-| 01:20:27   | And I didn't realise until recently you can program those buttons in BetterTouchTool.              |
+| 01:20:27   | And I didn't realise until recently you can program those buttons in [[BetterTouchTool]].              |
 | 01:20:33   | So now if I click on it, it just makes it a full screen window as opposed to full screen             |
 | 01:20:39   | mode, if that makes sense.                                                                           |
 | 01:20:41   | And then if I right click it, then it goes into full screen mode, which I hopefully will             |
@@ -1445,7 +1445,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:24:27   | But what I use instead is viewing all of the windows of my current application because               |
 | 01:24:32   | I frequently have a lot of windows open for my current application.                                  |
 | 01:24:35   | So being able to switch there with the app switcher using Command Tab, either with the               |
-| 01:24:39   | default Mac OS one or the Keyboard Maestro one, which I'm playing with, I'm not sure                 |
+| 01:24:39   | default Mac OS one or the [[Keyboard Maestro]] one, which I'm playing with, I'm not sure                 |
 | 01:24:44   | about yet.                                                                                           |
 | 01:24:45   | You know, it's, well, those things where I've been doing something for a very long time              |
 | 01:24:49   | one way.                                                                                             |

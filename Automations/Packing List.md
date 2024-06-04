@@ -6,7 +6,6 @@ author: Rosemary Orchard
 
 **Author:** `$="[[" + dv.current().author + "]]"`
 
-
 # Overview
 Rosemary created a set of automations to help her build packing lists for travelling. The automation begins with a shortcut that checks her calendar for all day events and then creates a new draft (in [[Drafts]]), and an [[OmniFocus]] task to actually do the requisite packing. The task is dated based on the trip and links to the draft via a URL.
 
@@ -32,3 +31,8 @@ The following Drafts actions are available in the Action Group.
 - [Automators 33: Packing List Extravaganza in Drafts | Rosemary Orchard](https://rosemaryorchard.com/blog/automators-33/)
 - [Packing Action Group](https://actions.getdrafts.com/g/1ZC)
 - [Shortcuts - Create Packing List (Drafts & OF)](https://www.icloud.com/shortcuts/fdd67dbb01c14d749566441a07cfd1e9)
+
+# Episodes
+```dataviewjs
+await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
+```

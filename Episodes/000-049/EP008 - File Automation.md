@@ -45,7 +45,7 @@ Rose reminds us to take a look at what we've got and to ask ourselves where we'r
 
 Rose and David agree that nested folders and a good naming system are key.
 
-When automating files on the Mac, Smart Folders, Hazel, and Keyboard Maestro will become your best friends. How? You gotta listen to find out. 
+When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]] will become your best friends. How? You gotta listen to find out. 
 * * *
 - [The Episode Blog Post](https://www.macsparky.com/blob/2018/10/automators-8-file-automation)
 - [Home | Automators](https://automators.fm/)
@@ -592,7 +592,7 @@ When automating files on the Mac, Smart Folders, Hazel, and Keyboard Maestro wil
 | 20:18      | are the two amazing apps.                                                                                               |
 | 20:20      | Yeah.                                                                                                                   |
 | 20:21      | So [[Hazel]], what [[Hazel]] is, it's people used to write                                                              |
-| 20:24      | [[AppleScript]]s to move files around.                                                                                  |
+| 20:24      | [[AppleScript\|AppleScripts]] to move files around.                                                                                  |
 | 20:26      | And now we don't because of [[Hazel]].                                                                                  |
 | 20:28      | And it's an app that like so many of these automation tools,                                                            |
 | 20:31      | it looks at triggers and actions.                                                                                       |
@@ -665,11 +665,11 @@ When automating files on the Mac, Smart Folders, Hazel, and Keyboard Maestro wil
 | 23:55      | Yeah, exactly.                                                                                                          |
 | 23:56      | But that's the great thing,                                                                                             |
 | 23:58      | using something like [[Hazel]] or we'll come to it later,                                                               |
-| 24:00      | Keyboard Maestro, what you can do is you can say,                                                                       |
+| 24:00      | [[Keyboard Maestro]], what you can do is you can say,                                                                       |
 | 24:03      | hey, don't just move this file or delete this file, copy this file.                                                     |
 | 24:06      | You can also then do another action, like run an [[AppleScript]]                                                        |
 | 24:10      | or add it to iTunes, run an automated workflow.                                                                         |
-| 24:14      | So even if you don't want to touch [[AppleScript]]s                                                                     |
+| 24:14      | So even if you don't want to touch [[AppleScript\|AppleScripts]]                                                                     |
 | 24:17      | either yet or at all ever,                                                                                              |
 | 24:19      | then you can actually have automated to do something,                                                                   |
 | 24:23      | which is quite nice as well.                                                                                            |
@@ -838,10 +838,10 @@ When automating files on the Mac, Smart Folders, Hazel, and Keyboard Maestro wil
 | 31:13      | and both of mine involve passing data into files.                                                                       |
 | 31:16      | And keyboard mice, I'm sorry, [[Hazel]] can do some of that,                                                            |
 | 31:19      | but [[Keyboard Maestro]],                                                                                               |
-| 31:21      | that's what Keyboard Maestro really excels at.                                                                          |
+| 31:21      | that's what [[Keyboard Maestro]] really excels at.                                                                          |
 | 31:23      | So with those tools,                                                                                                    |
 | 31:25      | I think if you just wanted to file your documents,                                                                      |
-| 31:27      | you could probably get away without Keyboard Maestro,                                                                   |
+| 31:27      | you could probably get away without [[Keyboard Maestro]],                                                                   |
 | 31:30      | but [[Hazel]] is such a game changer.                                                                                   |
 | 31:33      | I just cannot understate it.                                                                                            |
 | 31:35      | Yeah, yeah, it is really wonderful.                                                                                     |
@@ -849,7 +849,7 @@ When automating files on the Mac, Smart Folders, Hazel, and Keyboard Maestro wil
 | 31:44      | then you could actually write an [[AppleScript]]                                                                        |
 | 31:47      | and have [[Hazel]] execute it for you.                                                                                  |
 | 31:48      | Of course, you could do that with, you know, [[Automator]],                                                             |
-| 31:52      | or Keyboard Maestro as well,                                                                                            |
+| 31:52      | or [[Keyboard Maestro]] as well,                                                                                            |
 | 31:53      | but [[Hazel]] has got loads of examples out there.                                                                      |
 | 31:56      | There are entire examples for setting up,                                                                               |
 | 31:59      | like I think a [[Plex]] server with [[Hazel]],                                                                          |
@@ -1195,7 +1195,7 @@ When automating files on the Mac, Smart Folders, Hazel, and Keyboard Maestro wil
 | 46:19      | Agile tortures, they are apparently one of us.                                                                          |
 | 46:22      | They're one of our people and they're very happy to add more automation.                                                |
 | 46:24      | They're definitely one of us. They're definitely.                                                                       |
-| 46:27      | Yes, considering the fact that they created the [[URL Schemes\|URL scheme]]s,                                                            |
+| 46:27      | Yes, considering the fact that they created the [[URL Schemes]],                                                            |
 | 46:30      | it's one of us.                                                                                                         |
 | 46:33      | So I guess to put a report card on it, I'd say                                                                          |
 | 46:36      | automation on the Mac gets an A plus. It's very easy.                                                                   |

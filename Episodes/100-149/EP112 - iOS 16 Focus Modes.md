@@ -528,21 +528,21 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 30:04      | I'm considering making a packing focus mode, David, for when I'm packing to do various                  |
 | 30:08      | things and it will pin the current draft at the top.                                                    |
 | 30:14      | Well, that's what I need when I'm packing.                                                              |
-| 30:17      | When I reopen Drafts, it always needs to be the same draft unless I specifically open                   |
+| 30:17      | When I reopen [[Drafts]], it always needs to be the same draft unless I specifically open                   |
 | 30:22      | another one.                                                                                            |
-| 30:23      | And you can also even choose specific Drafts, but it's pretty cool.                                     |
+| 30:23      | And you can also even choose specific [[Drafts]], but it's pretty cool.                                     |
 | 30:27      | I'm very much liking this.                                                                              |
-| 30:29      | Yeah, so with Drafts, not only can you have it open up the group of [[Drafts]] related to                   |
+| 30:29      | Yeah, so with [[Drafts]], not only can you have it open up the group of [[Drafts]] related to                   |
 | 30:36      | work when you're in work focus mode, you can have a hide them and show your personal ones               |
 | 30:40      | when you're in personal mode.                                                                           |
-| 30:41      | And like Rose said, if you create custom actions in Drafts, you can have only the custom actions        |
+| 30:41      | And like Rose said, if you create custom actions in [[Drafts]], you can have only the custom actions        |
 | 30:46      | related to work show up.                                                                                |
 | 30:49      | I never expected [[Drafts]] or any notes app to take part in this feature, but of course                    |
-| 30:55      | it was Drafts.                                                                                          |
+| 30:55      | it was [[Drafts]].                                                                                          |
 | 30:56      | And of course, you immediately see the benefit of it and yeah, yeah, you do.                            |
 | 31:01      | There is another notes app, which I feel is worth a shout out for for this because they've              |
 | 31:06      | added not only focus mode support, but they've also added shortcut support and that's agenda.           |
-| 31:13      | Agenda previously was all in on the [[URL Schemes\|URL scheme]]s and they've still got those to be clear, but            |
+| 31:13      | Agenda previously was all in on the [[URL Schemes]] and they've still got those to be clear, but            |
 | 31:19      | they have decided that they're implementing focus mode support so you can filter by categories.         |
 | 31:23      | So you can create categories of projects and agenda, which is pretty nice.                              |
 | 31:27      | So I've got, you know, my work category is selected obviously for work.                                 |
@@ -614,7 +614,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 35:12      | And I just throw that in agenda because it's assigned to a specific day, which works really             |
 | 35:18      | nicely.                                                                                                 |
 | 35:19      | And then, yeah, I just, you know, basically end up having the information that I need                   |
-| 35:26      | and I can go through it in a calendar style, so I can actually, I've created some Drafts.               |
+| 35:26      | and I can go through it in a calendar style, so I can actually, I've created some [[Drafts]].               |
 | 35:34      | I've got my own work [[Drafts]] action group, because of course I do, but it gives me the                   |
 | 35:39      | option to say like, hey, so this thing that I was like scribbling down, like, it's not                  |
 | 35:45      | super relevant to life particularly, like I don't need to keep this around, but I do                    |
@@ -639,7 +639,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 36:59      | to put it.                                                                                              |
 | 37:00      | And yeah, that works well.                                                                              |
 | 37:02      | So you're just tracking kind of work projects and communications, and it's a lot prettier               |
-| 37:07      | than Obsidian.                                                                                          |
+| 37:07      | than [[Obsidian]].                                                                                          |
 | 37:08      | It's a lot friendlier on iPhone and iPad.                                                               |
 | 37:10      | I get that.                                                                                             |
 | 37:11      | Yes.                                                                                                    |
@@ -944,7 +944,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 54:52      | I have a custom home screen for this and it's got the Kindle app on it.                                 |
 | 54:58      | It's got the Audible app.                                                                               |
 | 55:00      | It's got the Apple books.                                                                               |
-| 55:02      | It's got Obsidian there because I take a lot of notes in Obsidian as I'm reading books.                 |
+| 55:02      | It's got [[Obsidian]] there because I take a lot of notes in [[Obsidian]] as I'm reading books.                 |
 | 55:07      | A lot of times I see something that adds to an idea so I can just go in there and do it.                |
 | 55:13      | I also have the reader with two E's app in there.                                                       |
 | 55:15      | So I kind of consider reading RSS in the same kind of context as reading.                               |
@@ -1264,7 +1264,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:14:00   | So I've just added that into the Folk Fantastical filters so that I can reuse my travel calendar        |
 | 01:14:07   | set.                                                                                                    |
 | 01:14:08   | And it is actually, there is a draft focus filter that I have set up for because I have                 |
-| 01:14:14   | a packing slash travel workspace in Drafts.                                                             |
+| 01:14:14   | a packing slash travel workspace in [[Drafts]].                                                             |
 | 01:14:19   | I mean, I have two workspaces.                                                                          |
 | 01:14:20   | I have a packing workspace and I have a travel workspace, but the travel workspace includes             |
 | 01:14:26   | everything in the packing workspace.                                                                    |
@@ -1450,7 +1450,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:26:20   | mode that turns on that focus mode.                                                                     |
 | 01:26:22   | And the entire purpose of this is to make it much easier on macOS to turn on a focus                    |
 | 01:26:26   | mode.                                                                                                   |
-| 01:26:27   | And that way I can then use a bunch or Keyboard Maestro or any app basically to turn on my              |
+| 01:26:27   | And that way I can then use a bunch or [[Keyboard Maestro]] or any app basically to turn on my              |
 | 01:26:35   | focus mode.                                                                                             |
 | 01:26:38   | And they can even pass data into this.                                                                  |
 | 01:26:41   | And if they do pass data in, what I do when these, because these shortcuts accept input,                |

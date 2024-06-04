@@ -228,7 +228,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 11:04      | paradigm, you know, build a stack of triggers and actions and anybody can make an automation.        |
 | 11:10      | We saw it later in a workflow, which became shortcuts.                                               |
 | 11:12      | We see it in [[Hazel]].                                                                                  |
-| 11:13      | I mean, we see it in Keyboard Maestro.                                                               |
+| 11:13      | I mean, we see it in [[Keyboard Maestro]].                                                               |
 | 11:16      | All these apps out there are using this stack of action, component automation, yeah.                 |
 | 11:22      | And you were there at the beginning.                                                                 |
 | 11:25      | It was one of those rare moments in Apple history.                                                   |
@@ -491,13 +491,13 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 28:28      | input field.                                                                                         |
 | 28:29      | Yes.                                                                                                 |
 | 28:30      | That would be pretty awesome.                                                                        |
-| 28:31      | I'm still using the good old, I'll stick it in Drafts.                                               |
+| 28:31      | I'm still using the good old, I'll stick it in [[Drafts]].                                               |
 | 28:33      | I have a dedicated [[Drafts]] tag or shortcuts text.                                                     |
 | 28:37      | The only problem with that is, of course, you can't put variables in there, but a lot                |
 | 28:42      | of the time, I'll want to put the same variable in multiple places.                                  |
 | 28:46      | So I'll use the dictionary approach and repeat through the dictionary keys and replace my            |
 | 28:51      | dictionary keys with my variables because that means that I can have amazingly long text             |
-| 28:56      | in Drafts, which of course I can edit anywhere, anytime.                                             |
+| 28:56      | in [[Drafts]], which of course I can edit anywhere, anytime.                                             |
 | 28:59      | And then it's just available on all of my devices, which works really well.                          |
 | 29:03      | See, Rose just took up my next week.                                                                 |
 | 29:06      | Yeah.                                                                                                |
@@ -629,7 +629,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 36:59      | apps, they were able to make this possible.                                                          |
 | 37:02      | And it's been interesting that other developers have also decided that JavaScript is a default       |
 | 37:08      | language that they use.                                                                              |
-| 37:10      | And many of the apps like Rosemary said, like Drafts, use JavaScript-based as their automation       |
+| 37:10      | And many of the apps like Rosemary said, like [[Drafts]], use JavaScript-based as their automation       |
 | 37:18      | as well.                                                                                             |
 | 37:19      | And so it works well.                                                                                |
 | 37:21      | And since HTML also is integrated with JavaScript, running Omni Automation within HTML works         |
@@ -938,9 +938,9 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 59:21      | So there's plenty of those types of commands mixed in with the other ones that are very              |
 | 59:25      | specific about a certain type of procedure that you want to do as well.                              |
 | 59:31      | Okay.                                                                                                |
-| 59:32      | So one that I have been really engaged with is called copy as markdown link because anybody          |
-| 59:38      | who listens to me knows I'm a super fan of linking my OmniFocus projects in other places             |
-| 59:45      | like Kraft, Obsidian, whatever.                                                                      |
+| 59:32      | So one that I have been really engaged with is called copy as [[Markdown]] link because anybody          |
+| 59:38      | who listens to me knows I'm a super fan of linking my [[OmniFocus]] projects in other places             |
+| 59:45      | like [[Craft]], [[Obsidian]], whatever.                                                                      |
 | 59:48      | And I used to go through this process, you got to select it, you got to right click it,              |
 | 59:52      | you got to go down to copy as link.                                                                  |
 | 59:54      | Now I just say copy as markdown link and it's done.                                                  |
@@ -1336,7 +1336,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:24:21   | Of course the voice control toggle will then be available whenever.                                  |
 | 01:24:25   | And then over on the Mac, I got a script from Sal.                                                   |
 | 01:24:27   | I think I got it on your omni-automation website off the look.                                       |
-| 01:24:31   | But I, using Keyboard Maestro, I just tied it to control option command return on my                 |
+| 01:24:31   | But I, using [[Keyboard Maestro]], I just tied it to control option command return on my                 |
 | 01:24:37   | Mac.                                                                                                 |
 | 01:24:38   | So if I just hold down those three buttons next to the space bar and hit return, then                |
 | 01:24:42   | voice control turns on or turns off.                                                                 |

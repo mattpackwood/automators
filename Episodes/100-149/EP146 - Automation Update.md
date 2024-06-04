@@ -190,7 +190,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 06:24      | Now, [[Drafts]] has been doing this for a long time.                  |
 | 06:28      | But [[Drafts]] is very specifically focused on text.                  |
 | 06:30      | And I've done some amazing and weird, wonderful things            |
-| 06:33      | in Drafts, some of which I probably                               |
+| 06:33      | in [[Drafts]], some of which I probably                               |
 | 06:35      | shouldn't have been using [[Drafts]] for.                             |
 | 06:36      | But that's the problem if you give people scripts                 |
 | 06:38      | or a scripting language.                                          |
@@ -618,7 +618,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 25:35      | So that's the one where people get really excited.                |
 | 25:38      | But there's examples in there                                     |
 | 25:40      | for converting spreadsheets into markdown tables                  |
-| 25:45      | so that you can paste it into Obsidian or into OmniFocus.         |
+| 25:45      | so that you can paste it into [[Obsidian]] or into OmniFocus.         |
 | 25:50      | And that is the sort of thing where it's,                         |
 | 25:52      | it's a very niche use case.                                       |
 | 25:54      | Converting a spreadsheet to a markdown table                      |
@@ -635,13 +635,13 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 26:23      | One of them is something that grew out of our show.               |
 | 26:26      | I complained on the show, I don't know,                           |
 | 26:28      | about six months ago that, you know, the plug in,                 |
-| 26:31      | there was an Alfred plug in that allowed you to automate,         |
+| 26:31      | there was an [[Alfred]] plug in that allowed you to automate,         |
 | 26:34      | you know, getting to a specific project or folder                 |
 | 26:37      | and OmniFocus very easily and it deprecated                       |
 | 26:39      | and it just seemed like the guy stopped working on it.            |
 | 26:42      | And then mysteriously right after Auto Automator,                 |
 | 26:45      | which is the internet pseudonym of Sal,                           |
-| 26:48      | submitted to the Alfred people,                                   |
+| 26:48      | submitted to the [[Alfred]] people,                                   |
 | 26:51      | a plug in called OmniFocus Collection.                            |
 | 26:54      | So if you're using OmniFocus, you can install that.               |
 | 26:57      | I love it, I use it all the time                                  |
@@ -724,8 +724,8 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 30:25      | usually works out just fine for me.                               |
 | 30:28      | Okay, so what I do is I like to run all projects                  |
 | 30:33      | through OmniFocus and I've gone up and down on this,              |
-| 30:35      | like some of the stuff, because I use Notion                      |
-| 30:38      | and Obsidian as well, depending on what I'm doing.                |
+| 30:35      | like some of the stuff, because I use [[Notion]]                      |
+| 30:38      | and [[Obsidian]] as well, depending on what I'm doing.                |
 | 30:41      | It's complicated, but now I'm working with someone                |
 | 30:44      | to help on some of the backend stuff.                             |
 | 30:46      | I need to have a collaborative place,                             |
@@ -849,10 +849,10 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 36:13      | I've automated getting the vast majority of things                |
 | 36:16      | into my system over time in various different ways.               |
 | 36:20      | And I've experimented back and forth                              |
-| 36:23      | with using things like MailDrop and [[URL Schemes\|URL scheme]]s and so on.        |
+| 36:23      | with using things like MailDrop and [[URL Schemes]] and so on.        |
 | 36:26      | I should actually note there was a small but potentially,         |
 | 36:30      | at least for one person, breaking change                          |
-| 36:32      | in the [[URL Schemes\|URL scheme]]s in OmniFocus 4.                                |
+| 36:32      | in the [[URL Schemes]] in OmniFocus 4.                                |
 | 36:36      | And that things like opening the project's view on iOS            |
 | 36:39      | doesn't work because there is no projects tab on iOS anymore.     |
 | 36:43      | There's no specific view that's just your list of projects.       |
@@ -867,7 +867,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 37:11      | And then I can type the name of a project or tag or anything      |
 | 37:14      | and it will just find it and turn it back to me,                  |
 | 37:16      | return it to me.                                                  |
-| 37:17      | It's kind of like having a mini Alfred inside of OmniFocus,       |
+| 37:17      | It's kind of like having a mini [[Alfred]] inside of OmniFocus,       |
 | 37:21      | but it's there on iOS as well, that huge game changer             |
 | 37:25      | because that has just made my life so much easier.                |
 | 37:28      | Yeah, well, my congratulations to the Omni Group                  |

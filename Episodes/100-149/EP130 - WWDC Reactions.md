@@ -131,21 +131,21 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 06:49      | And when you go to add an action specifically, they are really aiming to bring in non-supernerd           |
 | 06:58      | users to do more with shortcuts. So when you go to add an action, it makes app suggestions that           |
 | 07:05      | are based on the app. So right now, I just open mine and I haven't got a shortcut started. I've           |
-| 07:12      | got a test one that's empty and it's giving me suggested actions in the clock, in Drafts, in              |
+| 07:12      | got a test one that's empty and it's giving me suggested actions in the clock, in [[Drafts]], in              |
 | 07:18      | notes, in voice memos. All the built-in Apple apps begin with because we're on the beta.                  |
 | 07:25      | But as I understand it, the developer API lets the developer choose specific actions that are             |
 | 07:31      | ready to roll in that actions menu now. So a user can just tap it and they've got a shortcut              |
 | 07:37      | without any work whatsoever. And I think that's going to really be a nice entry point for people          |
 | 07:42      | getting started. It really is. And these app shortcuts are being brought to users in other                |
-| 07:49      | ways as well. So if you open Spotlight, for example, and start searching for say books,                   |
-| 07:55      | then you'll see those things pop up in Spotlight as well. And they pop up as kind of like cute            |
+| 07:49      | ways as well. So if you open [[Spotlight]], for example, and start searching for say books,                   |
+| 07:55      | then you'll see those things pop up in [[Spotlight]] as well. And they pop up as kind of like cute            |
 | 08:01      | little rounded icons. So if you think of an app icon, it's colourful. So in the case of the books          |
 | 08:07      | icon, it's an orange rounded square with a white book on it. Well, the shortcut icons which appear        |
 | 08:12      | so next to it are round gray icons with a, I think it's black or exceptionally dark gray                  |
 | 08:18      | icon on top of it. And it will say like open current and play current. So you can play your               |
 | 08:21      | current audiobook or open your current book. And that's just some of the ways that they're                |
 | 08:26      | really bringing these shortcuts into everybody's front of mind. And of course, inside of shortcuts,       |
-| 08:32      | if I tap on the book section, I can disable those appearing as Spotlight or Siri. But the                 |
+| 08:32      | if I tap on the book section, I can disable those appearing as [[Spotlight]] or Siri. But the                 |
 | 08:38      | fact that they're there and the clock app and so on has got these as well. So does files for              |
 | 08:45      | scanning a document. It's really nice to see Apple not just releasing a feature, but going like,          |
 | 08:50      | hey, you should use us. And for existing non-Apple apps, it does a good job of showing not just           |
@@ -917,7 +917,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:18:18   | you know, even if it's not necessarily getting screen time, it is definitely hitting, you know,           |
 | 01:18:23   | the points that make Shortcuts users really happy. How do you feel?                                       |
 | 01:18:28   | Same. I feel like it's continuing to get better. I'm using it. I was just noticing the other day          |
-| 01:18:34   | how many Shortcuts I have moved out of Keyboard Maestro, you know, actions that normally I would          |
+| 01:18:34   | how many Shortcuts I have moved out of [[Keyboard Maestro]], you know, actions that normally I would          |
 | 01:18:39   | automate with more powerful tools and now I'm doing them Shortcuts on my Mac. And I didn't think it       |
 | 01:18:45   | was going to land on the Mac that hard for me that it has. And I just feel like the big story             |
 | 01:18:51   | today, we talked about it during the show, but, you know, it's faster. It's more stable. It's             |

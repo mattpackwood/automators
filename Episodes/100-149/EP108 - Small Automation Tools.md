@@ -106,7 +106,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:20      | we're going to be talking about small automation tools.             |
 | 01:23      | I mean, quite often on the show,                                    |
 | 01:25      | we get down the rabbit hole of [[AppleScript]]                          |
-| 01:27      | or Keyboard Maestro or one of the big players                       |
+| 01:27      | or [[Keyboard Maestro]] or one of the big players                       |
 | 01:31      | in automation space that we like to cover,                          |
 | 01:34      | but also, Rose and I use a lot of little tools for automation.      |
 | 01:38      | None of them really get their own show,                             |
@@ -786,7 +786,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 29:43      | was mapping moving messages to different mailboxes via Better       |
 | 29:51      | Touch Tools chain commands where you could have, you can chain      |
 | 29:54      | different commands together in [[BetterTouchTool]].                   |
-| 29:57      | I mean, it's like a little mini version of Keyboard Maestro in      |
+| 29:57      | I mean, it's like a little mini version of [[Keyboard Maestro]] in      |
 | 30:00      | that sense.                                                         |
 | 30:01      | Some other stuff I've done with [[BetterTouchTool]].                  |
 | 30:04      | Man, there's just so much over the years.                           |
@@ -852,7 +852,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 33:05      | Command Shift D, it will open the documentation for the word        |
 | 33:09      | or command that I have selected.                                    |
 | 33:11      | But the database tools that I use don't have this plugin option.    |
-| 33:15      | And so I just set it up in Better Touch tool that when I hit        |
+| 33:15      | And so I just set it up in [[BetterTouchTool]] that when I hit        |
 | 33:19      | that keyboard shortcut in those applications, that it also          |
 | 33:23      | opens Dash with, you know, what I've got selected.                  |
 | 33:25      | And that works really well for me.                                  |
@@ -871,21 +871,21 @@ In this episode, Rose and David explain some of their favourite small automation
 | 33:52      | So I created a shortcut in keyboard in my show.                     |
 | 33:56      | If I hit Shift Enter when I'm in Apple Mail, then hit the           |
 | 33:59      | keyboard combination, Command Shift D.                              |
-| 34:02      | I could have just as easily as done that in Better Touch tool       |
-| 34:05      | because Better Touch tool fully supports those keyboard shortcuts   |
+| 34:02      | I could have just as easily as done that in [[BetterTouchTool]]       |
+| 34:05      | because [[BetterTouchTool]] fully supports those keyboard shortcuts   |
 | 34:08      | to do something like that.                                          |
-| 34:10      | Some other stuff with Better Touch tool that I think is really      |
+| 34:10      | Some other stuff with [[BetterTouchTool]] that I think is really      |
 | 34:13      | handy contextual menus like, you know, mouse contextual menus.      |
-| 34:19      | You can automate those with Better Touch tool that I'm not          |
+| 34:19      | You can automate those with [[BetterTouchTool]] that I'm not          |
 | 34:22      | aware of any other way to do that.                                  |
 | 34:24      | I mean, I've, I mean, I've tried it with AppleScript and           |
 | 34:28      | keyboard my show and I never get it to reliably work, whereas       |
-| 34:31      | I get it to reliably work with Better Touch tool.                   |
+| 34:31      | I get it to reliably work with [[BetterTouchTool]].                   |
 | 34:34      | And another one that, you know, it seems to me like a big           |
 | 34:38      | miss for Apple.                                                     |
 | 34:39      | They don't really have a built-in keyboard shortcut to move         |
 | 34:42      | an app to a different space.                                        |
-| 34:45      | And Better Touch tool has that as available action.                 |
+| 34:45      | And [[BetterTouchTool]] has that as available action.                 |
 | 34:48      | So for me, if I hit, was it Control Command, right arrow?           |
 | 34:52      | It moves the existing app to the next space over.                   |
 | 34:55      | And if you use spaces, the ability to move apps between             |
@@ -904,12 +904,12 @@ In this episode, Rose and David explain some of their favourite small automation
 | 35:26      | somewhere else.                                                     |
 | 35:28      | But the problem with that is that the spaces stuff doesn't          |
 | 35:32      | have API, which is how, you know, app developers would talk         |
-| 35:36      | to it, which is why Keyboard Maestro and so many other apps         |
+| 35:36      | to it, which is why [[Keyboard Maestro]] and so many other apps         |
 | 35:40      | don't have support for spaces because there just isn't a way        |
 | 35:44      | to interact with them.                                              |
 | 35:45      | You know, a bunch can't open an app and put it in a specific        |
 | 35:48      | space because there isn't an API for that.                          |
-| 35:50      | And I'm not quite sure how the BetterTouchTool developer has      |
+| 35:50      | And I'm not quite sure how the [[BetterTouchTool]] developer has      |
 | 35:53      | as much to do this, like, you know, obviously, you know,            |
 | 35:56      | they're very smart people.                                          |
 | 35:58      | So I figure they've worked out a way around it.                     |
@@ -1052,7 +1052,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 42:25      | added recently, which is being able to just select text on a        |
 | 42:29      | website and then like, so on the pilot moon forms, pilot            |
 | 42:34      | moon being to create the PopClip and then that is, especially       |
-| 42:37      | formatted text, it's formatted in YAML.                             |
+| 42:37      | formatted text, it's formatted in [[YAML]].                             |
 | 42:40      | So it's got, you know, like a special like name colon and           |
 | 42:44      | then whatever it is, the name of the PopClip action, but you        |
 | 42:47      | can select it and just add it.                                      |
@@ -1088,7 +1088,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 44:17      | It's great.                                                         |
 | 44:18      | Yeah, and I like a good example is title case.                      |
 | 44:21      | You know, I spent so many years writing interesting title           |
-| 44:24      | case scripts, whether it being Keyboard Maestro apple               |
+| 44:24      | case scripts, whether it being [[Keyboard Maestro]] apple               |
 | 44:27      | script or whatever.                                                 |
 | 44:29      | The PopClip has a thing where you just select the text and          |
 | 44:32      | it gives you an option.                                             |
@@ -1499,7 +1499,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:02:28   | Honestly, I found it originally because it allows you               |
 | 01:02:30   | to control home kit things by [[URL Schemes\|URL scheme]],                           |
 | 01:02:33   | which means that you can then put that into any other               |
-| 01:02:37   | automation setup that you're using be that Alfred workflows,        |
+| 01:02:37   | automation setup that you're using be that [[Alfred]] workflows,        |
 | 01:02:40   | keyboard, maestro, macros, bunch files.                             |
 | 01:02:44   | Yeah, you name it, you can put it in there.                         |
 | 01:02:48   | And it works great because you just use the open URL                |
@@ -2028,26 +2028,26 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:26:21   | So two thumbs up for Forklift.                                      |
 | 01:26:23   | Definitely, definitely.                                             |
 | 01:26:25   | And I feel like we can't let Finder go                              |
-| 01:26:27   | without mentioning Alfred.                                          |
+| 01:26:27   | without mentioning [[Alfred]].                                          |
 | 01:26:29   | You know, we've got to give it a hat tip at least.                  |
 | 01:26:31   | Yeah, but let's just do that because it's a big app.                |
 | 01:26:33   | You know, we're talking about small ones,                           |
-| 01:26:35   | but yeah, Alfred is a good one.                                     |
+| 01:26:35   | but yeah, [[Alfred]] is a good one.                                     |
 | 01:26:39   | There's a lot of these good, you know,                              |
 | 01:26:41   | I don't, I'm going to stumble into another hour                     |
 | 01:26:44   | and a half of content here for my careful.                          |
-| 01:26:46   | But yeah, there are competitors, Alfred,                            |
+| 01:26:46   | But yeah, there are competitors, [[Alfred]],                            |
 | 01:26:48   | that are equally good.                                              |
-| 01:26:49   | But man, Alfred, with this latest update,                           |
+| 01:26:49   | But man, [[Alfred]], with this latest update,                           |
 | 01:26:51   | is really, really hitting on all cylinders.                         |
 | 01:26:54   | Oh, yeah.                                                           |
 | 01:26:55   | Yeah.                                                               |
-| 01:26:56   | And if you're not sure what I'm talking about with Finder, Alfred,  |
+| 01:26:56   | And if you're not sure what I'm talking about with Finder, [[Alfred]],  |
 | 01:26:59   | huh, then all I can say really is,                                  |
-| 01:27:03   | oh, go to the Alfred website and then look at some of the things    |
+| 01:27:03   | oh, go to the [[Alfred]] website and then look at some of the things    |
 | 01:27:06   | that you can do when you found a file.                              |
 | 01:27:08   | Okay.                                                               |
-| 01:27:09   | So find a file with Alfred.                                         |
+| 01:27:09   | So find a file with [[Alfred]].                                         |
 | 01:27:11   | So look for something that maybe you downloaded recently            |
 | 01:27:13   | or something and then look at the options.                          |
 | 01:27:16   | Okay.                                                               |
@@ -2057,7 +2057,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:27:26   | because it takes you to everything else.                            |
 | 01:27:27   | But then you've got open with reveal and Finder,                    |
 | 01:27:30   | get info, copy to move to delete copy with replace to move          |
-| 01:27:34   | with replace to browse this folder and Alfred open my terminal      |
+| 01:27:34   | with replace to browse this folder and [[Alfred]] open my terminal      |
 | 01:27:38   | here, copy the path of this file to the clipboard,                  |
 | 01:27:41   | copy this file to the clipboard, add it to a buffer so you can      |
 | 01:27:45   | have like a stack of things and paste as plain text,                |
