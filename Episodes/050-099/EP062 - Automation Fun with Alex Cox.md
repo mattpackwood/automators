@@ -366,7 +366,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 31:38      | I'll, maybe I'll do a post on it or something, but the, it's not, it's not that hard to use it,         |
 | 31:45      | but it is a much better platform to get quick text and then send it there. But I want to wind           |
 | 31:51      | back a little bit. So the first one that you talked about was, it sounded like a text modification      |
-| 31:57      | script. You've got text and you're changing it. What, how is it, you know, because we're automakers,    |
+| 31:57      | script. You've got text and you're changing it. What, how is it, you know, because we're Automators,    |
 | 32:02      | we've got to know what, how are you doing that? What's the action doing? It finds all the stars         |
 | 32:09      | and brackets. It is essentially a find and replace. And, you know, how the, the one like                |
 | 32:18      | forever bug in markdown, where if you do a Wikipedia link, where anything is parenthesised,             |
@@ -438,7 +438,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 39:29      | now have universal meeting notes that look the same in Google Docs every time. And I'm like,            |
 | 39:34      | oh, my gosh. Yeah, it's been amazing. I also have, you know, really simple, like single action          |
 | 39:42      | action items, like searching for, or I have a group of just different search engines,                   |
-| 39:50      | a Wolfram Alpha, DuckDuckGo, Google and a whole bunch of stuff that I actually should ask you if        |
+| 39:50      | a Wolfram Alpha, [[DuckDuckGo]], Google and a whole bunch of stuff that I actually should ask you if        |
 | 39:59      | there's an action to, I think there's a shortcut to turn on your VPN. But what I would love is if       |
 | 40:06      | there was an action to turn on a VPN before I go into Google or some other search engine that I         |
 | 40:13      | don't know is secure, but I need to use, that's one of the things I love. Something that I don't        |
@@ -500,7 +500,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 46:18      | now have two terabytes of iCloud storage space as well as two terabytes of [[Dropbox]] space. So I          |
 | 46:24      | may need to rethink that plan. That said, I don't think [[Dropbox]] do a smaller tier. So, you know,        |
 | 46:29      | I'll see what happens there. But, you know, I pretty much just put things in [[Dropbox]] because            |
-| 46:34      | it's easier. And also [[Dropbox]] is available to Zapier and Integromat. And honestly, iCloud Drive         |
+| 46:34      | it's easier. And also [[Dropbox]] is available to Zapier and [[Make\|Integromat]]. And honestly, iCloud Drive         |
 | 46:41      | is great, but it's not available to either of those services. So that means I can't automatically       |
 | 46:45      | have stuff saved into it from online services, which are doing things like creating documents for me    |
 | 46:50      | or folders for stuff and things like that. So I pretty much just decided that I'm in on [[Dropbox]].        |
@@ -596,18 +596,18 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 57:10      | we're talking, and I'm there going, huh, oh, yeah, yeah, we're talking. Like, this is why David         |
 | 57:14      | sounds like David. Is he ever going to finish the sentence? That's what you think. I do want to give    |
 | 57:23      | two shout outs to my current favourite shortcut or apps that work in tandem with shortcuts,              |
-| 57:33      | which is Charty and Data Jar. Because, I mean, what Charty does in terms of taking                     |
+| 57:33      | which is Charty and [[Data Jar]]. Because, I mean, what Charty does in terms of taking                     |
 | 57:41      | your data and sort of helping you make sense of it, like I was noting before with the COVID             |
 | 57:47      | tracking shortcut, as well as a shortcut called Omni Focus Day that our friend Scotty Jackson made,       |
 | 57:56      | is just, I don't know, [[Drafts]] and, or I'm sorry, data just comforts me for some reason. And I think     |
-| 58:05      | a lot of nerds have that as well. And I really like Data Jar as sort of kind of similar to [[Drafts]],       |
+| 58:05      | a lot of nerds have that as well. And I really like [[Data Jar]] as sort of kind of similar to [[Drafts]],       |
 | 58:16      | a repository of information that shortcuts can just pull from. Like when I am recently,                 |
 | 58:23      | I've actually been tracking the amount of caffeine I've been having. And for a bunch of boring reasons, |
-| 58:31      | I keep that outside of WaterMinder. And in Data Jar, I'm just able to keep the                           |
+| 58:31      | I keep that outside of WaterMinder. And in [[Data Jar]], I'm just able to keep the                           |
 | 58:38      | certain amounts of caffeine I have. And then shortcuts gives me an option of like,                      |
-| 58:44      | which caffeine amount did you consume? And then it creates a little chart from that out of Data Jar      |
+| 58:44      | which caffeine amount did you consume? And then it creates a little chart from that out of [[Data Jar]]      |
 | 58:52      | is in information. Like it's wild. Also, I did not build that one either. But I'm starting to really    |
-| 59:02      | wrap my head around the things that I can do with Data Jar to, for myself. For example, I'm              |
+| 59:02      | wrap my head around the things that I can do with [[Data Jar]] to, for myself. For example, I'm              |
 | 59:11      | creating a shortcut that tells me what I'm going to wear every day, because I have a very limited,      |
 | 59:19      | but by choice, very limited wardrobe. And I kind of like to trick people into thinking that I           |
 | 59:26      | dress like a normal person. So it'll be like, yes, a t-shirt you wear every day, pair it with           |
@@ -636,7 +636,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:01:47   | wants. And I'm like, yeah, that is what I want. So how does it work, though, the shortcut? Is it        |
 | 01:01:53   | running in a random number generator against a list or what is it doing?                                |
 | 01:01:59   | Yes. And this one is, I added, it pulled, my pants are just pulled from a random list that I put        |
-| 01:02:09   | in a text field in shortcuts. But I'm trying to make it so that I have, it pulls from Data Jar          |
+| 01:02:09   | in a text field in shortcuts. But I'm trying to make it so that I have, it pulls from [[Data Jar]]          |
 | 01:02:16   | so that I can have a store of, is that what it's called? Yes, yes, for, I mean, get it all the          |
 | 01:02:28   | way down to underwear, like, all right. And also, I want a way to automate laundry, which I know        |
 | 01:02:36   | Rose has been doing some Pushcut stuff with that, so that I can push a, you know, when I say          |
@@ -810,7 +810,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:19:37   | because until this year, I think this this year, I got an iMac pro for work, and it's been              |
 | 01:19:46   | amazing. But I literally haven't used a desktop as my main computer since my first iMac when I was      |
 | 01:19:53   | 11. So I mean, there's so much to do with [[BetterTouchTool]]. And with keyword, maestro, I forget        |
-| 01:20:04   | who started the Stream Deck trend. But wow, the Stream Deck is so cool. And I still don't really        |
+| 01:20:04   | who started the [[Stream Deck]] trend. But wow, the [[Stream Deck]] is so cool. And I still don't really        |
 | 01:20:13   | know what to do with it. But I know I want to do a lot of things with it. But I'm also cautious         |
 | 01:20:19   | about going down these rabbit holes, because, you know, I don't know when this is coming out,           |
 | 01:20:24   | but the Apple Silicon event is or well, there's some Apple event next week. And I have a feeling        |

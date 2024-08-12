@@ -497,9 +497,9 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 23:23      | Who did you name in?                                                                                     |
 | 23:25      | Finally.                                                                                                 |
 | 23:26      | Yeah.                                                                                                    |
-| 23:27      | Because this finally means that all of those Airtable shortcuts, I no longer have to make                |
+| 23:27      | Because this finally means that all of those [[Airtable]] shortcuts, I no longer have to make                |
 | 23:32      | sure that I am putting all of the right info in every time.                                              |
-| 23:36      | I can just copy it and copy and get contents of URL with the Airtable info and then paste                |
+| 23:36      | I can just copy it and copy and get contents of URL with the [[Airtable]] info and then paste                |
 | 23:43      | or duplicate it or do whatever because if you tap on the, you need to tap on the tiny                    |
 | 23:48      | little app icon representation of the action in the top left and then there's a duplicate,               |
 | 23:54      | there's copy.                                                                                            |
@@ -592,7 +592,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 28:50      | shame because I would love it to come and go into my OmniFocus and get a list of things                  |
 | 28:55      | that I wanted to talk to you about and just pop it up as a little, you know, show result                 |
 | 28:59      | for me and say, Hey, you wanted to talk to David about these things because I know you                   |
-| 29:03      | can do that in reminders where you can assign a specific, you know, like reminder to remind              |
+| 29:03      | can do that in [[Apple Reminders\|Reminders]] where you can assign a specific, you know, like reminder to remind              |
 | 29:07      | me when messaging this person, but it's not the same.                                                    |
 | 29:11      | I want, I want all my stuff in one place.                                                                |
 | 29:13      | Yeah.                                                                                                    |
@@ -1191,7 +1191,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 01:03:09   | I would hazard a guess that I probably only use a hundred of them, but I have no idea                    |
 | 01:03:14   | which 100 they are.                                                                                      |
 | 01:03:18   | At the moment, I'm just sort of sitting around waiting, trying to figure all this out.                   |
-| 01:03:23   | I've tried some things using Data Jar and other things to lock this info, but I'm then having             |
+| 01:03:23   | I've tried some things using [[Data Jar]] and other things to lock this info, but I'm then having             |
 | 01:03:30   | to build it into every single shortcut, and yeah, I'm not particularly happy with that.                  |
 | 01:03:36   | I want the dust to settle this year, I understand that app developers can put more power into            |
 | 01:03:41   | the shortcut.                                                                                            |
@@ -1214,7 +1214,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 01:04:45   | Yeah, me too, definitely.                                                                                |
 | 01:04:47   | I'm genuinely really impressed at everything the shortcuts developers have put out, both                 |
 | 01:04:52   | back when it was workflow and then after they moved to Apple and all of this stuff.                      |
-| 01:04:57   | Last year, they barely got any screen time in WWDC, there were just a few sort of foot                   |
+| 01:04:57   | Last year, they barely got any screen time in [[WWDC]], there were just a few sort of foot                   |
 | 01:05:03   | notes almost, and we got automations.                                                                    |
 | 01:05:06   | That's incredible, and this year we've got even more powerful automations because they're                |
 | 01:05:11   | automatic automations, as you call them, David, so I'm really pleased to see all of that stuff.          |

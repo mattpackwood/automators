@@ -242,7 +242,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 12:09      | And we just kept pushing it and pushing it and pushing it, but we were taking it around              |
 | 12:14      | to different executives in the company trying to get buy-in and all of them were amazed              |
 | 12:21      | by it, but nobody wanted to take ownership.                                                          |
-| 12:25      | And it wasn't until like a Friday afternoon before WWDC when I parked on the floor outside           |
+| 12:25      | And it wasn't until like a Friday afternoon before [[WWDC]] when I parked on the floor outside           |
 | 12:35      | in the hallway outside of the demo room over in building three where Steve was reviewing             |
 | 12:40      | stuff, and I wouldn't move until they let me in to see Steve and it was like five o'clock            |
 | 12:46      | at the end of the day and SJ said something like, is that all there is?                              |
@@ -852,7 +852,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 52:48      | interface that is part of all of Apple devices with Omni Automation.                                 |
 | 52:55      | Okay and so let me interrupt there for a second.                                                     |
 | 52:57      | So a fundamental piece of this is Apple's voice control engine, which they announced                 |
-| 53:02      | I believe two years ago at WWDC.                                                                     |
+| 53:02      | I believe two years ago at [[WWDC]].                                                                     |
 | 53:05      | It started as an accessibility feature, but it's really way more than that.                          |
 | 53:10      | It's Apple's version of Dragon dictate where not only can you dictate text, but you can              |
 | 53:17      | also control the operation of your Mac.                                                              |
@@ -1214,7 +1214,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:16:13   | It's probably one of the few things in life that will respond to what you say.                       |
 | 01:16:18   | Yeah, exactly.                                                                                       |
 | 01:16:20   | Definitely not my dog, but my back will.                                                             |
-| 01:16:24   | I mean, as long as she's not chewing your Stream Deck cable, David, I think we're fine,              |
+| 01:16:24   | I mean, as long as she's not chewing your [[Stream Deck]] cable, David, I think we're fine,              |
 | 01:16:27   | though.                                                                                              |
 | 01:16:28   | I should work on a voice command for that.                                                           |
 | 01:16:29   | I mean, that said, robot vacuums could definitely chew on cables if they want to.                    |

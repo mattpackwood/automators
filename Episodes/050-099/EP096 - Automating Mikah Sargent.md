@@ -188,9 +188,9 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 08:05      | Yeah, I remember I was in high school one day and me and my buddies went surfing in                     |
 | 08:07      | the morning and snowboarding in the afternoon.                                                          |
 | 08:10      | See, it's wild, it's so wild.                                                                           |
-| 08:13      | Yeah, I was not prepared for it when I came because I visited, I went to WWDC first on                  |
+| 08:13      | Yeah, I was not prepared for it when I came because I visited, I went to [[WWDC]] first on                  |
 | 08:19      | my own for like a week, and obviously that was one experience.                                          |
-| 08:23      | And then the next time I visited David in Orange County and then went out to WWDC, and                  |
+| 08:23      | And then the next time I visited David in Orange County and then went out to [[WWDC]], and                  |
 | 08:30      | that was a different experience, especially Disney.                                                     |
 | 08:32      | And then I went to San Francisco, and it is like pretty much visiting three different                   |
 | 08:35      | countries.                                                                                              |
@@ -773,7 +773,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 46:54      | on because you're not using the computer at that time. So I have a simple macro in [[Keyboard Maestro]]     |
 | 47:00      | that's called Turn Off Displays, and it just runs the shell script pmset display sleep now,                |
 | 47:07      | which will turn off all the displays but not make everything go to sleep. I should also mention that    |
-| 47:14      | I trigger all of these using the Stream Deck from Elgato. It is my little button presser,               |
+| 47:14      | I trigger all of these using the [[Stream Deck]] from Elgato. It is my little button presser,               |
 | 47:21      | which I'm sure you've talked plenty about, so people probably know about it on the show, but            |
 | 47:25      | I've got a button for Turn Off Display. I've got a button for Type Clipboard,                           |
 | 47:29      | and then the ones that I use regularly are actually one was I made with the help of my friend Dan       |
@@ -816,7 +816,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 51:35      | titles, perhaps, that might have been it. Yeah. I can't remember what that one was for sure,            |
 | 51:40      | but then later on, and we tried a few things and we ended up getting to it in the end,                  |
 | 51:46      | and so in honour of Rosemary, that macro is still called Open Tabs to Unordered List                     |
-| 51:52      | Rosemary Edition. On my Stream Deck, the button has RO for Rosemary Orchard. I just                     |
+| 51:52      | Rosemary Edition. On my [[Stream Deck]], the button has RO for Rosemary Orchard. I just                     |
 | 52:01      | tapped that, and that goes ahead and copies the titles as I need to from the tabs.                      |
 | 52:06      | The other one that Rosemary helped me with is one that I use now for that show and also for             |
 | 52:12      | the tech guy, which I produce on Saturdays when I'm not hosting. For the tech guy, as I mentioned,      |
@@ -886,7 +886,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 58:35      | monitoring products that you'd normally buy separately so engineering teams can see across              |
 | 58:39      | their entire software stack in one place. More importantly, you can pinpoint issues down to             |
 | 58:45      | line of code so you know exactly why the problem happened and can resolve it quickly.                   |
-| 58:49      | That's why the dev and op teams at DoorDash, GitHub, Epic Games and more than 14,000 other              |
+| 58:49      | That's why the Dev and Ops teams at DoorDash, GitHub, Epic Games and more than 14,000 other              |
 | 58:55      | companies use New Relic to debug and improve their software. Whether you run a cloud native             |
 | 59:00      | startup or a Fortune 500 company, it takes just five minutes to set up New Relic in your environment.   |
 | 59:05      | That next 9pm call is just waiting to happen. Get New Relic before it does. You can get access to       |
@@ -1103,15 +1103,15 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:19:59   | Zapier ends up having a lot of between action adjustments that you can make that IFTTT I found          |
 | 01:20:09   | has been lacking in the past, but IFTTT has added a lot more robustness over time that puts it,         |
 | 01:20:17   | I think, on the same level or close to the same level of Zapier. Do either of you use both of           |
-| 01:20:25   | those or either of those? I use both of them. And I also use another service called Integromat,         |
+| 01:20:25   | those or either of those? I use both of them. And I also use another service called [[Make\|Integromat]],         |
 | 01:20:31   | which is more like Zapier from the power perspective, but it's visual to interact with.                 |
 | 01:20:38   | So you actually have nodes and you get branching as well at the base tier, which is really nice,        |
 | 01:20:43   | because the base tier is only $7 a month, which if you're looking to expand from                        |
-| 01:20:49   | what if this and that can do, then $7 a month to Integromat is a lot more affordable than the $20       |
+| 01:20:49   | what if this and that can do, then $7 a month to [[Make\|Integromat]] is a lot more affordable than the $20       |
 | 01:20:55   | a month for Zapier. Zapier really is a business tool. But I use all of them. And I find they            |
 | 01:21:02   | work really well, but I do tend to stick with automate these things on the web. The closest             |
 | 01:21:08   | I'll come to interacting with my machine is putting something in a [[Dropbox]] folder,                      |
-| 01:21:12   | which then either [[Hazel]] or Keyboard My Store or Devon Think is watching,                                |
+| 01:21:12   | which then either [[Hazel]] or Keyboard My Store or [[DEVONthink]] is watching,                                |
 | 01:21:16   | and then those pick that up on the other end and then do whatever it is when my device is online        |
 | 01:21:22   | and available to do it. But I don't tend to really do direct interaction from my computer               |
 | 01:21:28   | out to those automations or vice versa, though I could. There's nothing stopping me, but it does        |

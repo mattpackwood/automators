@@ -242,7 +242,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 12:23      | It just executes right into the heart of the machine.                                                 |
 | 12:26      | Well, I mean, that's one of the reasons why I'm in the bag for OmniFocus.                             |
 | 12:31      | When I made my big career change, I thought, well, maybe I don't need something as powerful           |
-| 12:35      | as OmniFocus, and I tried some other apps, I tried to use Reminders, and it's just not                |
+| 12:35      | as OmniFocus, and I tried some other apps, I tried to use [[Apple Reminders\|Reminders]], and it's just not                |
 | 12:40      | this toy set that you've built.                                                                       |
 | 12:44      | How could you walk away from that?                                                                    |
 | 12:46      | I mean, I can make my task manager dance for me and it gets out of my way.                            |
@@ -854,7 +854,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 54:54      | You know, when I first started working at Apple, I literally lived across the street                  |
 | 55:00      | from Apple.                                                                                           |
 | 55:01      | And I would basically go into work and every night they had a library over in Building 4.             |
-| 55:09      | They had all of these videos of every WWDC session.                                                   |
+| 55:09      | They had all of these videos of every [[WWDC]] session.                                                   |
 | 55:16      | And they also had the Knowledge Navigator video, the famous Knowledge Navigator video.                |
 | 55:22      | And I would go in there around midnight when nobody else was around.                                  |
 | 55:25      | And I would start by watching the Knowledge Navigator video.                                          |

@@ -176,7 +176,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 06:00      | Do you have a couple of examples maybe?                                                              |
 | 06:04      | Most frequently, I don't use it as much right now because I'm on spring or summer break,             |
 | 06:08      | but I have a shortcut that pulls my school's assignments thing.                                      |
-| 06:14      | So where they store all of our assignments and I can pull it into just reminders on                  |
+| 06:14      | So where they store all of our assignments and I can pull it into just [[Apple Reminders\|Reminders]] on                  |
 | 06:17      | my phone.                                                                                            |
 | 06:18      | Yeah.                                                                                                |
 | 06:19      | So that was really useful, especially for virtual learning where I couldn't keep track               |
@@ -660,7 +660,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 32:30      | They've been really supportive of Jellycuts the whole time from the few of them I've talked         |
 | 32:35      | to.                                                                                                  |
 | 32:36      | Yeah.                                                                                                |
-| 32:37      | And during like the WWDC labs and stuff, they were really cool about everything.                     |
+| 32:37      | And during like the [[WWDC]] labs and stuff, they were really cool about everything.                     |
 | 32:41      | I guess some of them are using it, honestly, because I mean, they're making a lot of shortcuts,      |
 | 32:46      | you know.                                                                                            |
 | 32:47      | All right, Zach, you know, people have gone, you know, up into the episode now and assuming          |

@@ -868,7 +868,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 43:55      | wallpaper on my iPhone.                                                                                  |
 | 43:57      | So if it lit up, then I'd see automators behind the notifications.                                       |
 | 44:00      | But because I'm setting my wallpaper, what I'm considering doing, I have not yet done,                   |
-| 44:07      | what I'm considering doing is writing into Data Jar, the date that my wallpaper was last                 |
+| 44:07      | what I'm considering doing is writing into [[Data Jar]], the date that my wallpaper was last                 |
 | 44:13      | changed by a very specific change wallpaper due to a theme day.                                          |
 | 44:19      | And then if it, if it's changed at that day, then it won't do the context, contextual wallpaper.         |
 | 44:24      | And if it, if it has, and if it hasn't, then it will do contextual wallpaper type thing.                 |
@@ -1351,7 +1351,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:10:21   | of removing intermediate steps in my computing.                                                          |
 | 01:10:26   | And there's a lot of reasons why this is now possible, uh, one of which is, you know, the                |
 | 01:10:31   | abundance of URL linking and deep linking that involve that that's in all apps anymore,                  |
-| 01:10:36   | um, where you can like jump to a Dev and think document and then over to a draft, a draft                |
+| 01:10:36   | um, where you can like jump to a [[DEVONthink]] document and then over to a draft, a draft                |
 | 01:10:42   | draft, and you can have all that stuff connected and talking to each other with these URL links.         |
 | 01:10:49   | And, uh, so you create shortcuts or [[Keyboard Maestro]] scripts or however you want to do,                  |
 | 01:10:54   | I'm using conflict palettes is my main kind of way of doing this.                                        |
@@ -1379,7 +1379,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:12:17   | And that's something I would recommend you try heading into the new year.                                |
 | 01:12:20   | Yes.                                                                                                     |
 | 01:12:21   | Yeah.                                                                                                    |
-| 01:12:22   | I've been experimenting a lot with Stream Deck myself to really, you know, make full                     |
+| 01:12:22   | I've been experimenting a lot with [[Stream Deck]] myself to really, you know, make full                     |
 | 01:12:25   | use of it.                                                                                               |
 | 01:12:26   | So I have an automators button.                                                                          |
 | 01:12:27   | I have a nested folders button, got a screencast online button, even got a button David from             |
@@ -1640,9 +1640,9 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:26:08   | I have to reach out to the developer, maybe he's working on a Mac app, or there's some                   |
 | 01:26:12   | reason why it won't work on the Mac, but there isn't a good solution on the Mac.                         |
 | 01:26:17   | I know you've worked on some automation solutions so have I.                                             |
-| 01:26:21   | I'm also bugging the, if you go into the GitHub for the Stream Deck toggle support, I've been            |
+| 01:26:21   | I'm also bugging the, if you go into the GitHub for the [[Stream Deck]] toggle support, I've been            |
 | 01:26:30   | active in there bugging the developer.                                                                   |
-| 01:26:32   | I know they're testing a method now, where you can add tags to a Stream Deck toggle.                     |
+| 01:26:32   | I know they're testing a method now, where you can add tags to a [[Stream Deck]] toggle.                     |
 | 01:26:37   | Oh, good.                                                                                                |
 | 01:26:38   | Yeah.                                                                                                    |
 | 01:26:39   | Yeah.                                                                                                    |

@@ -119,7 +119,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 04:51      | the first round of the beta, it was only the Apple apps, and then they said, no, no, no, wait,                                   |
 | 04:55      | let's just do everything. But you do have that pop up at the top every time that says shortcuts is                               |
 | 05:01      | or whatever it says. I've kind of tuned out now.                                                                                 |
-| 05:04      | Just a little checkmark. Yeah. Yeah, I have it open [[Safari]] to a new DuckDuckGo page every time,                                 |
+| 05:04      | Just a little checkmark. Yeah. Yeah, I have it open [[Safari]] to a new [[DuckDuckGo]] page every time,                                 |
 | 05:10      | actually, so that I don't end up going down rabbit holes, which is a neat little trick that I thought                            |
 | 05:15      | of a while ago, and it makes my life a lot easier. But I'm curious, Matthew, what does your                                      |
 | 05:19      | home screen look like now in terms of number of shortcuts versus number of widgets, which kick                                   |
@@ -578,7 +578,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 49:28      | not a good chunk of them are unless because Twitter doesn't make it easy to manage but                                           |
 | 49:32      | that's how I follow different contexts and it's very kind of like I didn't even think about that                                 |
 | 49:37      | until now that it's I'm doing that same thing there um a couple others are just like I built these                               |
-| 49:43      | for live tweeting like during WWDC it can just automatically append a hashtag to the end of                                      |
+| 49:43      | for live tweeting like during [[WWDC]] it can just automatically append a hashtag to the end of                                      |
 | 49:48      | every tweet before I send it out so that I just don't have to remember how to do that and people                                 |
 | 49:53      | can mute me if they want um different ways to I've also done a series of ways to search and then add um                          |
 | 50:02      | are they called parameters I don't remember with the search like advanced search terms in Twitter                                |
@@ -596,7 +596,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 51:10      | dictionary where I found one of the things that always happens with tweets is when you share them                                |
 | 51:16      | somewhere it will just say um the metadata is just like tweet and it doesn't have the body of what                               |
 | 51:23      | they said and so if you put it into [[Instapaper]] it's almost useless because there's just a URL                                    |
-| 51:28      | and doesn't show anything if you put it into reminders I feel like it'll often it'll put it                                      |
+| 51:28      | and doesn't show anything if you put it into [[Apple Reminders\|Reminders]] I feel like it'll often it'll put it                                      |
 | 51:33      | in that little card but I still want to have I'm I mean you I don't need to like preach to you all                               |
 | 51:39      | that you want to extract the tweet text and then the URL of the person so I have one that                                        |
 | 51:43      | that uses I think it's publish.twitter.com has an endpoint where you can send your tweet and then                                |
@@ -801,19 +801,19 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:12:16   | a couple of times a day to update all of the shortcuts that are or the widgets that I have                                       |
 | 01:12:20   | created through widget pack which is one of the ways that I do contextual things because the widget                              |
 | 01:12:25   | pack widgets show me different things based on the time of day as well as you know what content                                  |
-| 01:12:29   | needs to be in there this episode of automators is brought to you by dev and think the flagship                                  |
-| 01:12:35   | product from dev and technologies dev and think is the most professional document and information                                |
+| 01:12:29   | needs to be in there this episode of automators is brought to you by DEVONthink the flagship                                  |
+| 01:12:35   | product from DEVONtechnologies DEVONthink is the most professional document and information                                |
 | 01:12:40   | management application for the Mac it's the one place for storing all your documents snippets                                    |
 | 01:12:45   | all bookmarks and working with them the integrated AI assist you with finding and searching while the                            |
 | 01:12:50   | extensive search language with advanced billion operators means that you have no chance of losing                                |
-| 01:12:55   | anything dev and think features a flexible sync system that supports many cloud services including                               |
+| 01:12:55   | anything DEVONthink features a flexible sync system that supports many cloud services including                               |
 | 01:13:01   | [[Dropbox]] and iCloud or it lets you synchronise over your local network too if that's what you prefer                              |
 | 01:13:07   | and of course everything is securely encrypted this gives you the choice for syncing whichever way                               |
 | 01:13:12   | works best for you it's got smart rules and flexible reminders to let you automate all                                           |
-| 01:13:18   | parts of your workflow and delete boring repeating tasks letting dev and think automatically                                     |
-| 01:13:23   | organise your data with the rules that you define dev and thinks apple script dictionary is one of                               |
-| 01:13:28   | the largest on the Mac there's no part of dev and think that can't be automated and you can                                      |
-| 01:13:33   | accept and dev and thinks functionality with your own commands by adding them to its scripts menu                                |
+| 01:13:18   | parts of your workflow and delete boring repeating tasks letting DEVONthink automatically                                     |
+| 01:13:23   | organise your data with the rules that you define DEVONthink's AppleScript dictionary is one of                               |
+| 01:13:28   | the largest on the Mac there's no part of DEVONthink that can't be automated and you can                                      |
+| 01:13:33   | accept and DEVONthink's functionality with your own commands by adding them to its scripts menu                                |
 | 01:13:38   | even templates can have scripts inside and you can set up new documents with data from                                           |
 | 01:13:42   | placeholders or even inserted by your own apple script code and of course there's so much more                                   |
 | 01:13:47   | including a great iOS companion app which was just updated to version 3.0 there's also email                                     |
@@ -821,13 +821,13 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:13:58   | your entire team for me I love the fact that I have multiple databases and they are everywhere                                   |
 | 01:14:05   | and the rules that I use on those are also everywhere I don't have to worry about syncing                                        |
 | 01:14:09   | things between my MacBook Air and my Mac and my iPad and my iPhone in fact I can just check                                      |
-| 01:14:15   | everything into the inbox and voila dev and think will sort it out for me if you've got                                          |
+| 01:14:15   | everything into the inbox and voila DEVONthink will sort it out for me if you've got                                          |
 | 01:14:21   | documents that you need to manage and you need to make sure that they're the same everywhere                                     |
-| 01:14:25   | and that things always get filed the right way then dev and thinks for you I love it for so many                                 |
-| 01:14:30   | reasons but I have to say shortcuts in dev and think to go 3.0 one of my favourites you can get                                   |
-| 01:14:37   | 10% off dev and think 3 or upgrade to it right now just go to devontechnologies.com/                                      |
-| 01:14:42   | automators that's devontechnologies.com/automators for 10% off our thanks to dev and                                      |
-| 01:14:47   | technologies for their support of this show and all of really fm I you know we have an outline                                   |
+| 01:14:25   | and that things always get filed the right way then DEVONthink for you I love it for so many                                 |
+| 01:14:30   | reasons but I have to say shortcuts in DEVONthink to go 3.0 one of my favourites you can get                                   |
+| 01:14:37   | 10% off DEVONthink 3 or upgrade to it right now just go to devontechnologies.com/                                      |
+| 01:14:42   | automators that's devontechnologies.com/automators for 10% off our thanks to DEVONtechnologies                                      |
+| 01:14:47   | for their support of this show and all of really fm I you know we have an outline                                   |
 | 01:14:53   | for today's show and we have not followed it at all we've got a whole show outline that we haven't                               |
 | 01:15:00   | touched because we've been cerebral talking about shortcuts and I have enjoyed this conversation                                 |
 | 01:15:05   | so much um so this is really one of my favourite episodes but I do want to talk about one thing                                   |
@@ -997,11 +997,11 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:31:18   | I want the ability to create my own custom notifications where then once like I can almost                                       |
 | 01:31:23   | like save a link for later in my notifications and then open that and go back to it that could be                                |
 | 01:31:29   | deep link contextual computing like for days with that that would be awesome yeah I'm currently                                  |
-| 01:31:35   | using the show notification with my car so when I connect to my car um if I haven't opened Data Jar                              |
-| 01:31:41   | that day then it opens Data Jar because I was running into a bug I'm pretty certain it's just                                    |
+| 01:31:35   | using the show notification with my car so when I connect to my car um if I haven't opened [[Data Jar]]                              |
+| 01:31:41   | that day then it opens [[Data Jar]] because I was running into a bug I'm pretty certain it's just                                    |
 | 01:31:46   | that I don't have enough storage space on my 256 gigabyte iPhone what kind of person am I that I'm                               |
 | 01:31:51   | running out of storage space with that um but uh it would randomly lose or not be able to get all                                |
-| 01:31:56   | the the the address lists that I built for my driving destinations so I opened Data Jar if I                                     |
+| 01:31:56   | the the the address lists that I built for my driving destinations so I opened [[Data Jar]] if I                                     |
 | 01:32:02   | haven't opened it that day and then it shows me a notification so I can just easily tap on it while                              |
 | 01:32:07   | I'm you know putting my seatbelt on to jump back to shortcuts and then continue the shortcut um but                              |
 | 01:32:12   | it's yeah it's a little bit of a hack I think the biggest thing that apple could do to make                                      |

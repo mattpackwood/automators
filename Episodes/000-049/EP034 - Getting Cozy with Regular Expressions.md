@@ -98,7 +98,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 02:44      | started the show because I booked some flights yesterday.                                           |
 | 02:47      | They're now in my calendar thanks to Tripit.                                                        |
 | 02:50      | And say I had just this flight information from somewhere else, I often need to get the             |
-| 02:55      | flight number at the origin location so that I can add it to OmniFocus with reminders to            |
+| 02:55      | flight number at the origin location so that I can add it to OmniFocus with [[Apple Reminders\|Reminders]] to            |
 | 03:00      | check in.                                                                                           |
 | 03:02      | And getting that information, well, what is a flight number?                                        |
 | 03:05      | A flight number is two or three letters followed by two to four numbers.                            |
@@ -259,7 +259,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 12:34      | I wanted to test it out, and I have become a pain member because I love the way Zapier              |
 | 12:39      | helps with all of my web services.                                                                  |
 | 12:42      | For example, with the law practice, when I sign up a new client, I've got things that               |
-| 12:46      | need to happen in Basecamp and in the billing program and over in Airtable.                         |
+| 12:46      | need to happen in Basecamp and in the billing program and over in [[Airtable]].                         |
 | 12:52      | Well, Zapier connects with all those apps.                                                          |
 | 12:54      | So we just put the data in once, and it just shows up everywhere.                                   |
 | 12:57      | It saves us a bunch of time, it's more efficient, and it's more accurate.                           |

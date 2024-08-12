@@ -516,7 +516,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 36:43      | asking for user input. Exactly. And collecting data. But where are you storing the data?               |
 | 36:49      | In the health application. So if you look in shortcuts, then there is an action to log a               |
 | 36:54      | health sample. And this can log pretty much any kind of health sample. Now a few of the things         |
-| 36:59      | added at WWDC last year, so with iOS 13 are not available. So tooth brushing last I checked was        |
+| 36:59      | added at [[WWDC]] last year, so with iOS 13 are not available. So tooth brushing last I checked was        |
 | 37:07      | not in here. And I'm seeing now that it's also still not here. But you've got all sorts of things      |
 | 37:12      | there. So you can track your protein or potassium or the number of times you've fallen or iodine,      |
 | 37:19      | heart rate variability, headphone, audio levels, all sorts of things. So if you've got a device        |
@@ -643,7 +643,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 47:58      | automators, nested folders, screencasts online, or a guest podcast. And it sets things up with         |
 | 48:04      | the right applications depending on which option I pick. And this has been so useful because I was     |
 | 48:10      | starting to go a little bit insane with the opening Skype every single time, when I actually needed    |
-| 48:16      | FaceTime, for example, or I was going to use ZenCast or something, or just [[Audio Hijack]] and            |
+| 48:16      | [[FaceTime]], for example, or I was going to use ZenCast or something, or just [[Audio Hijack]] and            |
 | 48:22      | [[ScreenFlow]]. So I'm very pleased to have actually found a solution that does not drive me up the        |
 | 48:28      | wall. Yeah, the old problem of getting the audio files to the editor and everything related to it.     |
 | 48:35      | Yes, exactly. Because I have different sessions in [[Audio Hijack]] as well that I use. That's the         |
@@ -659,7 +659,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 49:34      | when I started, when we first started with automators. And I was very happy with it. But it            |
 | 49:39      | quickly got to the point where I was getting grumpy with my automation because I'd have to             |
 | 49:43      | wait for Skype to finish launching and then quit Skype so that I could open Zoom or ZenCaster or       |
-| 49:51      | FaceTime Audio and things like that. So that was less than ideal. But that is now finally fixed.       |
+| 49:51      | [[FaceTime]] Audio and things like that. So that was less than ideal. But that is now finally fixed.       |
 | 49:57      | So I'm very pleased about that. And I'll put a little bit of documentation in the show notes           |
 | 50:02      | to exactly what gets done. And specifically how I use the alert in audio in [[Keyboard Maestro]] to        |
 | 50:10      | let me choose those different options. Yeah. Something that's made me really happy lately              |

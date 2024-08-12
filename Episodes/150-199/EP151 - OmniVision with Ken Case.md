@@ -66,7 +66,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 00:52      | Thank you for inviting me.                                                                                          |
 | 00:53      | It's great to be here.                                                                                              |
 | 00:55      | Well, Ken, how could we avoid inviting you?                                                                         |
-| 00:57      | I mean, you got your [[OmniFocus]] on Vision Pro ahead of Apple's [[Reminders]].                                    |
+| 00:57      | I mean, you got your [[OmniFocus]] on Vision Pro ahead of Apple's [[Apple Reminders\|Reminders]].                                    |
 | 01:03      | I mean, I love it.                                                                                                  |
 | 01:05      | Yeah, so Ken is the head honcho over at the [[Omni Group]], your official title, right?                             |
 | 01:12      | You have the hat that says head honcho on it.                                                                       |
@@ -491,9 +491,9 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 27:31      | you know, your list of features that you can work on.                                                               |
 | 27:34      | And so the fact that you have that and then you're combining it with, you know, what people                         |
 | 27:38      | are doing through automation and what people are trying to do through automation as well.                           |
-| 27:43      | You know, there's, one of the scripts I'm seeing here is adding a FaceTime task and                                 |
+| 27:43      | You know, there's, one of the scripts I'm seeing here is adding a [[FaceTime]] task and                                 |
 | 27:47      | I'm there going, okay, that could be potentially useful for me, but I don't necessarily need                        |
-| 27:51      | a FaceTime task.                                                                                                    |
+| 27:51      | a [[FaceTime]] task.                                                                                                    |
 | 27:53      | Maybe I need, you know, a [[Zoom]] task.                                                                            |
 | 27:54      | Well, you know, [[Zoom\|Zoom's]] got an API, I could look at, you know, integrating with that potentially,          |
 | 27:59      | you know, and maybe at some point, if there were enough demand for it, I can't imagine                              |

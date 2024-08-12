@@ -147,7 +147,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 04:35      | So I can have it illuminate in particular colours as a visible sign to me of, okay, Scotty,              |
 | 04:45      | now is the time in which you're meant to be planning.                                                   |
 | 04:47      | So see the light, that means plan or see this light at the end of the day, that means reflect.          |
-| 04:54      | And through the magic of the signals app, which Rose, you turn me on to, there are shortcuts            |
+| 04:54      | And through the magic of the [[Signals for HomeKit\|Signals]] app, which Rose, you turn me on to, there are shortcuts            |
 | 05:01      | actions that allow you to do like some different stuff with your light.                                 |
 | 05:06      | So I have it as part of the shortcut flash the light five times and then turn red so                    |
 | 05:13      | that I know, okay, here's the warning, here it comes, and now it's red.                                 |
@@ -164,9 +164,9 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 05:55      | And at the same time, it's also like annoying to set up invasive alarms for everything.                 |
 | 05:59      | So I found that like a light as an ambient signal of, hey, Scotty, here's stuff you're                  |
 | 06:04      | meant to do right now has been really, really effective.                                                |
-| 06:08      | So Scotty, not everybody's familiar with the signals out there.                                         |
+| 06:08      | So Scotty, not everybody's familiar with [[Signals for HomeKit\|Signals]] out there.                                         |
 | 06:11      | Tell us about it more.                                                                                  |
-| 06:12      | I'm not going to proclaim to be an expert in the signals app, but essentially it allows                 |
+| 06:12      | I'm not going to proclaim to be an expert in the [[Signals for HomeKit\|Signals]] app, but essentially it allows                 |
 | 06:16      | you to create shortcuts actions that tell your light to do stuff.                                       |
 | 06:22      | And I think it basically means flashing mostly or and you can you can set here's what colour,            |
 | 06:31      | here's the interval at which to flash and here's how long to flash for and so on.                       |
@@ -195,9 +195,8 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 08:07      | So he knows, you know, like, this is your final warning.                                                |
 | 08:09      | I'm here.                                                                                               |
 | 08:10      | I'm here.                                                                                               |
-| 08:11      | I'm here to get this or whatever it is, you know, but yeah, I like signals for home                     |
-| 08:15      | kit.                                                                                                    |
-| 08:16      | Micah Sargent is actually the one that turned me onto this because I think the idea is like              |
+| 08:11      | I'm here to get this or whatever it is, you know, but yeah, I like [[Signals for HomeKit]]              |
+| 08:16      | [[Micah Sargent]] is actually the one that turned me onto this because I think the idea is like              |
 | 08:19      | parents telling their kids it's time for dinner or something, but you can use it with any               |
 | 08:24      | of your personal shortcuts.                                                                             |
 | 08:26      | It doesn't have home kit.                                                                               |
@@ -324,7 +323,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 19:52      | Yeah, because [[Slack]] has calls and huddles. And they're two separate concepts that                       |
 | 19:58      | they're very similar, but a call can have video. A huddle can't have video. It can have                 |
 | 20:02      | screen sharing, but no video. And a call, however, will ring like a regular sort of phone type thing    |
-| 20:11      | like FaceTime or whatever. They're adding it. By the time you listen to this, there may be video        |
+| 20:11      | like [[FaceTime]] or whatever. They're adding it. By the time you listen to this, there may be video        |
 | 20:15      | in huddles and [[Slack]]. I saw some announcements. I mean, I'm fine with them adding video, but            |
 | 20:20      | honestly, it just works as a really easy way to talk to people at work and be able to share             |
 | 20:26      | information quickly so that we can solve whatever the problem is, which often involves a little         |
@@ -646,7 +645,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 51:34      | So Scotty, I know that we talked focus modes with some home automation and podcasting,                  |
 | 51:39      | but I know that you also really love Agenda and that you have been doing some really cool stuff         |
 | 51:45      | with this, because I remember you telling me that you were finding great ways to get stuff              |
-| 51:51      | out of reminders and do things in ways that were really tricky for a lot of people to do                |
+| 51:51      | out of [[Apple Reminders\|Reminders]] and do things in ways that were really tricky for a lot of people to do                |
 | 51:57      | when you were trying to put it together in a shortcut that everybody could download.                    |
 | 52:00      | And I believe that that is out now. So can you tell us how you are automating things with Agenda?       |
 | 52:07      | Maybe for people who don't know what the Agenda app is?                                                 |
@@ -654,7 +653,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 52:20      | in which it was created. And you can even tie it to a specific calendar event and link the two          |
 | 52:25      | so that you've got that sort of correlation going on between calendar and Agenda itself.                |
 | 52:33      | Agenda has also introduced a lot of sort of quick actions where you can                                 |
-| 52:38      | tie Agenda lines in a note to a specific reminder. So there's reminders and calendars                   |
+| 52:38      | tie Agenda lines in a note to a specific reminder. So there's [[Apple Reminders\|Reminders]] and calendars                   |
 | 52:45      | integration that's really cool. But what I love most, most probably, is the [[URL Schemes\|URL scheme]] that it's        |
 | 52:53      | got. Now, of course, I would love it so much if there was native shortcuts actions. But the URL         |
 | 53:01      | scheme is easy enough to learn and understand. And I think that that makes it really possible to do     |
@@ -791,17 +790,17 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:05:30   | be posted on my blog. I'll get you a link to put in show notes, is my rapid log shortcut,               |
 | 01:05:36   | which does exactly that. It appends to today's note. And based on whether that                          |
 | 01:05:44   | what I rapid log is prefixed by a dash or not, it will also make a task in either OmniFocus             |
-| 01:05:52   | or Reminders, whatever you like. I'll probably share it as link for reminders so that no one            |
+| 01:05:52   | or [[Apple Reminders\|Reminders]], whatever you like. I'll probably share it as link for [[Apple Reminders\|Reminders]] so that no one            |
 | 01:05:58   | feels compelled to have to purchase or download OmniFocus if you're not an OmniFocus user like          |
-| 01:06:05   | I am. But it'll create a reminder in reminders. And then it will create the task as like a              |
-| 01:06:13   | checkmark item in Agenda with the body of the text linked to the reminder in Reminders. So,             |
+| 01:06:05   | I am. But it'll create a reminder in [[Apple Reminders\|Reminders]]. And then it will create the task as like a              |
+| 01:06:13   | checkmark item in Agenda with the body of the text linked to the reminder in [[Apple Reminders\|Reminders]]. So,             |
 | 01:06:20   | you could just click it and go there. That way, you can see the task in either place,                   |
-| 01:06:26   | either in your Agenda dashboard for the day or in Reminders. And then it also honours                    |
+| 01:06:26   | either in your Agenda dashboard for the day or in [[Apple Reminders\|Reminders]]. And then it also honours                    |
 | 01:06:34   | inline, let's say Taskpaper styling, so that if I was to type dash pick up the groceries               |
-| 01:06:45   | at flagged at errands, it will make the task in reminders flagged with the title,                       |
+| 01:06:45   | at flagged at errands, it will make the task in [[Apple Reminders\|Reminders]] flagged with the title,                       |
 | 01:06:55   | pick up whatever I said it was, and with the tag of errands already done for you.                       |
 | 01:07:01   | And then also added in Agenda, but without any of that Taskpapery stuff,                               |
-| 01:07:06   | it'll just say pick up groceries with a checkmark circle, but the text is linked to Reminders.          |
+| 01:07:06   | it'll just say pick up groceries with a checkmark circle, but the text is linked to [[Apple Reminders\|Reminders]].          |
 | 01:07:14   | And again, also OmniFocus. But I think that that is a really cool way for me to not have to worry       |
 | 01:07:21   | about when I add something or when I have a thought, where does it go? Because not only am I            |
 | 01:07:29   | adding these things into an appended to a note for my day, but they're also automatically               |
@@ -814,8 +813,8 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:08:14   | captured that thing. You're not necessarily having a snapshot that you did the thing,                   |
 | 01:08:18   | but you can go and see it. And if it's been assigned a date or it transformed since then,               |
 | 01:08:22   | then you'll have the latest version of that plus what it originally was. And also,                      |
-| 01:08:31   | I think a lot of people will appreciate that you're sharing it as a reminders action because            |
-| 01:08:35   | reminders is on everyone's devices. And the one thing I wish shortcuts could do is give you             |
+| 01:08:31   | I think a lot of people will appreciate that you're sharing it as a [[Apple Reminders\|Reminders]] action because            |
+| 01:08:35   | [[Apple Reminders\|Reminders]] is on everyone's devices. And the one thing I wish shortcuts could do is give you             |
 | 01:08:40   | sort of like a preview of what the shortcut action might be like for an app that you don't              |
 | 01:08:45   | have installed because right now, if I downloaded, I don't know, an awesome new app or a shortcut       |
 | 01:08:53   | that contained awesome new app shortcut action, I would have absolutely no idea what even app           |

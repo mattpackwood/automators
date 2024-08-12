@@ -63,7 +63,6 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 - [Automators #86: Micro-Automations - Relay FM](https://www.relay.fm/automators/86)
 - [Urgent automation ideas: baby's coming! - Software - MPU Talk](https://talk.macpowerusers.com/t/urgent-automation-ideas-babys-coming/21610)
 - [How to share albums in Photos on your iPhone, iPad and Mac – Apple Support (UK)](https://support.apple.com/en-gb/HT202786)
-- [Gestimer: Timer for Mac](http://maddin.io/gestimer/)
 - [Create albums to manage photos in Photo Station | Get Started With DSM - Synology Knowledge Centre](https://kb.synology.com/en-br/DSM/help/DSM/Tutorial/manage_share_photos?version=6)
 - [Shortcut: Daily routine: create timed reminders relative to shortcut run time from a list in Notes](https://www.icloud.com/shortcuts/c72fd3e0582f4ac597a9bc51901a9929)
 - [Readwise API | Readwise](https://readwise.io/api_deets)
@@ -447,9 +446,9 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 20:15      | And so the really cool thing about this, and the thing that might not even be demonstrated             |
 | 20:19      | that well by the example, is that you're able to keep, so what's happening underneath this             |
 | 20:25      | is actually the shortcut is reading the same file that I use to manage all my projects.                |
-| 20:30      | It's just a Kanban, it's in [[Obsidian]] as a Kanban board, just a list of links.                          |
+| 20:30      | It's just a [[Kanban]], it's in [[Obsidian]] as a [[Kanban]] board, just a list of links.                          |
 | 20:35      | And when I manage my projects on any platform, Mac or iOS, I'm moving stuff around on that             |
-| 20:41      | Kanban.                                                                                                |
+| 20:41      | [[Kanban]].                                                                                                |
 | 20:42      | And then because [[Obsidian]] has plain text files underneath, it's really trivial for shortcuts           |
 | 20:46      | to then read that list and do something with it.                                                       |
 | 20:49      | And so I've got this single source of truth for what's happening in my mind for the projects           |
@@ -549,10 +548,10 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 25:49      | Yeah.                                                                                                  |
 | 25:50      | And I should be clear that a lot of those other apps are really neat and really well-built.            |
 | 25:56      | But what I think is different about [[Obsidian]] and a few of the other options, I do think                |
-| 26:00      | that Dev and Think and [[Notion]] are also in this class.                                                  |
+| 26:00      | that [[DEVONthink]] and [[Notion]] are also in this class.                                                  |
 | 26:03      | I think of them as environments, I talked earlier about development environments for                   |
 | 26:07      | coding, but I've also written some pieces on this idea of an integrated thinking environment.          |
-| 26:13      | And what [[Obsidian]] and [[Notion]] and Dev and Think and some others allow you to do is they're              |
+| 26:13      | And what [[Obsidian]] and [[Notion]] and [[DEVONthink]] and some others allow you to do is they're              |
 | 26:17      | so customisable, right, they're built with this idea of personalisability in mind.                     |
 | 26:22      | And because of that, you're able to build it to match whatever it is you're thinking                   |
 | 26:25      | about.                                                                                                 |
@@ -594,7 +593,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 28:22      | It's more Mac friendly, even though it's really built for iOS and iPad, whereas [[Obsidian]] is            |
 | 28:28      | a different animal, but it is the automation element.                                                  |
 | 28:32      | It's the ability to internalise, add templates.                                                        |
-| 28:35      | It's the ability to add a Kanban plugin and build your own personal project management                 |
+| 28:35      | It's the ability to add a [[Kanban]] plugin and build your own personal project management                 |
 | 28:41      | system into the app.                                                                                   |
 | 28:42      | It's just like, it's the way that the thing morphs into whatever you need it to be.                    |
 | 28:47      | And if you want to spend a weekend getting comfortable with JavaScript, the fact that                  |
@@ -630,7 +629,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 30:21      | added the feature of, you know, get shareable link.                                                    |
 | 30:26      | But I have added that to the keyboard shortcut, this is a very basic automation, but Command           |
 | 30:30      | U for me in [[Obsidian]] gets me the URL link of the current note, and then all of a sudden                |
-| 30:35      | I'm dropping that into my Dev and Think database, my OmniFocus project, and all of a sudden my         |
+| 30:35      | I'm dropping that into my [[DEVONthink]] database, my OmniFocus project, and all of a sudden my         |
 | 30:40      | computer just dances around a project like nobody's business, and it's because they put                |
 | 30:45      | features like that in.                                                                                 |
 | 30:46      | It's a beautiful thing.                                                                                |
@@ -1094,7 +1093,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 58:22      | little reminders, 24 or so different reminders throughout the day that tend to need to be              |
 | 58:29      | done at a certain time in order to make sure that everything's running smoothly.                       |
 | 58:33      | That is really smart.                                                                                  |
-| 58:34      | I've been doing some similar things as well with reminders that get set when I wake up,                |
+| 58:34      | I've been doing some similar things as well with [[Apple Reminders\|Reminders]] that get set when I wake up,                |
 | 58:40      | where it goes through and it looks at what's on my calendar for the day and sets an actual             |
 | 58:45      | alarm on my phone 15 minutes before certain events and 13 minutes before other events.                 |
 | 58:51      | But the concept of spacing out reminders from when I wake up hadn't yet occurred to me.                |
@@ -1137,27 +1136,27 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:00:34   | a phone anyway.                                                                                        |
 | 01:00:36   | So you're going to need something like push automation server for that, which is increasing            |
 | 01:00:40   | the complexity of this and the barrier to entry somewhat.                                              |
-| 01:00:44   | And then you could send those reminders either to the Reminders app or to the Do app, I would          |
+| 01:00:44   | And then you could send those reminders either to the [[Apple Reminders\|Reminders]] app or to the [[Due]] app, I would          |
 | 01:00:47   | assume if you really had something that was like a hard reminder.                                      |
-| 01:00:52   | I actually have a problem with automating, creating reminders in the Do app using the                  |
-| 01:00:55   | Do actions because it opens Do every time.                                                             |
-| 01:00:58   | So what I'm doing instead when I create Do reminders is I add them all to a Do list in                 |
-| 01:01:02   | Reminders and then at the end of the shortcut, I open the Do app, which imports everything             |
+| 01:00:52   | I actually have a problem with automating, creating reminders in the [[Due]] app using the                  |
+| 01:00:55   | [[Due]] actions because it opens [[Due]] every time.                                                             |
+| 01:00:58   | So what I'm doing instead when I create [[Due]] reminders is I add them all to a [[Due]] list in                 |
+| 01:01:02   | [[Apple Reminders\|Reminders]] and then at the end of the shortcut, I open the [[Due]] app, which imports everything             |
 | 01:01:07   | from that list.                                                                                        |
-| 01:01:08   | I wonder that I don't see Do opening up when I run the laundry shortcut that I've got.                 |
+| 01:01:08   | I wonder that I don't see [[Due]] opening up when I run the laundry shortcut that I've got.                 |
 | 01:01:12   | So maybe it's just a little config somewhere.                                                          |
-| 01:01:15   | I don't find that much use for automating Do because I use it for just a few very specific             |
-| 01:01:20   | things and I just don't need to create a lot of things in Do.                                          |
+| 01:01:15   | I don't find that much use for automating [[Due]] because I use it for just a few very specific             |
+| 01:01:20   | things and I just don't need to create a lot of things in [[Due]].                                          |
 | 01:01:24   | I mean, my life isn't such that I need to be nagged about everything, but it has got                   |
 | 01:01:31   | a pretty powerful automation support.                                                                  |
-| 01:01:34   | I mean, you can do a lot with shortcuts in Do.                                                         |
+| 01:01:34   | I mean, you can do a lot with shortcuts in [[Due]].                                                         |
 | 01:01:37   | They've done a good job of implementing it.                                                            |
 | 01:01:39   | Yeah.                                                                                                  |
 | 01:01:40   | And sorry, Rose, you're right.                                                                         |
 | 01:01:41   | I'm doing the same thing.                                                                              |
-| 01:01:42   | I'm adding a reminder to a special reminders list that gets sucked up in a Do.                         |
+| 01:01:42   | I'm adding a reminder to a special [[Apple Reminders\|Reminders]] list that gets sucked up in [[Due]].                         |
 | 01:01:47   | But yeah, David, you're right.                                                                         |
-| 01:01:49   | Do has saved my life quite a bit the last year.                                                        |
+| 01:01:49   | [[Due]] has saved my life quite a bit the last year.                                                        |
 | 01:01:51   | But it's almost like I feel like if you use it too much, then it loses its effectiveness.              |
 | 01:01:58   | It's easier to ignore it if it starts going off five times a day.                                      |
 | 01:02:02   | It's true.                                                                                             |
@@ -1180,7 +1179,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:02:19   | Darn it.                                                                                               |
 | 01:02:20   | Darn it.                                                                                               |
 | 01:02:21   | I'm just checking just in case because sometimes other people have found this because, so there        |
-| 01:02:25   | are three different do actions inside of Shortcuts.                                                    |
+| 01:02:25   | are three different [[Due]] actions inside of [[Shortcuts]].                                                    |
 | 01:02:28   | There's one under text, which is add to your reminder.                                                 |
 | 01:02:31   | And then there's do create repeating reminder and do create reminder.                                  |
 | 01:02:35   | And the repeating reminder, I believe, is sort of like for daily or weekly things.                     |
@@ -1196,7 +1195,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:02:56   | Guess I might need to rework some Shortcuts.                                                           |
 | 01:02:58   | On the other hand, I could just leave it because it works.                                             |
 | 01:03:01   | So have to decide there what the correct solution is.                                                  |
-| 01:03:06   | This episode of The Automators is brought to you by DEVONthink from Devon Technologies.                |
+| 01:03:06   | This episode of The Automators is brought to you by DEVONthink from DEVONTechnologies.                |
 | 01:03:11   | Go to devonthinktechnologies.com/automators [^1] to get organised and unleash your creativity.        |
 | 01:03:17   | First of all, with this link, you'll get 10% off.                                                      |
 | 01:03:22   | DEVONthink is the flagship product of Devon Technologies.                                              |
@@ -1400,7 +1399,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:14:44   | I don't know if they have an API.                                                                      |
 | 01:14:45   | I'm going to look into it because that would be cool, Rose, rather than using affirmations             |
 | 01:14:48   | to actually use your own chosen highlights out of Readwise.                                            |
-| 01:14:52   | I mean, you could also just store them in Data Jar or something.                                       |
+| 01:14:52   | I mean, you could also just store them in [[Data Jar]] or something.                                       |
 | 01:14:55   | I know Readwise has integrations with some things because I believe, is there a Readwise               |
 | 01:15:00   | plugin for [[Obsidian]], I want to say?                                                                    |
 | 01:15:02   | Well, they have a Readwise plugin that will send your annotations over to [[Obsidian]].                    |

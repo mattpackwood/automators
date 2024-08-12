@@ -131,7 +131,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 07:03      | but the problem I found with it was that it didn't have enough USB-C ports. And the iMac does have,      |
 | 07:10      | if you upgrade it, the four USB-C or rather two, the Thunderbolt ports and then two Thunderbolt          |
 | 07:17      | 3s and USB-C ports. And it's called Ethernet in the power brick. It's interesting, but I'm looking       |
-| 07:23      | for it. I'm hoping for shortcuts at WWDC, David. Whatever the new macOS is, macOS fell off a cliff       |
+| 07:23      | for it. I'm hoping for shortcuts at [[WWDC]], David. Whatever the new macOS is, macOS fell off a cliff       |
 | 07:32      | type thing, whichever cliff in California you're picking, macOS Disneyland. Let's do that one.           |
 | 07:38      | I want shortcuts in it. I was thinking macOS Pomona might work, but I don't know.                        |
 | 07:44      | You got to live here to understand. macOS Big Bear. Oh, there you go. I grew up right between            |
@@ -181,7 +181,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 12:07      | enough chip, we've given enough RAM. Now all the Apple pro apps are going to show up here. And,          |
 | 12:12      | and maybe this is the year who knows. Yeah, yeah, that would be pretty exciting. I've decided            |
 | 12:18      | I am not going to have a laptop anymore. I'm going 12.9 inch iPad pro and an iMac. And until             |
-| 12:25      | WWDC happens, I'm going to be using Jump Desktop whenever I need to get onto my Mac,                     |
+| 12:25      | [[WWDC]] happens, I'm going to be using Jump Desktop whenever I need to get onto my Mac,                     |
 | 12:31      | which works as a pretty good solution for getting around these things like, you know,                    |
 | 12:35      | X code and stuff like that. It's not perfect, but it's, it's a good start. And as always,                |
 | 12:40      | we need to start. And then hopefully, we can fill in the rest. But I think David,                        |
@@ -536,9 +536,9 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 45:43      | deliveries ready to add that so that I know things are coming. And I realise I don't use                 |
 | 45:49      | it all that often, but I do the same thing. I do command L command C, command space type DEL,            |
 | 45:56      | wait for it to appear, tap enter, command N, and then it delivers picks it up on my keyboard.            |
-| 46:02      | But that's actually quite a few steps. And I know, because I have extra space on my Stream Deck,         |
-| 46:07      | David, I have a space on my Stream Deck for that, which I don't use all that frequently.                 |
-| 46:14      | So is it worth having a space on my Stream Deck for it? But it makes me happy every time I look          |
+| 46:02      | But that's actually quite a few steps. And I know, because I have extra space on my [[Stream Deck]],         |
+| 46:07      | David, I have a space on my [[Stream Deck]] for that, which I don't use all that frequently.                 |
+| 46:14      | So is it worth having a space on my [[Stream Deck]] for it? But it makes me happy every time I look          |
 | 46:17      | at it. So I'm good. I do something similar to catch the URL and copy it. I don't necessarily put         |
 | 46:25      | it into deliveries, which I should because I have deliveries open and I was expecting a delivery         |
 | 46:29      | yesterday and it was late. But I use the hyper key for a lot. And I know, David, I think you've          |
@@ -716,7 +716,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:02:54   | deck where we talked about using these URLs in the web action. Now [[Brett Terpstra]] had had a post         |
 | 01:03:00   | about doing this from [[Keyboard Maestro]]. And the, there's a bit of a delay if you, if you put             |
 | 01:03:12   | X callback URLs in the website action, versus if you trigger them from [[Keyboard Maestro]]. But it          |
-| 01:03:17   | means that you can easily trigger things from the Stream Deck as well. And yeah, I'm loving              |
+| 01:03:17   | means that you can easily trigger things from the [[Stream Deck]] as well. And yeah, I'm loving              |
 | 01:03:23   | Bunch. I've been playing with it a little bit actually recently. So we might have to look                |
 | 01:03:28   | into that one in a future show as well. Yeah. So give me just kind of an overview since I haven't        |
 | 01:03:34   | run this one. Like give me a sample Bunch that you run and what exactly it does to your computer.        |
@@ -925,7 +925,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:23:40   | things once and then you're good for it every single time.                                               |
 | 01:23:45   | Well, you know what, Jay Miller, we have been talking an hour and a half and we've got through           |
 | 01:23:50   | half the outline. Did we make it through 50%, David? Are you sure? I thought it was closer               |
-| 01:23:55   | to a third. I feel like Jay is going to be back on the automakers if we can convince him. So             |
+| 01:23:55   | to a third. I feel like Jay is going to be back on the Automators if we can convince him. So             |
 | 01:24:01   | we're going to have to do that. Absolutely. Okay. So Jay, important question,                            |
 | 01:24:05   | cookies or brownies? If we're bribing you to get you back, which do we need?                             |
 | 01:24:10   | Are we talking about the European cookies? Because those are just crackers, aren't they?                 |
@@ -935,7 +935,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:24:33   | It's biscuits that you're thinking of, which can be sweet or savory, depending. We also have             |
 | 01:24:38   | crackers. You guys are so wrong about that, honestly. I mean, they're cookies. They're cookies,          |
 | 01:24:43   | right? No, they're not. They're biscuits. And you have them in a cup of tea. Okay. So I'm bribing Jay.   |
-| 01:24:51   | I'm on board with jumpers. Bring back the local California automakers,                                   |
+| 01:24:51   | I'm on board with jumpers. Bring back the local California Automators,                                   |
 | 01:24:57   | meetups, and you've got me there. That's all you got to do. Okay. We only matched one of those           |
 | 01:25:02   | before and then there was a pandemic. But let's try that again next time if we can, David. I'm           |
 | 01:25:08   | up for visiting you and meeting your dog finally. Yeah. So we should do that. That's what we'll do.      |

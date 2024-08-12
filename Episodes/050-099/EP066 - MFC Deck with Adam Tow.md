@@ -118,7 +118,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 02:21      | And the most recent one you have made is MFC Deck,                                 |
 | 02:24      | which is kind of amazing.                                                          |
 | 02:25      | Thanks.                                                                            |
-| 02:26      | Yeah, the first, I think the second time we met was at WWDC                        |
+| 02:26      | Yeah, the first, I think the second time we met was at [[WWDC]]                        |
 | 02:30      | right after they introduced iOS 13.                                                |
 | 02:33      | And I hadn't written any apps.                                                     |
 | 02:34      | I hadn't written any apps then.                                                    |
@@ -294,11 +294,11 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 09:26      | that's in the clipboard into a slug or uppercase all the text                      |
 | 09:29      | or title case all the text.                                                        |
 | 09:30      | So you can have basically a control deck.                                          |
-| 09:34      | Think of it like a virtual Stream Deck                                             |
+| 09:34      | Think of it like a virtual [[Stream Deck]]                                             |
 | 09:37      | if you're familiar with those devices on your iOS device.                          |
 | 09:41      | And that really is where [[MFC Deck]] clicked for me.                                  |
-| 09:45      | Because I have a Stream Deck on my desk.                                           |
-| 09:47      | I have the 15 button Stream Deck.                                                  |
+| 09:45      | Because I have a [[Stream Deck]] on my desk.                                           |
+| 09:47      | I have the 15 button [[Stream Deck]].                                                  |
 | 09:49      | And it's great.                                                                    |
 | 09:49      | And with the folders and the profiles and everything,                              |
 | 09:51      | I can do a bunch of things I want with that.                                       |
@@ -724,7 +724,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 28:46      | If you don't care as much,                                                         |
 | 28:48      | then the SSH version would work for you.                                           |
 | 28:52      | And this is interesting because it's like,                                         |
-| 28:54      | it's almost like creating your own iOS based Stream Deck to                        |
+| 28:54      | it's almost like creating your own iOS based [[Stream Deck]] to                        |
 | 28:59      | control your Mac.                                                                  |
 | 29:00      | That's right.                                                                      |
 | 29:01      | You could also actually,                                                           |
@@ -734,7 +734,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 29:13      | So you could,                                                                      |
 | 29:14      | you can set the card action to be like ping this URL and that                      |
 | 29:18      | URL is the push cut action.                                                        |
-| 29:20      | So then you can create a little Stream Deck for your,                              |
+| 29:20      | So then you can create a little [[Stream Deck]] for your,                              |
 | 29:23      | you know, your dedicated push cut device.                                          |
 | 29:25      | That's really smart because you also have the ability to grab                      |
 | 29:29      | [[Data Jar]] information, don't you,                                                   |

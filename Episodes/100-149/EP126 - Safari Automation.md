@@ -74,7 +74,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 00:15      | We are both doing a lot of travel lately, so you are recovering from a trip.                       |
 | 00:19      | I'm getting ready to leave on a trip, but we always make time for automation.                      |
 | 00:24      | In fact, I feel like we've done shows on travel automation before, but I do find it's so helpful   |
-| 00:29      | just this morning, I ran my little shortcut that generates my reminders list, my packing           |
+| 00:29      | just this morning, I ran my little shortcut that generates my [[Apple Reminders\|Reminders]] list, my packing           |
 | 00:35      | list.                                                                                              |
 | 00:36      | I love that thing so much.                                                                         |
 | 00:38      | If you go back and listen to the episode, the way I set mine up, it's got a little separate        |
@@ -261,7 +261,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 11:31      | Like I frequently, and we'll talk about later in the show, I have these setups that I run          |
 | 11:35      | through [[Keyboard Maestro]] and shortcuts where I'll open a bunch of tabs at once.                    |
 | 11:42      | And for instance, today, when we started recording the show, I ran an automation that opened       |
-| 11:47      | up everything, all the tabs I need in [[Safari]] to record a show of the automakers podcast.           |
+| 11:47      | up everything, all the tabs I need in [[Safari]] to record a show of the Automators podcast.           |
 | 11:53      | But occasionally that stuff breaks and it just happens.                                            |
 | 11:55      | But you've always got that backup of those bookmarks you can go to when that happens.              |
 | 12:00      | And you know, automation isn't perfect.                                                            |
@@ -369,7 +369,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 18:20      | money changing hands, you know, which wouldn't surprise me.                                        |
 | 18:24      | That certainly used to be the case.                                                                |
 | 18:27      | I'm not so sure exactly how that is now.                                                           |
-| 18:31      | But what I can say now is, you know, I have my default search engine set to DuckDuckGo.            |
+| 18:31      | But what I can say now is, you know, I have my default search engine set to [[DuckDuckGo]].            |
 | 18:37      | And I have this for a number of reasons, privacy being one of them.                                |
 | 18:39      | The other reason is an automation related reason.                                                  |
 | 18:42      | If you ever want to just quickly use something to get somebody the right link, if I do this        |
@@ -377,7 +377,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 18:51      | link in the Google search results and I click copy link and I go in and I paste it wherever        |
 | 18:56      | messages, you know, email, whatever, I'm going to get a Google link which will then redirect       |
 | 19:02      | them to the search result.                                                                         |
-| 19:05      | If I copy the link from DuckDuckGo, I get the link that is the real link.                          |
+| 19:05      | If I copy the link from [[DuckDuckGo]], I get the link that is the real link.                          |
 | 19:09      | It's the end result.                                                                               |
 | 19:10      | So if I was searching for Apple, then the Google link would be Google blah blah blah               |
 | 19:14      | blah blah blah blah blah blah blah blah, you know, something very decipherable.                    |
@@ -495,7 +495,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 26:28      | key and I find that really just a very easy way when you get a lot of tabs and it's, it's          |
 | 26:35      | just so, you know, so unautomated to stop and take the mouse and go up and click when              |
 | 26:40      | you can just hit a couple of keyboard shortcuts.                                                   |
-| 26:43      | And one of the tricks I did is when I opened [[Safari]], my Stream Deck plus has that dial             |
+| 26:43      | And one of the tricks I did is when I opened [[Safari]], my [[Stream Deck]] plus has that dial             |
 | 26:48      | on it and it actually pre-programs the left most dial to use those keyboard shortcuts              |
 | 26:53      | so I can just spin the dial if I really want.                                                      |
 | 26:55      | I'll let me be honest with you, I still find myself using the keyboard shortcut more than          |
@@ -665,7 +665,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 36:44      | new Reddit interface, because I'm apparently just that cranky about the new Reddit interface.      |
 | 36:50      | But you can use this for all sorts of things.                                                      |
 | 36:51      | You know, if somebody, you know, if I click on the link and it opens, you know, the Rick           |
-| 36:55      | roll video on YouTube, then it'll redirect me to a April Fool's image search on DuckDuckGo.        |
+| 36:55      | roll video on YouTube, then it'll redirect me to a April Fool's image search on [[DuckDuckGo]].        |
 | 37:01      | I don't know, whatever it is, but it's very nice for things like that.                             |
 | 37:07      | If you ever just want to, you know, have something that opens with a particular kind of URL change |
 | 37:13      | to something else, you can do that.                                                                |
@@ -891,8 +891,8 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 50:48      | sorry, brand new window in [[Safari]].                                                                 |
 | 50:51      | So it's just a new empty window.                                                                   |
 | 50:53      | And then it'll open up one particular web page that I use all the time whenever I am               |
-| 50:58      | podcasting, and that is DuckDuckGo.                                                                |
-| 51:01      | And so this is just a little AppleScript that opens a new window with DuckDuckGo.                  |
+| 50:58      | podcasting, and that is [[DuckDuckGo]].                                                                |
+| 51:01      | And so this is just a little AppleScript that opens a new window with [[DuckDuckGo]].                  |
 | 51:05      | And so that gets run before any of my tab group sets.                                              |
 | 51:09      | And I say tab group sets, I'm not talking [[Safari]] tab groups, I'm just talking about sets           |
 | 51:13      | of tabs that I need to open for, you know, automation purposes in bunch.                           |
@@ -1252,7 +1252,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:14:25   | Yes.                                                                                               |
 | 01:14:26   | I think it's just one of those things where mail on iOS and Mac are clearly different              |
 | 01:14:32   | apps.                                                                                              |
-| 01:14:33   | [[Safari]] on iOS and Mac are clearly different apps, whereas reminders and notes and so on,           |
+| 01:14:33   | [[Safari]] on iOS and Mac are clearly different apps, whereas [[Apple Reminders\|Reminders]] and notes and so on,           |
 | 01:14:39   | they seem to have consolidated everything and brought that all together.                           |
 | 01:14:43   | We're not there yet with mail and [[Safari]], and that's not a complaint for the mail team             |
 | 01:14:48   | or the [[Safari]] team, or if you want those to stay separate, then I'm not saying that they           |
@@ -1363,7 +1363,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:21:49   | Yeah, honestly, I think the way I kind of do it now that we're talking about, I have               |
 | 01:21:54   | a tab group called banking and in it, I've got the various web pages, which I usually              |
 | 01:22:00   | have to re-log into every time I go to the tab group anyway.                                       |
-| 01:22:04   | And then there's also automation you could do with reminders or OmniFocus to remind yourself       |
+| 01:22:04   | And then there's also automation you could do with [[Apple Reminders\|Reminders]] or OmniFocus to remind yourself       |
 | 01:22:08   | to do it.                                                                                          |
 | 01:22:09   | But I actually was relieved to hear, Rose, that you don't do this either because I felt            |
 | 01:22:14   | like I was letting people down.                                                                    |
@@ -1374,11 +1374,11 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:22:36   | automatically open up all the web pages you need to download bank statements and credit            |
 | 01:22:40   | card statements from.                                                                              |
 | 01:22:41   | My whole means create an automation that clicks at the right thing on the web page thanks          |
-| 01:22:44   | to Hebrew Maestro or just opens the URL of that thing after you've logged in.                      |
+| 01:22:44   | to [[Keyboard Maestro]] or just opens the URL of that thing after you've logged in.                      |
 | 01:22:49   | That's fine.                                                                                       |
 | 01:22:50   | But yeah, maybe just leave logging into the human.                                                 |
 | 01:22:54   | You know, some things aren't worth automating, especially when it comes to financial security.     |
-| 01:22:58   | And the Automakers podcast never wants to be responsible for having the black helicopters          |
+| 01:22:58   | And the Automators podcast never wants to be responsible for having the black helicopters          |
 | 01:23:03   | land on your house.                                                                                |
 | 01:23:04   | So yeah, I mean, I would hope it wouldn't go as far as the black helicopters landing               |
 | 01:23:09   | on your house, but it certainly could be a case of, you know, like worst case scenario,            |

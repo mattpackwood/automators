@@ -79,7 +79,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
   
 | Time Index | Transcription                                                                                          |
 | :--------- | :----------------------------------------------------------------------------------------------------- |
-| 00:00      | Hello, and welcome to Automators. My name is Rosemarie Orchard, and I'm here with David                |
+| 00:00      | Hello, and welcome to Automators. My name is Rosemary Orchard, and I'm here with David                |
 | 00:06      | Sparks, and we're going to talk about making your technology do hopefully everything for               |
 | 00:11      | you. Hey, David, how are you today?                                                                    |
 | 00:12      | Great, Rose. I am very excited about talking automation with my automation buddy, Rose.                |
@@ -168,7 +168,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 07:31      | certain things into it? Because that was my big thing is I was trying to keep everything in OmniFocus  |
 | 07:36      | at the time. Yeah. So I was exploring some of the Siri into OmniFocus bits at the time, which          |
 | 07:42      | were not straightforward like they are today. Yeah. You know, it was back when you had to use like     |
-| 07:47      | this reminders trick to get it in there. So I learned some of that. I set up an OmniFocus              |
+| 07:47      | this [[Apple Reminders\|Reminders]] trick to get it in there. So I learned some of that. I set up an OmniFocus              |
 | 07:53      | hotspot of sorts with [[Hazel]], which is kind of a slick one as well. And then that kind of cut my        |
 | 08:01      | teeth on scripting in general, I think, because then I started diving into some of the someday         |
 | 08:07      | maybe list auto parsing type processes like what Rose was referring to earlier. But then that also     |
@@ -427,8 +427,8 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 32:18      | is one of the things I want them to change. Like I want to be able to just tell it to run a script     |
 | 32:24      | based on the name, but they have like running the script as JavaScript URL encoded, which is a         |
 | 32:30      | whole other thing too. I don't like that, but I think it does work. However, I have an Elgato         |
-| 32:38      | Stream Deck sitting in front of me on my desk. If you know what that is, it's basically a macro pad.   |
-| 32:43      | This thing is amazing. But because you can run you are like open URLs with the Stream Deck,            |
+| 32:38      | [[Stream Deck]] sitting in front of me on my desk. If you know what that is, it's basically a macro pad.   |
+| 32:43      | This thing is amazing. But because you can run you are like open URLs with the [[Stream Deck]],            |
 | 32:49      | I actually have a button on this thing that just says OF template. And I can just press that button.   |
 | 32:55      | It opens up OmniFocus and pulls up that template dialogue all in one button. So it's, it's super,      |
 | 33:02      | super fast to pull that up and to run it. So yes. But again, you're getting in the weeds when you      |
@@ -438,7 +438,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 33:22      | Textastic or whatever. I tend to use Textastic on iOS and a [[BBEdit]] on my Mac to edit my Omni group     |
 | 33:31      | or OmniFocus scripts. Yeah. Another way you could do that, at least on the Mac is you could run it     |
 | 33:36      | through a palette in [[Keyboard Maestro]] because you could trigger URLs the same way. In fact,            |
-| 33:43      | that may be the way you're using it with your Stream Deck. I don't know. But I can think of a          |
+| 33:43      | that may be the way you're using it with your [[Stream Deck]]. I don't know. But I can think of a          |
 | 33:48      | couple ways to do that. I think it'd be more complicated to pull that off on iPhone and iPad.          |
 | 33:53      | I'd have to stop and think about it. And now you have me worried because I'm just early in my          |
 | 33:58      | template project, but you're right. I'm going to have like 60 things show up on my share sheet         |
@@ -594,22 +594,22 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 48:00      | I was thinking this is going to be great to add little features to the application that I would        |
 | 48:06      | like to solve that nobody else would, just to make it work better for me. But what I didn't            |
 | 48:11      | realise is that the community was going to go nuts. And now there is a whole subculture of             |
-| 48:17      | people creating Kanban style planning in OmniFocus. And I know there's one script out,                 |
+| 48:17      | people creating [[Kanban]] style planning in OmniFocus. And I know there's one script out,                 |
 | 48:26      | but Joe, I know you've also thrown your hat in the ring on this stuff.                                 |
 | 48:28      | Yeah. Yeah. So this is, you know, we were just talking about, as we record this, it's not out          |
 | 48:34      | yet, but it will be by the time this releases. But I was trying to, well, let me back up,              |
 | 48:41      | what I'm doing in OmniFocus is managing pieces of content that I'm releasing. So a content             |
-| 48:46      | calendar of sorts. It's very common for folks in the content creation world to run a Kanban of         |
+| 48:46      | calendar of sorts. It's very common for folks in the content creation world to run a [[Kanban]] of         |
 | 48:52      | some sort, because they want to know where each piece of content is in the process. Have I started     |
 | 48:56      | this yet? You know, is it just waiting for publish? Is it waiting for, you know, where's it at in the  |
-| 49:01      | process? And I've not ever been one that uses a Kanban, but I've seen it used a lot. And I know        |
+| 49:01      | process? And I've not ever been one that uses a [[Kanban]], but I've seen it used a lot. And I know        |
 | 49:10      | that, you know, given the simplicity of what I'm doing in OmniFocus, I call it simple, some may        |
 | 49:16      | call it complicated, who knows. But I wanted some form of a way to see which pieces of article,        |
 | 49:22      | like which content pieces that I'm planning over the next month. Have I started? Which ones are        |
 | 49:28      | in progress right now? And which ones are stalled? Like kind of what am I waiting for? Maybe I'm       |
 | 49:33      | waiting for them to be published. Where are these things at in the process? That way I know            |
 | 49:38      | which ones I should be working on each day. Well, I was digging around on the Omni Automation site     |
-| 49:44      | we were talking about earlier. And there is a set of scripts there for running a Kanban setup,         |
+| 49:44      | we were talking about earlier. And there is a set of scripts there for running a [[Kanban]] setup,         |
 | 49:53      | which I thought, great. So I downloaded that. And I quickly realised that runs on tasks. But           |
 | 49:58      | I'm operating on projects, which is completely different. And it doesn't really work that way.         |
 | 50:03      | It's like, I could set up like a meta project, like a pseudo project, and then manage the task         |
@@ -620,7 +620,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 50:32      | that stuff works is it gives you a perspective that you can then see list form, like grouped lists     |
 | 50:41      | of which projects are in the queue, which ones are you currently working on, which ones you're         |
 | 50:47      | waiting for, which ones have you completed, like those are kind of the main categories that it         |
-| 50:52      | operates off of. So that's how I've tweaked it. I set up a perspective that shows me that Kanban       |
+| 50:52      | operates off of. So that's how I've tweaked it. I set up a perspective that shows me that [[Kanban]]       |
 | 50:58      | view. And then I've got the scripts that does the adding removing and such of the tags appropriately   |
 | 51:05      | to move projects between those different categories. But again, I couldn't find anything that had      |
 | 51:12      | this all operating on a project level in my head. That was exactly what other people would want.       |
@@ -634,7 +634,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 51:56      | there going, yes, of course, this is the solution. Of course, I should be doing it this way. This      |
 | 52:00      | is the way to do it. Why is everybody else not doing it this way? And the answer, of course, is        |
 | 52:04      | it's personal. You have to make it work for you. And that's what I really love about this,             |
-| 52:09      | because I've been trying out the Kanban method that I believe the forum user handle of the             |
+| 52:09      | because I've been trying out the [[Kanban]] method that I believe the forum user handle of the             |
 | 52:17      | person who created this is Vishay, for the original one. And I'm looking forward to seeing             |
 | 52:24      | yours, because that's one of the things I realised. A lot of what I'm doing, it's not                  |
 | 52:29      | where an individual task is. And tasks are relatively unimportant, they're very small                  |
@@ -653,7 +653,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 53:41      | that long now, has it been out four or five months now? I guess we're kind of behind,                  |
 | 53:45      | but we wanted to cover this on the show for a while. But I wanted to wait until the library            |
 | 53:49      | got big enough that people who don't want a script have a lot to choose from. And man,                 |
-| 53:53      | you do right now, you do have a lot to choose from. Yeah, because if you look at this Kanban           |
+| 53:53      | you do right now, you do have a lot to choose from. Yeah, because if you look at this [[Kanban]]           |
 | 53:59      | setup, it's very similar to Rose, your script of the complete and await reply. Maybe I should          |
 | 54:05      | call it Kurt's script. I don't know, between the two of you. I would credit it to Kurt. I took         |
 | 54:09      | all of his logic and I just translated it into JavaScript. So really, it's all his.                    |
@@ -939,7 +939,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:16:38   | then you, you know, you just tap on the share sheet from your inbox,                                   |
 | 01:16:41   | and then you scroll down, and underneath copy, there's, there's a whole, you know,                     |
 | 01:16:46   | section where I've got, at a folder for each month, a signed priority,                                 |
-| 01:16:50   | you know, some different Kanban ones, because I've been playing with that                              |
+| 01:16:50   | you know, some different [[Kanban]] ones, because I've been playing with that                              |
 | 01:16:52   | complete in a wait reply, versus my inbox tasks, packing lists for a trip,                             |
 | 01:16:57   | and things like that, update reviews, thank you, Joe.                                                  |
 | 01:17:00   | Or sorts of things.                                                                                    |
@@ -1001,9 +1001,9 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:19:53   | But if you want to make it super, super easy to get to, if you go to view and then customise           |
 | 01:19:58   | toolbar, you can add it to the toolbar itself.                                                         |
 | 01:20:02   | And then it's just a one button click.                                                                 |
-| 01:20:04   | That's exactly what I did with the, the Kanban scripts we were talking about earlier.                  |
+| 01:20:04   | That's exactly what I did with the, the [[Kanban]] scripts we were talking about earlier.                  |
 | 01:20:09   | They're just all in the menu bar up there or the toolbar.                                              |
-| 01:20:12   | That way I can just click the individual ones I want to show me the Kanban perspective                 |
+| 01:20:12   | That way I can just click the individual ones I want to show me the [[Kanban]] perspective                 |
 | 01:20:17   | or show me the ones that are, or move this project to, to do or in progress or waiting,                |
 | 01:20:23   | clear it all out, call it done.                                                                        |
 | 01:20:25   | Like you can just put those in that toolbar and it makes it super, super quick to get to.              |

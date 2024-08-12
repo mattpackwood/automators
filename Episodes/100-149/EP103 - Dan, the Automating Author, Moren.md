@@ -84,7 +84,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 00:47      | This one was quite a journey, frankly, you know, shortcuts didn't start out so great                   |
 | 00:54      | on the Mac, but they really kind of picked up steam towards the end, and we got a great                |
 | 00:58      | field guide out of it.                                                                                 |
-| 00:59      | If you guys are interested, head over to learn.maxbargay.com, you can get it there.                    |
+| 00:59      | If you guys are interested, head over to [learn.macsparky.com](https://learn.macsparky.com), you can get it there.                    |
 | 01:04      | There is a 10% discount, which you can get for now for a short time.                                   |
 | 01:09      | There's two versions.                                                                                  |
 | 01:10      | The main version is just, you know, the field guide with the eight hours and 134 videos,               |
@@ -107,7 +107,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 02:16      | And I mean, you know, I've had a Mac since 1990, and I have messed around with a lot                   |
 | 02:22      | of different automation and programming aspects on the Mac over that period.                           |
 | 02:27      | In the earliest days, that was like playing around with the innards of apps via ResEdit                |
-| 02:33      | or doing a little bit of learning tinkering with tools like HyperCard.                                 |
+| 02:33      | or doing a little bit of learning tinkering with tools like [[HyperCard]].                                 |
 | 02:40      | And so I, you know, automation has always been a tricky area for me because it's something             |
 | 02:47      | that I am very interested in because I love the idea of doing less work.                               |
 | 02:52      | Everybody likes that.                                                                                  |
@@ -195,7 +195,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 07:36      | work on things and Google documents spawned every time there was a new puzzle we wanted                |
 | 07:40      | to work on.                                                                                            |
 | 07:41      | And we had a system to do it, but it was a little clunky and I discovered a service                    |
-| 07:45      | called Integromat and I just sort of dove into that and it was like so perfect for what                |
+| 07:45      | called [[Make\|Integromat]] and I just sort of dove into that and it was like so perfect for what                |
 | 07:51      | I need to do.                                                                                          |
 | 07:52      | And it was this exceedingly complex workflow where it like spins off and now spins off                 |
 | 07:56      | like [[Discord]] channels and Google Docs and files the Google Docs in the correct areas                   |
@@ -205,12 +205,12 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 08:11      | This is the thing that is like totally scratching my automation edge.                                  |
 | 08:14      | Oh, yeah.                                                                                              |
 | 08:15      | Yeah.                                                                                                  |
-| 08:16      | I really love Integromat.                                                                              |
-| 08:17      | They recently renamed to make.                                                                         |
-| 08:18      | Make?                                                                                                  |
+| 08:16      | I really love [[Make\|Integromat]].                                                                              |
+| 08:17      | They recently renamed to [[Make]].                                                                         |
+| 08:18      | [[Make]]?                                                                                                  |
 | 08:19      | Yeah.                                                                                                  |
 | 08:20      | Yeah.                                                                                                  |
-| 08:21      | I really like Integromat as well.                                                                      |
+| 08:21      | I really like [[Make\|Integromat]] as well.                                                                      |
 | 08:22      | And I have to say, I really like the visual aspect of it as well.                                      |
 | 08:24      | It works so nicely.                                                                                    |
 | 08:25      | And the fact that you've got the the branches and everything in there, it makes it feels               |
@@ -348,7 +348,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 14:54      | I mean, you talked to David about upper management and stuff like that, like, you know, who owns       |
 | 15:00      | the shortcuts for the apps?                                                                            |
 | 15:01      | I mean, [[Federico Viticci]] obviously mentioned this kind of stuff before, but like, you know,           |
-| 15:05      | they roll out new features at WWC and shortcuts rolls out new features.                                |
+| 15:05      | they roll out new features at [[WWDC]] and shortcuts rolls out new features.                                |
 | 15:10      | And it's like, well, is it the people on the apps who work on those apps that are responsible          |
 | 15:14      | for like making it work with shortcuts?                                                                |
 | 15:16      | Or is it the shortcuts team has to go to all those app people and be like, please, let's               |
@@ -369,10 +369,10 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 15:53      | and B, you can also access it in shortcuts.                                                            |
 | 15:54      | You have to talk about it every time, but like that's table stakes at this point.                      |
 | 15:58      | Yeah.                                                                                                  |
-| 15:59      | Like two that really stand out are Apple notes and reminders.                                          |
-| 16:01      | Like reminders got new features last year.                                                             |
+| 15:59      | Like two that really stand out are Apple notes and [[Apple Reminders\|Reminders]].                                          |
+| 16:01      | Like [[Apple Reminders\|Reminders]] got new features last year.                                                             |
 | 16:04      | Yeah.                                                                                                  |
-| 16:05      | And even though there is good support in shortcuts or reminders, none of the new features got          |
+| 16:05      | And even though there is good support in shortcuts or [[Apple Reminders\|Reminders]], none of the new features got          |
 | 16:09      | actions.                                                                                               |
 | 16:10      | Right.                                                                                                 |
 | 16:11      | And it's like, so is that the way it works?                                                            |
@@ -380,13 +380,13 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 16:17      | you to add it, assuming we're going to get it, you know, I mean,                                       |
 | 16:20      | Right.                                                                                                 |
 | 16:21      | Right.                                                                                                 |
-| 16:22      | It's max of like the reminders in notes team, you know, building new features and the shortcuts        |
+| 16:22      | It smacks of like the r[[Apple Reminders\|Reminders]] and [[Apple Notes\|Notes]] team, you know, building new features and the [[Shortcuts]]        |
 | 16:26      | team not knowing that those features exist until it comes out and you're like, uh, left                |
 | 16:30      | hand, right hand, come on guys, you know, talk to each other.                                          |
 | 16:33      | Yeah.                                                                                                  |
 | 16:34      | And I get that they have privacy and secrecy concerns.                                                 |
 | 16:37      | You know, Apple have had a lot of things leaked before and, you know, especially the week              |
-| 16:41      | or a couple of weeks before WWDC, which we're in as we record this episode and as it releases,         |
+| 16:41      | or a couple of weeks before [[WWDC]], which we're in as we record this episode and as it releases,         |
 | 16:46      | you know, I can imagine it must be really disheartening if you're a developer, you've                  |
 | 16:50      | been working on something for the last year, you know, you've been working really hard.                |
 | 16:54      | And there's going to be like a big keynote, everyone's going to get to watch it and find               |
@@ -440,9 +440,9 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 19:38      | You know, so I don't think the issue is leaks coming out of teams working together and making          |
 | 19:44      | a better product for the customer.                                                                     |
 | 19:45      | It just seems to me so counter-intuitive that, you know, there should be a shortcuts team               |
-| 19:51      | person talking to the reminders team and fully aware of what they're doing and saying, Hey,            |
+| 19:51      | person talking to the [[Apple Reminders\|Reminders]] team and fully aware of what they're doing and saying, Hey,            |
 | 19:57      | do you guys need help adding actions or do you want us to do it for you?                               |
-| 20:01      | So when we get to WWDC, they can say, not only do we have this cool feature, you can                   |
+| 20:01      | So when we get to [[WWDC]], they can say, not only do we have this cool feature, you can                   |
 | 20:05      | automate it right out of the box.                                                                      |
 | 20:07      | Instead of making all of us feel dumb, trying to figure out how to add that new feature and            |
 | 20:11      | ultimately realising they just didn't bother to add it, you know, I mean, I have faith in              |
@@ -550,7 +550,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 25:56      | It blew me away because looking at these different services, you go into something like IFTTT          |
 | 26:01      | or Zapi or whatever.                                                                                  |
 | 26:02      | It's like a pretty good menu of services available.                                                    |
-| 26:05      | I think Integromat blew me away because when you go in there, the number of services, it               |
+| 26:05      | I think [[Make\|Integromat]] blew me away because when you go in there, the number of services, it               |
 | 26:12      | had access to things that I did not see anywhere else and could do things with those APIs.             |
 | 26:17      | It's clear they spent the time building their modules for all these services to really take            |
 | 26:22      | advantage of them to the utmost.                                                                       |
@@ -575,9 +575,9 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 27:37      | it just sits there and whatever happens happens, and there is no need for you personally or            |
 | 27:44      | your devices to be involved, which I think is something that could be a win, having everything         |
 | 27:50      | offline on your machine and doing everything for you, depending on what you're doing.                  |
-| 27:54      | If you're trying to hook up, say, for example, I don't know, Airtable and Google Doc, then             |
+| 27:54      | If you're trying to hook up, say, for example, I don't know, [[Airtable]] and Google Doc, then             |
 | 28:00      | why would you want your Mac to get in the middle of that?                                              |
-| 28:03      | Airtable is online, Google Docs is online.                                                             |
+| 28:03      | [[Airtable]] is online, Google Docs is online.                                                             |
 | 28:06      | It makes sense to bridge that with an online tool, and I think that's what strikes me is               |
 | 28:11      | really interesting about that article that you wrote for the Mystery Puzzle Hunt, where                |
 | 28:18      | it's all online services, and so it makes perfect sense, but I had never really thought                |
@@ -634,7 +634,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 31:52      | And then something else comes along, a great new social media platform, and I don't have               |
 | 31:56      | to wait for somebody to create a WordPress plugin for that or try and create one myself                |
 | 32:02      | or create somebody to create it.                                                                       |
-| 32:04      | They're probably going to go and approach the Integromat Zapier if this, then that folks               |
+| 32:04      | They're probably going to go and approach the [[Make\|Integromat]] Zapier if this, then that folks               |
 | 32:08      | and say, hey, we've got an API.                                                                        |
 | 32:11      | Can you hook us up?                                                                                    |
 | 32:12      | Because that's promotion for us.                                                                       |
@@ -658,9 +658,9 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 33:26      | easier way to do it.                                                                                   |
 | 33:27      | Yeah, yeah, absolutely.                                                                                |
 | 33:29      | And I think that's one of the beauties of these things.                                                |
-| 33:31      | It's great that things like Airtable have got APIs and if you've got an Airtable account               |
-| 33:36      | and you've got a database for people who aren't familiar with the Airtable terminology in              |
-| 33:43      | Airtable.                                                                                              |
+| 33:31      | It's great that things like [[Airtable]] have got APIs and if you've got an [[Airtable]] account               |
+| 33:36      | and you've got a database for people who aren't familiar with the [[Airtable]] terminology in              |
+| 33:43      | [[Airtable]].                                                                                              |
 | 33:44      | They have a custom API page which is automatically generated for your base and then for every          |
 | 33:51      | table in your base and you add some example records and it just populates the whole thing.             |
 | 33:56      | It's amazing and magical.                                                                              |
@@ -870,7 +870,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 46:58      | things are happening. So we bounced back a lot of things and we came up, actually had some great       |
 | 47:02      | suggestions from a lot of our readers that basically were able to add clever ways to use               |
 | 47:09      | sort of like [[Unix]] timestamps and stuff like that to sort of fake your way into it and then             |
-| 47:14      | combined also with stuff on the Stream Deck so that we could essentially have a one button,            |
+| 47:14      | combined also with stuff on the [[Stream Deck]] so that we could essentially have a one button,            |
 | 47:20      | press a button and then choose either from like a preset menu of things that have gone wrong,          |
 | 47:25      | right? Like some of these connection drops or somebody swears and needs to get removed or              |
 | 47:29      | you want to put it in a chapter or an ad or something like that and then just have like                |
@@ -883,15 +883,15 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 48:01      | immediately and then go write stuff down, you're always going to lose some time. Yeah, exactly.        |
 | 48:06      | So this does it like instantaneously and that was, that was huge. So it is still something             |
 | 48:10      | that I use pretty frequently when I'm recording a podcast to like sort of hit a button on my           |
-| 48:15      | Stream Deck and be like, oh, yep, got it. Cross talk there or something. Got to take that out.         |
+| 48:15      | [[Stream Deck]] and be like, oh, yep, got it. Cross talk there or something. Got to take that out.         |
 | 48:19      | And it's a great workflow. I was going to say, I have something similar, which I stole                 |
-| 48:25      | from a previous guest on the show, which I'm using the Stream Deck pedal and I'm curious,              |
-| 48:29      | Stream Deck or streamed at pedal or both? I've only used the stream. I just, I have,                   |
-| 48:34      | I'm still in the introductory Stream Deck. I have the six button. I know I haven't done the trade,     |
+| 48:25      | from a previous guest on the show, which I'm using the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] and I'm curious,              |
+| 48:29      | [[Stream Deck]] or streamed at pedal or both? I've only used the stream. I just, I have,                   |
+| 48:34      | I'm still in the introductory [[Stream Deck]]. I have the six button. I know I haven't done the trade,     |
 | 48:38      | trade, you know, give it to a friend and then buy the bigger version yet, but I see how you people     |
-| 48:43      | work. So what you're saying is you're early in your Stream Deck indoctrination. Indeed.                |
+| 48:43      | work. So what you're saying is you're early in your [[Stream Deck]] indoctrination. Indeed.                |
 | 48:47      | You're only level one, you know, roses level six. So you got it. Yeah, I got it. I got a level up      |
-| 48:53      | here. I need some more. I only have two Stream Decks in this room. You're fine then. You're all        |
+| 48:53      | here. I need some more. I only have two [[Stream Deck\|Stream Decks]] in this room. You're fine then. You're all        |
 | 48:59      | good. Exactly. Yeah. So, uh, but that's, that's been something that's really, I think has, I think     |
 | 49:04      | the thing I struggle oftentimes the most with automation is not doing the automation itself,           |
 | 49:09      | but realising that there is a task to be automated. I think that's the thing that I often              |
@@ -915,7 +915,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 50:44      | grab a date. You set a variable to the current date. So you have that. If you have not entered any     |
 | 50:51      | input value, that's right. It's for the triggering. So he's got his presets where it basically can     |
 | 50:54      | send a payload and say, this is a tech problem. This is a crosstalk. This is somebody swearing,        |
-| 51:01      | et cetera, something like that. So it's already embedded in the triggers from his Stream Deck.         |
+| 51:01      | et cetera, something like that. So it's already embedded in the triggers from his [[Stream Deck]].         |
 | 51:06      | And if there is not text describing the issue, it throws up a prompt. So it doesn't ask for text       |
 | 51:12      | and lets you enter some sort of information about what happened. Otherwise, it uses a text action      |
 | 51:18      | which grabs the shortcut input. It then gets the contents. In my case, this is an alteration I've      |
@@ -1031,7 +1031,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:00:46   | a big priority for Jason and I when we were trying to design this to make it as portable as possible   |
 | 01:00:50   | and not depend on any, you know, external third parties or tools as good as they are. If you           |
 | 01:00:56   | want to make it portable, they're kind of stuck that way. Yeah. Just thinking out loud rows,           |
-| 01:01:00   | wouldn't Data Jar work for that? Data Jar would absolutely work for that. Data Jar would be a             |
+| 01:01:00   | wouldn't [[Data Jar]] work for that? [[Data Jar]] would absolutely work for that. [[Data Jar]] would be a             |
 | 01:01:04   | great way of storing that information. Other options, of course, include things like Toolbox         |
 | 01:01:09   | Pro and numerous other things, just saving a text file somewhere. But one thing that occurs to me      |
 | 01:01:15   | is if people are using Timery, it has a format duration option, which might be something that's        |
@@ -1211,20 +1211,20 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:16:39   | stealing this from you, though, sadly, not for comics. I might steal the comics too.                   |
 | 01:16:43   | It works for anything. Yeah.                                                                           |
 | 01:16:46   | Well, we're going to talk about how all of us consume digital media, like comics and books             |
-| 01:16:51   | in automakers max today. So let's put a pin in that. For now, Dan, I just want to thank you            |
+| 01:16:51   | in Automators max today. So let's put a pin in that. For now, Dan, I just want to thank you            |
 | 01:16:55   | for coming on gang. You can find Dan over D more in dot com. We didn't mention basically at all        |
 | 01:17:01   | today that Dan is an accomplished author. I mean, you got what now three books with a fourth on the    |
 | 01:17:06   | way, right, Dan? That's right. My fourth book, which is the Nova Incident, it comes out on July        |
 | 01:17:12   | 26th. So get your preorders in right now. Caledonian Gambit, Bayon Agenda, ALEF extraction.            |
 | 01:17:20   | They're good books, man. So go check it out. Support a fellow nerd and have a great ride               |
 | 01:17:26   | along the way. I recommend you do that. In fact, maybe you want to do it digitally,                    |
-| 01:17:30   | like we're going to talk about in automakers max today. Dan also writes over Six Colours.               |
+| 01:17:30   | like we're going to talk about in Automators max today. Dan also writes over Six Colours.               |
 | 01:17:34   | He's on the clockwise podcast, and you are a very common and frequent contributor over                 |
 | 01:17:40   | on the incomparable as well. Anything I missed, Dan? I also do a tech podcast called the Rebound       |
 | 01:17:46   | with John Moults and Lex Friedman, which is every week you can find it at reboundcast.com              |
 | 01:17:50   | or obviously in your podcast, listener of choice. All right. And we got links in the show notes        |
 | 01:17:55   | for all of that stuff as well as some of the shortcuts that Dan talked about today. So check           |
-| 01:17:59   | it out. Thanks again, Dan, for coming on. We are the automakers. You can find us on relayed on a       |
-| 01:18:03   | fan/automators. You can find our forums over at talk.automakers.fm. Thank you to our             |
+| 01:17:59   | it out. Thanks again, Dan, for coming on. We are the Automators. You can find us on relayed on a       |
+| 01:18:03   | fan/automators. You can find our forums over at talk.automators.fm. Thank you to our             |
 | 01:18:09   | sponsors today. That is our friends over at Electric, TextExpander, Hunter Douglas,                 |
 | 01:18:15   | and LinkedIn. And we'll see you next time. Bye, everyone.                                              |

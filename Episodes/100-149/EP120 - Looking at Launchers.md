@@ -135,7 +135,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 04:49      | Then if I hit Return on Rosemary for the version of your contact card, it's even better.              |
 | 04:55      | It's like I've got Apple Notes showing up that you're in reminders that we have together              |
 | 05:02      | and mail messages.                                                                                    |
-| 05:05      | Then at the top, they've got a button you can press to send a message, do a FaceTime                  |
+| 05:05      | Then at the top, they've got a button you can press to send a message, do a [[FaceTime]]                  |
 | 05:08      | call, send an email.                                                                                  |
 | 05:11      | I think they've done a really good job with things like that, of presenting data.                     |
 | 05:17      | When you do searches, it also does a really good job.                                                 |
@@ -254,8 +254,8 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 13:22      | and then close calculator instead of just being able to hit enter and go into something               |
 | 13:27      | else and paste it like I can with [[Alfred]] and [[Raycast]] and various other things.                        |
 | 13:32      | Interestingly, the pictures that show up when I do type Rosemary Orchard, there are                   |
-| 13:36      | a bunch of pictures of Stream Decks.                                                                  |
-| 13:38      | You and I have been sharing pictures of Stream Decks.                                                 |
+| 13:36      | a bunch of pictures of [[Stream Deck\|Stream Decks]].                                                                  |
+| 13:38      | You and I have been sharing pictures of [[Stream Deck\|Stream Decks]].                                                 |
 | 13:40      | Yeah, yeah, because it's pictures from our messages, right, the stuff that we've shared               |
 | 13:43      | with each other.                                                                                      |
 | 13:49      | So I feel like I'm being too harsh on spotlight.                                                      |
@@ -268,7 +268,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 14:24      | has any interest in it.                                                                               |
 | 14:26      | There's this emerging thing going on with Apple and Steve and I have been talking about               |
 | 14:30      | a lot of Mac power users where it seems like Apple decided a couple of years ago that they'd          |
-| 14:35      | make their productivity apps good and like you look at the emergence of reminders and                 |
+| 14:35      | make their productivity apps good and like you look at the emergence of [[Apple Reminders\|Reminders]] and                 |
 | 14:43      | notes and now they've got a mind capture idea with free form and I don't know what else               |
 | 14:51      | is out there coming down the road, but the productivity apps are actually getting really              |
 | 14:55      | good but they're not getting best in class, right?                                                    |
@@ -280,17 +280,17 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 15:22      | Yes, I agree.                                                                                         |
 | 15:23      | I think what they're doing is when they're making their productivity apps better, they                |
 | 15:27      | are reducing the need for people to go from, okay, right, I need something that's not                 |
-| 15:33      | just a list if we're using reminders as the example, I need something more and then landing           |
+| 15:33      | just a list if we're using [[Apple Reminders\|Reminders]] as the example, I need something more and then landing           |
 | 15:37      | in the app store and going, oh my God, there's like a bazillion things here and they buy              |
 | 15:42      | something and then they feel like they have to use it because they paid money for it but              |
 | 15:46      | they don't really like it and so on.                                                                  |
 | 15:47      | They are making it better so that the point where you need to go and find something better            |
 | 15:52      | is higher.                                                                                            |
 | 15:56      | And so that's of course a great goal.                                                                 |
-| 16:00      | My mom was asking me the other day, I want to be able to use more than one list in reminders.         |
+| 16:00      | My mom was asking me the other day, I want to be able to use more than one list in [[Apple Reminders\|Reminders]].         |
 | 16:06      | How do I do that?                                                                                     |
 | 16:07      | And I was like, okay, you just add a second list.                                                     |
-| 16:09      | You actually already have multiple lists in reminders as you just didn't realise it.                  |
+| 16:09      | You actually already have multiple lists in [[Apple Reminders\|Reminders]] as you just didn't realise it.                  |
 | 16:14      | And she actually wanted tags, it turned out.                                                          |
 | 16:17      | And I showed her how to make smart lists and so on and she was like, oh, this is really               |
 | 16:20      | useful, can I have a smart list of things that are tagged with this location?                         |
@@ -299,7 +299,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 16:29      | with that location, which is just genius.                                                             |
 | 16:31      | I love it.                                                                                            |
 | 16:33      | But it is one of those things where it is just, yeah, spotlight is good but it's not                  |
-| 16:40      | yet gone through the reminders and notes transformation levels.                                       |
+| 16:40      | yet gone through the [[Apple Reminders\|Reminders]] and notes transformation levels.                                       |
 | 16:44      | And maybe it will.                                                                                    |
 | 16:45      | Maybe it will.                                                                                        |
 | 16:46      | It's certainly getting there.                                                                         |
@@ -320,7 +320,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 17:44      | But yeah, just one of those things where it's something that actually feels slow is not               |
 | 17:49      | great.                                                                                                |
 | 17:50      | Yeah.                                                                                                 |
-| 17:51      | I mean, it's like if OmniFocus is a 10 of task managers, Reminders is a six, maybe even               |
+| 17:51      | I mean, it's like if OmniFocus is a 10 of task managers, [[Apple Reminders\|Reminders]] is a six, maybe even               |
 | 17:56      | a seven.                                                                                              |
 | 17:57      | It's really good.                                                                                     |
 | 17:59      | And where if [[Alfred]] is a 10 of launchers, spotlight, I think is a three or a four.                    |
@@ -770,7 +770,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 46:12      | If it's after that, it shows me a new one.                                                            |
 | 46:15      | For me, being able to go back and, okay, so I searched for this and that gave me that,                |
 | 46:19      | so I'm now going to search and I'm going to add another keyword onto this because I use               |
-| 46:24      | [[Alfred]] instead of directly typing into DuckDuckGo or Google or whatever.                              |
+| 46:24      | [[Alfred]] instead of directly typing into [[DuckDuckGo]] or Google or whatever.                              |
 | 46:30      | That gives me that.                                                                                   |
 | 46:31      | And storing the typed query means that if I hit the up arrow, I see the previous searches             |
 | 46:35      | that I've had.                                                                                        |
@@ -809,7 +809,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 48:28      | You definitely can't do this in spotlight is web search.                                              |
 | 48:30      | Okay, if I type something into [[Alfred]] or [[Raycast]] or spotlight or launch bar or [[Quicksilver]],           |
 | 48:37      | if you're storing that, you know, and it's not something that's just found as an action               |
-| 48:42      | or on my local machine, you'll get the option to Google it or DuckDuckGo it, depending on             |
+| 48:42      | or on my local machine, you'll get the option to Google it or [[DuckDuckGo]] it, depending on             |
 | 48:46      | what your preferences are.                                                                            |
 | 48:47      | But what you can do in [[Alfred]] is create a custom search and it's got a bunch of them                  |
 | 48:52      | built in.                                                                                             |
@@ -817,7 +817,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 49:00      | If I type STL, then it actually opens a website for finding 3D printer models for me, stlfinder.com.  |
 | 49:11      | And it will put my query into that.                                                                   |
 | 49:14      | But you can also just make these for whatever you like.                                               |
-| 49:16      | So I actually have some of these, which are just doing things like they're searching DuckDuckGo       |
+| 49:16      | So I actually have some of these, which are just doing things like they're searching [[DuckDuckGo]]       |
 | 49:21      | with site colon, whatever the URL is with the query.                                                  |
 | 49:27      | And I'm using that either because I can't script the search on the website or even if                 |
 | 49:31      | I can search the script on the website, I don't want just what comes up in the website                |
@@ -831,7 +831,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 49:59      | That's not something that they would probably want to do, quite frankly, because there's              |
 | 50:02      | a whole lot of stuff in there.                                                                        |
 | 50:03      | But it means that I can have whatever I like in the search and, you know, default ones                |
-| 50:07      | built in for eBay and Bing, Ask, LinkedIn, YouTube, Flickr, you know, DuckDuckGo, Google              |
+| 50:07      | built in for eBay and Bing, Ask, LinkedIn, YouTube, Flickr, you know, [[DuckDuckGo]], Google              |
 | 50:14      | Weather, Pinterest, and of course one that's built in for help.                                       |
 | 50:19      | So if I type help into [[Alfred]] and then I type, I don't know, bookmark, then it will search            |
 | 50:26      | the [[Alfred]] help for the word bookmark and actually show me some useful results and then               |

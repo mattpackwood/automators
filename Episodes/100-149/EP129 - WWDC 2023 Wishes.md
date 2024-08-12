@@ -46,7 +46,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 00:00      | Hello, and welcome to Automators, the Automation Podcast, where we talk about getting your            |
 | 00:06      | technology to do your work for you, or at least how we wish your technology could do                  |
 | 00:10      | your work for you, because that is the topic of today's episode.                                      |
-| 00:14      | My name is Rosemarie Orchard, and I'm joined, as always, by my pal and co-host, David Sparks.         |
+| 00:14      | My name is Rosemary Orchard, and I'm joined, as always, by my pal and co-host, David Sparks.         |
 | 00:18      | Hey, David, how are you?                                                                              |
 | 00:19      | Great, Rose.                                                                                          |
 | 00:20      | I feel like this is definitely a wish-based episode.                                                  |
@@ -55,20 +55,20 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 00:26      | I've got a smart water bottle right here on my desk, it's stainless steel, I'm rubbing                |
 | 00:28      | it, there's no genie, but I'm hopeful that Disney Magic is still present somewhere in                 |
 | 00:33      | the world, perhaps, maybe.                                                                            |
-| 00:35      | But either way, we're publishing this shortly before WWDC, so assuming that there is plenty           |
+| 00:35      | But either way, we're publishing this shortly before [[WWDC]], so assuming that there is plenty           |
 | 00:42      | of magic running around, we may see some of these, or maybe the Shortcuts team and the                |
 | 00:48      | Automation teams at Apple are actually just very smart, and they've been listening to                 |
 | 00:53      | the things that we've mentioned offhand over the last year or so, and been forming those              |
-| 00:57      | into actual features that we'll see at WWDC in just a week or so.                                     |
+| 00:57      | into actual features that we'll see at [[WWDC]] in just a week or so.                                     |
 | 01:02      | Yeah, I feel like if we want to make this show more influential, we should probably                   |
 | 01:05      | do it in January, because...                                                                          |
 | 01:08      | I feel like, actually, now is a great time to be doing it, but iOS 17 is going to come                |
 | 01:13      | out in September.                                                                                     |
-| 01:14      | This wishlist is probably realistically iOS 18, because that's how much development lead              |
+| 01:14      | This wish list is probably realistically iOS 18, because that's how much development lead              |
 | 01:18      | time you need with testing and everything else to get it in as a big feature in the                   |
-| 01:23      | WWDC keynote.                                                                                         |
+| 01:23      | [[WWDC]] keynote.                                                                                         |
 | 01:24      | But, of course, there will be updates later.                                                          |
-| 01:27      | But that's the idea today, is we're heading into WWDC.                                                |
+| 01:27      | But that's the idea today, is we're heading into [[WWDC]].                                                |
 | 01:30      | We don't know what's going to come out.                                                               |
 | 01:31      | As of this recording, there haven't been massive leak bombs.                                          |
 | 01:36      | And you don't normally get those on Automation, because it's not sexy enough to warrant leak          |
@@ -96,7 +96,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 02:58      | So we're going to be going through them today.                                                        |
 | 03:01      | For the bonus section for Automator's Max, which is the version of the show you get that's            |
 | 03:07      | ad-free and has additional content, Rose today and I are going to be talking about how to             |
-| 03:12      | best view WWDC and how to get the goods on all the stuff we're talking about today.                   |
+| 03:12      | best view [[WWDC]] and how to get the goods on all the stuff we're talking about today.                   |
 | 03:17      | So we'll be covering that in detail in Automator's Max later, but we've got some categories here.     |
 | 03:23      | Let's start with the first one that we are generally calling OS improvements, you know,               |
 | 03:30      | improvements to the general operating system that will make life easier for automators.               |
@@ -177,11 +177,11 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 08:05      | Well, I guess if you have to go to the hospital regularly for tests, but there's also a stethoscope.  |
 | 08:09      | It feels like there's a lot of duplication here and somebody just went through and thought            |
 | 08:16      | up a list quickly of symbols and if I'm not wrong, it's actually the same icon list that's            |
-| 08:21      | available in reminders for you to create like smart lists where you've got those options.             |
+| 08:21      | available in [[Apple Reminders\|Reminders]] for you to create like smart lists where you've got those options.             |
 | 08:30      | So it does look very, very similar actually.                                                          |
-| 08:32      | I think that the reminders list has expanded a bit more.                                              |
+| 08:32      | I think that the [[Apple Reminders\|Reminders]] list has expanded a bit more.                                              |
 | 08:36      | So yeah, maybe there should just be parity because the symbols available and colours available         |
-| 08:40      | in shortcuts, reminders, and focus modes don't actually line up.                                      |
+| 08:40      | in shortcuts, [[Apple Reminders\|Reminders]], and focus modes don't actually line up.                                      |
 | 08:45      | So just give us more in all the places, please.                                                       |
 | 08:47      | Yeah, I mean, that really is a great point, Rose, because I feel like one of the way you              |
 | 08:53      | get users to adopt the feature is to allow them to make it more their own and colours                  |
@@ -358,7 +358,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 20:17      | I agreed with all of that, but I would say that I feel like mail is ripe.                             |
 | 20:24      | And this is a year where we're going to find out if last year was a fluke or if last year             |
 | 20:27      | was the beginning of a trend because some of the Apple productivity apps and notes and                |
-| 20:32      | reminders in particular got better and then kept getting better and some get like one                 |
+| 20:32      | [[Apple Reminders\|Reminders]] in particular got better and then kept getting better and some get like one                 |
 | 20:38      | year of support and then they kind of go back into the wilderness.                                    |
 | 20:41      | And I don't know what that will be this year, but if they were going to improve mail, they            |
 | 20:45      | should definitely work on the automation elements of it and even some of the things like deferred     |
@@ -521,7 +521,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 31:13      | this are going to be a little bit more advanced, I don't know.                                        |
 | 31:17      | But I do feel like if they want the automation platform to expand, then having third party            |
 | 31:25      | triggers is going to help that.                                                                       |
-| 31:27      | And when you look at some of the stuff you can do in reminders with automation versus                 |
+| 31:27      | And when you look at some of the stuff you can do in [[Apple Reminders\|Reminders]] with automation versus                 |
 | 31:32      | what you can do in OmniFocus, it's solely because one is made by the platform vendor                  |
 | 31:37      | and one is not.                                                                                       |
 | 31:38      | And I'd like to get to see it a little bit more of an even playing field.                             |
@@ -841,7 +841,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 52:04      | Or like, do you want solo navigation is probably what I would have it ask.                            |
 | 52:10      | And I can say yes, if I'm on my own or no, if I'm with other people.                                  |
 | 52:13      | And that would just be very nice.                                                                     |
-| 52:16      | Okay, we stretched a little bit with this next category because it's WWDC.                            |
+| 52:16      | Okay, we stretched a little bit with this next category because it's [[WWDC]].                            |
 | 52:22      | But why not?                                                                                          |
 | 52:23      | Right?                                                                                                |
 | 52:24      | There are already automation wishes related to the Apple ecosystem.                                   |
@@ -1085,7 +1085,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:07:58   | The fact that those kind of come under the same umbrella, but it's more the light in                  |
 | 01:08:02   | the dark side of the moon, it's confusing for users.                                                  |
 | 01:08:07   | Okay.                                                                                                 |
-| 01:08:08   | So now we're going to expand our wishing into hardware and just WWDC in general.                      |
+| 01:08:08   | So now we're going to expand our wishing into hardware and just [[WWDC]] in general.                      |
 | 01:08:14   | This is our last chance to talk before it happens.                                                    |
 | 01:08:17   | What are you looking forward to, Rose?                                                                |
 | 01:08:19   | Well, I mean, so we got a Purple iPhone Pro this year.                                                |

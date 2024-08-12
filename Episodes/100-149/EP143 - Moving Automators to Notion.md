@@ -144,7 +144,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 05:21      | But it is useful and especially in the context of collaboration.                                     |
 | 05:27      | But maybe before we get into what we're doing with [[Notion]], we should talk about where we             |
 | 05:30      | were and why we're leaving.                                                                          |
-| 05:33      | Yeah, yeah, because to be clear, it's not that we hate Airtable and Google Docs now.                 |
+| 05:33      | Yeah, yeah, because to be clear, it's not that we hate [[Airtable]] and Google Docs now.                 |
 | 05:38      | That is not the case.                                                                                |
 | 05:40      | We have just decided though we're going to simplify things and use this as an opportunity            |
 | 05:45      | to review the workflows and processes involved and see if we can simplify stuff.                     |
@@ -175,20 +175,20 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 07:35      | It was a good idea to experiment with it and even had automation options, but it was not             |
 | 07:40      | the best solution.                                                                                   |
 | 07:41      | So we then moved from just kind of, we're just going to have like a standard shared                  |
-| 07:47      | Mac OS iOS calendar to and Quip to we're going to use Google Docs and Airtable.                      |
-| 07:55      | And so we had a really lovely database set up in Airtable so we'd have, you know, all                |
+| 07:47      | Mac OS iOS calendar to and Quip to we're going to use Google Docs and [[Airtable]].                      |
+| 07:55      | And so we had a really lovely database set up in [[Airtable]] so we'd have, you know, all                |
 | 08:00      | the future shows that we were planning, you know, we had a list of guests with who was               |
 | 08:04      | like the main contact person for the guests and so on and so forth in there.                         |
 | 08:08      | So we could plan everything.                                                                         |
-| 08:10      | And then I set up some Zapier and make a formerly known as Integromat automations that when,         |
-| 08:18      | for example, when we'd set up a show in Airtable, it would go and create a new Google Doc for        |
+| 08:10      | And then I set up some Zapier and make a formerly known as [[Make\|Integromat]] automations that when,         |
+| 08:18      | for example, when we'd set up a show in [[Airtable]], it would go and create a new Google Doc for        |
 | 08:23      | us and put it in the right place and, you know, replace bits of text in it and so on                 |
 | 08:27      | and so forth.                                                                                        |
 | 08:29      | And this was all working pretty well.                                                                |
 | 08:30      | Google Docs is pretty much bulletproof when it comes to multiple people editing at the               |
 | 08:33      | same time and so on.                                                                                 |
 | 08:35      | But the problem is really like understanding that we needed like these four fields filled            |
-| 08:40      | out in Airtable to, you know, produce the Google Doc and so on.                                      |
+| 08:40      | out in [[Airtable]] to, you know, produce the Google Doc and so on.                                      |
 | 08:45      | Why can't we just have this in one system when actually [[Notion]] is kind of perfect for                |
 | 08:48      | this.                                                                                                |
 | 08:49      | You can have a record in [[Notion]] that itself is a document with a whole bunch of text in              |
@@ -238,11 +238,11 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 11:43      | So then we got thinking, well, what could we do more if we had it all in one place?                  |
 | 11:47      | And we are still experimenting with it to be honest with you.                                        |
 | 11:51      | But I find it really nice in the sense that we have one database that can be displayed               |
-| 11:58      | as a database or a list or a Kanban board and using different filters.                               |
+| 11:58      | as a database or a list or a [[Kanban]] board and using different filters.                               |
 | 12:05      | And this is a, to a certain extent automation, you're setting up sort criteria and filter            |
 | 12:09      | criteria.                                                                                            |
 | 12:10      | So you can just go in there at any time and see.                                                     |
-| 12:12      | And if like I have an idea for a show, I just put it in the idea Kanban column and then              |
+| 12:12      | And if like I have an idea for a show, I just put it in the idea [[Kanban]] column and then              |
 | 12:19      | Rose sees it too, and we can think about it and if we decide to add it to a show, then               |
 | 12:23      | it gets a number and gets kind of into the system.                                                   |
 | 12:26      | But it's like one database where things that we used to do in multiple documents are all             |
@@ -267,7 +267,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 13:34      | topics are we going to talk about and so on and so forth so that we can put all of that              |
 | 13:38      | together.                                                                                            |
 | 13:39      | And that was just, you know, we had an outline in Google Docs that, you know, was being manipulated  |
-| 13:44      | and massaged together by Make.                                                                       |
+| 13:44      | and massaged together by [[Make]].                                                                       |
 | 13:49      | And you know, we were able to just take that and modify it a little bit and turn it into             |
 | 13:55      | a [[Notion]] template that now whenever we create a new episode idea, it just feels like, you            |
 | 14:02      | know, it just pops up in [[Notion]] and ta-da, we have our outline ready to go.                          |
@@ -283,7 +283,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 14:42      | focus shows.                                                                                         |
 | 14:43      | We could come up with several templates where the kinds of things we cover in those shows            |
 | 14:47      | are just automatically populated into the show outline for us.                                       |
-| 14:51      | And that's kind of what we're doing with Make, but a little different.                               |
+| 14:51      | And that's kind of what we're doing with [[Make]], but a little different.                               |
 | 14:56      | But I do think one of the things that surprised me about [[Notion]] as we got started with it            |
 | 15:00      | is that [[Notion]] has a significant amount of automation built right into the application.              |
 | 15:07      | I mean, there are ways to automate it from outside, but for a lot of people that get                 |
@@ -293,11 +293,11 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 15:23      | you're evaluating a new automation tool, you know, not just how much can it be automated,            |
 | 15:28      | but more automation or just basic features that are part of this will make your life                 |
 | 15:35      | easier that it bakes right into it.                                                                  |
-| 15:38      | So you know, the fact that we have templates, we have the ability to have a Kanban view              |
+| 15:38      | So you know, the fact that we have templates, we have the ability to have a [[Kanban]] view              |
 | 15:42      | and two calendar views, one for when we're recording and one for when we're releasing                |
 | 15:47      | and things like that, that makes this a really good choice for us.                                   |
-| 15:50      | You know, we were using Airtable, we could have the Kanban view and the calendar views               |
-| 15:55      | and the different table views in Airtable, and we did, but the fact that we have that                |
+| 15:50      | You know, we were using [[Airtable]], we could have the [[Kanban]] view and the calendar views               |
+| 15:55      | and the different table views in [[Airtable]], and we did, but the fact that we have that                |
 | 16:00      | and the show notes in [[Notion]] definitely puts [[Notion]], you know, a little bit up there.                |
 | 16:05      | It's also very simple to use, so you know, when we've got guests on the show and so on,              |
 | 16:09      | we can send them a link to a [[Notion]] file or the [[Notion]] document for the show and just                |
@@ -320,7 +320,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 17:20      | of the things I was thinking about doing ultimately, I didn't do it, but I did some tests with       |
 | 17:25      | it is I have a task list related to each podcast episode.                                            |
 | 17:30      | And you know, I've got ways to script that an OmniFocus or or or [[Obsidian]] or wherever                |
-| 17:34      | you want to put or Apple reminders, there's a lot of ways you can do that.                           |
+| 17:34      | you want to put or [[Apple Reminders]], there's a lot of ways you can do that.                           |
 | 17:38      | But like for every show, I need to work on the outline, I need to get the ads recorded.              |
 | 17:42      | If it's mine to publish, I need to get a published.                                                  |
 | 17:44      | So I have a generated task list per show.                                                            |
@@ -809,7 +809,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 48:23      | at the same data with just two different views, that's better.                                       |
 | 48:28      | And that is where something like notion really does excel.                                           |
 | 48:31      | And the fact that it has automation built into it, and it has integrations now with                  |
-| 48:35      | things like Zap here, and Make, formerly Integromat, and you can add if this and that                |
+| 48:35      | things like [[Zapier}]], and [[Make]], formerly [[Make\|Integromat]], and you can add if this and that                |
 | 48:42      | and so on, if you want to.                                                                           |
 | 48:45      | And there's options using things like Automate and [[Drafts]] and so on on your devices.                 |
 | 48:51      | I think that that's the point where it goes from, this is a really great idea in theory              |
@@ -1100,7 +1100,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:05:15   | Oh, gosh, I can feel the excitement coming through right back at me.                                 |
 | 01:05:21   | So I use this and what it does activates [[Audio Hijack]] and it starts the recording and it             |
 | 01:05:25   | sets the timestamp in the [[Keyboard Maestro]] macro.                                                    |
-| 01:05:28   | So whenever I hit my foot pedal on my Stream Deck, then it goes into the [[BBEdit]] document,           |
+| 01:05:28   | So whenever I hit my foot pedal on my [[Stream Deck]], then it goes into the [[BBEdit]] document,           |
 | 01:05:34   | which is the show notes and then it's a return key and then pastes the timestamp with a colon        |
 | 01:05:39   | so I can just type whatever after that so that Jim are fabulous editor who seriously,                |
 | 01:05:44   | one of the best automation hacks for podcasting is to get a really great editor like Jim and         |

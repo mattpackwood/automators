@@ -267,12 +267,12 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 19:06      | got access to Google docs, you know. Yeah. But you can log in to quip with any Gmail accounts. So         |
 | 19:14      | it's one extra step for people. Yeah. But in some people, it would be weird.                              |
 | 19:18      | I've never had trouble getting a guest in to quip. Yeah. The thing I've been doing lately on the          |
-| 19:23      | automation levels, because we're going to do a show in the future on Make. It used to be                  |
-| 19:28      | Integromat. And I've been working on Google doc automation via Make and trying different, you             |
+| 19:23      | automation levels, because we're going to do a show in the future on [[Make]]. It used to be                  |
+| 19:28      | [[Make\|Integromat]]. And I've been working on Google doc automation via [[Make]] and trying different, you             |
 | 19:36      | know, templates and samples. When we get to that show, we want to be able to talk about it more.          |
 | 19:42      | And that's an angle of this. I really have not explored much in the past, but you can actually            |
 | 19:47      | do a lot with some of these online document services and the online automation tools.                     |
-| 19:52      | Are you into any of that like, you know, Integromat slash Make or, you know, Zapier or any of that        |
+| 19:52      | Are you into any of that like, you know, [[Make\|Integromat/Make]] or, you know, Zapier or any of that        |
 | 19:59      | stuff? I use Zapier and I have TTT, but not extensively. I have TTT has really good support               |
 | 20:09      | for day one, which is where I do all my journalling. So I have a bunch with them years ago. And it's       |
 | 20:15      | like every MacSparky blog post gets added to my journal and like tweets that I heart,                    |
@@ -750,7 +750,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:10:55   | All right. I will check that out because what you just described, I have that exact same automation       |
 | 01:11:01   | setup in Indigo where I have a motion detector on my office. If I walk in and it's between certain        |
 | 01:11:07   | hours, it will turn on the lights to 20%. And then if I, after sitting in, you know,                      |
-| 01:11:15   | semi-darkness for a while, decide, okay, my eyes have adjusted. If I hit a button on my Stream Deck       |
+| 01:11:15   | semi-darkness for a while, decide, okay, my eyes have adjusted. If I hit a button on my [[Stream Deck]]       |
 | 01:11:21   | that raises the lights to 100%, it registers that I have manually overridden. And next time that          |
 | 01:11:29   | motion detector goes off, it will just give me back to 100% until the next, that night cycle              |
 | 01:11:36   | happens again. I think that's totally possible with [[Home Assistant]]. Yeah. Okay. Good to know.             |

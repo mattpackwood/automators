@@ -145,7 +145,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 04:58      | You've got a very cool automation.                                                                                 |
 | 04:59      | I want to give you the most time on this, but just real quick, the way I've done packing lists,                    |
 | 05:04      | I don't even think it qualifies as automation, but Rose says I have to tell you about it.                          |
-| 05:09      | If you go on reminders, I just have a list called packing list and I've added to it over the years.                |
+| 05:09      | If you go on [[Apple Reminders\|Reminders]], I just have a list called packing list and I've added to it over the years.                |
 | 05:14      | I've got so much stuff in there.                                                                                   |
 | 05:16      | I was just looking and I've got an entry called fancy socks, you know,                                             |
 | 05:19      | because sometimes I go to a wedding or something.                                                                  |
@@ -155,14 +155,14 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 05:32      | And if you were here with the 10,000 people, you'd be able to get one of her stickers.                             |
 | 05:37      | But so I just added Rose stickers.                                                                                 |
 | 05:39      | I've got this list and they're all checked off all the time, except when I prepare for a trip.                     |
-| 05:42      | And then in reminders, you can say, show me the completed items.                                                   |
+| 05:42      | And then in [[Apple Reminders\|Reminders]], you can say, show me the completed items.                                                   |
 | 05:46      | And I'll just scroll through that list and click on the ones that I want to add to the packing list for this trip. |
 | 05:51      | And because I've got such a kind of encompassing list, it's very easy to populate that.                            |
-| 05:57      | The other advantage of reminders is you can share that with someone.                                               |
+| 05:57      | The other advantage of [[Apple Reminders\|Reminders]] is you can share that with someone.                                               |
 | 06:00      | So I share with my spouse when we're doing like a family trip and she can be checking items off as well.           |
-| 06:04      | And reminders is the right speed for her.                                                                          |
-| 06:07      | I know there's some really cool packing apps, but and I have some good ideas of the reminders,                     |
-| 06:12      | but forget everything because Rose has turned this into a serious shortcut.                                        |
+| 06:04      | And [[Apple Reminders\|Reminders]] is the right speed for her.                                                                          |
+| 06:07      | I know there's some really cool packing apps, but and I have some good ideas of the [[Apple Reminders\|Reminders]],                     |
+| 06:12      | but forget everything because Rose has turned this into a Siri shortcut.                                        |
 | 06:16      | Well, I did used to use an app called TripList, which syncs with Tripit, but it hasn't updated for the iPhone 10.  |
 | 06:22      | And now I have an iPhone 10S Max, so it just looks horrific.                                                       |
 | 06:24      | So I gave up on that and said, OK, I'm doing this in shortcuts.                                                    |
@@ -181,7 +181,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 07:00      | Well, I may need to add fancy socks to my packing list.                                                            |
 | 07:03      | But essentially what I do is I build this dictionary.                                                              |
 | 07:05      | So the keys are the different kinds of things that I pack, like clothing, technology, random stuff                 |
-| 07:11      | that apparently I need on the plane, like Nintendo Switch, because why not?                                        |
+| 07:11      | that apparently I need on the plane, like [[Nintendo Switch]], because why not?                                        |
 | 07:15      | And things like that.                                                                                              |
 | 07:16      | And then I go through and I have it give me the list of the keys.                                                  |
 | 07:22      | So it's like, OK, do you need to pack clothing?                                                                    |
@@ -193,7 +193,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 07:44      | Because I do everything in OmniFocus, including my packing lists.                                                  |
 | 07:46      | And what I do is I add a specific tag to everything.                                                               |
 | 07:50      | And this tag is called the packing tag.                                                                            |
-| 07:51      | And most of the time this tag is on hold because, for example, the trip to WWDC,                                   |
+| 07:51      | And most of the time this tag is on hold because, for example, the trip to [[WWDC]],                                   |
 | 07:56      | that's going to happen in June this year, I do not need to see the fact that I need                                |
 | 08:00      | to pack five pairs of socks.                                                                                       |
 | 08:02      | Like right now that is not important in my day to day life.                                                        |

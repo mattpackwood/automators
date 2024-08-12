@@ -450,7 +450,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 21:05      | Well, I'm just trying to read and relax.                                                               |
 | 21:08      | So I've just automated that, and it's great because I just open the app and it happens.                |
 | 21:14      | I think that the app launch trigger, it's interesting because when we were talking about this at         |
-| 21:17      | WWDC, we're like, well, what do you need that for?                                                     |
+| 21:17      | [[WWDC]], we're like, well, what do you need that for?                                                     |
 | 21:19      | And the best idea we could come up with was Timery that you would automatically fire off               |
 | 21:24      | your Timers when you start something like the Open OmniFocus start your planning timer                 |
 | 21:31      | or you open Ulysses start your writing timer, which is good, and that's a way to use it.               |
@@ -749,7 +749,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 39:03      | That's true.                                                                                           |
 | 39:04      | Even as a passenger, there may be something different I want to do.                                    |
 | 39:07      | So the I'm definitely putting one inside the refrigerator and I'm going to use that to                 |
-| 39:13      | trigger the shared grocery list and reminders list that we have.                                       |
+| 39:13      | trigger the shared grocery list and [[Apple Reminders\|Reminders]] list that we have.                                       |
 | 39:17      | So when I look and then we run out of carrots, I can just tap it and get to work.                      |
 | 39:22      | So I don't know.                                                                                       |
 | 39:23      | I'm going to have fun with this.                                                                       |
@@ -855,10 +855,10 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 44:58      | this new programming interface, with this new ability of developers to build their                     |
 | 45:03      | own actions, where do you see the future of URL shortcuts in all of this?                              |
 | 45:10      | Well, I think it's going away, and I don't know if it absolutely should go away, because               |
-| 45:16      | for example, having the ability to put a link to a Dev and Think object inside of an Omni              |
+| 45:16      | for example, having the ability to put a link to a [[DEVONthink]] object inside of an Omni              |
 | 45:21      | focused task so that I can just jump to either a PDF or a group of items is, for me, something         |
 | 45:29      | extremely useful, especially for anything relating to my Master's degree, because without              |
-| 45:35      | Dev and Think, I'm pretty certain that my Master's degree would be probably on fire                    |
+| 45:35      | [[DEVONthink]], I'm pretty certain that my Master's degree would be probably on fire                    |
 | 45:38      | somewhere, crying in a corner, rather than doing relatively well as it currently is,                   |
 | 45:44      | because I don't do well if I'm not organised, and for things like that, I definitely need              |
 | 45:49      | interrupt links to remain available, but at the same time, it would be great if the shortcuts          |
@@ -1024,7 +1024,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 55:32      | Then I've got a whole series of them for show prep for all my various podcasts where it                |
 | 55:36      | takes me to the Google doc or the Quip doc or wherever I'm doing the work.                              |
 | 55:42      | Another one opens up my blogging application.                                                          |
-| 55:45      | Another one goes to Airtable.                                                                          |
+| 55:45      | Another one goes to [[Airtable]].                                                                          |
 | 55:46      | Another one goes to the, I have a bunch of emails and things that I automate when I send               |
 | 55:54      | like a sponsor.                                                                                        |
 | 55:56      | I have to send them an email with preparation.                                                         |
@@ -1168,7 +1168,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:03:56   | So once again, that's smilesoftware.com/podcast.                                                 |
 | 01:04:00   | Go check it out.                                                                                       |
 | 01:04:01   | Thanks to PDF pin for their support of this show and all of Relay FM.                                  |
-| 01:04:06   | So when we were at WWDC, I was thinking, well, I can just do an update to the shortcuts                |
+| 01:04:06   | So when we were at [[WWDC]], I was thinking, well, I can just do an update to the shortcuts                |
 | 01:04:17   | field guide.                                                                                           |
 | 01:04:18   | And then I started looking at it and I realised everything has changed.                                |
 | 01:04:22   | Nothing is the same.                                                                                   |
@@ -1308,7 +1308,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:11:55   | people out there with iPhones and or iPads and it's going to be on every single one of                 |
 | 01:12:00   | them from the end of the month, so I think it's worth the discussion.                                  |
 | 01:12:05   | Yeah.                                                                                                  |
-| 01:12:06   | When we had the meet up at WWDC, a large portion of the shortcuts team came to the meet up and           |
+| 01:12:06   | When we had the meet up at [[WWDC]], a large portion of the shortcuts team came to the meet up and           |
 | 01:12:15   | the thing that was surprising for me was number one, the number of people on the team                  |
 | 01:12:19   | that is a big team and number two is the eagerness that they have to find out where are we hitting     |
 | 01:12:27   | roadblocks and how can they make it better?                                                            |

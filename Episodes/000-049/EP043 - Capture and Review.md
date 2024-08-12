@@ -227,7 +227,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 13:12      | Don McAllister. Because I already have this information, essentially the variables that                |
 | 13:17      | I would use to fill this out, I thought I can go a step further and actually completely                 |
 | 13:24      | automate the filling out of the variables so that I don't have to try and talk to Podio                 |
-| 13:30      | in the background or to parse this data and put it into Airtable when I really only needed              |
+| 13:30      | in the background or to parse this data and put it into [[Airtable]] when I really only needed              |
 | 13:34      | to make an OmniFocus project so that I can then run a shortcut. So I just want something                |
 | 13:40      | inside of my OmniFocus that says, hey, like you need to create this task. So what happens               |
 | 13:47      | is a new show is assigned to me, and this has a ton of information in there. And then                   |
@@ -260,7 +260,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 16:12      | I think we're going to do show at some point, just talking through [[Drafts]] and how we automate           |
 | 16:16      | with it, because there is so much you can do with it now that it's on the back too.                     |
 | 16:19      | But the the I wanted to just to kind of put a point on this in terms of capturing tasks                 |
-| 16:27      | through project templates, whether you use Apple Reminders or a text list or something                  |
+| 16:27      | through project templates, whether you use [[Apple Reminders]] or a text list or something                  |
 | 16:35      | fancy like OmniFocus, this is a technique I just can't recommend enough if you're interested            |
 | 16:40      | in automation. This makes so much sense. I got inspired to do this after reading a book                 |
 | 16:45      | a few years ago called [The Checklist Manifesto](https://atulgawande.com/book/the-checklist-manifesto/). It was a book by a surgeon just talking about           |
@@ -371,7 +371,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 25:09      | a text action in shortcuts. And I do my split text and repeat with each on those. And then              |
 | 25:14      | I just pop up and ask for input box for every single one of those items. And this is great              |
 | 25:19      | because you can use this with any task management system. I usually dub these to my OmniFocus           |
-| 25:24      | inbox, but you could put them in reminders or to do as any of them. And then it just,                   |
+| 25:24      | inbox, but you could put them in [[Apple Reminders\|Reminders]] or to do as any of them. And then it just,                   |
 | 25:29      | you know, it pops up and it's like, okay, groceries. And then they're go, Oh, right.                    |
 | 25:32      | Yeah. So I actually, I need to go buy spicy carrots or something to borrow from one of                  |
 | 25:36      | your previous screencasts or chocolate in my case is pretty much always on that list.                   |
@@ -478,7 +478,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 33:40      | optical character recognition, it can get a little bit weird, which is to say, very unexpected          |
 | 33:47      | results, sometimes very interesting results. I'm sure I've created many new words by doing this.        |
 | 33:53      | But in general, at the moment, I'm just taking a photograph of these things. And depending              |
-| 33:56      | on what it is, it might get attached to a task in OmniFocus or get put into Dev and Think,              |
+| 33:56      | on what it is, it might get attached to a task in OmniFocus or get put into [[DEVONthink]],              |
 | 34:01      | or even occasionally these things end up in day one. But a lot of the time I take a photo as            |
 | 34:07      | reference and then convert it to whatever its finished format is at some point.                         |
 | 34:12      | Yeah, that's what I do too. The only people that ever see those are me, because if you saw them,        |
@@ -578,7 +578,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 42:49      | the shortcut that will just capture a specific type of task. I have an automation task shortcut.        |
 | 42:55      | That's a good idea. This, this sounds crazy. But essentially, all it is is create this automation.      |
 | 43:00      | Because then I end up with things like, for example, I recently wrote a script that runs on             |
-| 43:05      | my server, it fetches data from Airtable, and it renames toggle projects when, when they need to        |
+| 43:05      | my server, it fetches data from [[Airtable]], and it renames toggle projects when, when they need to        |
 | 43:12      | be renamed. And this is really helpful. But I've had that idea kicking around for six months.           |
 | 43:19      | Now it's very easy to say, Oh, yeah, I'll just create a shortcut to do that. And I tried and            |
 | 43:22      | failed a couple of times because I had issues with the toggle API. It's not, it probably                |
@@ -944,7 +944,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 01:15:58   | And I have options in there to, to ask, to determine whether or not these should be run. So             |
 | 01:16:05   | like for example, your time tracking, should your time tracking be run or not run? And so,              |
 | 01:16:10   | well, it would be a little bit more work to set up in the first place. You could theoretically get      |
-| 01:16:15   | maybe a global variable from Toolbox Pro or get data out of Data Jar. And it should say, hey,           |
+| 01:16:15   | maybe a global variable from Toolbox Pro or get data out of [[Data Jar]]. And it should say, hey,           |
 | 01:16:20   | should I run time tracking? If yes, then run the time reaction. And then just delete your otherwise.    |
 | 01:16:27   | And then you can turn time tracking on and off globally and have it in all of your                      |
 | 01:16:33   | shortcuts or none of your shortcuts, but you don't have to edit your shortcut every single time.        |
@@ -969,7 +969,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 01:18:05   | not working, the time tracking at work, our servers changed and various things happened.                |
 | 01:18:10   | So I didn't want to be running that for the time being. So that was another variable,                   |
 | 01:18:14   | and I had them all stored at the top of the shortcut, but then I had other shortcuts that I             |
-| 01:18:17   | needed to access these same things in. And that's when I started using Data Jar to store these meta       |
+| 01:18:17   | needed to access these same things in. And that's when I started using [[Data Jar]] to store these meta       |
 | 01:18:23   | variables for whether or not sections of my shortcuts should run, especially sections that              |
 | 01:18:29   | are in multiple shortcuts. Yeah, that's a great idea, that app. But time, I guess the short             |
 | 01:18:35   | version of this is, if you want to do time tracking with Toggle, get Timery and just pay for the        |

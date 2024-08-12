@@ -73,7 +73,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 01:07      | like an app on your phone that you open and like it talks to the device.                           |
 | 01:13      | So some of them are like little cameras and so on so that you can view something but you           |
 | 01:18      | don't have to like hook it up to another Wi-Fi network.                                            |
-| 01:21      | My Nintendo Switch is another obvious example of this and I've got a DJI Osmo pocket which         |
+| 01:21      | My [[Nintendo Switch]] is another obvious example of this and I've got a DJI Osmo pocket which         |
 | 01:30      | does the same sort of thing where it's got its Wi-Fi network and you can connect to                |
 | 01:33      | it to download the photos and open and control the camera.                                         |
 | 01:38      | And so I have been setting up little shortcuts automations for these.                              |
@@ -411,7 +411,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 21:30      | And so at the end of the day, and after I finish going through with the email and things,          |
 | 21:35      | I try to shut the day down and go through and make sure everything is just kind of ready           |
 | 21:40      | for the next day.                                                                                  |
-| 21:42      | But I push a button on my Stream Deck, and I could do this on the time trigger.                    |
+| 21:42      | But I push a button on my [[Stream Deck]], and I could do this on the time trigger.                    |
 | 21:47      | Maybe there's better ways to do it, but I like the physicality of pushing the button.              |
 | 21:50      | But then it just runs a [[Keyboard Maestro]] script.                                                   |
 | 21:53      | Then it does clear out all my windows.                                                             |
@@ -449,7 +449,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 24:14      | I've added something to the shopping list saying, hey, do you want this to the shopping            |
 | 24:17      | list again?                                                                                        |
 | 24:18      | Yes or no?                                                                                         |
-| 24:19      | It's just a little list of things in Data Jar, which I've been playing with, and that's            |
+| 24:19      | It's just a little list of things in [[Data Jar]], which I've been playing with, and that's            |
 | 24:22      | been a real help to my morning routine, because it just makes the day smoother, and then at        |
 | 24:26      | the end of the day, I can see, okay, I have a bunch of things on the grocery list, I need          |
 | 24:30      | to go shopping, and my list is done, because it's been taken care of throughout the day.           |

@@ -320,7 +320,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 22:10      | like move this to there. I do that. For some reason, I prefer to use the terminal to move files to       |
 | 22:19      | certain locations. Like, for example, when I installed TJ Luoma, it's a Fantastical stream                |
 | 22:25      | deck system. I'm calling it a system because it's a whole bunch of [[Keyboard Maestro]] macros               |
-| 22:30      | plus Stream Deck integration. I did, I moved those files I needed to move with [[Alfred]],                   |
+| 22:30      | plus [[Stream Deck]] integration. I did, I moved those files I needed to move with [[Alfred]],                   |
 | 22:36      | rather than anything else. It also has integration with custom themes and 1Password. And sync         |
 | 22:43      | is one of the power pack features. And I personally do love the sync. Even if you only have one mac,     |
 | 22:49      | it means that you're [[Alfred]] settings. It's not really a backup because it's a sync,                      |
@@ -597,7 +597,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 48:10      | want to search, they've got it. They have a Facebook one, but I mean, who would use that, right?         |
 | 48:16      | IMDB, Bing. So if you want to go to the other side and search with Microsoft, you can do that.           |
 | 48:22      | Wolfram Alpha, you know, we don't talk about that much, but that's a really powerful engine.             |
-| 48:26      | DuckDuckGo, which is a great tool for privacy. [[Alfred]] Help, Rotten Tomatoes, you know,                   |
+| 48:26      | [[DuckDuckGo]], which is a great tool for privacy. [[Alfred]] Help, Rotten Tomatoes, you know,                   |
 | 48:32      | they've got a bunch of them here. And as you learn to use them, it's the only way to search the web.     |
 | 48:39      | And let's just talk about that now. But in a minute, I'm going to talk about                             |
 | 48:44      | how you can customise those as well. I mean, do you use the built-in ones?                               |
@@ -644,7 +644,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 52:16      | options. It can use open search and search action to try and find something. The other                   |
 | 52:22      | website doesn't have a built-in search. There are these websites out there. Or the built-in              |
 | 52:26      | search is really sucky, because they've got tons of data, and it would take literal masses               |
-| 52:33      | of computing power to do that. Then you can also do a search with Google or duck duck go,                |
+| 52:33      | of computing power to do that. Then you can also do a search with Google or [[DuckDuckGo]],                |
 | 52:41      | your site preference, take your pick, and append it with site colon, and then the website URL.           |
 | 52:47      | So for example, if the automators form didn't have a search, that's not true. It does have a             |
 | 52:51      | very good search, actually. Then you could put site colon, talk.automators.fm. Done. And then it         |
@@ -901,7 +901,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:16:33   | just say, automators or nested folders, iOS today, and things like that. And it means also, then         |
 | 01:16:40   | when I get to my Mac, it's, you love contextual computing. My Mac is already going to be in              |
 | 01:16:46   | the context that I need when I get to it because I'll press the button on my way there. So,              |
-| 01:16:50   | I'm quite happy about that. That's a Stream Deck problem for me. But I get it. I mean,                   |
+| 01:16:50   | I'm quite happy about that. That's a [[Stream Deck]] problem for me. But I get it. I mean,                   |
 | 01:16:55   | I think it's cool. I think if you're doing remote stuff, the more ways you have to control your          |
 | 01:17:00   | computer or the better. And honestly, remote control, belt and suspenders is a really good               |
 | 01:17:08   | idea. Because sometimes something for one reason or another just doesn't work.                           |
@@ -972,12 +972,12 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:23:18   | instead of sub private things. But for those times when I can't do that, where people insist             |
 | 01:23:23   | that their data has to be in a super secure internal private network, which cannot be accessed           |
 | 01:23:28   | from the bigger network or whatever, then I have separate VPN. So being able to list those out has       |
-| 01:23:33   | been really helpful for me. Another one for me is Dev and think search. There is a Dev and think         |
+| 01:23:33   | been really helpful for me. Another one for me is DEVONthink search. There is a DEVONthink         |
 | 01:23:39   | three shirts by I think Charles Ma. And it does a great job you install and there's different            |
-| 01:23:44   | parameters you can pass to it, like DNF say searches your favourites and Dev and think or,                |
+| 01:23:44   | parameters you can pass to it, like DNF say searches your favourites and DEVONthink or,                |
 | 01:23:50   | you know, D&T is the standard search. But it's a, it's an excellent way kind of like the way I use       |
 | 01:23:57   | the on me focus search. You know, if I can search an app from anywhere on my computer, despite in        |
-| 01:24:02   | command space, why not be able to do searches inside apps and have a lot of data and Dev and think,      |
+| 01:24:02   | command space, why not be able to do searches inside apps and have a lot of data and DEVONthink,      |
 | 01:24:08   | and I want to drill to a specific location. That's where [[Alfred]] kind of lends a hand and it saves        |
 | 01:24:13   | me the trouble of finding the app, opening the app and then drilling through that, you know,             |
 | 01:24:18   | left menu to find where I wanted to be. Yeah. So David, do I get to get really nerdy now on some         |
@@ -1006,7 +1006,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:26:32   | powerful. And I must see even smash to do here as well. I would encourage people if they're              |
 | 01:26:37   | thinking about creating a [[Drafts]] and [[Drafts]] at [[Alfred]] workflow themselves, have a quick look             |
 | 01:26:44   | at what he's done here, go, wow, amazing. And then go have a look at one of the simpler ones             |
-| 01:26:51   | to get started, like the dev and think search. I mean, that one's still kind of complicated,             |
+| 01:26:51   | to get started, like the DEVONthink search. I mean, that one's still kind of complicated,             |
 | 01:26:54   | but send to [[Yoink]], for example, that's a two action workflow. It has your file action,                    |
 | 01:27:00   | which is your trigger, and then it's got an apple script. Okay, time zones, a little bit more            |
 | 01:27:06   | complicated because you've got multiple triggers. But there, there's some great resources on the         |
@@ -1034,7 +1034,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:29:08   | it, like search particular groups of folders, like, let's say you've got a folder with all your          |
 | 01:29:13   | client files in it. So you could have it trigger with CL and just search that folder where the           |
 | 01:29:19   | client folders are and just give you folder lists. So you can get to folders. I mean,                    |
-| 01:29:23   | actually keep a lot of this stuff in Dev and think, but if you kept it on your,                          |
+| 01:29:23   | actually keep a lot of this stuff in DEVONthink, but if you kept it on your,                          |
 | 01:29:27   | on your native drive or even on your iCloud drive, this would give you a quick way to                    |
 | 01:29:32   | get to them. Yeah. I'm actually just looking through here, David. And I've got one that I                |
 | 01:29:37   | created myself. It's called lullaby. And the idea is it's putting my Mac to sleep. But before it         |

@@ -349,17 +349,17 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 11:41      | Rose, I made a new field guide.                                    |
 | 11:42      | You did.                                                           |
 | 11:44      | And David, you knocked it out of the park again.                   |
-| 11:46      | I'm reworking my entire Devon Think setup.                         |
+| 11:46      | I'm reworking my entire [[DEVONthink]] setup.                         |
 | 11:49      | Thank you for all of the extra work                                |
 | 11:51      | that you've created for me.                                        |
-| 11:52      | Yeah, so I made the Devon Think field guide.                       |
+| 11:52      | Yeah, so I made the [[DEVONthink]] field guide.                       |
 | 11:54      | This is one of the most requested titles that I've had.            |
 | 11:59      | I started it in April.                                             |
 | 12:01      | It's got eight and a half hours of content,                        |
 | 12:03      | but it's all broken down into small pieces                         |
 | 12:05      | over a hundred videos.                                             |
 | 12:06      | So you don't have to watch it all in one sitting.                  |
-| 12:08      | And whether you've never touched Devon Think                       |
+| 12:08      | And whether you've never touched [[DEVONthink]]                       |
 | 12:11      | or you're a pro user,                                              |
 | 12:12      | I hope that you can get something out of it.                       |
 | 12:14      | And it's on sale for a limited time.                               |
@@ -368,26 +368,26 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 12:24      | go over to learn.macsparkyi.com and check it out.                    |
 | 12:27      | There is an automation angle to this                               |
 | 12:29      | because there's a whole section in the video field guide           |
-| 12:32      | because Devon Think, what I heard,                                 |
+| 12:32      | because [[DEVONthink]], what I heard,                                 |
 | 12:34      | because as I started working on this,                              |
-| 12:36      | the field guide got to talk to the gang behind Devon Think.        |
+| 12:36      | the field guide got to talk to the gang behind [[DEVONthink]].        |
 | 12:39      | One of the main developers is super in automation.                 |
 | 12:41      | And they basically kind of built a version of [[Hazel]]                |
-| 12:45      | into it and they built a bunch of tools into Devon Think           |
+| 12:45      | into it and they built a bunch of tools into [[DEVONthink]]           |
 | 12:48      | that make automation very good.                                    |
 | 12:52      | Yes, yeah, they did.                                               |
 | 12:54      | And I really, really love those tools.                             |
-| 12:56      | In general, I find Devon Think                                     |
+| 12:56      | In general, I find [[DEVONthink]]                                     |
 | 12:58      | to be a really useful tool for me because there's no more,         |
 | 13:01      | did I store this in iCloud or [[Dropbox]] or whatever?                 |
-| 13:05      | I just throw it in Devon Think and search there later.             |
-| 13:07      | Now, one of the advantages you get with Devon Think                |
+| 13:05      | I just throw it in [[DEVONthink]] and search there later.             |
+| 13:07      | Now, one of the advantages you get with [[DEVONthink]]                |
 | 13:10      | is you get those links.                                            |
 | 13:11      | I mean, the application creates links for every file.              |
 | 13:15      | So for automators, that can be really handy                        |
 | 13:17      | to be able to grab a link from any file                            |
 | 13:20      | and just jump back to it.                                          |
-| 13:22      | Either way, learn.macsparkyi.com for Devon Think field guide.        |
+| 13:22      | Either way, learn.macsparkyi.com for [[DEVONthink]] field guide.        |
 | 13:26      | And if you go to, is it relay.fm slash St. Jude?                   |
 | 13:32      | I think that would get you there to donate to St. Jude.            |
 | 13:35      | St. Jude.org slash relay will definitely get you there as well.    |
@@ -738,7 +738,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 27:35      | but equally it is definitely getting a lot better,                 |
 | 27:38      | which I'm really pleased about.                                    |
 | 27:40      | Yeah, in terms of actions,                                         |
-| 27:43      | we did talk about this in the WWDC show,                           |
+| 27:43      | we did talk about this in the [[WWDC]] show,                           |
 | 27:45      | but I'm happy to report they survived the beta process.            |
 | 27:49      | There are a bunch of new files based to actions                    |
 | 27:52      | and shortcuts, which I think once they get                         |
@@ -894,8 +894,8 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 33:53      | So I have action set up for my focus modes                         |
 | 33:56      | whenever I turn on a focus mode.                                   |
 | 33:59      | Or whenever focus modes turn off,                                  |
-| 34:02      | that they write to a Data Jar variable.                            |
-| 34:05      | And then what I do is I get the variable out of Data Jar.          |
+| 34:02      | that they write to a [[Data Jar]] variable.                            |
+| 34:05      | And then what I do is I get the variable out of [[Data Jar]].          |
 | 34:08      | That's what I'm doing there,                                       |
 | 34:09      | to find out which focus mode I'm in.                               |
 | 34:11      | And then I just if, and if I'm in work focus mode,                 |
@@ -932,14 +932,14 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 35:29      | you're storing the focus mode,                                     |
 | 35:30      | then when you hit the NFC tag,                                     |
 | 35:33      | it just runs an if statement to find which focus mode you're in    |
-| 35:37      | from your Data Jar variable.                                       |
+| 35:37      | from your [[Data Jar]] variable.                                       |
 | 35:39      | And then it does a different,                                      |
 | 35:40      | it's almost like a choose from menu at that point,                 |
 | 35:42      | where you can set you up.                                          |
 | 35:44      | Yeah, so it actually just goes,                                    |
 | 35:45      | yeah, it goes through if statements and says,                      |
 | 35:48      | if this focus mode, which is actually a text variable,             |
-| 35:52      | because I just save it to Data Jars text.                          |
+| 35:52      | because I just save it to [[Data Jar]]s text.                          |
 | 35:54      | Yeah, that's easy.                                                 |
 | 35:55      | If the text is this, do that.                                      |
 | 35:56      | If the text is this, do that.                                      |
@@ -1214,7 +1214,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 47:03      | to fit everything in nicely.                                       |
 | 47:05      | I've decided to go with dedicated charging drawers                 |
 | 47:07      | so that all of my like Nintendo Wii chargers                         |
-| 47:10      | and Nintendo switch controllers                                    |
+| 47:10      | and [[Nintendo Switch]] controllers                                    |
 | 47:12      | and all of that can just be in one place                           |
 | 47:14      | and you pop open a drawer, you select the controller               |
 | 47:16      | you want and it's charged and you're ready to go.                  |
@@ -1809,8 +1809,8 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:11:27   | If you've got some money to give to St. Jude,                      |
 | 01:11:30   | please go give some money to St. Jude.                             |
 | 01:11:32   | It sure would help.                                                |
-| 01:11:33   | If you're interested in Dev and Think,                             |
-| 01:11:35   | go check out my Dev and Think field guide                          |
+| 01:11:33   | If you're interested in [[DEVONthink]],                             |
+| 01:11:35   | go check out my [[DEVONthink]] field guide                          |
 | 01:11:37   | at learn.macsparky.com.                                            |
 | 01:11:39   | Anything going on?                                                 |
 | 01:11:40   | Anything going on in your life, Rose,                              |

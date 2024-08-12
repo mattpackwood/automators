@@ -88,7 +88,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 00:52      | Good thing you hung up your hat a few weeks ago, huh?                                                   |
 | 00:54      | Yeah, exactly. It made room for you to come in. But I want to just talk about Jeff for                  |
 | 01:00      | a minute before we get into the show today because we hear a lot from listeners of the                  |
-| 01:05      | show and I hear a lot from people saying, man, I love automakers, but it's just too                     |
+| 01:05      | show and I hear a lot from people saying, man, I love Automators, but it's just too                     |
 | 01:09      | much. I get lost or whatever. And I know sometimes we go super nerdy, but that's really not the         |
 | 01:15      | point of the show.                                                                                      |
 | 01:16      | To me, the point is, does this sound like an opening statement, Jeff? I'm not sure.                     |
@@ -818,7 +818,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 58:49      | if you get New Relic. New Relic combines 16 different monitoring products that you'd normally buy       |
 | 58:55      | separately. So engineering teams can see across their entire software stack in one place. More          |
 | 59:01      | importantly, you can pinpoint the issue down to the line of code so you know exactly why the problem    |
-| 59:06      | happened and can resolve it quickly. That's why the dev and ops teams at DoorDash, GitHub, Epic Games   |
+| 59:06      | happened and can resolve it quickly. That's why the Dev and Ops teams at DoorDash, GitHub, Epic Games   |
 | 59:13      | and more than 14,000 other companies use New Relic to debug and improve their software.                 |
 | 59:17      | Whether you run a cloud-native startup or a Fortune 500 company, it takes just five minutes             |
 | 59:23      | to set up New Relic in your environment. That next 9pm call is just waiting to happen. Get              |
@@ -944,24 +944,24 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 01:09:28   | Okay, what's the advantage of doing that? Because it uses the built in document scanner that the        |
 | 01:09:32   | iPhone has. So it'll snap it to the edges of the receipt and so on so that you don't have like the      |
 | 01:09:36   | table in the background and things like that, which is awesome. Okay, that's what I'm going to do.      |
-| 01:09:41   | Thank you. Well, the other thing that I would suggest is Data Jar. Okay, you've got all of these        |
-| 01:09:45   | places with the, with your favourites. Why not just have a list in Data Jar, and then Data Jar           |
+| 01:09:41   | Thank you. Well, the other thing that I would suggest is [[Data Jar]]. Okay, you've got all of these        |
+| 01:09:45   | places with the, with your favourites. Why not just have a list in [[Data Jar]], and then [[Data Jar]]           |
 | 01:09:50   | can just pull that out. And it's really easy, then you don't have to edit a shortcut, you just open     |
-| 01:09:54   | Data Jar. And you, you, I don't know, you could call it, you know, my, my expense places or something   |
+| 01:09:54   | [[Data Jar]]. And you, you, I don't know, you could call it, you know, my, my expense places or something   |
 | 01:10:01   | like that. And then you can just have a list. And then you can just get that, get that item,            |
-| 01:10:07   | and then choose from those. And that is Data Jar rows. I don't know what that means.                    |
-| 01:10:10   | So Data Jar is essentially, it was a free app that you can download on the app store,                   |
-| 01:10:14   | I'll put a link to it in the show notes is at Data Jar.app. But it's apparently to store                |
+| 01:10:07   | and then choose from those. And that is [[Data Jar]] rows. I don't know what that means.                    |
+| 01:10:10   | So [[Data Jar]] is essentially, it was a free app that you can download on the app store,                   |
+| 01:10:14   | I'll put a link to it in the show notes is at [datajar.app](https://datajar.app). But it's apparently to store                |
 | 01:10:19   | variables that you can use again and again and again between shortcuts. Now toolbox pro also            |
-| 01:10:23   | has global variables, but Data Jar has an advantage in that it's very specifically just data. And it    |
+| 01:10:23   | has global variables, but [[Data Jar]] has an advantage in that it's very specifically just data. And it    |
 | 01:10:31   | works on all the platforms that even works on the Mac, if you're running shortcuts on the Mac,          |
 | 01:10:35   | and it's great for getting things out. And you can, you can do files and stuff in there too.            |
-| 01:10:39   | But what I would suggest for this is when, if you add a variable to Data Jar, just make it a            |
+| 01:10:39   | But what I would suggest for this is when, if you add a variable to [[Data Jar]], just make it a            |
 | 01:10:44   | list of expense places, and then you can put every single item within that list. And that would be      |
 | 01:10:50   | all of your places. And that would be super easy to maintain. And you could even use it elsewhere       |
 | 01:10:54   | if you needed to, instead of just having all that information in one shortcut.                          |
 | 01:10:58   | I like it. Sounds good. I mean, the problem with shortcuts is it doesn't remember variables. So         |
-| 01:11:02   | it has to relearn them every time you run it. And Data Jar gives it like a place to pull them from.     |
+| 01:11:02   | it has to relearn them every time you run it. And [[Data Jar]] gives it like a place to pull them from.     |
 | 01:11:08   | Yeah, which is really useful when you need stuff that you can use again and again and again between     |
 | 01:11:13   | shortcuts. Yeah, this is like your old Timex Sinclair. Didn't remember the variables near the           |
 | 01:11:18   | shortcuts. I guess what we need is a thermal printer for shortcuts. I guess that's what we              |

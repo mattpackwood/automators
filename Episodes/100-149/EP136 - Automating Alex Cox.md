@@ -205,7 +205,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 14:40      | sort of threshold. I know that this is nonsense to some people, I apologise.                            |
 | 14:46      | No, it makes sense. You're trying to run a command and it doesn't have automation for that.             |
 | 14:51      | And I just needed to click a bunch of little buttons and I couldn't do that until I set up              |
-| 15:00      | [[Keyboard Maestro]] with my Stream Deck and now it works. And I should have done it a long time ago,       |
+| 15:00      | [[Keyboard Maestro]] with my [[Stream Deck]] and now it works. And I should have done it a long time ago,       |
 | 15:08      | but it's there now and I'm grateful for it. So you're telling me that Alex is using keyboard            |
 | 15:15      | maestro doing setups and contextual computing with automation? Are you gaslighting me? Are you          |
 | 15:22      | just trying to get me all excited? I mean, what's going on here? I mean, I heard the magic focus        |
@@ -294,7 +294,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 26:06      | I can just run my MacBook Air in clamshell mode. And I don't need to worry about things being           |
 | 26:16      | pixel perfect anymore, because it's automatically set up that way. But before I would accidentally      |
 | 26:23      | delete a complete track or something with [[Keyboard Maestro]], I'm also Oh, sorry, I'm                     |
-| 26:32      | also using a Stream Deck to run the keyboard, a lot of that stuff in yeah, to run those scripts.        |
+| 26:32      | also using a [[Stream Deck]] to run the keyboard, a lot of that stuff in yeah, to run those scripts.        |
 | 26:42      | Although I have to say, as I learn more about [[Keyboard Maestro]], I'm realising more and more             |
 | 26:51      | each year, along with certain, certain [[AppleScript\|AppleScripts]], shortcuts can do just like more and               |
 | 26:58      | more of it. And whenever I go to like Google something, I don't understand it turns out                 |
@@ -425,9 +425,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 39:11      | whatever it is that you want to do next, once you've built the structure, you duplicate it,             |
 | 39:16      | you change a few things, and then you've got it, you know, and then the last piece of these             |
 | 39:21      | setups is having an easy way to trigger them. And you had said that you were doing it with a            |
-| 39:26      | Stream Deck, which is great. Like [[Keyboard Maestro]], you know, you set up a button, run a keyboard       |
+| 39:26      | [[Stream Deck]], which is great. Like [[Keyboard Maestro]], you know, you set up a button, run a keyboard       |
 | 39:32      | maestro script, you can do the same thing with shortcuts or a bunch. But, you know,                     |
-| 39:36      | making triggers on a Stream Deck is great. If you're using [[Keyboard Maestro]], a conflict                 |
+| 39:36      | making triggers on a [[Stream Deck]] is great. If you're using [[Keyboard Maestro]], a conflict                 |
 | 39:40      | palette can work. There's, there's a lot of different ways. But as you start getting into               |
 | 39:43      | this, you should think about, well, how do I want to trigger these? And what's the easiest way          |
 | 39:47      | for me to jump between them? Yeah, I didn't even mention [[Alfred]] and [[Raycast]], which                      |
@@ -512,7 +512,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 49:02      | another NFC tag. This is a question. Well, I think I will be able to answer this question               |
 | 49:10      | myself. Since I run shortcuts via NFC tag, would I be able to trigger that shortcut and it also         |
 | 49:29      | talks to my muck and arranges it in a certain way? Oh my gosh, I'm so happy. In theory, I could         |
-| 49:37      | just hit a button on my Stream Deck. That's what I do now to set everything up. First thing in the      |
+| 49:37      | just hit a button on my [[Stream Deck]]. That's what I do now to set everything up. First thing in the      |
 | 49:47      | morning is whatever I want to do least. It opens up a specific OmniFocus context in the                 |
 | 50:01      | not context. A perspective that is a list of things I want to do least. It has a naughty word           |
 | 50:12      | as the tag. So let's just say the things I want to do least. It pops up in the corner and my email      |
@@ -533,7 +533,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 52:20      | I don't know if that would work and I probably shouldn't do it. Well, what you could do is              |
 | 52:26      | you could log inside or using shortcuts when you run the shortcut in the morning                        |
 | 52:33      | or tell you, well, let's start with in the bathroom in the morning,                                     |
-| 52:36      | like when you when you tap your NFC tag there, it could reset a variable in Data Jar,                   |
+| 52:36      | like when you when you tap your NFC tag there, it could reset a variable in [[Data Jar]],                   |
 | 52:42      | which is like Alex's day progress or something like that. I don't know. Whatever you want to            |
 | 52:46      | call it, you know, whatever is appropriate for you. And then when you go and you tap the NFC tag        |
 | 52:52      | at your desk, then it'll say, okay, Alex's day has progressed to one. You know, just I'm using          |
@@ -545,7 +545,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 53:23      | somewhere and you sleep late, as you don't get up until later in the day and you don't start            |
 | 53:27      | working until like two or something. Then when you tap it, it'll be like, I'll just do the morning      |
 | 53:31      | work one because, you know, that's that's well, that's nothing's happened yet. So yeah, like            |
-| 53:36      | if you did something like that, you could use Data Jar, you could use global variables into             |
+| 53:36      | if you did something like that, you could use [[Data Jar]], you could use global variables into             |
 | 53:40      | books pro, you know, there's a number of different options for that. But, you know,                     |
 | 53:44      | you could definitely do that. And to go back to your question about triggering stuff on the Mac,        |
 | 53:49      | [[Keyboard Maestro]] has like URLs that you can use to trigger stuff. So you can just use a get             |
@@ -611,7 +611,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 59:41      | that's just just a huge thing. I always have a timer running just to make sure that I'm on              |
 | 59:50      | track. Because if at the end of the week, I look at my report, and I haven't done what I set out to     |
 | 59:59      | do, it makes me sad. And sometimes what I set out to do is literally just play video games.             |
-| 01:00:06   | Next to my switch, there's also a little NFC tag. But on the back of my Nintendo switch,                |
+| 01:00:06   | Next to my switch, there's also a little NFC tag. But on the back of my [[Nintendo Switch]],                |
 | 01:00:18   | and that just turns all the lights down and starts my video game timer. I have a timer                  |
 | 01:00:27   | or project in Timery that's just called Life. And that is what I use whenever I am just tracking        |
 | 01:00:40   | existence that isn't work involved. And I want to see that bar of the graph get bigger every            |
@@ -636,9 +636,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:02:48   | things like podcasting, automated time tracking and things like that because I use a bunch to start     |
 | 01:02:52   | my podcasting mode. And one of the things it does is run a shortcut that starts my podcasting timer.    |
 | 01:02:59   | And so I can then look back on my week. Even if I've forgotten to do manual time tracking,              |
-| 01:03:04   | which, you know, I'm working on doing some stuff with the Stream Deck and so on, with Keyboard          |
+| 01:03:04   | which, you know, I'm working on doing some stuff with the [[Stream Deck]] and so on, with Keyboard          |
 | 01:03:09   | Maestro, I'm stealing from TJ Luoma as Fantastic L, Fantastic Pal, as script as an idea of like,         |
-| 01:03:16   | you know, I'll just have different colours on a Stream Deck button and have [[Keyboard Maestro]]             |
+| 01:03:16   | you know, I'll just have different colours on a [[Stream Deck]] button and have [[Keyboard Maestro]]             |
 | 01:03:20   | change it based on, you know, stuff that you can check or stuff that gets triggered, which happens      |
 | 01:03:26   | to be done thanks to, you know, timer and shortcuts. Then yeah, like, you know, I even if I forget to   |
 | 01:03:33   | do the manual stuff, it's amazing how much stuff does get logged. And things like turning down          |
@@ -665,7 +665,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:06:03   | putting like pulling shortcut blocks in the air. That's just, that's so exciting to me.                 |
 | 01:06:11   | Because I know folks are very worried about it taking you out of the real world. And sure,              |
 | 01:06:20   | it's very early days, but it's also, I think, about getting the unimportant stuff out of the            |
-| 01:06:31   | way. It's going to make it even easier switching contexts with Vision OS. We saw at WWDC this           |
+| 01:06:31   | way. It's going to make it even easier switching contexts with Vision OS. We saw at [[WWDC]] this           |
 | 01:06:42   | year. I think we saw more entertainment things than productivity and work stuff because that's,         |
 | 01:06:49   | you know, what gets normal people for lack of a better term, excited. And I mean, with Vision           |
 | 01:07:00   | OS already, it's going to, you know, have shortcuts. That's correct, right? They did                    |
@@ -685,7 +685,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:08:57   | because, you know, all of us nerds can go off about the UI of every sort of system preferences          |
 | 01:09:07   | UI. It's just a mess everywhere. I know it's difficult. But accessibility,                              |
 | 01:09:17   | it's definitely changing. But for the longest time, it's not that it was stigmatised,                   |
-| 01:09:24   | but it really wasn't talked about at WWDC. And people, I don't think, were just using it to its         |
+| 01:09:24   | but it really wasn't talked about at [[WWDC]]. And people, I don't think, were just using it to its         |
 | 01:09:34   | full potential. But now that, you know, it's so baked in with shortcuts and stuff like that,            |
 | 01:09:44   | I know that for me, at least, having things on Vision OS and like, you know,                            |
 | 01:09:52   | using voice control and something with Vision OS and having my hands be free to do whatever             |
@@ -732,7 +732,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:14:44   | screens. And Apple's not talking about that, because I feel like they don't really want to              |
 | 01:14:47   | talk about virtual reality. I feel like they did talk about it. And for anybody who hasn't listened     |
 | 01:14:52   | to that [[Cortex]] episode, all about Vision OS and the new Vision Pro that's going to come out,            |
-| 01:15:00   | because Mike got to actually try one at WWDC. If you haven't listened to that, folks,                   |
+| 01:15:00   | because Mike got to actually try one at [[WWDC]]. If you haven't listened to that, folks,                   |
 | 01:15:05   | please do go listen to that, because [[Cortex]] is amazing. And B, because Mike does a really great         |
 | 01:15:09   | job of walking you through exactly what his experience was like. But the digital crown                  |
 | 01:15:14   | on the side of the Vision Pro, that you can turn it and you can adjust how much reality                 |
@@ -776,7 +776,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:18:57   | But there's just the way Apple tells stories, obviously, is always really specific. And right           |
 | 01:19:05   | now, there are two terms that I think make people think certain things, which is artificial             |
 | 01:19:14   | intelligence and virtual reality. And Apple really did kind of talk all about artificial                |
-| 01:19:22   | intelligence and virtual reality in the WWDC keynote. They just didn't use those specifically           |
+| 01:19:22   | intelligence and virtual reality in the [[WWDC]] keynote. They just didn't use those specifically           |
 | 01:19:30   | because they want the Apple words and not the pre-written narrative that society has made.              |
 | 01:19:40   | And I like that. Apple's afraid of the word [[artificial intelligence]]. They don't want it to,             |
 | 01:19:45   | they don't want to get on that train, but they're doing it. Yeah. I had a bet that they would not,      |

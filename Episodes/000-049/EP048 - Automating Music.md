@@ -415,11 +415,11 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 20:17      | for music, then you usually just need to replace the word iTunes with music.                           |
 | 20:22      | And there's more information out there on Doug's site if you want to change something else.               |
 | 20:26      | So where are you bringing in automated music on your Mac?                                              |
-| 20:31      | I am primarily bringing in by having it connected to some [[Keyboard Maestro]] Stream Deck actions.        |
-| 20:39      | So we recently talked about how I wasn't using the Stream Deck as much as I wanted to.                 |
+| 20:31      | I am primarily bringing in by having it connected to some [[Keyboard Maestro]] [[Stream Deck]] actions.        |
+| 20:39      | So we recently talked about how I wasn't using the [[Stream Deck]] as much as I wanted to.                 |
 | 20:44      | But I've got it.                                                                                       |
 | 20:45      | I had it posted to me because I'm in the UK and my stuff is in Australia.                              |
-| 20:48      | But along with some other necessary items, I had the Stream Deck put in a box for me.                  |
+| 20:48      | But along with some other necessary items, I had the [[Stream Deck]] put in a box for me.                  |
 | 20:53      | And I've now got that set up.                                                                          |
 | 20:55      | And that is really nice.                                                                               |
 | 20:56      | You know, I'm there in the mornings and I hit button and it, you know, rearranges some                 |
@@ -1179,7 +1179,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 01:06:21   | them after you've collected them because it can take a couple of weeks to collect everything           |
 | 01:06:24   | of course because nothing ever works that fast.                                                        |
 | 01:06:27   | And then you have to send them back.                                                                   |
-| 01:06:29   | And so I was using the tags in Dev and Think to tag everything that I've got this document             |
+| 01:06:29   | And so I was using the tags in [[DEVONthink]] to tag everything that I've got this document             |
 | 01:06:35   | now, right?                                                                                            |
 | 01:06:36   | Tag it with me to send to this person, but I had to send all the documents together.                   |
 | 01:06:40   | You couldn't send them.                                                                                |
@@ -1202,8 +1202,8 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 01:07:34   | And it just became a pain in the neck when I'd get those emails and I was on my iPad.                  |
 | 01:07:38   | On the Mac, I've got an automation that sends an email and has the W9 attachment.                      |
 | 01:07:44   | But I didn't really have a good way to do that on iOS until we got a new app this month.               |
-| 01:07:50   | I think we may need to do a whole show on it, but Data Jar is now out.                                  |
-| 01:07:54   | And Data Jar is a free app, but it is a donation-friendly app.                                          |
+| 01:07:50   | I think we may need to do a whole show on it, but [[Data Jar]] is now out.                                  |
+| 01:07:54   | And [[Data Jar]] is a free app, but it is a donation-friendly app.                                          |
 | 01:08:00   | You can make donations in the app.                                                                     |
 | 01:08:01   | I actually gave him, I went the full log, I gave him $5, so I bought him a burrito.                    |
 | 01:08:06   | I think that was what he said.                                                                         |
@@ -1211,7 +1211,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 01:08:16   | variables, it can hold files.                                                                          |
 | 01:08:18   | So there's this form in the US called the W9 form, it's the form you give to people                    |
 | 01:08:23   | when they pay you and they have to report you on your taxes.                                           |
-| 01:08:27   | And I've got now a shortcut created that writes the email, goes to Data Jar, pulls the attachment       |
+| 01:08:27   | And I've got now a shortcut created that writes the email, goes to [[Data Jar]], pulls the attachment       |
 | 01:08:34   | and then creates the email for me.                                                                     |
 | 01:08:36   | It's just a simple shortcut.                                                                           |
 | 01:08:38   | It's only three or four steps, but the magic was having the ability to have that attachment            |
@@ -1224,14 +1224,14 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 01:09:02   | Yeah, base 64, 1s and 0s, but yes, I get what you mean.                                                |
 | 01:09:06   | Yeah.                                                                                                  |
 | 01:09:07   | In my head, I'm a simpleton, but yeah, I could have base 64 encrypted it, but having                   |
-| 01:09:12   | it in Data Jar is so much easier.                                                                       |
+| 01:09:12   | it in [[Data Jar]] is so much easier.                                                                       |
 | 01:09:15   | The shortcut makes the shortcut a lot smaller, which makes it more reliable.                           |
-| 01:09:20   | And if I update the W9, I just update it in Data Jar and it gets copied over because it                 |
+| 01:09:20   | And if I update the W9, I just update it in [[Data Jar]] and it gets copied over because it                 |
 | 01:09:25   | just, you know, you keep the same name for the file.                                                   |
-| 01:09:29   | Data Jar solves a lot of problems.                                                                      |
+| 01:09:29   | [[Data Jar]] solves a lot of problems.                                                                      |
 | 01:09:30   | Yes, yes, it does.                                                                                     |
-| 01:09:32   | I've been playing a lot with Data Jar and a slight spoiler for the next episode or maybe                |
-| 01:09:36   | as a teaser, Data Jar will be featured on the next episode of Automators, but I'm not going             |
+| 01:09:32   | I've been playing a lot with [[Data Jar]] and a slight spoiler for the next episode or maybe                |
+| 01:09:36   | as a teaser, [[Data Jar]] will be featured on the next episode of Automators, but I'm not going             |
 | 01:09:41   | to give anybody any more details just yet.                                                             |
 | 01:09:43   | You're going to have to listen and wait patiently.                                                     |
 | 01:09:45   | Yeah, it's a great app.                                                                                |

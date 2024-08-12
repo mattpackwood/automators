@@ -215,7 +215,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 12:52      | B and it's a palette of tools I've developed for base camp and it's, you know, a lot of              |
 | 12:58      | them use unique URLs, which you can automate. Some of it is using Zapier, but I'm just trying        |
 | 13:05      | to find as many ways as I can to automate this process. I'm still not even convinced                 |
-| 13:09      | like some part of me is saying, thinking I should just go to Dev and think or do something           |
+| 13:09      | like some part of me is saying, thinking I should just go to [[DEVONthink]] or do something           |
 | 13:13      | local on my system, but a [[Keyboard Maestro]] is giving me a way to try and add automation              |
 | 13:21      | to something that really isn't very automation friendly.                                             |
 | 13:23      | Yeah. And I think that that is something else to keep in mind, you know, just because we're          |
@@ -269,12 +269,12 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 17:24      | impressive because the memory restrictions that these shortcuts have. And, you know,                 |
 | 17:29      | it's not like an app where you can just take over the phone. It does require very careful            |
 | 17:35      | management of memory and programming. It's beyond my pay grade. I know that. And nevertheless,       |
-| 17:42      | these developers come up with these amazing things. Data Jar is, I think, probably the                |
+| 17:42      | these developers come up with these amazing things. [[Data Jar]] is, I think, probably the                |
 | 17:47      | most useful addition to shortcuts I've seen because now I've got this this app full of               |
 | 17:53      | global variables that I'm constantly hitting. And it's like that the existence of a known            |
 | 18:00      | data store for me actually increases the options for me to create shortcuts.                         |
 | 18:05      | Yes, it does for me too. And we had a recent episode with Scotty Jackson about, you know,            |
-| 18:12      | how he's using Data Jar as like a back end of data for shortcuts, which is, you know,                 |
+| 18:12      | how he's using [[Data Jar]] as like a back end of data for shortcuts, which is, you know,                 |
 | 18:17      | what it is, but the fact that it's there and you can go straight into it and edit, you               |
 | 18:22      | know, these, these, these dictionaries of data or whatever it is that you're storing                 |
 | 18:26      | outside of the shortcuts app for me has been a game changer because I have started putting           |
@@ -639,9 +639,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 47:55      | TextExpander.com/password.                                                                     |
 | 47:57      | Our thanks to TextExpander for their support of this show and Relay FM.                             |
 | 48:01      | Okay, Rose, episode 50.                                                                              |
-| 48:05      | We are looking at WWDC and just down the road.                                                       |
+| 48:05      | We are looking at [[WWDC]] and just down the road.                                                       |
 | 48:10      | Yeah.                                                                                                |
-| 48:11      | WWDC starts exactly one month from the day this episode releases.                                    |
+| 48:11      | [[WWDC]] starts exactly one month from the day this episode releases.                                    |
 | 48:16      | I feel like we are giving Apple plenty of notice so that they can fulfill all of our                 |
 | 48:19      | desires here.                                                                                        |
 | 48:20      | Yes.                                                                                                 |
@@ -650,7 +650,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 48:24      | Yes.                                                                                                 |
 | 48:25      | Get to work.                                                                                         |
 | 48:26      | Get to work.                                                                                         |
-| 48:27      | I have to admit, when we did our Meetup, our automakers meet up last year at WWDC and                 |
+| 48:27      | I have to admit, when we did our Meetup, our Automators meet up last year at [[WWDC]] and                 |
 | 48:32      | the Shortcuts team, basically all of them showed up.                                                 |
 | 48:35      | It was very intimidating to me to think, oh, these guys are listening to our show.                   |
 | 48:40      | Yeah.                                                                                                |
@@ -664,7 +664,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 48:54      | Yeah, let's start with Shortcuts because Shortcuts has come massive strides and I'm really impressed |
 | 49:00      | at the amount of support that we've had from third-party developers to add things to Shortcuts       |
 | 49:04      | that previously weren't possible.                                                                    |
-| 49:06      | I don't want to see the Shortcuts team sure looking toolbox pro or Data Jar or any of                |
+| 49:06      | I don't want to see the Shortcuts team sure looking toolbox pro or [[Data Jar]] or any of                |
 | 49:11      | that stuff.                                                                                          |
 | 49:12      | I feel, yes, it's a third-party thing, but that's not a bad thing.                                   |
 | 49:15      | It means that those can iterate and improve at a separate pace and so on.                            |

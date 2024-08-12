@@ -66,7 +66,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 00:07      | is the podcast where we talk about how to get your technology to do all of your work                     |
 | 00:11      | for you. Hello, David.                                                                                   |
 | 00:13      | Hello, Rose. How are you today?                                                                          |
-| 00:15      | Well, we've got a little bit of follow-up from our WWDC episode, actually, as it turns                   |
+| 00:15      | Well, we've got a little bit of follow-up from our [[WWDC]] episode, actually, as it turns                   |
 | 00:20      | out.                                                                                                     |
 | 00:21      | Yeah, Rose versus the Leaf Chapter 2?                                                                    |
 | 00:23      | Yeah, Rose versus the Leaf Chapter 2. So last time, when we recorded, we were in person                  |
@@ -396,7 +396,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 25:50      | them with. But they're pretty good. So there's one by the front door that you just press                 |
 | 25:55      | it once on your way out and everything turns off even the Sonos, which is really good.                   |
 | 26:00      | And then aside from that, we've got a Logitech Harmony Hub, which means that you can switch              |
-| 26:05      | between the media PC attached to our television, the Apple TV or my Nintendo Switch very quickly         |
+| 26:05      | between the media PC attached to our television, the Apple TV or my [[Nintendo Switch]] very quickly         |
 | 26:11      | and it controls the lights as well. Yeah, I want to talk about that Harmony Hub. I've                    |
 | 26:17      | not used one in years. I played with one once, actually sent it back because it wasn't working           |
 | 26:22      | that well for me. But what's the primary goal of it?                                                     |
@@ -408,7 +408,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 26:51      | pick up the remote control versus talk to the television, which of course can be done                    |
 | 26:55      | now because we've got the Harmony Hub. But this way, we have the remote control and with                 |
 | 27:01      | one press, you can either use the media PC or switch to the Apple TV and turn on the                     |
-| 27:08      | gaming, the gaming mode, which is my Nintendo switch, but it also controls the lighting                  |
+| 27:08      | gaming, the gaming mode, which is my [[Nintendo Switch]], but it also controls the lighting                  |
 | 27:13      | as well. And so it will dim the lights when you start doing something and then it will                   |
 | 27:19      | brighten the lights up afterwards, which is really nice.                                                 |
 | 27:22      | Does that device work with home cameras? It just happened to also work with your hues?                   |
@@ -423,7 +423,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 28:10      | TV remote. So I don't even have to... I just have the one remote. It's very convenient.                  |
 | 28:14      | But I don't think I'm really a candidate. I think it's HDMI CEC. That's protocol. It's                   |
 | 28:19      | easy. Our Apple TV did that as well, and you could control it with the television remote,                |
-| 28:24      | but it's switching between my Nintendo switch and back to the Apple TV or over to the media              |
+| 28:24      | but it's switching between my [[Nintendo Switch]] and back to the Apple TV or over to the media              |
 | 28:29      | PC because we don't have regular cable or even watch over-the-air stuff either. That                     |
 | 28:36      | was barking me enough that I was willing to get that and pay the money for it. And my                    |
 | 28:40      | boyfriend is actually very happy with it. So that was a very good investment slash birthday              |
@@ -555,7 +555,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 36:46      | over a year ago, I guess he's a home automation guy. And he was explaining to me that Lutron             |
 | 36:51      | has purchased its own space in the broadcast spectrum. You know, one of the big issues                   |
 | 36:58      | with all this home automation stuff, just another related conversation I had last week                   |
-| 37:03      | in San Jose when we were at WWDC was I talked to someone on one of the platforms, not Home               |
+| 37:03      | in San Jose when we were at [[WWDC]] was I talked to someone on one of the platforms, not Home               |
 | 37:09      | Kit, but one of the major platforms was there. And I talked to one of their software developers          |
 | 37:14      | and he was explaining that, you know, the big problem is interference in the signal.                     |
 | 37:18      | You know, there's a very limited amount of spectrum that these devices are broadcasting                  |
@@ -704,7 +704,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 48:45      | have to run a bunch of wires. I'm not sure they're entirely responsive. I feel like                      |
 | 48:49      | if someone just kind of runs up to the door and then leaves real quick, I'm not sure it's                |
 | 48:53      | going to capture them. I don't think it's a complete solution. And honestly, when Apple                  |
-| 48:58      | was talking at WWDC saying we're making this new system for cameras to make it ultimate,                 |
+| 48:58      | was talking at [[WWDC]] saying we're making this new system for cameras to make it ultimate,                 |
 | 49:04      | you know, ultra secure and really protect the video of your home, I was really hoping                    |
 | 49:09      | Apple would say, and we have a camera that we're making that you can trust, you know,                    |
 | 49:14      | but they didn't. Instead, they're going to third party vendors. And honestly, it's a                     |
@@ -806,7 +806,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 57:03      | onto everybody's iPhone and iPad that's capable of this, or rather iPad OS will get pushed onto          |
 | 57:08      | everybody's iPad that's capable of this. And we're going to see some differences there just              |
 | 57:15      | because Apple like to try and improve the stuff every year. So why not?                                  |
-| 57:22      | Yeah. We talked about it in the WWDC show, but let's just talk about this in terms of home               |
+| 57:22      | Yeah. We talked about it in the [[WWDC]] show, but let's just talk about this in terms of home               |
 | 57:28      | automation. But with the new version of Siri shortcuts, they have effectively included                   |
 | 57:35      | all of the home automation routines with Siri shortcuts. And you combine that with all these             |
 | 57:42      | great new triggers like when you plug into your, what about when you plug into your car                  |

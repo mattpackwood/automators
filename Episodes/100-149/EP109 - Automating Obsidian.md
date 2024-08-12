@@ -574,7 +574,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 24:48      | than a developer capability issue.                                                                 |
 | 24:50      | But either way, you can't use [[Dropbox]] there.                                                       |
 | 24:53      | But [[Dropbox]] is my preferred method for syncing things,                                             |
-| 24:56      | generally, because then I can integrate stuff using Make                                           |
+| 24:56      | generally, because then I can integrate stuff using [[Make]]                                           |
 | 25:00      | and Zapier, and if this and that,                                                                  |
 | 25:03      | and other online and amazing automations                                                           |
 | 25:05      | and just have stuff dropped in wherever,                                                           |
@@ -1526,7 +1526,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 59:29      | into [[Obsidian]] from [[Drafts]] and keyboard                                                             |
 | 59:31      | my show and [[Hazel]] have also come up as                                                             |
 | 59:33      | has Zapier                                                                                         |
-| 59:35      | Meek and Integromat                                                                                |
+| 59:35      | [[Make]] and [[Make\|Integromat]]                                                                                |
 | 59:37      | or as it used to be called and if this and that                                                    |
 | 59:39      | what                                                                                               |
 | 59:41      | would you say your favourite non [[Obsidian]]                                                           |
@@ -1619,8 +1619,8 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:02:35   | to another folder inside the                                                                       |
 | 01:02:37   | [[Obsidian]] folder structure                                                                          |
 | 01:02:39   | Rose talked earlier about one                                                                      |
-| 01:02:41   | where she's moving it into Devon think                                                             |
-| 01:02:43   | well you can import to Devon think                                                                 |
+| 01:02:41   | where she's moving it into [[DEVONthink]]                                                             |
+| 01:02:43   | well you can import to [[DEVONthink]]                                                                 |
 | 01:02:45   | easy enough with [[Hazel]]                                                                             |
 | 01:02:47   | but you could also you know trigger a shortcut on it                                               |
 | 01:02:49   | or you know there's so much you can do                                                             |
@@ -2051,7 +2051,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:59   | it's like oh it's in the old format                                                                |
 | 01:17:01   | because I didn't update this Shortcut I only updated                                               |
 | 01:17:03   | that Shortcut so                                                                                   |
-| 01:17:05   | I find I've got to use Data Jar                                                                     |
+| 01:17:05   | I find I've got to use [[Data Jar]]                                                                     |
 | 01:17:07   | or [[Drafts]] or something                                                                             |
 | 01:17:09   | to have a source of truth                                                                          |
 | 01:17:11   | for this information when I'm doing                                                                |
@@ -2401,7 +2401,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:28:41   | of podcast ideas but then whenever                                                                 |
 | 01:28:43   | I create a show note                                                                               |
 | 01:28:45   | okay because we use                                                                                |
-| 01:28:47   | Airtable for our backend it goes ahead and creates                                                 |
+| 01:28:47   | [[Airtable]] for our backend it goes ahead and creates                                                 |
 | 01:28:49   | a Google Doc for me                                                                                |
 | 01:28:51   | but if I have                                                                                      |
 | 01:28:53   | done some good naming                                                                              |

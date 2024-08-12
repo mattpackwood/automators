@@ -150,7 +150,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 08:04      | found. Yes. Well, I like hearing it when I'm first waking up in the morning, and then I will run it      |
 | 08:10      | again. So one thing I have been playing with recently, which has been really useful and                  |
 | 08:16      | interesting is I have been at the end of my shortcut. If it hasn't run that day already,                 |
-| 08:23      | and this is pulling data from Data Jar, something we talked about in a recent episode, it's,             |
+| 08:23      | and this is pulling data from [[Data Jar]], something we talked about in a recent episode, it's,             |
 | 08:28      | it should be out by the time this episode actually comes out. If I'm remembering things                  |
 | 08:32      | correctly, it should be out a few days before. So I'll put a link to that in show notes.                 |
 | 08:36      | But what I do, what I do is I check whether or not it's already run that day. If it hasn't run           |
@@ -171,14 +171,14 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 09:56      | I think, a very good starting place for me. I get the current date. I get the weather,                   |
 | 10:04      | like one of the things I've done for trips. In fact, we're going to talk about trips later,              |
 | 10:10      | but I will calculate the time between today and an upcoming trip. And then I will give myself            |
-| 10:17      | kind of like an update, like X days until you go to WWDC or wherever it is. Although, like you,          |
+| 10:17      | kind of like an update, like X days until you go to [[WWDC]] or wherever it is. Although, like you,          |
 | 10:24      | there aren't many trips on the books for me this year. But collecting data, I think, is important.       |
 | 10:30      | Location, whether calendar or three of the big ones. Yes. Yeah, definitely. And I do pretty              |
 | 10:37      | much the same thing. In general, what I've been doing actually with the location, because actually       |
 | 10:42      | getting the location in shortcuts can take a long time. Like not in a good way. It takes a very long     |
 | 10:47      | time, it feels like. So what I've been doing is I've been checking the name of the Wi-Fi network.        |
 | 10:52      | And I've built a little dictionary of Wi-Fi network names to addresses. And I'm saving this,             |
-| 10:58      | again, I'm saving this in Data Jar, but you could just save this in a file in shortcuts.                 |
+| 10:58      | again, I'm saving this in [[Data Jar]], but you could just save this in a file in shortcuts.                 |
 | 11:03      | And then, or you could just put it as a dictionary inside of a shortcut, you know, like                  |
 | 11:07      | Wi-Fi network to address. And this means that my home Wi-Fi network, my parents' Wi-Fi network,          |
 | 11:12      | my grandmother's Wi-Fi network, my other grandmother's Wi-Fi network, all of those,                      |
@@ -201,7 +201,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 12:37      | it an if statement and then checking against a known list of Wi-Fi network? Let me check.                |
 | 12:44      | So I'm getting the network details and that says get Wi-Fi networks network name. Yeah.                  |
 | 12:49      | And then what I have is before that action. So the first action is actually the dictionary               |
-| 12:54      | or getting the dictionary in my case out of Data Jar because I'm using this in multiple                  |
+| 12:54      | or getting the dictionary in my case out of [[Data Jar]] because I'm using this in multiple                  |
 | 12:58      | different places. So I don't want to build this dictionary into just one shortcut.                       |
 | 13:01      | No, makes sense. So and then so I have the dictionary and then I have getting the Wi-Fi                  |
 | 13:07      | network name and then I have a get value from dictionary action. I think it's called get                 |
@@ -243,8 +243,8 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 16:17      | it. And then you could call that shortcut from another shortcut. I have actually just done that.         |
 | 16:23      | I've just duplicated my shortcut and I've, I've, I've deleted the extra actions or I'm deleting          |
 | 16:28      | the extra actions and I've changed it to get location because this means I can then go through           |
-| 16:32      | and add any more locations. I mean, I do that in Data Jar, but I'm going to have a different one         |
-| 16:36      | in the show notes for people that does not need Data Jar or anything else. It's just using               |
+| 16:32      | and add any more locations. I mean, I do that in [[Data Jar]], but I'm going to have a different one         |
+| 16:36      | in the show notes for people that does not need [[Data Jar]] or anything else. It's just using               |
 | 16:41      | shortcuts and a dictionary inside of shortcuts. Very clever, Rosemary. I love that. So, but,             |
 | 16:47      | you know, the point is you're collecting data at the beginning. For me, I'm getting the current date,    |
 | 16:51      | the current weather. I also grab events from my calendars. And there's three, I have many,               |
@@ -285,7 +285,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 19:59      | a difference between date shortcut, you know, and I would just say get the number of days between        |
 | 20:05      | today and November or whatever that we left. And, and then it would report when it reports a shortcut,   |
 | 20:12      | say X days between now and your trip to Hawaii, Aloha, you know, and so it was like hard written in.     |
-| 20:17      | So the next one I would be doing it for would be WWDC if that were a thing. But since that's             |
+| 20:17      | So the next one I would be doing it for would be [[WWDC]] if that were a thing. But since that's             |
 | 20:22      | another thing, I, I took that out now. So that's, that's blank and it doesn't run. But you know,         |
 | 20:29      | having it look for, I guess, I guess a way to make this easier would be to look for a trip calendar      |
 | 20:34      | and just put all the stuff on trips. And then you would look out pretty far in the future,               |
@@ -525,8 +525,8 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 41:10      | because people have been sending us a lot of questions. And I will do full disclosure. My                |
 | 41:15      | question today comes or the question today comes from me, because I wanted to know, because I've         |
 | 41:21      | been trying to do a better context switching. And this ties into something I talked about a few          |
-| 41:25      | episodes ago where I really want to be using my Stream Deck more. And I thought, you know,               |
-| 41:29      | context switching is like the way to use a Stream Deck, but I like to colour coordinate my stuff.         |
+| 41:25      | episodes ago where I really want to be using my [[Stream Deck]] more. And I thought, you know,               |
+| 41:29      | context switching is like the way to use a [[Stream Deck]], but I like to colour coordinate my stuff.         |
 | 41:34      | So I was wondering, first of all, David, what colour are you using as your accent colour on                |
 | 41:40      | macOS right now? And then secondly, can we automate changing this? Because this is going                 |
 | 41:45      | to be a fun challenge. Yeah, I very I like orange, I like gray. But when you told me your idea of        |
@@ -568,7 +568,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 45:11      | a choice of the different appearance colours. So let's light and dark, the different accent colours        |
 | 45:17      | and the different highlight colours. And that means that you have the values for all of those             |
 | 45:23      | available to you. So what you can do then is instead of just using the script and having to              |
-| 45:30      | set it every time. So every time I run my Automators context button on my Stream Deck,                   |
+| 45:30      | set it every time. So every time I run my Automators context button on my [[Stream Deck]],                   |
 | 45:36      | then it asks me and I have to remember the Automators is red. What I can do instead is I can             |
 | 45:41      | modify the script so it doesn't come up and ask me and it just sets everything to red. And that          |
 | 45:46      | is where where I'm going to be having a lot of fun because I like the idea of doing a little bit         |
@@ -589,7 +589,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 47:02      | Yeah, there's definitely an AppleScript way to change the wallpaper                                     |
 | 47:06      | back in the background. And I'll have to look into it further, but Keyboard                              |
 | 47:10      | Maestro from my five second attempt doesn't look like it does that, but it may do that as well.          |
-| 47:16      | But I love that idea. It's like, so you could automate when you press a button on your Stream Deck       |
+| 47:16      | But I love that idea. It's like, so you could automate when you press a button on your [[Stream Deck]]       |
 | 47:22      | or a keyboard combination with [[Keyboard Maestro]], you get the automator's desktop,                        |
 | 47:29      | then it opens up the apps you want and sets the colours to red, maybe, because that's in our              |
 | 47:34      | icon. I like that. I have a challenge for our listeners because I'm pretty certain that you              |
@@ -674,11 +674,11 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 54:42      | in as a [[Keyboard Maestro]] script, but we'll also put in the AppleScript file and a link to the           |
 | 54:48      | source link we got on this stuff. So you guys can play with it. Let us know what you do with it.         |
 | 54:53      | I'm sure there'll be some interesting uses. I can tell you I'm going to be implementing this with        |
-| 54:58      | my setups on my on my Stream Deck. So like when I go into email mode, I think I'm feeling blue           |
+| 54:58      | my setups on my on my [[Stream Deck]]. So like when I go into email mode, I think I'm feeling blue           |
 | 55:05      | for email. But for recording screencasts, I'm feeling graphite. So it just depends on, you know,         |
 | 55:12      | I like the idea of being able to set the whole system around the current context. So that's              |
 | 55:17      | what I'm going to be doing. I'll be dropping this AppleScript into a bunch of setup scripts.            |
-| 55:20      | I will be doing the same thing. Unfortunately, my Stream Deck is back in Austria. So I'm just            |
+| 55:20      | I will be doing the same thing. Unfortunately, my [[Stream Deck]] is back in Austria. So I'm just            |
 | 55:24      | building the [[Keyboard Maestro]] macros right now and I'm using that on screen palette with keyboard        |
 | 55:28      | maestro, which is pretty cool. But every self done it annoys me a little bit. And so I end up closing    |
 | 55:32      | the palette. But it's a nice little way of trying to do things for sure. You know, you should do         |
@@ -687,7 +687,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 55:47      | There's a reason why we're podcast co hosts. All right. I have a few nuts to add to the pile. But        |
 | 55:53      | honestly, Rose, I think you win today with that whole dictionary thing at the top and the location       |
 | 55:58      | that's that's genius. I think we can say that we both have great ideas and we share them. So             |
-| 56:04      | everybody's a winner. Okay, we all win. This episode of the automakers is brought to you by              |
+| 56:04      | everybody's a winner. Okay, we all win. This episode of the Automators is brought to you by              |
 | 56:11      | ExpressVPN. High speed, secure and anonymous VPN services get three months for free with a one year      |
 | 56:18      | package. Just go to ExpressVPN.com/automators. You might have already heard how important it is    |
 | 56:25      | to have a VPN. And now that a lot of you are working from home, it's even more important to              |
@@ -723,16 +723,16 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 59:19      | great. I think it might be called format text, actually. But what you can do among a variety             |
 | 59:25      | of other things is you can convert Markdown to HTML. And the Google Docs action to create a new          |
 | 59:30      | Google Docs supports HTML. So our entire show notes are based on information that we have in             |
-| 59:36      | Airtable. And then this is extracted. And then there's a script inside of Zapier. I'm not going          |
+| 59:36      | [[Airtable]]. And then this is extracted. And then there's a script inside of Zapier. I'm not going          |
 | 59:41      | to go into the details there, but essentially it checks whether or not we have a guest. And it           |
-| 59:45      | generates some different things based on that and the notes that are passed into this from Airtable.     |
+| 59:45      | generates some different things based on that and the notes that are passed into this from [[Airtable]].     |
 | 59:51      | And then that is all in Markdown because that means that if David or I want to pop in and edit           |
 | 59:57      | something, then we can do that very easily. And then this action, the format action converts             |
 | 01:00:05   | our Markdown HTML. And then the HTML is put into the Google Doc action, which creates the Google         |
-| 01:00:10   | Doc. And then, of course, we have another Airtable action to update our Airtable record with a link      |
-| 01:00:16   | to the show notes. Because this means that what I'm doing with my Stream Deck button, when I get         |
-| 01:00:22   | my Stream Deck back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the Airtable   |
-| 01:00:27   | Airtable base in Firefox for me. And then I can see the link to the show notes. And I can just           |
+| 01:00:10   | Doc. And then, of course, we have another [[Airtable]] action to update our [[Airtable]] record with a link      |
+| 01:00:16   | to the show notes. Because this means that what I'm doing with my [[Stream Deck]] button, when I get         |
+| 01:00:22   | my [[Stream Deck]] back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the [[Airtable]]   |
+| 01:00:27   | [[Airtable]] base in Firefox for me. And then I can see the link to the show notes. And I can just           |
 | 01:00:35   | click on it and go straight to the show notes there. Because, of course, every show has a different      |
 | 01:00:38   | document. Nice. That was a lot of work, though. It sounds like a lot of work, but actually,              |
 | 01:00:43   | once I realised that I just needed a formatter action, it wasn't so much work. I added the script        |

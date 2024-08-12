@@ -501,7 +501,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 29:06      | So do you want to give us a quick overview of how you do this?                                      |
 | 29:08      | Because obviously, I know how to do this, but it would be better in your words.                     |
 | 29:12      | Yes.                                                                                                |
-| 29:13      | It took me a while to kind of see what's happening there, because I, of course, saw the WWDC        |
+| 29:13      | It took me a while to kind of see what's happening there, because I, of course, saw the [[WWDC]]        |
 | 29:19      | where they introduced shortcuts and was all cool and all, and they said it's runs on                |
 | 29:25      | [[HomeKit]] too, and I didn't really think much of it.                                                  |
 | 29:29      | And I think it was, again, probably [[Federico Viticci\|Federico]] or somebody that says, huh, I have this alarm          |
@@ -781,7 +781,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 46:07      | And both of these things don't work on the Apple Watch.                                             |
 | 46:10      | So sadly, I just felt, well, not this time, maybe with the next step I do, I'll make something      |
 | 46:16      | more watch-friendly.                                                                                |
-| 46:18      | But then I started adding online actions where you can trigger Zapier or Integromat directly.       |
+| 46:18      | But then I started adding online actions where you can trigger Zapier or [[Make\|Integromat]] directly.       |
 | 46:25      | And now Microsoft Flow is added, so you can connect those systems.                                  |
 | 46:28      | And with the tap of a button, you can run something in Zapier directly.                             |
 | 46:34      | And you can do that on the watch.                                                                   |

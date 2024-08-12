@@ -669,16 +669,16 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 26:07      | that sort of thing.                                                |
 | 26:09      | And it makes a database entry for me                               |
 | 26:12      | in a database that I have locally on my machine.                   |
-| 26:16      | Well, I'm also using, what's it called, Airtable.                  |
-| 26:21      | I have both Airtable and an SQLite database.                       |
+| 26:16      | Well, I'm also using, what's it called, [[Airtable]].                  |
+| 26:21      | I have both [[Airtable]] and an SQLite database.                       |
 | 26:27      | I'm actually doing things in parallel.                             |
-| 26:30      | Rose, have you noticed how often Airtable comes up lately?         |
+| 26:30      | Rose, have you noticed how often [[Airtable]] comes up lately?         |
 | 26:33      | Something tells me we're gonna need an episode on this, right?     |
-| 26:35      | Everybody's using Airtable, yeah, anyway.                          |
+| 26:35      | Everybody's using [[Airtable]], yeah, anyway.                          |
 | 26:38      | Yeah, I'm kind of, on this, I'm still keeping it there.            |
 | 26:43      | I'm starting to use it a little bit less                           |
 | 26:45      | for this particular one,                                           |
-| 26:46      | but yeah, Airtable is a lovely thing.                              |
+| 26:46      | but yeah, [[Airtable]] is a lovely thing.                              |
 | 26:48      | And so it does that, it makes two database entries                 |
 | 26:52      | and two different databases because I'm redundant.                 |
 | 26:55      | It makes a mail folder in mail                                     |
@@ -704,7 +704,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 27:55      | about here is invoice number such and such,                        |
 | 28:00      | it's for X number of dollars on this project, please pay.          |
 | 28:05      | And then the script then adds a reminder to me.                    |
-| 28:16      | In reminders, I have an invoice list in reminders                  |
+| 28:16      | In [[Apple Reminders\|Reminders]], I have an invoice list in [[Apple Reminders\|Reminders]]                  |
 | 28:21      | and it adds one reminding me to follow up                          |
 | 28:25      | on this invoice in roughly 45 days                                 |
 | 28:31      | if it hasn't been paid.                                            |
@@ -849,18 +849,18 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 35:12      | the ones that are unpaid and seven weeks old.                      |
 | 35:15      | How are you figuring that out automatically?                       |
 | 35:19      | It is not so much doing it that way.                               |
-| 35:22      | It's actually looking in reminders                                 |
-| 35:25      | and looking at the due date in reminders.                          |
+| 35:22      | It's actually looking in [[Apple Reminders\|Reminders]]                                 |
+| 35:25      | and looking at the due date in [[Apple Reminders\|Reminders]].                          |
 | 35:28      | So what my script does on Tuesday morning is say,                  |
 | 35:32      | which reminders have come due today?                               |
 | 35:34      | Okay.                                                              |
 | 35:35      | And AppleScript allows you to do that.                             |
-| 35:38      | The AppleScript library or dictionary for reminders                |
+| 35:38      | The AppleScript library or dictionary for [[Apple Reminders\|Reminders]]                |
 | 35:43      | has pieces like that, commands for doing that.                     |
 | 35:46      | So what it does is it gives me a list then                         |
-| 35:49      | of all of the invoices that are all of the reminders               |
+| 35:49      | of all of the invoices that are all of the [[Apple Reminders\|Reminders]]               |
 | 35:55      | because it doesn't really know about invoices,                     |
-| 35:57      | but it reads the text of all the reminders.                        |
+| 35:57      | but it reads the text of all the [[Apple Reminders\|Reminders]].                        |
 | 35:59      | Then it parses and figures out which ones are due that day.        |
 | 36:04      | Then it parses the reminder itself.                                |
 | 36:06      | And the reminder says it's invoice number X                        |
@@ -1635,7 +1635,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:13:51   | Apple does seem to be behind it.                                   |
 | 01:13:52   | Apple spent a lot of time talking about this feature               |
 | 01:13:57   | back there in September.                                           |
-| 01:13:59   | And, or was it, were they doing it in June at WWDC?                |
+| 01:13:59   | And, or was it, were they doing it in June at [[WWDC]]?                |
 | 01:14:04   | Whatever it was, whenever, when they introduced it,                |
 | 01:14:07   | they talked a lot about it                                         |
 | 01:14:08   | and they talked a lot about it                                     |

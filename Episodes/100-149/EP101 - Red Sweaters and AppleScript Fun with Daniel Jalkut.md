@@ -1847,7 +1847,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:19:57   | starting to actively add shortcut support.                        |
 | 01:20:00   | And there definitely feels to me                                  |
 | 01:20:03   | like an evolution of automation.                                  |
-| 01:20:05   | And last year, WWDC, I believe it was Craig Federighi             |
+| 01:20:05   | And last year, [[WWDC]], I believe it was Craig Federighi             |
 | 01:20:10   | who said that shortcuts on the Mac                                |
 | 01:20:12   | was one more step in their overall automation plan.               |
 | 01:20:16   | And to me, that was like kind of shocking                         |
@@ -2169,7 +2169,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:35:02   | I would just say, I hope it continues to get attention.           |
 | 01:35:06   | It's been nice to see how much little bug fixes are coming.       |
 | 01:35:09   | There's a steady stream of little bug fixes.                      |
-| 01:35:11   | And hopefully that means that when like WWDC comes along,         |
+| 01:35:11   | And hopefully that means that when like [[WWDC]] comes along,         |
 | 01:35:15   | we'll see like a shortcuts for the Mac 2 or whatever              |
 | 01:35:19   | and it'll be something to celebrate.                              |
 | 01:35:22   | Yes, yes.                                                         |
@@ -2316,7 +2316,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:41:45   | cause this is a good story.                                       |
 | 01:41:47   | So for the supporters, we'll be talking about that.               |
 | 01:41:50   | Also thank you to our sponsors,                                   |
-| 01:41:52   | TextExpander, Hunter Douglas and Dev and Think.                 |
+| 01:41:52   | TextExpander, Hunter Douglas and [[DEVONthink]].                 |
 | 01:41:55   | We are the Automators, you can find us                            |
 | 01:41:57   | at relay.fm/automators and we'll see you next time.         |
 | 01:42:01   | Goodbye.                                                          |

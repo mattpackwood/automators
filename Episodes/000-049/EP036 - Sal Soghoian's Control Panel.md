@@ -62,7 +62,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 00:33      | Greetings.                                                                                               |
 | 00:34      | How are you guys?                                                                                        |
 | 00:35      | Great.                                                                                                   |
-| 00:36      | Sal, when we were up in San Francisco for WWDC, Sal showed us a secret project he was working            |
+| 00:36      | Sal, when we were up in San Francisco for [[WWDC]], Sal showed us a secret project he was working            |
 | 00:43      | on.                                                                                                      |
 | 00:44      | And my first question was, hey, how did you do that?                                                     |
 | 00:48      | And when can we share this with the Automators audience?                                                 |
@@ -72,7 +72,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:06      | We're going to talk about it today.                                                                      |
 | 01:07      | But since Rose raised the spectre of her nemesis, which is apparently leaves, what happened              |
 | 01:17      | to you now, Rose?                                                                                        |
-| 01:18      | Well, for everybody who didn't know, I broke my ankle at WWDC.                                           |
+| 01:18      | Well, for everybody who didn't know, I broke my ankle at [[WWDC]].                                           |
 | 01:22      | I was a scooter.                                                                                         |
 | 01:23      | I had a leaf.                                                                                            |
 | 01:24      | The leaf shredded.                                                                                       |
@@ -870,7 +870,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 56:46      | You can either call it with the name or call it with the ID of the macro, but it's very                  |
 | 56:50      | simple to do.                                                                                            |
 | 56:51      | And so if you've already got stuff in [[Keyboard Maestro]], that's something that you can do                 |
-| 56:56      | and I know a lot of people have been playing with things like a Stream Deck recently.                    |
+| 56:56      | and I know a lot of people have been playing with things like a [[Stream Deck]] recently.                    |
 | 56:59      | But this, if you already have an iPad, it's a free alternative.                                          |
 | 57:03      | So it's definitely worth giving it a try.                                                                |
 | 57:05      | Yeah, if you're going to set this up, you can not only run AppleScripts, you can run                    |

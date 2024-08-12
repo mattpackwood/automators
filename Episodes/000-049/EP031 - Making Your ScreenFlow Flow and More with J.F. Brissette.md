@@ -667,7 +667,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 37:04      | It allows you to trigger iOS shortcuts based on time and location, so you might have a                  |
 | 37:08      | shortcut you want to run at 8 p.m., but only if you're at home, or maybe when you leave                 |
 | 37:13      | the office, but only on weekdays.                                                                       |
-| 37:15      | Even better, it connects to automation services like Zapier, Integromat, and if this then               |
+| 37:15      | Even better, it connects to automation services like Zapier, [[Make\|Integromat]], and if this then               |
 | 37:20      | that, so you can actually trigger those online actions without opening any app.                         |
 | 37:25      | PushCut is great for DIY automation prompts, like getting a robot to start vacuuming when               |
 | 37:30      | you leave the house.                                                                                    |
@@ -771,7 +771,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 43:16      | Most of the time, honestly, if an app is not willing to support shortcuts, then I am                    |
 | 43:23      | now at the point where I'm seriously considering dropping the application rather than continuing        |
 | 43:29      | to use [[URL Schemes]].                                                                                     |
-| 43:31      | Because with the new parameterised shortcuts, also Apple, in their WWDC, they were very                 |
+| 43:31      | Because with the new parameterised shortcuts, also Apple, in their [[WWDC]], they were very                 |
 | 43:39      | clear that shortcuts is the future and [[URL Schemes]] are insecure, which means that at                    |
 | 43:45      | some point, at least from my perspective, they're going to be either dropping them or                   |
 | 43:50      | blocking them or something.                                                                             |

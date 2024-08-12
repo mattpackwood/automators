@@ -273,7 +273,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 09:11      | because at the time we recorded the episodes,                     |
 | 09:13      | Apple released shortcuts.                                         |
 | 09:15      | And...                                                            |
-| 09:16      | Yeah, we were at WWDC.                                            |
+| 09:16      | Yeah, we were at [[WWDC]].                                            |
 | 09:18      | I just spoken to [[Myke Hurley]] and I met Steven.                    |
 | 09:23      | And we were confirming everything was ready to go                 |
 | 09:25      | and we had some episodes.                                         |
@@ -398,7 +398,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 14:11      | something that I didn't really expect                             |
 | 14:13      | when we started this show                                         |
 | 14:14      | is the increasing references to cloud-based automation tools      |
-| 14:19      | and we talked about IFTTT, Zapier, Integromat,                    |
+| 14:19      | and we talked about [[IFTTT]], [[Zapier]], [[Make\|Integromat]],                    |
 | 14:24      | which is now called Mac.                                          |
 | 14:26      | There are a lot of these tools coming along now.                  |
 | 14:29      | Yeah, and not only are they coming along,                         |
@@ -691,8 +691,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 26:04      | because I've got a bunch of automations                           |
 | 26:06      | based around the show.                                            |
 | 26:07      | Our entire show notes are created                                 |
-| 26:09      | thanks to automations combined with Airtable.                     |
-| 26:12      | So we put the episode into the Airtable record                    |
+| 26:09      | thanks to automations combined with [[Airtable]].                     |
+| 26:12      | So we put the episode into the [[Airtable]] record                    |
 | 26:16      | and then bam, it goes ahead and creates a show doc for us         |
 | 26:19      | and things like that.                                             |
 | 26:21      | When I start recording the show,                                  |
@@ -904,7 +904,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 34:41      | or maybe not, and then I end up, you know,                        |
 | 34:43      | putting AppleScript inside of a shortcut,                         |
 | 34:46      | or running a shortcut through AppleScript inside a bunch,         |
-| 34:50      | which is actually run by [[Keyboard Maestro]] from my Stream Deck.    |
+| 34:50      | which is actually run by [[Keyboard Maestro]] from my [[Stream Deck]].    |
 | 34:54      | And so I've ended up kind of nesting automation types             |
 | 34:57      | and crossing streams in ways which I feel                         |
 | 35:00      | can only be beneficial, the fact that, you know,                  |
@@ -942,7 +942,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 36:11      | when we even started this show.                                   |
 | 36:13      | And for instance, on the Mac,                                     |
 | 36:16      | as we get shortcuts for Mac kind of gets more stable.             |
-| 36:20      | And we're going to talk about WWDC later,                         |
+| 36:20      | And we're going to talk about [[WWDC]] later,                         |
 | 36:22      | but I feel like it's going to get more stable.                    |
 | 36:25      | We're seeing increasingly applications                            |
 | 36:28      | that were not historically automation friendly                    |
@@ -1070,7 +1070,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 41:34      | for their support of the Automators and Olive Relay FM.           |
 | 41:39      | So Rose, we got news.                                             |
 | 41:40      | It's the last time we were on air.                                |
-| 41:42      | WWDC June 6th, not that far off.                                  |
+| 41:42      | [[WWDC]] June 6th, not that far off.                                  |
 | 41:46      | Nope, no, it's really not.                                        |
 | 41:47      | Time is taking away at a relatively rapid pace.                   |
 | 41:51      | But I reckon, David, do you think if we wish hard enough          |
@@ -1086,7 +1086,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 42:14      | I think there's time, you know, they're smart people.             |
 | 42:16      | All right, so from a shortcuts                                    |
 | 42:19      | or just an automation perspective,                                |
-| 42:22      | what would you like to see happen this year at WWDC?              |
+| 42:22      | what would you like to see happen this year at [[WWDC]]?              |
 | 42:26      | I would like to see four specific automation actions              |
 | 42:31      | that are come from shortcuts.                                     |
 | 42:33      | For example, the vibrate action.                                  |
@@ -1363,8 +1363,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 54:27      | If you look at the API calls                                      |
 | 54:29      | and the way you set up a shortcut support,                        |
 | 54:31      | it's not super difficult.                                         |
-| 54:34      | I mean, I sat in in the session in WWDC with this                 |
-| 54:38      | the last time I was able to go to WWDC                            |
+| 54:34      | I mean, I sat in in the session in [[WWDC]] with this                 |
+| 54:38      | the last time I was able to go to [[WWDC]]                            |
 | 54:40      | and it didn't seem to me like this was a mission impossible,      |
 | 54:44      | but I feel like we're getting the developers                      |
 | 54:49      | that are using shortcuts are usually coming in pretty shallow.    |
@@ -1537,7 +1537,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:01:58   | can be converted into shortcuts.                                  |
 | 01:02:00   | And, you know, that is then the end of Automator.                 |
 | 01:02:05   | So I'm wondering if we're going to see Automator                  |
-| 01:02:08   | be removed this year at WWDC                                      |
+| 01:02:08   | be removed this year at [[WWDC]]                                      |
 | 01:02:11   | or if it will hang around for another year                        |
 | 01:02:14   | or maybe to a 0.1 or 0.3 release of Mac OS,                       |
 | 01:02:17   | I guess we'll have to wait and see.                               |
@@ -1571,7 +1571,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:03:29   | And I feel like this is just like growing pains                   |
 | 01:03:31   | more than anything else.                                          |
 | 01:03:32   | But I would like to see more progress on that.                    |
-| 01:03:35   | The share at WWDC.                                                |
+| 01:03:35   | The share at [[WWDC]].                                                |
 | 01:03:37   | Yeah. And I'm sure we will.                                       |
 | 01:03:41   | This episode of The Automators is brought to you                  |
 | 01:03:43   | by LinkedIn Jobs.                                                 |
@@ -1857,8 +1857,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:14:19   | And I lied, it's only got 12 input buttons on the thumb side,     |
 | 01:14:23   | but it comes in a left-handed and a right-handed mode.            |
 | 01:14:26   | And so, yeah.                                                     |
-| 01:14:28   | With that, the multiple Stream Decks                              |
-| 01:14:30   | because the Stream Deck plus the Stream Deck pedal, yeah.         |
+| 01:14:28   | With that, the multiple [[Stream Deck\|Stream Decks]]                              |
+| 01:14:30   | because the [[Stream Deck]] plus the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]], yeah.         |
 | 01:14:34   | I definitely have a lot of input devices                          |
 | 01:14:37   | running around on my desk.                                        |
 | 01:14:38   | All right, let's talk about that at some point.                   |
@@ -1977,7 +1977,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:18:58   | we've got very lucky having the tools                             |
 | 01:19:01   | that we've got already.                                           |
 | 01:19:02   | So for example, in particular,                                    |
-| 01:19:04   | Zapier and Make, I find much easier to use                        |
+| 01:19:04   | [[Zapier]] and [[Make]], I find much easier to use                        |
 | 01:19:07   | than I originally found, if this than that.                       |
 | 01:19:10   | And also, you know, they have support                             |
 | 01:19:12   | for things that if this than that didn't have                     |
@@ -1988,7 +1988,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:19:25   | and then you open, you know, one of the actions                   |
 | 01:19:27   | and you see all of the different parts of it                      |
 | 01:19:29   | really does help.                                                 |
-| 01:19:31   | And especially in Make where it's so visual of,                   |
+| 01:19:31   | And especially in [[Make]] where it's so visual of,                   |
 | 01:19:35   | you know, you've got this dot                                     |
 | 01:19:36   | and this dot has got a line going to that dot                     |
 | 01:19:38   | and you click on the dot                                          |
@@ -2004,7 +2004,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:20:02   | script and share it with you.                              |
 | 01:20:04   | And that is great.                                                |
 | 01:20:06   | And web services that add APIs will end up                        |
-| 01:20:09   | with things like make and Zapier integrations,                    |
+| 01:20:09   | with things like [[Make}]] and [[Zapier]] integrations,                    |
 | 01:20:12   | but they'll also have people just create tools                    |
 | 01:20:15   | that do something using their application.                        |
 | 01:20:17   | And more and more people use our application                      |

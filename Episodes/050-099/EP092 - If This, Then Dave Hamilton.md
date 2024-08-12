@@ -1315,7 +1315,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 55:51      | I mean, that is some of the best automation time you can spend putting those together.                                                                                   |
 | 55:55      | And it is so satisfying.                                                                                                                                                 |
 | 55:57      | I even think it helps your brain because like you sit down and you push a button, whether                                                                                |
-| 56:03      | it be through [[Keyboard Maestro]] or a Stream Deck or an F sharp on your keyboard.                                                                                          |
+| 56:03      | it be through [[Keyboard Maestro]] or a [[Stream Deck]] or an F sharp on your keyboard.                                                                                          |
 | 56:08      | And suddenly your computer just transforms itself into a machine to do that thing, that                                                                                  |
 | 56:13      | one thing.                                                                                                                                                               |
 | 56:14      | You know, and we were talking earlier about how they're distraction machines.                                                                                            |
@@ -1612,7 +1612,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:13:11   | That's correct.                                                                                                                                                          |
 | 01:13:12   | Yeah.                                                                                                                                                                    |
 | 01:13:13   | I really like that idea actually.                                                                                                                                        |
-| 01:13:14   | I think I might expand that and add something in Data Jar to say I am traveling or I'm not                                                                               |
+| 01:13:14   | I think I might expand that and add something in [[Data Jar]] to say I am traveling or I'm not                                                                               |
 | 01:13:19   | traveling, something that can be set and then when my phone turns off low power mode,                                                                                    |
 | 01:13:24   | it can check to see whether or not it should turn it back on.                                                                                                            |
 | 01:13:27   | And then that flag is something that I can just easily enable and disable.                                                                                               |
@@ -1625,10 +1625,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:13:41   | See, this is great.                                                                                                                                                      |
 | 01:13:42   | This is what I love about this.                                                                                                                                          |
 | 01:13:43   | Yeah.                                                                                                                                                                    |
-| 01:13:44   | You got to try Data Jar if you haven't.                                                                                                                                  |
+| 01:13:44   | You got to try [[Data Jar]] if you haven't.                                                                                                                                  |
 | 01:13:45   | It's really fun.                                                                                                                                                         |
 | 01:13:46   | Yeah.                                                                                                                                                                    |
-| 01:13:47   | It's a set of global variables that you can store in Data Jar and then that just makes                                                                                   |
+| 01:13:47   | It's a set of global variables that you can store in [[Data Jar]] and then that just makes                                                                                   |
 | 01:13:54   | shortcuts so much more useful because you don't lose your variable data.                                                                                                 |
 | 01:14:00   | Right.                                                                                                                                                                   |
 | 01:14:01   | It's great for things that you want to pull in again and again and again.                                                                                                |
@@ -1786,7 +1786,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:21:42   | machine.                                                                                                                                                                 |
 | 01:21:43   | However, focus mode will be the catalyst to me upgrading to Monterey here much faster                                                                                    |
 | 01:21:48   | than I usually would.                                                                                                                                                    |
-| 01:21:50   | Basically it's about a week before WWDC is when this machine gets the current upgrade                                                                                    |
+| 01:21:50   | Basically it's about a week before [[WWDC]] is when this machine gets the current upgrade                                                                                    |
 | 01:21:57   | and I think it's going to be January.                                                                                                                                    |
 | 01:21:59   | So, so we'll be about six months ahead of schedule.                                                                                                                      |
 | 01:22:02   | In addition to focus mode though, I created a, or in addition to podcast mode, I created                                                                                 |
@@ -1964,4 +1964,4 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:30:33   | We are the Automators Podcast.                                                                                                                                           |
 | 01:30:34   | You can find us over at relay.fm/automators.                                                                                                                      |
 | 01:30:37   | Thank you to our sponsors today.                                                                                                                                         |
-| 01:30:39   | Thanks our friends over at Dev and Think and Hover and we'll see you next time.                                                                                          |
+| 01:30:39   | Thanks our friends over at [[DEVONthink]] and Hover and we'll see you next time.                                                                                          |

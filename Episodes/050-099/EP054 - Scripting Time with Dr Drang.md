@@ -971,14 +971,14 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 01:29:38   | I get noticed that they haven't paid. And then I call the guys with the lead pipes,                                                            |
 | 01:29:45   | they go get the money. It's real easy. I remember for anybody who's interested, Dr. Drang,                                                     |
 | 01:29:51   | last time you were on the Automators, you told us about your nagging invoice follow up system.                                                 |
-| 01:29:56   | And it was really interesting how you use reminders and everything else for that,                                                              |
+| 01:29:56   | And it was really interesting how you use [[Apple Reminders\|Reminders]] and everything else for that,                                                              |
 | 01:29:59   | you know, to do it without using invoicing software specifically.                                                                              |
 | 01:30:04   | So if anybody is interested in that, you should pop back to that episode and check that out.                                                   |
 | 01:30:09   | Saves me a lot of time. And I have found since I have tightened the screws on my clients                                                       |
 | 01:30:16   | and have been more proactive in following up on unpaid invoices, they pay more quickly.                                                        |
 | 01:30:21   | Funny how that is. Rose, how do you handle that question of time invested versus time gain?                                                    |
 | 01:30:29   | Automation is a hobby. So I'm going to spend my time doing something, whether it's playing games                                               |
-| 01:30:34   | on Nintendo Switch, moving between countries, planning holidays, you know, doing a variety                                                     |
+| 01:30:34   | on [[Nintendo Switch]], moving between countries, planning holidays, you know, doing a variety                                                     |
 | 01:30:40   | of things. I figure that, you know, as long as I'm enjoying myself and I get the result that                                                   |
 | 01:30:45   | I'm after, it's a good investment of time. Because if I'm looking at this versus, you know,                                                    |
 | 01:30:51   | a variety of other hobbies available to me, it's certainly a lot cheaper than others.                                                          |
@@ -1035,5 +1035,5 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 01:35:48   | people there. It's really nice to pop in and go, oh, look, all of these wonderful things have been                                             |
 | 01:35:54   | happening in the last, you know, 20 minutes since I visited because it always feels like I was there                                           |
 | 01:35:58   | 20 minutes ago and so much stuff has happened. Yeah. And we are the automators. You can find                                                   |
-| 01:36:03   | us at relay.fm/automators. Thank you to our sponsors, Smile Express VPN and Dev and                                                            |
-| 01:36:09   | Thank, and we'll see you next week. Goodbye, everyone.                                                                                         |
+| 01:36:03   | us at relay.fm/automators. Thank you to our sponsors, Smile Express VPN and DEVONthink                                                            |
+| 01:36:09   | and we'll see you next week. Goodbye, everyone.                                                                                         |

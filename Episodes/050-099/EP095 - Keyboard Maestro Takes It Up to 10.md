@@ -135,7 +135,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 05:50      | Well, I mean, and they're already able to talk to each other.                                            |
 | 05:56      | You talked about public URLs, so the way you do that is you just call it in a shortcut                   |
 | 06:01      | and then it triggers a [[Keyboard Maestro]] script.                                                          |
-| 06:05      | So not only can you trigger it with your Stream Deck or some keyboard shortcut, or you can               |
+| 06:05      | So not only can you trigger it with your [[Stream Deck]] or some keyboard shortcut, or you can               |
 | 06:10      | trigger it with a keyboard and attach and a keyboard and a [[MIDI]] note.                                    |
 | 06:14      | You can also trigger it with your phone or iPad or Apple Watch.                                          |
 | 06:19      | And that is kind of awesome.                                                                             |
@@ -467,7 +467,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 26:18      | Like if I said, okay, I'm going to edit, you know, podcast ads at 10 o'clock and it sees                 |
 | 26:24      | that and the calendar that it suddenly sets up my finder and my audio editing tools and                  |
 | 26:30      | everything to kind of do that for me off the play with that some, but I've been doing that               |
-| 26:34      | largely with a set of buttons on Stream Deck to so far.                                                  |
+| 26:34      | largely with a set of buttons on [[Stream Deck]] to so far.                                                  |
 | 26:41      | Some more triggers that they've added is they've added one for appearance changed.                       |
 | 26:47      | And that's kind of nutty, right?                                                                         |
 | 26:49      | But whenever your Mac changes its system appearance, that can be a trigger.                              |
@@ -509,8 +509,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 29:02      | happening, that's not necessarily what was intended.                                                     |
 | 29:07      | But the ability to do this, so I do do like diagonal opposites on my keyboard usually.                   |
 | 29:15      | That's my combination for that, and that makes it quite easy.                                            |
-| 29:20      | Well, and just kind of related since we have invoked the name Stream Deck is people are                  |
-| 29:25      | writing us about the Stream Deck pedal.                                                                  |
+| 29:20      | Well, and just kind of related since we have invoked the name [[Stream Deck]] is people are                  |
+| 29:25      | writing us about the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]].                                                                  |
 | 29:28      | Oh yeah, I've ordered one, David, I've ordered one.                                                      |
 | 29:31      | It should be coming in about a week or so as this episode releases, fingers crossed.                     |
 | 29:39      | But it's not here yet.                                                                                   |
@@ -602,8 +602,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 35:57      | hit Control 1 for a certain folder, Control 2, whatever.                                                 |
 | 36:01      | But if I just hit Control M, it's a conflict pallet for all of them, and it shows me the                 |
 | 36:06      | whole list, and then I can just type for black hole, if I type BL, it goes to the black hole.            |
-| 36:11      | And I find very fast in that way if I'm using my laptop and I don't have a Stream Deck attached,         |
-| 36:19      | I don't have to rely on the Stream Deck button pallet, I can just hit Control M, and as long             |
+| 36:11      | And I find very fast in that way if I'm using my laptop and I don't have a [[Stream Deck]] attached,         |
+| 36:19      | I don't have to rely on the [[Stream Deck]] button pallet, I can just hit Control M, and as long             |
 | 36:24      | as I'm in the mail app, that conflict pallet gets triggered.                                             |
 | 36:28      | So there's a whole lot of clever ways to use those groupings, those app-specific groups                  |
 | 36:35      | to make using your app a lot easier.                                                                     |
@@ -617,8 +617,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 37:12      | But another way to do this is to use the Show Pallet of Macros option, and then you can                  |
 | 37:19      | either use a smart group or you can use a regular group to show a specific group of                      |
 | 37:25      | macros, and that is very handy because I have a group called, it's actually a smart group                |
-| 37:33      | called Work Stream Deck, and the idea is it is essentially a [[Keyboard Maestro]] pallet of                  |
-| 37:41      | my Work Stream Deck actions, and this means that I can then just hit that keyboard shortcut              |
+| 37:33      | called Work [[Stream Deck]], and the idea is it is essentially a [[Keyboard Maestro]] pallet of                  |
+| 37:41      | my Work [[Stream Deck]] actions, and this means that I can then just hit that keyboard shortcut              |
 | 37:47      | and all of them pop up, but I don't necessarily have to use the macro pallet for it, which               |
 | 37:51      | is really the conflict pallet for I can just have an application pallet, and then it can                 |
 | 37:56      | also hang around on my screen because it is a regular pallet, whereas a conflict pallet                  |
@@ -628,7 +628,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 38:11      | auto-alphabetises, so it creates the secondary trigger shortcut based on whatever's on the               |
 | 38:19      | list at the time, but it vanishes as soon as it executes, so you don't get to keep it                    |
 | 38:25      | on the screen.                                                                                           |
-| 38:26      | So the way Rose is doing it actually keeps it, like in essence, a Stream Deck panel on                   |
+| 38:26      | So the way Rose is doing it actually keeps it, like in essence, a [[Stream Deck]] panel on                   |
 | 38:31      | her screen.                                                                                              |
 | 38:32      | Yeah, yeah, or it can do.                                                                                |
 | 38:35      | I don't have it hang around for most of them, but it is very nice to be able to pop up a                 |
@@ -724,29 +724,29 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 44:19      | I'll tell you the truth though, my go to, you know, trigger like 90% or more of the time                 |
 | 44:27      | is just keyboard shortcuts because they're just so handy and you can use them.                           |
 | 44:32      | You can trigger them with other automations.                                                             |
-| 44:34      | You can, and then of course the Stream Deck is a huge kind of [[Keyboard Maestro]] launching                 |
+| 44:34      | You can, and then of course the [[Stream Deck]] is a huge kind of [[Keyboard Maestro]] launching                 |
 | 44:41      | device for me as well.                                                                                   |
-| 44:42      | I was just looking, do they, do they only make the standard Stream Deck now that they                    |
+| 44:42      | I was just looking, do they, do they only make the standard [[Stream Deck]] now that they                    |
 | 44:47      | used to have three sizes, but just looking on Amazon real quickly.                                       |
 | 44:50      | I don't even see that they have the big one for sale anymore.                                            |
 | 44:54      | I did see them the other day when I was having a look and I was just having a look on their              |
-| 44:59      | website and they do seem to be focusing on their Stream Deck mark two, which is the medium               |
+| 44:59      | website and they do seem to be focusing on their [[Stream Deck#Stream Deck MK 2\|Stream Deck MK 2]], which is the medium               |
 | 45:05      | size one or standard as it was before.                                                                   |
 | 45:10      | But I wonder if they do still have the others and their, their, their web shop is not necessarily        |
 | 45:15      | showing me everything.                                                                                   |
 | 45:16      | But the medium says one is a pretty decent device, I have to say.                                        |
 | 45:19      | Yeah.                                                                                                    |
 | 45:20      | But I'm using all the buttons on that big one and I love it.                                             |
-| 45:23      | And I, I mean, with the, and this is not a Stream Deck show, but you know, it can also                   |
+| 45:23      | And I, I mean, with the, and this is not a [[Stream Deck]] show, but you know, it can also                   |
 | 45:28      | pop up different sets of buttons depending on what app you're in.                                        |
 | 45:31      | And then you connect those with KM link, which is the, you know, the third party plug-in                 |
-| 45:36      | to run a [[Keyboard Maestro]] script from your Stream Deck and suddenly like everything goes                 |
+| 45:36      | to run a [[Keyboard Maestro]] script from your [[Stream Deck]] and suddenly like everything goes                 |
 | 45:42      | so fast with buttons and, and also I am a massive user of conflict pallets as, as everybody              |
 | 45:49      | already knows.                                                                                           |
 | 45:50      | Yeah.                                                                                                    |
 | 45:51      | Yes.                                                                                                     |
 | 45:52      | For me, it's much the same.                                                                              |
-| 45:54      | I am using the [[Keyboard Maestro]] integration with the Stream Deck in some places because                  |
+| 45:54      | I am using the [[Keyboard Maestro]] integration with the [[Stream Deck]] in some places because                  |
 | 46:00      | what it can do is it can change what a button looks like.                                                |
 | 46:06      | So it can set an image, it can set the title, it could show an alert and so on and so forth.             |
 | 46:12      | And that, that's really nice.                                                                            |
@@ -934,23 +934,23 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 58:23      | And of course, the other option that you've got is to be able to calculate the time and                  |
 | 58:28      | say now plus 20 minutes or now minus 15 minutes or whatever, which is, again, great for that             |
 | 58:36      | date and time that you were talking about.                                                               |
-| 58:39      | This episode of Automated is brought to you by Dev and Think, the flagship product from                  |
-| 58:43      | Dev and Technologies.                                                                                    |
-| 58:44      | Dev and Think is the most professional document and information management application for               |
+| 58:39      | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from                  |
+| 58:43      | DEVONtechnologies.                                                                                    |
+| 58:44      | [[DEVONthink]] is the most professional document and information management application for               |
 | 58:48      | the Mac.                                                                                                 |
 | 58:49      | It's the one place for storing all your documents, snippets, all bookmarks, and working with             |
 | 58:53      | them.                                                                                                    |
 | 58:54      | The integrated AIs assist you with filing and searching or the extensive search language                 |
 | 58:58      | with advanced billions of search operators means you're never going to not find something.               |
-| 59:03      | Dev and Think features a flexible sync system that supports many cloud services or lets                  |
+| 59:03      | [[DEVONthink]] features a flexible sync system that supports many cloud services or lets                  |
 | 59:07      | you synchronise over the local network too, with everything securely encrypted.                          |
 | 59:11      | This gives you the choice for however syncing works best for you.                                        |
 | 59:14      | It has smart rules and flexible reminders that let you automate all parts of your workflow               |
 | 59:18      | and delegate boring, repeating tasks.                                                                    |
-| 59:21      | Let Dev and Think automate your data with rules you define.                                              |
-| 59:25      | Dev and Think's AppleScript dictionary is one of the largest on the Mac.                                |
-| 59:27      | There's no part of Dev and Think that can't be automated.                                                |
-| 59:30      | Extend Dev and Think's functionality with your own commands by adding them to its scripts                |
+| 59:21      | Let [[DEVONthink]] automate your data with rules you define.                                              |
+| 59:25      | [[DEVONthink]]'s AppleScript dictionary is one of the largest on the Mac.                                |
+| 59:27      | There's no part of [[DEVONthink]] that can't be automated.                                                |
+| 59:30      | Extend [[DEVONthink]]'s functionality with your own commands by adding them to its scripts                |
 | 59:33      | menu.                                                                                                    |
 | 59:35      | Open templates can have scripts inside, and you can set up new documents with data from                  |
 | 59:38      | placeholders or inserted by your own AppleScript code.                                                  |
@@ -960,15 +960,15 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 59:54      | So everything that you can do in a rule you can do with batch processing, which means                    |
 | 59:57      | that that's great for one-off tasks, and then once I've figured it out, I can turn                       |
 | 01:00:01   | it into a rule, which is even better because all of my work does double duty.                            |
-| 01:00:05   | You should use Dev and Think if you've got documents and you're going to need to find                    |
+| 01:00:05   | You should use [[DEVONthink]] if you've got documents and you're going to need to find                    |
 | 01:00:09   | what's where, and you don't necessarily want to have to do all the filing yourself,                      |
 | 01:00:13   | but you need everything to be available everywhere.                                                      |
 | 01:00:16   | And I have to say, being able to find something, whether I archived it and filed it on my Mac            |
 | 01:00:20   | or my laptop or my phone, really makes my life much easier.                                              |
-| 01:00:25   | You can get 10% off Dev and Think 3 or upgrade to it right now.                                          |
+| 01:00:25   | You can get 10% off [[DEVONthink]] 3 or upgrade to it right now.                                          |
 | 01:00:28   | Just go to DEVONtechnologies.com/Automators, that's DEVONtechnologies.com/Automators       |
 | 01:00:32   | for 10% off.                                                                                             |
-| 01:00:33   | I'll thanks the Dev and Technologies for their support of this show and all of Relay FM.                |
+| 01:00:33   | I'll thanks the DEVONtechnologies for their support of this show and all of Relay FM.                |
 | 01:00:38   | All right, so what are some other things you're doing with [[Keyboard Maestro]] these days,                  |
 | 01:00:42   | Rose?                                                                                                    |
 | 01:00:43   | Well, I mean, there's a lot of things which are kind of similar to other things that I've                |
@@ -1276,18 +1276,18 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:25:41   | able to just pull things out. And then I realised that part of the reason why I have the folder          |
 | 01:25:47   | full of files is because I hadn't been necessarily automatically collecting everything as the year       |
 | 01:25:54   | went on. And so I have set up several automations now, which automatically grab different pieces         |
-| 01:26:03   | of data from different places and pull them into Dev and Think. And Dev and Think has rules that run     |
+| 01:26:03   | of data from different places and pull them into [[DEVONthink]]. And [[DEVONthink]] has rules that run     |
 | 01:26:08   | that automatically categorise stuff now. And I am very impressed with this because it is                 |
-| 01:26:15   | so easy to do. And I've gone in completely restricting my Dev and Think database because                 |
+| 01:26:15   | so easy to do. And I've gone in completely restricting my [[DEVONthink]] database because                 |
 | 01:26:18   | of this. Because of course, with all the custom rules and batch processing and things that you           |
 | 01:26:23   | can do in there, it's kind of crazy how nerdy you can get. But I've been playing with custom             |
 | 01:26:28   | metadata on that, too, to allow me to pull out the amount spent from documents so that I can see         |
 | 01:26:35   | that in a column whilst I'm looking at all the documents. And that's been pretty nerdy and great.        |
-| 01:26:41   | Yeah. I mean, Dev and Think really kind of has a version of [[Hazel]] inside of it with the rules. And       |
-| 01:26:48   | when I was making the Dev and Think field guide, I was talking to those guys and                         |
-| 01:26:52   | there's a few people on the inside of Dev and Think that are like super automators. And so               |
+| 01:26:41   | Yeah. I mean, [[DEVONthink]] really kind of has a version of [[Hazel]] inside of it with the rules. And       |
+| 01:26:48   | when I was making the [[DEVONthink]] field guide, I was talking to those guys and                         |
+| 01:26:52   | there's a few people on the inside of [[DEVONthink]] that are like super automators. And so               |
 | 01:26:57   | they built all that to scratch their own itch. And you know, they're using it every day. So it           |
-| 01:27:01   | works really well. And you can build an entire automation system inside Dev and Think.                   |
+| 01:27:01   | works really well. And you can build an entire automation system inside [[DEVONthink]].                   |
 | 01:27:07   | Yes. I guess we need to talk about that at some point. I guess we should probably go into that.          |
 | 01:27:11   | Yeah. Yeah, we should. Because there's so much automation that you can do with it. I've got it           |
 | 01:27:16   | pulling stuff out of Apple Mail and converting it to PDFs, all sorts of things. So yeah, there's         |

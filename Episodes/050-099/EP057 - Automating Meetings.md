@@ -300,7 +300,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 18:32      | is actually a meeting preparation shortcut. And it pulls tasks out of OmniFocus with the                  |
 | 18:38      | tag for the person that he's having the meeting with, which I think is a great way of doing               |
 | 18:42      | things. If you've got OmniFocus and you've set things up to do that, I think he said                      |
-| 18:46      | he was using Data Jar to store the tag in OmniFocus for that. You know, that's one way of doing            |
+| 18:46      | he was using [[Data Jar]] to store the tag in OmniFocus for that. You know, that's one way of doing            |
 | 18:52      | it. Another way could be using [[Drafts]]. I often know I've got meetings coming up and I just                |
 | 18:58      | store things that we, that I think we ought to talk about there in [[Drafts]] so that I can                   |
 | 19:03      | just pull up that draft A in the meeting, but also before the meeting and just email                      |
@@ -609,12 +609,12 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 43:40      | way of, you know, skipping the meeting, giving yourself a little bit more free time, even                 |
 | 43:44      | if it's just so you can enjoy a coffee in the morning.                                                    |
 | 43:47      | Amen. Ask the automators. We had someone right in, Michael. He says, I have a recurring task              |
-| 43:55      | every three days and Apple reminders. Can shortcuts easily move the task to and from                      |
+| 43:55      | every three days and [[Apple Reminders]]. Can shortcuts easily move the task to and from                      |
 | 44:00      | my list to do and today? He says, I'm thinking I'd like to run it at 11.50 PM. This gives                 |
 | 44:07      | me time to appreciate my day's achievements today and see my new tasks in the morning.                    |
 | 44:13      | And so the problem he has is he's got an irregular recurring event and he's trying to figure out          |
 | 44:19      | how to automate it. Yeah. And, you know, there's quite a few different ways that you can look             |
-| 44:24      | at this. I'm going to start by saying, okay, so if we look inside of reminders and we actually            |
+| 44:24      | at this. I'm going to start by saying, okay, so if we look inside of [[Apple Reminders\|Reminders]] and we actually            |
 | 44:31      | just create a task, which I'm doing right now live on air because I like to test these                    |
 | 44:36      | things in real time to make sure it's still working. And if you'd just go in and then                     |
 | 44:42      | you can actually, there we go, date, and then you can add your time and there we go. And                  |
@@ -640,10 +640,10 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 46:31      | delete it and recreate it. And that's where I think things might get a little bit iffy,                   |
 | 46:37      | because I'm not 100% certain that when you create a reminder with shortcuts, you can                      |
 | 46:41      | set the repeat interval.                                                                                  |
-| 46:43      | I can't help but feel like the reminders team, like they did a big job on redesigning reminders           |
+| 46:43      | I can't help but feel like the [[Apple Reminders\|Reminders]] team, like they did a big job on redesigning [[Apple Reminders\|Reminders]]           |
 | 46:49      | last year for iOS 13. And the day they were working on shortcuts, there was like, maybe                   |
 | 46:54      | it was like a retirement party for somebody or something. And they left early that day.                   |
-| 46:59      | And then they just forgot, you know, they never, because reminders as nice as it is                       |
+| 46:59      | And then they just forgot, you know, they never, because [[Apple Reminders\|Reminders]] as nice as it is                       |
 | 47:04      | now, it really needs some support from shortcuts.                                                         |
 | 47:09      | Yeah, it does. So I know that there are, there's great support for reminders in the Scriptable            |
 | 47:15      | app. And I'm wondering if you can change the list of the reminder with Scriptable. If not,                |
@@ -698,12 +698,12 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 51:13      | Rose will be publishing on it too, but like setting watch faces in the afternoon, like,                   |
 | 51:18      | you know, going from the watch that has all the data on it to like a lime green switch                     |
 | 51:23      | it to a simple watch face and just literally looking at your wrist reminds you that you                   |
-| 51:27      | shouldn't be working anymore. It's great. But I'm a little surprised that reminders didn't                |
+| 51:27      | shouldn't be working anymore. It's great. But I'm a little surprised that [[Apple Reminders\|Reminders]] didn't                |
 | 51:33      | get more love because I thought that was a no-brainer for this year.                                      |
-| 51:36      | The only other thing I will say is Reminders does have some built-in smart lists and one                  |
+| 51:36      | The only other thing I will say is [[Apple Reminders\|Reminders]] does have some built-in smart lists and one                  |
 | 51:41      | of them is called Today. So I know that Michael has probably got his own personal list for                |
 | 51:47      | Today where he puts things on there that need to be done today and they're not necessarily                |
-| 51:51      | due, but there is a Today smart list in Reminders, which hopefully has everything that's due              |
+| 51:51      | due, but there is a Today smart list in [[Apple Reminders\|Reminders]], which hopefully has everything that's due              |
 | 51:58      | today on there. So that might be worth looking at as well. There's Today, Scheduled, All,                 |
 | 52:03      | and Flagged. And so potentially looking at changing things up to use the smart lists                      |
 | 52:08      | instead might be another approach to that.                                                                |
@@ -928,5 +928,5 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:10:45   | a mouse to working for one. Yeah. I mean, you know, trapped by the mouse, but in a                        |
 | 01:10:49   | good way. There you go. There you go. Well, we are the automators. You can find us over                   |
 | 01:10:53   | at relay.fm/automators. You can get involved with the forums at talk.automators.fm.                 |
-| 01:11:00   | Thank you to our sponsors, the uptake, mint mobile and Devon think, and we will see you                   |
+| 01:11:00   | Thank you to our sponsors, the uptake, mint mobile and [[DEVONthink]], and we will see you                   |
 | 01:11:05   | in a couple of weeks. Goodbye, everyone.                                                                  |

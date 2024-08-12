@@ -83,19 +83,19 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:42      | You can be an automator without having to be a coder.                                                  |
 | 01:45      | I'm looking for someplace where I can learn scripting on iOS shortcuts.                                |
 | 01:49      | All right, and he says, the shortcut I'm currently looking to create is, if I have any reminders       |
-| 01:54      | in my iOS Reminders inbox on a specific list, can I show notification at a specific time               |
+| 01:54      | in my iOS [[Apple Reminders\|Reminders]] inbox on a specific list, can I show notification at a specific time               |
 | 02:00      | to sort the inbox GTD style?                                                                           |
 | 02:02      | Well, this is one of those things where there is no one solution for this because everybody            |
 | 02:09      | has a solution for whatever their system is.                                                           |
 | 02:14      | And the good news is, Chris is specified here nicely that he's using, or they're using                 |
-| 02:20      | the iOS Reminders app.                                                                                 |
+| 02:20      | the iOS [[Apple Reminders\|Reminders]] app.                                                                                 |
 | 02:23      | And so this is nice because it's easy to hook into with a number of different things.                  |
 | 02:29      | And so I have a suggestion, and there's two possible ways that you could run this.                     |
 | 02:38      | And both of them involve push cut, which, full disclosure, I am one of the development                 |
 | 02:42      | team of, but I'll explain why in a minute.                                                             |
 | 02:45      | So to start with, you could build a shortcut that will just basically check if there is                |
-| 02:50      | anything in this inbox list in Reminders.                                                              |
-| 02:54      | So that would just be find Reminders where that's the action.                                          |
+| 02:50      | anything in this inbox list in [[Apple Reminders\|Reminders]].                                                              |
+| 02:54      | So that would just be *Find Reminders* where that's the action.                                          |
 | 02:58      | And then you set the list to the inbox list.                                                           |
 | 03:01      | And then you probably want to add a completed or is not completed into that as well.                   |
 | 03:06      | So that's what you're doing.                                                                           |
@@ -109,8 +109,8 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 03:34      | Then we need to send notification.                                                                     |
 | 03:36      | And this is where I would use push cut specifically to send the notification because that notification |
 | 03:40      | that it sends you can then actually do something that you want it to do.                               |
-| 03:45      | For example, if you want to open Reminders to that list, it could run a shortcut and                   |
-| 03:50      | open Reminders to that list.                                                                           |
+| 03:45      | For example, if you want to open [[Apple Reminders\|Reminders]] to that list, it could run a shortcut and                   |
+| 03:50      | open [[Apple Reminders\|Reminders]] to that list.                                                                           |
 | 03:52      | Or it could open, you know, when you tap it, it could run a shortcut that walks you through            |
 | 03:57      | processing your inbox or, you know, something else if you wanted it to.                                |
 | 04:03      | But the way that you would run your shortcut with your finding the actions, your counting              |
@@ -134,7 +134,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 05:17      | And Rose is using it here very brilliantly with respect to figuring out if there's anything            |
 | 05:21      | in your inbox before it's telling you to check it.                                                     |
 | 05:24      | That said, I will tell you, Chris, I have several of these.                                            |
-| 05:27      | I use OmniFocus for them, but Reminders is a very good app, and I seriously considered                 |
+| 05:27      | I use OmniFocus for them, but [[Apple Reminders\|Reminders]] is a very good app, and I seriously considered                 |
 | 05:33      | switching to it earlier this year.                                                                     |
 | 05:35      | And the way I do those things is less fancy.                                                           |
 | 05:40      | I just set a repeating task, and then you can set the repeating task to show up with                   |
@@ -144,7 +144,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 06:00      | it and I decided not to do it.                                                                         |
 | 06:02      | If I know there's stuff in there, I'll go deal with it, and I'll check it off as well.                 |
 | 06:06      | And there is the repeat functions, and a lot of the better task managers, including apps               |
-| 06:12      | like Reminders and OmniFocus, have very powerful repeat functions, and this is a form of automation.   |
+| 06:12      | like [[Apple Reminders\|Reminders]] and OmniFocus, have very powerful repeat functions, and this is a form of automation.   |
 | 06:18      | Like one of the things I really like the way OmniFocus does is you can set it on a weekly              |
 | 06:23      | basis, but you can select which day, so you can maybe just do it Monday through Friday,                |
 | 06:28      | and then you have it reset upon completion.                                                            |
@@ -187,12 +187,12 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 08:48      | And then I don't have to actually worry so much about doing so much processing because                 |
 | 08:53      | I've automated some of that away.                                                                      |
 | 08:55      | Yeah.                                                                                                  |
-| 08:56      | And that, I mean, that's one of the killer features of Reminders is how good it works                  |
+| 08:56      | And that, I mean, that's one of the killer features of [[Apple Reminders\|Reminders]] is how good it works                  |
 | 08:59      | with that lady that you say hey to.                                                                    |
 | 09:04      | And I actually don't even go that far with stuff like that because those lists for me                  |
 | 09:08      | are shared with my wife.                                                                               |
 | 09:11      | So the grocery list, the home goods list, the hardware store, all that stuff just stays                |
-| 09:17      | in Reminders and then whenever I find myself in one of those places, I just open it up                 |
+| 09:17      | in [[Apple Reminders\|Reminders]] and then whenever I find myself in one of those places, I just open it up                 |
 | 09:22      | and look and see what's there.                                                                         |
 | 09:24      | But again, you know, all this stuff are various flavours of automation and Chris is getting             |
 | 09:29      | started on the journey.                                                                                |
@@ -226,7 +226,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 11:17      | they're told people that they need them to be available, that they're not busy at another              |
 | 11:20      | site, they're not clashing with family, school and holidays.                                           |
 | 11:23      | And they've missed stuff loads of times and would like to know how we'd approach this.                 |
-| 11:29      | And my first thought, honestly, with this was create a checklist in reminders and have                 |
+| 11:29      | And my first thought, honestly, with this was create a checklist in [[Apple Reminders\|Reminders]] and have                 |
 | 11:35      | it repeat automatically for the Tuesdays.                                                              |
 | 11:39      | And then make a template from it so that you can create it for those ad hoc events.                    |
 | 11:45      | Like that was my first starting point.                                                                 |
@@ -240,19 +240,19 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 12:07      | Well, yeah.                                                                                            |
 | 12:08      | Yeah.                                                                                                  |
 | 12:09      | If you go with a shortcut, you can.                                                                    |
-| 12:10      | I was just going to start with just a simple reminders checklist that repeats because now              |
+| 12:10      | I was just going to start with just a simple [[Apple Reminders\|Reminders]] checklist that repeats because now              |
 | 12:13      | there's templates and reminders.                                                                       |
 | 12:15      | You can do that.                                                                                       |
 | 12:16      | Now, I would love to go through and use a shortcut for more of it, but it depends on                   |
 | 12:21      | your workflow.                                                                                         |
-| 12:22      | Like, can you create the events using shortcuts?                                                       |
+| 12:22      | Like, can you create the events using [[Shortcuts]]?                                                       |
 | 12:25      | Are you in charge of creating these ad hoc events or do these ad hoc events kind of just               |
 | 12:29      | get added to your calendar and you just have to deal with stuff?                                       |
 | 12:31      | Because if it's you're creating them, a shortcut to create the event, create the checklist to          |
 | 12:36      | check in and so on is great.                                                                           |
 | 12:37      | But if you just kind of get told, hey, this is going to happen, you need to be here, I'd               |
 | 12:42      | probably go with a shortcut that checks your calendar to see if something's there and adds             |
-| 12:47      | like the actual event into a list in Data Jar so that you can exclude it from the list                 |
+| 12:47      | like the actual event into a list in [[Data Jar]] so that you can exclude it from the list                 |
 | 12:52      | as you go through and repeat it.                                                                       |
 | 12:55      | But it really depends on what end of things you're on for that.                                        |
 | 12:58      | Yeah.                                                                                                  |
@@ -322,9 +322,9 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 17:02      | And then it grabs them all and it is actually sorted by date with like the soonest to the              |
 | 17:09      | furthest away.                                                                                         |
 | 17:11      | And then it goes through them.                                                                         |
-| 17:12      | It just checks then if that date is in Data Jar.                                                       |
-| 17:15      | So I use Data Jar for this.                                                                            |
-| 17:18      | And so if that date is in Data Jar, then it knows that that particular day in the office               |
+| 17:12      | It just checks then if that date is in [[Data Jar]].                                                       |
+| 17:15      | So I use [[Data Jar]] for this.                                                                            |
+| 17:18      | And so if that date is in [[Data Jar]], then it knows that that particular day in the office               |
 | 17:23      | has already been handled as in it's created the checklist, it's created the relevant calendar          |
 | 17:29      | events for me and so on.                                                                               |
 | 17:31      | I know it's coming out of my calendar, but I have other calendar events for like the train             |
@@ -342,7 +342,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 18:13      | because just because I'm free at that moment in time doesn't mean that it's a great moment             |
 | 18:17      | in time mentally for me to do that thing.                                                              |
 | 18:20      | And yeah, and it'll add checklists into OmniFocus and so on.                                           |
-| 18:24      | And then, you know, then it adds that date into the list and Data Jar so that it knows                 |
+| 18:24      | And then, you know, then it adds that date into the list and [[Data Jar]] so that it knows                 |
 | 18:28      | that that's been handled and that does mean that if a day gets rearranged for some reason,             |
 | 18:34      | which hasn't happened yet since I've been running this system, then I am going to end                  |
 | 18:38      | up with duplicates and I'm going to have to go through and delete them.                                |
@@ -380,7 +380,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 20:27      | So that catches me on occasion.                                                                        |
 | 20:30      | Another one thing you might want to do is add tasks, and it just depends on what your                  |
 | 20:33      | task manager of choice is.                                                                             |
-| 20:35      | But most of them have good support, reminders, OmniFocus, things, they all have good shortcut         |
+| 20:35      | But most of them have good support, [[Apple Reminders\|Reminders]], OmniFocus, things, they all have good shortcut         |
 | 20:40      | support.                                                                                               |
 | 20:41      | Inevitably, if you're doing this, you're probably going to want to make a text field, which            |
 | 20:45      | I find very useful, the text box, where you can either make the text that goes into the                |

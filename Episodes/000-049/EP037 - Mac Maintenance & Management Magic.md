@@ -621,15 +621,15 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 49:55      | And with [[Keyboard Maestro]], you can do it with palettes, that's the way I do it. This is too much        |
 | 50:01      | for a podcast, but you press one keyboard combination, you get a selection list on the screen, you just |
 | 50:06      | pick which thing you're going to do, and then you can do it. And one of the big uses I found            |
-| 50:11      | for the Stream Deck, that's this new gizmo I've got that I'm going to be talking about in the           |
+| 50:11      | for the [[Stream Deck]], that's this new gizmo I've got that I'm going to be talking about in the           |
 | 50:16      | free update, the [[Keyboard Maestro]] field guide, it's you plug it in, and it's basically a panel          |
 | 50:21      | of buttons that you can put custom icons behind, is I put all these setups on buttons. And it's         |
 | 50:27      | really great because I just, I don't know, even though I could do it through a palette,                 |
 | 50:32      | this is one where I like having the little button, I just press the button and then I can start         |
-| 50:36      | working, it's very powerful. How many buttons do you have on your Stream Deck? I have the 32            |
+| 50:36      | working, it's very powerful. How many buttons do you have on your [[Stream Deck]]? I have the 32            |
 | 50:42      | button one. Okay, and how many buttons are dedicated to setting up your windows, how you like them?     |
 | 50:47      | The top row, the eight buttons. Okay, that's quite a few buttons. I'm very tempted to get a             |
-| 50:52      | Stream Deck. It's all my Christmas wish list, I'm not sure if I'll be getting it, but I may buy it      |
+| 50:52      | [[Stream Deck]]. It's all my Christmas wish list, I'm not sure if I'll be getting it, but I may buy it      |
 | 50:56      | for myself as a Christmas or birthday present. Yeah, it's not necessary, but it's nice to have.         |
 | 51:04      | Like I said, the palettes and [[Keyboard Maestro]] are very powerful. This actually requires me to          |
 | 51:09      | take my hands off the keyboard, but setup changes are usually what I'm doing as I sit down, and         |
@@ -885,7 +885,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:12:48   | what holes not to go down. Yeah, definitely. I mean, as it is, I actually have been working             |
 | 01:12:54   | on some authentication stuff at my day job recently. So I'm pretty certain I wouldn't                   |
 | 01:12:58   | have a problem with it. But why would I do that when I can just proxy it through Zapier,                |
-| 01:13:02   | which also adds everything to Airtable for me and does a bunch of other things all at the same          |
+| 01:13:02   | which also adds everything to [[Airtable]] for me and does a bunch of other things all at the same          |
 | 01:13:06   | time. And I should mention that Basecamp recently released a free personal plan for everybody.          |
 | 01:13:11   | It was previously just for students and you had to send in proof of being a student.                    |
 | 01:13:14   | Now it's for everybody. So everybody can have a play with Basecamp. And it's it's got a lot of          |

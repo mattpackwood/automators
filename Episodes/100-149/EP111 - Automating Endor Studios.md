@@ -139,7 +139,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 03:43      | Well, I'm excited by this.                                                                                |
 | 03:44      | And what I'm really excited by is the fact that they've tied this into those live notification            |
 | 03:50      | updates.                                                                                                  |
-| 03:51      | So we saw this come out at WWDC, it's not in the 16 release, it'll be in 16.1 by the                      |
+| 03:51      | So we saw this come out at [[WWDC]], it's not in the 16 release, it'll be in 16.1 by the                      |
 | 03:58      | looks of it, where you can have like a notification or a special activity, sorry, it's live activities    |
 | 04:05      | on your lock screen.                                                                                      |
 | 04:06      | So the examples or the classic examples are like you ordered an Uber seeing like, you                     |
@@ -705,7 +705,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 40:31      | I'll take a look.                                                                                         |
 | 40:32      | I'm generally in the camp for Elgato because their stuff has always worked so well for                    |
 | 40:38      | me, you know, but let me look at it.                                                                      |
-| 40:40      | Well, this one, of course, he's got Stream Deck buttons for it now and that's in the                      |
+| 40:40      | Well, this one, of course, he's got [[Stream Deck]] buttons for it now and that's in the                      |
 | 40:44      | blog post and that light looks pretty good.                                                               |
 | 40:47      | The other thing that I've done in the past and I have that running now is I just bought                   |
 | 40:52      | some cheap studio lights of Amazon, like USB power ones, like you plug them in there on,                  |
@@ -1014,7 +1014,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 58:46      | I definitely want to play with that and just kind of see where that goes.                                 |
 | 58:49      | All right.                                                                                                |
 | 58:50      | So let's take a quick break and I want to talk about curtains.                                            |
-| 58:56      | This episode of the automakers is brought to you by trade coffee.                                         |
+| 58:56      | This episode of the Automators is brought to you by trade coffee.                                         |
 | 58:59      | Every day is precious and we should all make the most of everyone.                                        |
 | 59:03      | They shouldn't start with mediocre grocery store coffee.                                                  |
 | 59:06      | You deserve to start your day with the best coffee you can make at home from trade coffee.                |
@@ -1265,7 +1265,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:13:41   | I'm going to be able to light it up with like a coloured icon and a little bit of helper                   |
 | 01:13:45   | text underneath to tell me, hey, like you're supposed to be doing this thing now.                         |
 | 01:13:51   | Like you've got XYZ time until this.                                                                      |
-| 01:13:53   | It's a little bit like TJ Luoma's Stream Deck button for the calendar, where it colours                    |
+| 01:13:53   | It's a little bit like TJ Luoma's [[Stream Deck]] button for the calendar, where it colours                    |
 | 01:13:59   | a button like red if there's something immediately happening on your calendar, or yellow if it's          |
 | 01:14:04   | a little while away, or black if it's not happening for ages.                                             |
 | 01:14:09   | And I think that having that tied in there has been really useful.                                        |

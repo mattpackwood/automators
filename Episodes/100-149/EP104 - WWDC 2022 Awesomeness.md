@@ -54,7 +54,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 00:06      | How are you today?                                                                                        |
 | 00:07      | Oh, David.                                                                                                |
 | 00:08      | I'm excited.                                                                                              |
-| 00:09      | We've had some WWDC fun as we do and you got invited to Apple Park.                                       |
+| 00:09      | We've had some [[WWDC]] fun as we do and you got invited to Apple Park.                                       |
 | 00:14      | Congratulations.                                                                                          |
 | 00:15      | That was pretty fun.                                                                                      |
 | 00:16      | I got to go into the loop.                                                                                |
@@ -273,7 +273,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 12:04      | I installed it on the 12.9 inch iPad Pro, so I will still have devices that I can do                      |
 | 12:09      | things on.                                                                                                |
 | 12:10      | It's just really frustrating.                                                                             |
-| 12:11      | I wanted to show everything off in the first episode post WWDC and I had to resort to sending             |
+| 12:11      | I wanted to show everything off in the first episode post [[WWDC]] and I had to resort to sending             |
 | 12:15      | screenshots to Micah for him to show on screen.                                                           |
 | 12:17      | That is a good thing I need to check out, because I'm going to do a deep dive for my                      |
 | 12:22      | labs members on iOS, iPad OS 16, and I hadn't tested it yet.                                              |
@@ -566,7 +566,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 31:12      | now if I want to put it on a single shortcut, it needs to know a platform I am on whether                 |
 | 31:18      | or not it runs an action or an AppleScript. But also, it's definitely the right direction.               |
 | 31:25      | And this whole thing with a new API, it looks to me like it's going to make it a lot easier               |
-| 31:31      | for people to add shortcuts. I was talking to Marco Arment about this up at WWDC and                      |
+| 31:31      | for people to add shortcuts. I was talking to Marco Arment about this up at [[WWDC]] and                      |
 | 31:37      | he had done some preliminary look at the new API and he said, it took away a lot of the                   |
 | 31:41      | like the work of setting up shortcut support in your app. So I think we're going to see                   |
 | 31:46      | even more of that now.                                                                                    |
@@ -612,9 +612,9 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 35:11      | was a free, we got that one from listeners saying, well, how do I create a folder and                     |
 | 35:16      | notes? Well, you go in notes and you push the plus button. There was not an automation                    |
 | 35:20      | way to do that, but now there is. So that's really cool. I'm really happy to see notes                    |
-| 35:25      | get it. And like the parallel to that was reminders, you know, reminders got a nice                       |
+| 35:25      | get it. And like the parallel to that was [[Apple Reminders\|Reminders]], you know, [[Apple Reminders\|Reminders]] got a nice                       |
 | 35:29      | update a few years ago, but it seemed like the shortcut support was lagging behind it.                    |
-| 35:33      | But now we can create a list, we can open reminders, smart lists, we can search reminders.                |
+| 35:33      | But now we can create a list, we can open [[Apple Reminders\|Reminders]], smart lists, we can search [[Apple Reminders\|Reminders]].                |
 | 35:39      | Basic stuff that I always thought should have been there, but wasn't there until now.                     |
 | 35:43      | Yes. Yeah. And I think that like that's one of the things where the shortcuts team has                    |
 | 35:48      | had a bit of a chance to sort of fill in the gaps, you know, they've been building a really               |
@@ -670,36 +670,36 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 40:04      | tab group, but we also got open new tab, which will just fall into whatever your current                  |
 | 40:08      | tab group is, which is great. So yay, thank you.                                                          |
 | 40:13      | Agreed.                                                                                                   |
-| 40:14      | This episode of Automators is brought to you by Dev and Think, the flagship product from                  |
-| 40:19      | Dev and Technologies. Dev and Think is the most professional document and information                     |
+| 40:14      | This episode of Automators is brought to you by [[DEVONthink]], the flagship product from                  |
+| 40:19      | DEVONtechnologies. [[DEVONthink]] is the most professional document and information                     |
 | 40:23      | management application for the Mac. It's the one place for storing all your documents,                    |
 | 40:27      | snippets, or bookmarks and working with them. The integrated AI assists you with filing                   |
 | 40:32      | and searching while the extensive search language with advanced breathing and search                      |
-| 40:35      | operators means that you're never not going to find something. Dev and Think features                     |
+| 40:35      | operators means that you're never not going to find something. [[DEVONthink]] features                     |
 | 40:40      | a flexible sync system, which supports many cloud services or lets you synchronise over                   |
 | 40:44      | the local network with everything securely encrypted. This gives you the choice for however               |
 | 40:48      | for syncing what is best and most securely for you. It has smart rules and flexible reminders             |
 | 40:53      | that let you automate all parts of your workflow and delegate boring repeating tasks. Let Dev             |
 | 40:58      | and Think automate that you organise your data with rules you define.                                     |
-| 41:02      | Dev and Think's AppleScript dictionary is one of the largest on the Mac. There's no                       |
-| 41:05      | part of Dev and Think that can't be automated. Extend Dev and Think's functionality with                  |
+| 41:02      | [[DEVONthink]]'s AppleScript dictionary is one of the largest on the Mac. There's no                       |
+| 41:05      | part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality with                  |
 | 41:09      | your own commands by adding them to its Scripts menu. Even templates can have Scripts inside              |
 | 41:14      | and you can set up new documents with days from placeholders or insert it by your own                     |
 | 41:18      | AppleScript code. And of course, there's so much more, from an iOS companion app to                       |
 | 41:22      | email archiving, scanning, or even an embedded web server for sharing your data securely                  |
 | 41:27      | with your team. For me, honestly, the search stands out as useful. And this is a very silly               |
 | 41:32      | example, but the other day I needed to clean the detergent drawer on my washing machine                   |
-| 41:35      | and I wasn't even thinking I just typed detergent drawer into Dev and Think. Well,                        |
+| 41:35      | and I wasn't even thinking I just typed detergent drawer into [[DEVONthink]]. Well,                        |
 | 41:40      | because I've got the PDF of my washing machine manual in there, even though I wasn't in                   |
 | 41:45      | the washing machine manual, it found the right page inside of the PDF for me and brought                  |
-| 41:49      | it up. And the best part of it is, is I have a tickler system inside of Dev and Think so                  |
+| 41:49      | it up. And the best part of it is, is I have a tickler system inside of [[DEVONthink]] so                  |
 | 41:54      | that I can be tickled in GTD terms, reminded by in regular human terms of that washing                    |
-| 42:01      | machine manual. Even, you know, if I wanted to be more specific, I can go scripty and                     |
-| 42:06      | make really awesome reminders in the future with the Dev and Think's reminder functionality,              |
+| 42:01      | machine manual. Even, you know, if I wanted to be more specific, I can go script and                     |
+| 42:06      | make really awesome reminders in the future with the [[DEVONthink]]'s reminder functionality,              |
 | 42:11      | giving me a complete custom system that's digital that doesn't require me to remember                     |
-| 42:15      | to go check a paper folder. You can get 10% off Dev and Think 3 or upgrade to it right                    |
+| 42:15      | to go check a paper folder. You can get 10% off [[DEVONthink]] 3 or upgrade to it right                    |
 | 42:20      | now. Just go to devontechnologies.com./automators. That's devontechnologies.com./automators for             |
-| 42:25      | 10% off. Our thanks to Dev and Technologies for their support of this show and all of                     |
+| 42:25      | 10% off. Our thanks to DEVONtechnologies for their support of this show and all of                     |
 | 42:30      | Relay FM.                                                                                                |
 | 42:31      | Just to go through some more applications that got updates, new maps, actions. Now they've                |
 | 42:36      | got a whole set of them. Apparently people at Apple have been missing their parked cars                   |
@@ -842,9 +842,9 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 53:33      | just adding quality of life actions like setting your personal hotspot to on or off. So if usually        |
 | 53:39      | when you do a certain thing, then you would turn on your hotspot, you can do that as part                 |
 | 53:44      | of a shortcut. Now, which is very nice if you, for example, have an NFC tag or an amiibo                  |
-| 53:51      | in your Nintendo Switch case, and you would like to be able to tether your Nintendo Switch                |
+| 53:51      | in your [[Nintendo Switch]] case, and you would like to be able to tether your [[Nintendo Switch]]                |
 | 53:55      | to your phone's hotspot, well, now you can tap the amiibo or the NFC tag and turn on                      |
-| 54:01      | the hotspot on your phone so that your Nintendo Switch can connect to it, which I really like.            |
+| 54:01      | the hotspot on your phone so that your [[Nintendo Switch]] can connect to it, which I really like.            |
 | 54:06      | Yeah, that hotspot one, I think, is kind of really useful for a lot of people. Like, you                  |
 | 54:11      | know, sometimes like if you've got a little guy, people have cars that have hotspots built                |
 | 54:16      | in or, you know, there's just a lot of different uses for that and making that an automation              |
@@ -861,7 +861,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 55:17      | feature that you really appreciate. And similarly, when you're done with that, you can delete             |
 | 55:20      | a folder and delete a recording. So, yay. Thank you. Thank you. Voice Recording and                       |
 | 55:25      | Shortcuts Team.                                                                                           |
-| 55:26      | Yeah. When I was up in Cupertino for WWDC, I put out, because we have a podcast feed                      |
+| 55:26      | Yeah. When I was up in Cupertino for [[WWDC]], I put out, because we have a podcast feed                      |
 | 55:38      | like a little pocket microphone, but it improves the audio quality quite a bit. And I just                |
 | 55:43      | recorded in my hotel room into my phone, into Voice Memos, and had a remarkably good result               |
 | 55:51      | from it. I was kind of surprised how good it sounded. I mean, it's not as good as my                      |
@@ -1189,7 +1189,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:22:38   | while other new features get added because, you know, every so often they, they sneak some bonus          |
 | 01:22:43   | surprises in during the beta rounds. So maybe we'll see some of those. Even if we don't, I'm happy.       |
 | 01:22:49   | It's interesting to me, like, it's just an intellectual exercise is like, are these actions               |
-| 01:22:54   | getting added by the teams? Like, is there somebody on the reminders team that loves                      |
+| 01:22:54   | getting added by the teams? Like, is there somebody on the [[Apple Reminders\|Reminders]] team that loves                      |
 | 01:22:57   | shortcuts and is making sure these actions get added? Or is it someone on the shortcuts                   |
 | 01:23:04   | team? Like in my head, there's like a, a shortcuts loan ranger. And just, just hang                       |
 | 01:23:10   | him with me. Like he's, he or she has like a cowboy hat and like a segue that's painted                   |

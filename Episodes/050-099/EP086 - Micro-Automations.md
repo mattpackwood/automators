@@ -78,9 +78,9 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 00:47      | technology is a good idea.                                                                              |
 | 00:49      | You've got a bunch of different categories here today, so we're going to dig into that.                 |
 | 00:54      | Before we do though, I just want to thank everyone for the support with the purchase                    |
-| 00:57      | of the Dev and Think Field Guide, I know a lot of the Automator's audience did that                     |
+| 00:57      | of the [[DEVONthink]] Field Guide, I know a lot of the Automator's audience did that                     |
 | 01:01      | and I appreciate it.                                                                                    |
-| 01:03      | Now, Rose and I are going to do at some point in the future a show on Dev and Think Automation          |
+| 01:03      | Now, Rose and I are going to do at some point in the future a show on [[DEVONthink]] Automation          |
 | 01:08      | because I covered it in the Field Guide, but there's a lot you can do with the automation               |
 | 01:13      | there.                                                                                                  |
 | 01:14      | So that's a future show, but it's not if you have any questions on that.                                |
@@ -111,7 +111,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 02:32      | But equally, this was a very efficient way of doing things.                                             |
 | 02:36      | And also it means that I can reuse these AppleScripts in multiple different places.                    |
 | 02:40      | Okay.                                                                                                   |
-| 02:41      | So I can put them, I can use the USA plugin for Stream Deck.                                            |
+| 02:41      | So I can put them, I can use the USA plugin for [[Stream Deck]].                                            |
 | 02:45      | We'll have a link to that one in the show notes to run an AppleScript from my Stream                   |
 | 02:50      | Deck directly.                                                                                          |
 | 02:51      | Or I can include the same text in a bunch file so that I can run it as part of a setup                  |
@@ -142,7 +142,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 04:27      | it happens, you know, to all of us, we're looking for something and we just, we can't                   |
 | 04:31      | see it because it's right there in front of our face, but equally, you know, just being                 |
 | 04:34      | able to go, hey, I frequently use these two system preferences panes.                                   |
-| 04:40      | I will just, you know, put, I'll just put those in my Stream Deck or I'll have a little                 |
+| 04:40      | I will just, you know, put, I'll just put those in my [[Stream Deck]] or I'll have a little                 |
 | 04:46      | [[Alfred]] workflow that just runs the AppleScript because you can do that with [[Alfred]]                     |
 | 04:51      | as well and opens it for me.                                                                            |
 | 04:54      | And being able to do that, it's easy.                                                                   |
@@ -173,7 +173,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 06:30      | So there's a link to this in the show notes, I just put it there myself to make sure that               |
 | 06:34      | it's there.                                                                                             |
 | 06:35      | It's the second link.                                                                                   |
-| 06:36      | The first one is the Stream Deck plugin to run AppleScript because I know you're probably              |
+| 06:36      | The first one is the [[Stream Deck]] plugin to run AppleScript because I know you're probably              |
 | 06:38      | going to want a way to use this directly before that.                                                   |
 | 06:41      | But they're just all there in the GitHub repo.                                                          |
 | 06:44      | So there's syspref sound, which in case people can't guess is system preferences sound pane.            |
@@ -185,7 +185,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 07:13      | it it ends up getting in the way of what I'm doing, especially coding all day long.                     |
 | 07:17      | It would be very frustrating if it was popping up all the time in my code editor, but sometimes         |
 | 07:21      | they still need to get that text into [[Drafts]].                                                           |
-| 07:24      | And so I end up copying it, and then I just hit a button on my Stream Deck.                             |
+| 07:24      | And so I end up copying it, and then I just hit a button on my [[Stream Deck]].                             |
 | 07:29      | And that runs an AppleScript to open it in [[Drafts]].                                                     |
 | 07:34      | And it just creates a new note with that AppleScript with with my clipboard.                           |
 | 07:39      | And it's pretty easy, I have to say, David.                                                             |
@@ -526,14 +526,14 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 27:10      | script, but once you get this language down, it's very easy.                                            |
 | 27:13      | I would imagine that's when you also probably run out of bunch.                                         |
 | 27:17      | Yep.                                                                                                    |
-| 27:18      | I primarily run it out of bunch, but it's also a Stream Deck button for me.                             |
+| 27:18      | I primarily run it out of bunch, but it's also a [[Stream Deck]] button for me.                             |
 | 27:23      | So a lot of these I am running through the OSA script plugin, which is linked in the                    |
-| 27:29      | show notes on Stream Deck, but one of the things I'm switching to a little bit with                     |
+| 27:29      | show notes on [[Stream Deck]], but one of the things I'm switching to a little bit with                     |
 | 27:33      | that is I'm actually running script files through [[Keyboard Maestro]], because this way                    |
 | 27:38      | I don't have potentially two, three, four different versions of the same script in multiple             |
 | 27:46      | places.                                                                                                 |
 | 27:47      | Instead, I have one script file, and I can run that from potentially multiple buttons                   |
-| 27:51      | on my Stream Deck.                                                                                      |
+| 27:51      | on my [[Stream Deck]].                                                                                      |
 | 27:52      | I can run it from potentially multiple bunches, and I can also just, you know, run the script           |
 | 27:57      | file, and file scripts is something we should mention.                                                  |
 | 28:01      | We've sponsored the show before, great application for putting AppleScript in your menu bar            |
@@ -805,7 +805,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 43:10      | AppleScript, it can take four and a half seconds to execute.                                           |
 | 43:14      | You might think, Rose, four and a half seconds is four and a half seconds.                              |
 | 43:17      | Don't worry about it.                                                                                   |
-| 43:18      | It was going to be for a Stream Deck plugin.                                                            |
+| 43:18      | It was going to be for a [[Stream Deck]] plugin.                                                            |
 | 43:19      | It was supposed to run every minute.                                                                    |
 | 43:21      | So I decided to scrap that and go with a very different approach because it was going to                |
 | 43:25      | be much better.                                                                                         |
@@ -1383,8 +1383,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:18:29   | Yes.                                                                                                    |
 | 01:18:30   | Yeah, the only thing is, is I do keep thinking it's got Face ID and staring at it and smiling           |
 | 01:18:34   | and wondering why it doesn't unlock because it's got Touch ID built into the power button.              |
-| 01:18:39   | But it does have centre stage, David, it is a great zoom iPad, FaceTime iPad and stuff                  |
-| 01:18:43   | when I'm talking to my parents or my grandparents on FaceTime, then it works really well there.         |
+| 01:18:39   | But it does have centre stage, David, it is a great zoom iPad, [[FaceTime]] iPad and stuff                  |
+| 01:18:43   | when I'm talking to my parents or my grandparents on [[FaceTime]], then it works really well there.         |
 | 01:18:49   | So I really like that.                                                                                  |
 | 01:18:51   | I'd add that the iPad mini is an excellent consumption tool.                                            |
 | 01:18:55   | If you have a lot of Kindle books, if you have Marvel Unlimited, [[Apple Books]], if there's                |
@@ -1692,8 +1692,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:36:15   | Well, fingers crossed, everything gets straightened out recently, but I know the Shortcuts team         |
 | 01:36:17   | have been working hard, I can tell, so yeah, it seems to be paying off slowly, but surely,              |
 | 01:36:23   | and that is always a great sign.                                                                        |
-| 01:36:25   | Either way, we are the automakers, you can find us at relay.fm slash automakers.                        |
-| 01:36:29   | You can find the forums at talk.automakers.fm.                                                          |
+| 01:36:25   | Either way, we are the Automators, you can find us at relay.fm/automaters.                        |
+| 01:36:29   | You can find the forums at [talk.automators.fm](https://talk.automators.fm).                                                          |
 | 01:36:33   | We want to thank our sponsors today, Privacy, TextExpander, and Stripe, and we'll see you               |
 | 01:36:38   | next time.                                                                                              |
 | 01:36:39   | Goodbye, everyone.                                                                                      |

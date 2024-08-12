@@ -153,7 +153,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 05:49      | Hmm.                                                                                                   |
 | 05:50      | I bet there is.                                                                                        |
 | 05:51      | Because one of the reasons why I said it wasn't crazy because I know that things like Zapier           |
-| 05:54      | and Integromat and shortcuts and [[Drafts]] have all got support for WordPress, which makes                |
+| 05:54      | and [[Make\|Integromat]] and shortcuts and [[Drafts]] have all got support for WordPress, which makes                |
 | 05:59      | life a little bit easier for you, I hope.                                                              |
 | 06:01      | Yeah, exactly.                                                                                         |
 | 06:02      | And I'm really just getting my arms wrapped around it.                                                 |
@@ -537,7 +537,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 27:37      | And then I wrote that script that puts in the recipient.                                               |
 | 27:40      | So I just type X high, it'll say high Rosemary, it'll grab your name from the two fields.              |
 | 27:46      | All those little, like I've tweaked Apple Mail to kind of myself and then I've programmed              |
-| 27:51      | all that stuff into my Stream Deck and I've also programmed it into the keypad on my extended          |
+| 27:51      | all that stuff into my [[Stream Deck]] and I've also programmed it into the keypad on my extended          |
 | 27:59      | keyboard.                                                                                              |
 | 28:01      | And so I'm really fast with Apple Mail.                                                                |
 | 28:05      | So it's hard for me to move on and I don't think there's anything else that really supports            |
@@ -574,7 +574,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 30:21      | I do like a morning clear out to catch any emergencies and then the afternoon I actually               |
 | 30:28      | process Mail.                                                                                          |
 | 30:29      | I don't really respond to Mail unless it's an emergency early afternoon, but like I have               |
-| 30:33      | programmed with those AppleScripts on my numeric keypad or on the Stream Deck, I can                  |
+| 30:33      | programmed with those AppleScripts on my numeric keypad or on the [[Stream Deck]], I can                  |
 | 30:41      | type one, two or three.                                                                                |
 | 30:43      | One is priority, two is action, three is read later and then I've got the zero underneath              |
 | 30:49      | it is to archive it.                                                                                   |
@@ -731,7 +731,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 39:57      | So then I just save it to the very specific folder for Automator's episode, so then it                 |
 | 40:02      | shows up in my [[Obsidian]] library, just fine.                                                            |
 | 40:05      | Another thing I want to automate on that, Rose, off to pick your brain on this is I want               |
-| 40:09      | to add it to my Kanban board in [[Obsidian]], like a newly created file.                                   |
+| 40:09      | to add it to my [[Kanban]] board in [[Obsidian]], like a newly created file.                                   |
 | 40:14      | I'm going to look, there's something in there.                                                         |
 | 40:16      | I think we can do something there.                                                                     |
 | 40:18      | I have done the thing that [[Obsidian]] tell you to only do if you're being very careful,                  |
@@ -742,7 +742,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 40:38      | unless you're told to right at the end.                                                                |
 | 40:42      | So by doing that, if we double sync it, then maybe we can just put it in in one place,                 |
 | 40:49      | and then it'll end up everywhere for you.                                                              |
-| 40:51      | And honestly, it's not that big of a deal, because I work in that Kanban board every                   |
+| 40:51      | And honestly, it's not that big of a deal, because I work in that [[Kanban]] board every                   |
 | 40:54      | day, so it helps me kind of keep on top of things.                                                     |
 | 40:58      | And then the last thing I do with that script is I take all of that data, and I prepare                |
 | 41:02      | text for an email to the guest, and it says, hey, we're recording on this date.                        |
@@ -768,9 +768,9 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 42:14      | You can create a link to a folder, create a link to an individual project or whatever                  |
 | 42:19      | or a perspective.                                                                                      |
 | 42:20      | And because I'm so hung up on contextual computing, like when I go to that [[Obsidian]] note, it has       |
-| 42:26      | a link to the OmniFocus project based on one of those links or to Dev and Think data on                |
+| 42:26      | a link to the OmniFocus project based on one of those links or to [[DEVONthink]] data on                |
 | 42:33      | it or to the Google doc.                                                                               |
-| 42:35      | So I look at the [[Obsidian]] as like my mission control and I can click something on the Kanban           |
+| 42:35      | So I look at the [[Obsidian]] as like my mission control and I can click something on the [[Kanban]]           |
 | 42:42      | and immediately get to all the resources related to it.                                                |
 | 42:46      | And I've looked at some other task managers and they just don't do a lot of that stuff.                |
 | 42:52      | So it'll be hard to dislodge me.                                                                       |
@@ -984,40 +984,40 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 55:51      | Mac field guide, like in November, it just wasn't working.                                             |
 | 55:55      | Now it's working.                                                                                      |
 | 55:56      | So that's good, but there's some points.                                                               |
-| 56:01      | This episode of the automators is brought to you by Devon Think, the flagship product                  |
+| 56:01      | This episode of the automators is brought to you by [[DEVONthink]], the flagship product                  |
 | 56:06      | from Devon Technologies.                                                                               |
 | 56:09      | Get organised and unleash your creativity.                                                             |
 | 56:11      | Just go to devontechnologies.com/automators to get 10% off.                                      |
-| 56:17      | Devon Think is the most professional document and information management application for               |
+| 56:17      | [[DEVONthink]] is the most professional document and information management application for               |
 | 56:21      | the Mac.                                                                                               |
 | 56:22      | It's the one place for storing all of your documents, snippets and bookmarks and working               |
 | 56:27      | with them.                                                                                             |
 | 56:28      | Integrated artificial intelligence assists you with filing and searching while the extensive           |
 | 56:33      | search language with advanced Boolean operators is there to help you find even more.                   |
-| 56:38      | Devon Think features a flexible sync system that supports many cloud services or lets                  |
+| 56:38      | [[DEVONthink]] features a flexible sync system that supports many cloud services or lets                  |
 | 56:43      | you synchronise over the local network too with everything securely encrypted.                         |
 | 56:48      | This gives you the choice of however syncing works best for you.                                       |
 | 56:52      | It has smart rules and flexible reminders that let you automate all parts of your workflow             |
 | 56:56      | and delegate boring repeating tasks.                                                                   |
-| 56:59      | So let Devon Think automatically organise your data with rules you define.                             |
-| 57:04      | Devon Think's [[AppleScript]] dictionary is one of the largest on the Mac.                                |
-| 57:07      | There's no part of Devon Think that can't be automated.                                                |
-| 57:09      | So extend Devon Think's functionality with your own commands by adding them to its scripts             |
+| 56:59      | So let [[DEVONthink]] automatically organise your data with rules you define.                             |
+| 57:04      | [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac.                                |
+| 57:07      | There's no part of [[DEVONthink]] that can't be automated.                                                |
+| 57:09      | So extend [[DEVONthink]]'s functionality with your own commands by adding them to its scripts             |
 | 57:14      | menu.                                                                                                  |
 | 57:15      | Even templates have scripts inside and you can set up new documents with data from placeholders        |
 | 57:20      | or inserted by your own [[AppleScript]] code.                                                             |
 | 57:23      | It's really kind of awesome.                                                                           |
 | 57:25      | And of course there's so much more from an iOS companion app to email archiving scanning               |
 | 57:30      | or even an embedded web server for sharing your data securely with your team.                          |
-| 57:35      | I'm a big fan of Devon Think.                                                                          |
+| 57:35      | I'm a big fan of [[DEVONthink]].                                                                          |
 | 57:36      | I keep a bunch of data in there.                                                                       |
 | 57:39      | Not only do I like the way it manages documents, I like the automation.                                |
-| 57:43      | I like the fact that you can link anything inside Devon Think.                                         |
+| 57:43      | I like the fact that you can link anything inside [[DEVONthink]].                                         |
 | 57:46      | If you want to do contextual computing, this is perfect for you because no matter what                 |
 | 57:50      | the file is, you've got just one link away from it anywhere on your Mac.                               |
 | 57:55      | Whether you're managing a lot of documents or doing a lot of research, you should be                   |
-| 57:58      | checking out Devon Think.                                                                              |
-| 58:00      | And you can get 10% off Devon Think 3 or upgrade to it right now.                                      |
+| 57:58      | checking out [[DEVONthink]].                                                                              |
+| 58:00      | And you can get 10% off [[DEVONthink]] 3 or upgrade to it right now.                                      |
 | 58:04      | Just go to devontechnologies.com/automators.                                                     |
 | 58:08      | That's devontechnologies.com/automators for that 10% off.                                        |
 | 58:13      | And our thanks to Devon Technologies for their support of the automators and all of RelayFM.           |
@@ -1324,8 +1324,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:17:26   | Which one do you think I should be going at given the tool sets I've been talking about                |
 | 01:17:30   | today?                                                                                                 |
 | 01:17:31   | Honestly, with the tool sets that you're talking about with things like Basecamp and WordPress         |
-| 01:17:34   | and so on, I would be looking at either Integromat or Zapier.                                          |
-| 01:17:40   | And my inclination is probably going to be to point you towards Integromat just because                |
+| 01:17:34   | and so on, I would be looking at either [[Make\|Integromat]] or Zapier.                                          |
+| 01:17:40   | And my inclination is probably going to be to point you towards [[Make\|Integromat]] just because                |
 | 01:17:44   | I find the user interface is a lot easier to just dive in and do things.                               |
 | 01:17:51   | It's a visual user interface.                                                                          |
 | 01:17:53   | And so you can see, for example, there's an RSS icon and when you click on it, you see                 |
@@ -1339,12 +1339,12 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:18:27   | You can get very nerdy and granular with it, but also you don't have to and it does work               |
 | 01:18:31   | with all the Pro Tools plus it's very affordable, which I think quite a few of our listeners           |
 | 01:18:36   | will very much appreciate.                                                                             |
-| 01:18:38   | I'm paying for Zapier and Integromat on higher tiers because I'm using them all the time               |
+| 01:18:38   | I'm paying for Zapier and [[Make\|Integromat]] on higher tiers because I'm using them all the time               |
 | 01:18:44   | and actually a whole chunk of things just wouldn't be done without them.                               |
 | 01:18:48   | So for example, creating show notes for automators and indeed creating new automations, episodes       |
 | 01:18:53   | and things like that.                                                                                  |
 | 01:18:54   | A whole bunch of that is just handled for me with absolutely no work on my part anymore                |
-| 01:18:59   | thanks to Zapier, Zaps and Integromat scenarios and they just do things and I don't even think         |
+| 01:18:59   | thanks to Zapier, Zaps and [[Make\|Integromat]] scenarios and they just do things and I don't even think         |
 | 01:19:05   | about it and the notes are just there and it's brilliant.                                              |
 | 01:19:09   | Of course, I still have to actually turn up and think about the notes, but it means that               |
 | 01:19:12   | I'm never sitting down and creating a Google Doc for any of this, which is of course not               |
@@ -1383,7 +1383,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:20:41   | You should just turn up because you should never actually be involved in the process                   |
 | 01:20:45   | of sending it from here to there, aside from setting up an automation and keeping it on                |
 | 01:20:49   | it every once in a while to make sure it works.                                                        |
-| 01:20:51   | But I have to say, Zapier Zaps and Integromat scenarios, for me, have been rock solid.                  |
+| 01:20:51   | But I have to say, Zapier Zaps and [[Make\|Integromat]] scenarios, for me, have been rock solid.                  |
 | 01:20:56   | You get them set up, you tweak them a little bit over a couple of weeks, popping back in               |
 | 01:21:00   | every once in a while once you realise you've misplaced a full stop or something like that.            |
 | 01:21:04   | And you're done, that's it.                                                                            |
@@ -1441,7 +1441,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:24:19   | I love what he's doing.                                                                                |
 | 01:24:23   | And this post just went up today as we're recording, but it's really impressive.                       |
 | 01:24:27   | And he also, Stephen's the guy who also made the cool script where I ran the entire set                |
-| 01:24:33   | of [[SF Symbols]] icons in gray, which now is the basis of so many of my Stream Deck icons.                |
+| 01:24:33   | of [[SF Symbols]] icons in gray, which now is the basis of so many of my [[Stream Deck]] icons.                |
 | 01:24:41   | I mean, it's like this guy just keeps doing stuff.                                                     |
 | 01:24:44   | And so we'll reach out and get him on the show again this year, but he's got that.                     |
 | 01:24:49   | But I think the big deal is we want to do these ask the automator questions going forward.             |

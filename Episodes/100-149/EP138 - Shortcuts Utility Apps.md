@@ -99,8 +99,8 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:41      | But at the same time, you do have great things out there which do just add functionality.            |
 | 01:46      | Yeah, and it's like you do get the occasional bozo and app review but I'm talking about              |
 | 01:52      | the actual actions.                                                                                  |
-| 01:54      | As an example, one of the apps we're going to talk about today Supercharges Reminders                |
-| 01:58      | and the Reminders has built-in shortcuts actions but they're kind of crippled in several ways.       |
+| 01:54      | As an example, one of the apps we're going to talk about today Supercharges [[Apple Reminders\|Reminders]]                |
+| 01:58      | and the [[Apple Reminders\|Reminders]] has built-in shortcuts actions but they're kind of crippled in several ways.       |
 | 02:05      | Well, maybe I'm over exaggerating.                                                                   |
 | 02:07      | They're not as good as they could be whereas [[Toolbox Pro]] has some really good ones that              |
 | 02:12      | are better and Apple doesn't seem to mind that.                                                      |
@@ -210,19 +210,19 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 08:57      | does.                                                                                                |
 | 08:58      | So let me describe it as someone who's not making it, but uses it regularly.                         |
 | 09:03      | Toolbox Pro to me is the app I always go to when I need something better.                            |
-| 09:08      | A good example is I'm doing a lot of stuff lately in the MacSparky Labs about reminders.            |
-| 09:13      | You know, reminders just keeps getting so good that a lot of people are saying, I just               |
+| 09:08      | A good example is I'm doing a lot of stuff lately in the MacSparky Labs about [[Apple Reminders\|Reminders]].            |
+| 09:13      | You know, [[Apple Reminders\|Reminders]] just keeps getting so good that a lot of people are saying, I just               |
 | 09:17      | want to use that, you know, can you make it work?                                                    |
 | 09:20      | And I think a lot of the tricks to making it work are shortcuts because like it doesn't              |
 | 09:25      | really have templated projects.                                                                      |
 | 09:27      | You can have a templated list, but not really like if you want, for instance, they have              |
-| 09:31      | a new feature where you can make a Kanban.                                                           |
+| 09:31      | a new feature where you can make a [[Kanban]].                                                           |
 | 09:33      | But if you want to make sub tasks under it, there's no way to template that, but you can             |
 | 09:38      | by building it out in shortcuts.                                                                     |
-| 09:40      | But you find all these limitations in the shortcuts implementation of reminders, and                 |
+| 09:40      | But you find all these limitations in the shortcuts implementation of [[Apple Reminders\|Reminders]], and                 |
 | 09:45      | it feels like the reminder team has got a lot they're doing, and the shortcuts is just               |
 | 09:50      | not getting quite as much attention as it deserves.                                                  |
-| 09:53      | Well, Alex and now Rose have this great set of reminders actions in Toolbox Pro that honestly        |
+| 09:53      | Well, Alex and now Rose have this great set of [[Apple Reminders\|Reminders]] actions in Toolbox Pro that honestly        |
 | 10:02      | run circles around the ones that Apple makes.                                                        |
 | 10:04      | I mean, like one of the things I can do now is get the UUID, the unique identifier of a              |
 | 10:12      | reminder, which means that I can link it somewhere else in a different application.                  |
@@ -241,7 +241,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 11:01      | So it is, you know, the app is appropriately named, you know, Toolbox Pro is just what               |
 | 11:07      | it sounds like.                                                                                      |
 | 11:08      | Yeah.                                                                                                |
-| 11:09      | Well, that was the aim around it and, you know, originally reminders didn't have the                 |
+| 11:09      | Well, that was the aim around it and, you know, originally [[Apple Reminders\|Reminders]] didn't have the                 |
 | 11:12      | ability to do things like edit a reminder.                                                           |
 | 11:15      | You can edit a contact in shortcuts or a calendar event.                                             |
 | 11:19      | So the way that people will work around it is they create a new calendar event and delete            |
@@ -264,18 +264,18 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 12:18      | now from all of these apps because if Toolbox Pro hadn't been there with people using these          |
 | 12:23      | things, then I don't think Apple would have gone, huh, maybe we should just have shortcuts           |
 | 12:31      | actions in everything.                                                                               |
-| 12:33      | And I wish the Reminders team had a bit more capacity so that every time they add a new              |
+| 12:33      | And I wish the [[Apple Reminders\|Reminders]] team had a bit more capacity so that every time they add a new              |
 | 12:38      | feature, somebody also had a story.                                                                  |
 | 12:41      | This is usually what you call it when you're developing stories, which have got tasks inside         |
 | 12:46      | of them.                                                                                             |
 | 12:47      | And then there are also bugs potentially related to a story, potentially just related to existence   |
 | 12:52      | in life, and you have to fix the bugs and write stories or solve the stories.                        |
 | 12:57      | But yeah, so I wish that they would have a story for every new feature that was added                |
-| 13:03      | to Reminders and [[Safari]] and Notes and things like that.                                              |
+| 13:03      | to [[Apple Reminders\|Reminders]] and [[Safari]] and Notes and things like that.                                              |
 | 13:06      | The Notes team have done an incredible job this year.                                                |
 | 13:08      | They're just absolutely nailing it.                                                                  |
 | 13:10      | I love that.                                                                                         |
-| 13:11      | But yeah, as it is Reminders and [[Safari]] in particular, lacking a bit behind, which is                |
+| 13:11      | But yeah, as it is [[Apple Reminders\|Reminders]] and [[Safari]] in particular, lacking a bit behind, which is                |
 | 13:17      | a real shame.                                                                                        |
 | 13:18      | Yeah, but I remember talking to Alex about this and him telling me that he wanted to                 |
 | 13:23      | be Sherlocked.                                                                                       |
@@ -308,7 +308,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 14:59      | sections.                                                                                            |
 | 15:00      | Okay, we have a long list.                                                                           |
 | 15:01      | I want to get through more.                                                                          |
-| 15:02      | But before we go, so I've told you lately my favourites have been the reminders ones                  |
+| 15:02      | But before we go, so I've told you lately my favourites have been the [[Apple Reminders\|Reminders]] ones                  |
 | 15:07      | because I've been doing a lot of work with them.                                                     |
 | 15:08      | But honestly, my favourites in Toolbox Pro just usually whatever I've worked with last.               |
 | 15:13      | But what is your favourite set in Toolbox Pro, Rose?                                                  |
@@ -377,7 +377,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 19:58      | have things that are related to it and images embedded in it and so on.                              |
 | 20:01      | So it's not just text, it's way more than text.                                                      |
 | 20:05      | So yeah, it's really cool that that's the thing, and I've been working on moving some                |
-| 20:09      | of my stuff into [[Notion]] as well, because I'm a diehard Airtable lover, you can pry Airtable          |
+| 20:09      | of my stuff into [[Notion]] as well, because I'm a diehard [[Airtable]] lover, you can pry [[Airtable]]          |
 | 20:15      | out of my cold dead hands, but especially working on Nautomate, I'm having to get more               |
 | 20:22      | familiar with [[Notion]], so I'm moving some stuff in there and I have to say, I'm liking it             |
 | 20:27      | for the things that I'm moving in there.                                                             |
@@ -460,7 +460,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 25:47      | see in Logger what happened.                                                                         |
 | 25:51      | You can have Logger open, I'll say your Mac, and if you've got maybe an iPad that you have           |
 | 25:56      | in front of you, and you're tapping Shortcuts actions on that at various points throughout           |
-| 25:59      | your day, kind of using a little bit like a Stream Deck, but it's an iPad with Shortcuts             |
+| 25:59      | your day, kind of using a little bit like a [[Stream Deck]], but it's an iPad with Shortcuts             |
 | 26:04      | on it, then if those are logging, then you can actually check in Logger what's going                 |
 | 26:09      | on and stuff.                                                                                        |
 | 26:10      | So yeah, that's another nice little one.                                                             |
@@ -594,7 +594,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 34:48      | So there's the option of having a server, which just sits there, and it can listen and               |
 | 34:53      | go, hey, is something going to tell me to run a shortcut action here?                                |
 | 34:57      | And you can trigger those from shortcuts on another device.                                          |
-| 35:00      | You could trigger it by a zap here, if this and that, Mac, formerly Integromat, or through           |
+| 35:00      | You could trigger it by a zap here, if this and that, Mac, formerly [[Make\|Integromat]], or through           |
 | 35:06      | one of those background location things, or from a notification that you send to yourself.           |
 | 35:12      | So you might have a notification that you send to yourself at, say, 10 a.m. every morning,           |
 | 35:18      | when you've been at work for an hour and a half that says, hey, get up and stretch.                  |
@@ -697,9 +697,9 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 41:46      | Well, there are so many.                                                                             |
 | 41:49      | Let's continue, though.                                                                              |
 | 41:51      | Can I pick one of my very favourites?                                                                 |
-| 41:55      | This one gets the Velvet Jacket Award on the Automators podcast, Data Jar.                            |
-| 42:01      | Data Jar just solves so many little problems for me.                                                  |
-| 42:05      | The thing is that Shortcuts doesn't have global variables, and Data Jar, it becomes a source          |
+| 41:55      | This one gets the Velvet Jacket Award on the Automators podcast, [[Data Jar]].                            |
+| 42:01      | [[Data Jar]] just solves so many little problems for me.                                                  |
+| 42:05      | The thing is that Shortcuts doesn't have global variables, and [[Data Jar]], it becomes a source          |
 | 42:11      | of global variables in Shortcuts, and [[Simon Støvring\|Simon]] has been a guest on the show.                            |
 | 42:16      | He's just one of my favourite developers.                                                             |
 | 42:19      | He's just such a cool guy.                                                                           |
@@ -715,7 +715,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 42:48      | But if it changes, then I can just go change the global variable, and it updates automatically       |
 | 42:52      | in all my Shortcuts.                                                                                 |
 | 42:53      | It's such an easy little problem to solve that Apple, I don't think, will ever address,              |
-| 43:01      | and Data Jar, man.                                                                                    |
+| 43:01      | and [[Data Jar]], man.                                                                                    |
 | 43:03      | Go check it out.                                                                                     |
 | 43:04      | Yeah.                                                                                                |
 | 43:05      | I don't know what else to say about it, except you need global variables, and there it is.           |
@@ -723,8 +723,8 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 43:12      | It can be a way to store data.                                                                       |
 | 43:15      | Maybe Logger for Shortcuts sounds like it's overkill for you, and you just want a list               |
 | 43:18      | of timestamps that something happened at.                                                            |
-| 43:21      | Well, you could use Data Jar for that.                                                                |
-| 43:23      | And what I really love about Data Jar as well is you go into the app, it's visually pretty.           |
+| 43:21      | Well, you could use [[Data Jar]] for that.                                                                |
+| 43:23      | And what I really love about [[Data Jar]] as well is you go into the app, it's visually pretty.           |
 | 43:29      | It looks nice, and you can see things, and you can say, hey, okay, so I'm going to add               |
 | 43:34      | some data.                                                                                           |
 | 43:35      | You don't have to open the app to use it at all, to be clear.                                        |
@@ -738,7 +738,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 44:03      | So a little bonus tip for folks there.                                                               |
 | 44:06      | I'm just looking at mine right now.                                                                  |
 | 44:08      | I have my, in the United States, you have a tax form called a W9.                                    |
-| 44:13      | And when people pay you they need it, I saved it as a Data Jar entry, just the PDF of it.            |
+| 44:13      | And when people pay you they need it, I saved it as a [[Data Jar]] entry, just the PDF of it.            |
 | 44:21      | So I can just drop it in into a shortcut when people want it.                                        |
 | 44:25      | I've got all, I don't know why, I have one here called the best number, and it says seven            |
 | 44:30      | under it.                                                                                            |
@@ -753,7 +753,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 44:56      | So if you want to work on something and then come back and run the shortcut again later,             |
 | 45:01      | it's going to start from one again.                                                                  |
 | 45:03      | It's not going to know.                                                                              |
-| 45:04      | And where you store it in Data Jar, you just call it up and there it is.                             |
+| 45:04      | And where you store it in [[Data Jar]], you just call it up and there it is.                             |
 | 45:08      | It solves a bunch of little problems.                                                                |
 | 45:10      | I love it.                                                                                           |
 | 45:11      | I don't think he even charges for it.                                                                |
@@ -761,24 +761,24 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 45:18      | thing.                                                                                               |
 | 45:19      | Yeah, yeah.                                                                                          |
 | 45:20      | [[Simon Støvring\|Simon]] is extremely generous with his apps and time.                                                  |
-| 45:23      | I believe Data Jar is free to download, as is another one of his apps, which you'll get              |
+| 45:23      | I believe [[Data Jar]] is free to download, as is another one of his apps, which you'll get              |
 | 45:29      | to in just a moment, right?                                                                          |
-| 45:31      | So Data Jar is free to download, but then there's optional in app tips that you can give             |
+| 45:31      | So [[Data Jar]] is free to download, but then there's optional in app tips that you can give             |
 | 45:36      | him.                                                                                                 |
-| 45:37      | So, yeah, one thing I'm going to mention that I do with Data Jar, and I'm aware this is              |
+| 45:37      | So, yeah, one thing I'm going to mention that I do with [[Data Jar]], and I'm aware this is              |
 | 45:41      | not security best practice, but, oh my God, did this save my bacon relatively recently?              |
-| 45:47      | Airtable updated API keys.                                                                           |
-| 45:50      | So previously you had like one Airtable API key, and that was it.                                    |
+| 45:47      | [[Airtable]] updated API keys.                                                                           |
+| 45:50      | So previously you had like one [[Airtable]] API key, and that was it.                                    |
 | 45:54      | They have updated from that so that you can now have multiple different tokens and the               |
 | 46:00      | way that you generate them and the way that they work is ever so slightly different.                 |
-| 46:04      | Now, for most of us as users who are using Airtable actions via like your get contents               |
+| 46:04      | Now, for most of us as users who are using [[Airtable]] actions via like your get contents               |
 | 46:10      | of URL and shortcuts, this didn't really make a difference.                                          |
 | 46:15      | We just needed to update the token.                                                                  |
-| 46:18      | I have a lot, and I mean a lot of shortcuts that use Airtable.                                       |
+| 46:18      | I have a lot, and I mean a lot of shortcuts that use [[Airtable]].                                       |
 | 46:24      | Yeah, I bet you do.                                                                                  |
-| 46:27      | Fortunately, past me decided I was going to put my API keys in Data Jar.                             |
+| 46:27      | Fortunately, past me decided I was going to put my API keys in [[Data Jar]].                             |
 | 46:32      | All right, so before you go any further, just tell people why that can be a bad idea.                |
-| 46:37      | Well, it's a bad idea because Data Jar is not a password manager, okay?                              |
+| 46:37      | Well, it's a bad idea because [[Data Jar]] is not a password manager, okay?                              |
 | 46:41      | It doesn't have any kind of authentication, so it's not going to like face ID you when               |
 | 46:45      | you log in and stuff.                                                                                |
 | 46:47      | That said, it's using, I believe, CloudKit.                                                          |
@@ -789,7 +789,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 47:03      | It's better than like skywriting your API key on a daily basis for sure, but yeah, technically,      |
 | 47:09      | if you wouldn't put your password in it, you probably shouldn't put an API key in it.                |
 | 47:13      | So yeah, technically, maybe not the best idea to save my bacon so much because I just had            |
-| 47:19      | to update one thing for all of my Airtable shortcuts and then everything just worked.                |
+| 47:19      | to update one thing for all of my [[Airtable]] shortcuts and then everything just worked.                |
 | 47:24      | If it was my bank account password, I would not do that, but for an API key, for a service           |
 | 47:32      | that I don't have any secret data on, we all got to choose our own poison, but I know we're          |
 | 47:37      | going to get blowback.                                                                               |
@@ -799,7 +799,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 47:47      | in shortcuts like an API key, it really does save your bacon.                                        |
 | 47:51      | Yeah, yeah, and also, this is just, this is really good because this is something I recommended      |
 | 47:57      | to [[Matthew Cassinelli]] a while ago and it was very useful for him because he accidentally             |
-| 48:02      | exposed his Airtable API key and a couple of other API keys on some live streams at some             |
+| 48:02      | exposed his [[Airtable]] API key and a couple of other API keys on some live streams at some             |
 | 48:08      | point when demoing some shortcuts and had to like reset all of them because they were                |
 | 48:12      | just in text in the shortcut, which means that if you're just looking at the shortcut,               |
 | 48:16      | if you just sent your shortcut to a friend, they're not going to get like your API key               |
@@ -809,7 +809,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 48:33      | that I don't want shared and then like delete it or change it in the duplicated version              |
 | 48:38      | that's the one I'm going to share before I do the import questions just because I want               |
 | 48:42      | to be really paranoid that there's nothing that's going to get shared accidentally, but              |
-| 48:46      | by using a Data Jar to get all of my API keys, I don't ever have to worry about them being           |
+| 48:46      | by using a [[Data Jar]] to get all of my API keys, I don't ever have to worry about them being           |
 | 48:52      | leaked by accident inside of a shortcut.                                                             |
 | 48:55      | Yeah, nice.                                                                                          |
 | 48:57      | What's next?                                                                                         |
@@ -851,7 +851,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 51:13      | Whatever you want to do pretty much, you can do it.                                                  |
 | 51:17      | So yeah, I would recommend that if you potentially want to make something pretty out of some numeric |
 | 51:24      | data, look at Charty because Charty is great.                                                      |
-| 51:29      | And if you're collecting a bunch of data and Data Jar and you want to put it on a chart,             |
+| 51:29      | And if you're collecting a bunch of data and [[Data Jar]] and you want to put it on a chart,             |
 | 51:33      | you could do that.                                                                                   |
 | 51:35      | And this is another app that's kind of weird, right, that somebody would think to do this.           |
 | 51:40      | But then the developer did a great job of tutorials, walkthroughs, examples.                         |
@@ -1112,7 +1112,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:06:33   | You can create lots of new ones and you can favourite things and so on.                               |
 | 01:06:39   | But yeah, basically, it just is get contents of URL with extras so that you can manage               |
 | 01:06:48   | your authentication and save credentials and stuff and reuse it.                                     |
-| 01:06:51   | So if you don't want to be me and have all of your Airtable API keys in shortcuts, you                 |
+| 01:06:51   | So if you don't want to be me and have all of your [[Airtable]] API keys in shortcuts, you                 |
 | 01:06:56   | can just have managed authentication inside of HTTP bot.                                             |
 | 01:07:01   | So yeah, get contents of URL, but just a bit nicer and more easy to test and reuse.                  |
 | 01:07:07   | Oh, you got me again, Rose.                                                                          |
@@ -1256,7 +1256,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:15:45   | And then work switch to [[Slack]], and now we switch back to Teams, so it works again.                   |
 | 01:15:50   | So yeah, I highly recommend it.                                                                      |
 | 01:15:52   | HomeBot will let you like create [[URL Schemes]] for [[HomeKit]] stuff, so you can use it from               |
-| 01:15:57   | your Stream Deck.                                                                                    |
+| 01:15:57   | your [[Stream Deck]].                                                                                    |
 | 01:15:58   | Yes.                                                                                                 |
 | 01:15:59   | Yeah.                                                                                                |
 | 01:16:00   | Just great.                                                                                          |

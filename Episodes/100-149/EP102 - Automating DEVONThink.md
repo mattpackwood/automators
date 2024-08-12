@@ -137,7 +137,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 03:33      | It's all built right in there.                                    |
 | 03:35      | Everything is everywhere.                                         |
 | 03:36      | And actually, I think that's one of the things                    |
-| 03:38      | that makes Devon think a great topic for today's episode,         |
+| 03:38      | that makes [[DEVONthink]] a great topic for today's episode,         |
 | 03:41      | because it means that I have everything everywhere                |
 | 03:45      | in the exact same structure.                                      |
 | 03:46      | And then my magic happens where it needs to happen,               |
@@ -275,12 +275,12 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 09:19      | because between universal control and screen setups               |
 | 09:23      | and some things, there is a lot of automation I'm using there.    |
 | 09:26      | So maybe that's a future episode.                                 |
-| 09:28      | But either way, today we're here to talk about Dev and Think.     |
-| 09:31      | And Dev and Think is one of those apps                            |
+| 09:28      | But either way, today we're here to talk about [[DEVONthink]].     |
+| 09:31      | And [[DEVONthink]] is one of those apps                            |
 | 09:33      | that's been around a really long time on the Mac.                 |
 | 09:36      | And it's a small development team.                                |
 | 09:39      | And, you know, it started out life as a kind of like a finder.    |
-| 09:44      | It's really hard to categorise Dev and Think,                     |
+| 09:44      | It's really hard to categorise [[DEVONthink]],                     |
 | 09:45      | but it really is, in my mind,                                     |
 | 09:47      | kind of like a finder replacement.                                |
 | 09:49      | It holds files,                                                   |
@@ -288,9 +288,9 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 09:56      | Something that automators should really love.                     |
 | 09:57      | I mean, separate from the automation stuff                        |
 | 10:01      | we're going to get into today,                                    |
-| 10:02      | like one of the things you can do with Dev and Think              |
+| 10:02      | like one of the things you can do with [[DEVONthink]]              |
 | 10:05      | is you can attach a link to anything                              |
-| 10:07      | in your Dev and Think database,                                   |
+| 10:07      | in your [[DEVONthink]] database,                                   |
 | 10:08      | whether it's a folder which they call groups                      |
 | 10:11      | or it's a specific file                                           |
 | 10:13      | or even just a specific page on a specific PDF.                   |
@@ -299,7 +299,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 10:23      | who likes to be able to jump, you know,                           |
 | 10:26      | contextually on a project to the project documents                |
 | 10:29      | versus the project information or an email or whatever,           |
-| 10:32      | Dev and Think holds all that                                      |
+| 10:32      | [[DEVONthink]] holds all that                                      |
 | 10:34      | and links to it externally and internally.                        |
 | 10:36      | So you can make it like a really fast way                         |
 | 10:40      | to hold things together.                                          |
@@ -346,7 +346,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 12:15      | going to talk about later in the show,                            |
 | 12:17      | you can have all the work happening on the back end.              |
 | 12:19      | So getting back to your Mac mini server,                          |
-| 12:22      | it can be running Dev and Think full time on your database        |
+| 12:22      | it can be running [[DEVONthink]] full time on your database        |
 | 12:26      | and always be applying those rules.                               |
 | 12:28      | Yes, exactly.                                                     |
 | 12:30      | And that's just something that works so well,                     |
@@ -367,10 +367,10 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 13:09      | do this thing with this device again?                             |
 | 13:11      | And then I realise, wait, I don't have the manual for it.         |
 | 13:13      | OK, I'll download the manual and put it                           |
-| 13:15      | straight into the manuals folder inside of Dev and Think,         |
+| 13:15      | straight into the manuals folder inside of [[DEVONthink]],         |
 | 13:18      | or group actually, it's a group rather than a folder.             |
 | 13:22      | And then I know that's done.                                      |
-| 13:23      | And then magic happens in Dev and Think                           |
+| 13:23      | And then magic happens in [[DEVONthink]]                           |
 | 13:25      | when I'm back on my Mac.                                          |
 | 13:26      | But you don't have to have an always on Mac,                      |
 | 13:28      | because the next time you open up your Mac,                       |
@@ -379,7 +379,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 13:36      | It's not waiting to suck them in necessarily,                     |
 | 13:38      | which is just great.                                              |
 | 13:41      | Indexing versus importing, I think                                |
-| 13:43      | that's something we need to talk about with Dev and Think         |
+| 13:43      | that's something we need to talk about with [[DEVONthink]]         |
 | 13:46      | before we get started.                                            |
 | 13:47      | Yes, yeah.                                                        |
 | 13:48      | I think it's really worth looking at,                             |
@@ -389,18 +389,18 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 13:59      | But essentially, indexing is, these are my files.                 |
 | 14:03      | They are organised, how I want them to be organised,              |
 | 14:05      | they are in my file system.                                       |
-| 14:06      | I want Dev and Think to sit on top of that and read               |
+| 14:06      | I want [[DEVONthink]] to sit on top of that and read               |
 | 14:10      | and give me all of the searching capabilities                     |
 | 14:13      | and so on on top of what is already there and find out.           |
 | 14:17      | Whereas importing is basically, these files                       |
-| 14:20      | now go and they live inside Dev and Think.                        |
-| 14:22      | Now, just to be clear, the Dev and Think database                 |
+| 14:20      | now go and they live inside [[DEVONthink]].                        |
+| 14:22      | Now, just to be clear, the [[DEVONthink]] database                 |
 | 14:24      | is still a folder, which essentially, it's a package.             |
 | 14:27      | You can go spelunking and looking for the files                 |
 | 14:29      | if you needed to, but you shouldn't do that.                      |
-| 14:33      | If you import it in Dev and Think,                                |
-| 14:34      | it just goes into Dev and Think, it lives in Dev and Think.       |
-| 14:38      | And then, Dev and Think can rearrange things                      |
+| 14:33      | If you import it in [[DEVONthink]],                                |
+| 14:34      | it just goes into [[DEVONthink]], it lives in [[DEVONthink]].       |
+| 14:38      | And then, [[DEVONthink]] can rearrange things                      |
 | 14:40      | and move stuff around for you without breaking any of the stuff   |
 | 14:44      | that you had set up with folders and things like that.            |
 | 14:47      | And so I personally prefer importing over indexing,               |
@@ -413,25 +413,25 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 15:10      | How do you do things?                                             |
 | 15:11      | Just like you, I import almost always                             |
 | 15:14      | and there's a few, like if I have a shared folder                 |
-| 15:18      | and I want Dev and Think to do its magic on stuff there,          |
+| 15:18      | and I want [[DEVONthink]] to do its magic on stuff there,          |
 | 15:21      | but for today's purposes, especially when you're thinking         |
-| 15:24      | about taking on Dev and Think as an automation tool,              |
+| 15:24      | about taking on [[DEVONthink]] as an automation tool,              |
 | 15:28      | I think importing is way easier than referencing                  |
 | 15:33      | or indexing because you're not gonna get the results              |
 | 15:36      | you always think you will                                         |
 | 15:38      | when you're working with external files.                          |
-| 15:40      | If you want Dev and Think to do its automations and magic,        |
-| 15:42      | you really need to have the files inside Dev and Think.           |
+| 15:40      | If you want [[DEVONthink]] to do its automations and magic,        |
+| 15:42      | you really need to have the files inside [[DEVONthink]].           |
 | 15:45      | And there's really no downside to doing that.                     |
-| 15:49      | The way Dev and Think works,                                      |
+| 15:49      | The way [[DEVONthink]] works,                                      |
 | 15:50      | it's a, it is not what I would call a Roche Motel app.            |
 | 15:54      | When you put the files in, you can just drag them back out.       |
-| 15:57      | Dev and Think will add some extra metadata                        |
-| 15:59      | while the files are in Dev and Think,                             |
+| 15:57      | [[DEVONthink]] will add some extra metadata                        |
+| 15:59      | while the files are in [[DEVONthink]],                             |
 | 16:00      | but when you pull them out,                                       |
 | 16:01      | it's not like their names get garbled                             |
 | 16:03      | or file formats change.                                           |
-| 16:05      | It's just, you just literally drag files out of Dev and Think     |
+| 16:05      | It's just, you just literally drag files out of [[DEVONthink]]     |
 | 16:08      | and that's the export process.                                    |
 | 16:10      | So you really don't have anything to lose                         |
 | 16:12      | and if you want to automate with it,                              |
@@ -441,12 +441,12 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 16:22      | your database is a portable database                              |
 | 16:24      | so it can go anywhere and do anything.                            |
 | 16:26      | And you can, indexing is integrated with the file system,         |
-| 16:31      | which means you rename it in Dev and Think                        |
+| 16:31      | which means you rename it in [[DEVONthink]]                        |
 | 16:33      | and it renames it in Finder and they go both ways.                |
 | 16:37      | And I would recommend checking out the user guide page 52         |
 | 16:40      | to see precisely what it says there.                              |
 | 16:43      | And I'm actually going to put a link to the forums                |
-| 16:47      | for Dev and Think where somebody's had a thread                   |
+| 16:47      | for [[DEVONthink]] where somebody's had a thread                   |
 | 16:50      | and this starts been going on for a while                         |
 | 16:52      | where people discuss the pros and cons of indexing                |
 | 16:55      | versus importing, but generally I'd recommend                     |
@@ -496,27 +496,27 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 18:48      | of the Automators podcast and all of Relay FM.                    |
 | 18:53      | Before we went to the ad break,                                   |
 | 18:54      | you were talking about the forums.                                |
-| 18:55      | In addition, if you want to learn more about Dev and Think,       |
+| 18:55      | In addition, if you want to learn more about [[DEVONthink]],       |
 | 18:59      | I have a field guide for you.                                     |
-| 19:01      | So I have the Dev and Think field guide.                          |
+| 19:01      | So I have the [[DEVONthink]] field guide.                          |
 | 19:03      | I have lost track of how many hours it is.                        |
 | 19:05      | I think it's like seven hours.                                    |
 | 19:07      | But there's an hour of material in there                          |
 | 19:10      | about all the automation stuff we've got.                         |
-| 19:12      | There's an hours worth of videos on automating Dev and Think.     |
+| 19:12      | There's an hours worth of videos on automating [[DEVONthink]].     |
 | 19:16      | And for, let's say two weeks after this episode ships,            |
 | 19:20      | if you use the code,                                              |
 | 19:21      | hooray, Automators with no space, I'll get $10 off.               |
 | 19:25      | But all the stuff we're gonna talk about today,                   |
 | 19:28      | I have walkthroughs for you in video format                       |
-| 19:30      | in the Dev and Think field guide.                                 |
+| 19:30      | in the [[DEVONthink]] field guide.                                 |
 | 19:31      | So check that out if you're interested.                           |
 | 19:33      | Let's start with, I think,                                        |
-| 19:35      | the most basic automation tool of Dev and Think,                  |
+| 19:35      | the most basic automation tool of [[DEVONthink]],                  |
 | 19:38      | which is group creation.                                          |
 | 19:40      | And anytime we say groups today,                                  |
 | 19:42      | you need to think folders.                                        |
-| 19:44      | So creating folders, you can do in Dev and Think pretty easily.   |
+| 19:44      | So creating folders, you can do in [[DEVONthink]] pretty easily.   |
 | 19:48      | The first way is to just select,                                  |
 | 19:51      | well, you can create a group like multiple methods,               |
 | 19:54      | but to do it with a group of files,                               |
@@ -524,32 +524,32 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 19:59      | and say create new group from folder.                             |
 | 20:02      | There's a very similar action in the Finder.                      |
 | 20:05      | And this is the kind of manual way to create a folder             |
-| 20:09      | or slash group around a group of files in Dev and Think.          |
+| 20:09      | or slash group around a group of files in [[DEVONthink]].          |
 | 20:13      | But where it picks up is there's a really cool tool               |
-| 20:18      | in Dev and Think where,                                           |
+| 20:18      | in [[DEVONthink]] where,                                           |
 | 20:22      | and this is a historical tool                                     |
 | 20:24      | where it will use the [[artificial intelligence]].                    |
 | 20:26      | And we haven't mentioned it yet,                                  |
-| 20:28      | but one of Dev and Think's selling points                         |
+| 20:28      | but one of [[DEVONthink]]'s selling points                         |
 | 20:30      | is that it's really invested in AI in terms of search             |
 | 20:34      | and recognising what a file is and what a file contains.          |
 | 20:39      | And so they have this cool trick                                  |
 | 20:41      | where you can say automatically group these files                 |
 | 20:44      | into folders for me.                                              |
-| 20:46      | And since then, Dev and Think has got even smarter                |
+| 20:46      | And since then, [[DEVONthink]] has got even smarter                |
 | 20:50      | and there's some new methods like Classify,                       |
 | 20:52      | which we're gonna talk about later,                               |
 | 20:54      | where I think the developers really want you to focus on that.    |
 | 20:56      | But that tool is still there.                                     |
 | 20:58      | So if you hold down the shift key while right clicking            |
-| 21:03      | in Dev and Think,                                                 |
+| 21:03      | in [[DEVONthink]],                                                 |
 | 21:05      | there's an option that opens up called group similar items.       |
 | 21:09      | And so let's say you've got 50 files in a folder                  |
 | 21:13      | and you wanna group them.                                         |
 | 21:15      | Well, you just select them,                                       |
 | 21:17      | you hold down the shift key, right click                          |
 | 21:19      | and then say group similar items.                                 |
-| 21:20      | And then Dev and Think will look at the files                     |
+| 21:20      | And then [[DEVONthink]] will look at the files                     |
 | 21:23      | and do the best it can to sort those files                        |
 | 21:27      | into folders for you automatically.                               |
 | 21:30      | And it's really crazy how it works.                               |
@@ -576,7 +576,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 22:22      | and I have this periodically where I'm finished                   |
 | 22:25      | with a folder of something or a couple of folders                 |
 | 22:28      | and I've left it a while                                          |
-| 22:29      | and then I dump it into my Dev and Think inbox.                   |
+| 22:29      | and then I dump it into my [[DEVONthink]] inbox.                   |
 | 22:32      | And then it's like, oh gosh, I need to import this.               |
 | 22:34      | Like, no, no, no, right click, group similar items                |
 | 22:36      | and then figure out what to do with that later.                   |
@@ -614,7 +614,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 24:02      | that's definitely a way to do it.                                 |
 | 24:05      | You want to talk a little bit about groups versus folders?        |
 | 24:08      | Yeah, so one of the things is,                                    |
-| 24:12      | what is essentially a folder in Dev and Think                     |
+| 24:12      | what is essentially a folder in [[DEVONthink]]                     |
 | 24:15      | is called a group.                                                |
 | 24:17      | And I find this can be very useful                                |
 | 24:19      | for helping me remember that this isn't Finder.                   |
@@ -622,7 +622,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 24:26      | inside of my [[Obsidian]] database.                                   |
 | 24:29      | One is called auto-import,                                        |
 | 24:31      | and that has index folders inside of it,                          |
-| 24:33      | which are then going to import stuff into Dev and Think.          |
+| 24:33      | which are then going to import stuff into [[DEVONthink]].          |
 | 24:36      | And then the other one contains index folders,                    |
 | 24:38      | but other than that, everything is a group.                       |
 | 24:42      | And this reminds me that it's not Finder.                         |
@@ -648,7 +648,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 25:32      | when my mom accidentally set up a folder action on her Mac        |
 | 25:34      | and couldn't undo it.                                             |
 | 25:36      | But it's a lot easier, I find,                                    |
-| 25:38      | to do that with Dev and Think.                                    |
+| 25:38      | to do that with [[DEVONthink]].                                    |
 | 25:41      | You can also mark entire folders as sort of locked,               |
 | 25:46      | which basically just means nothing can go in or out of it.        |
 | 25:48      | It's frozen, exactly as it is right now.                          |
@@ -656,7 +656,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 25:55      | by marking your group as unread.                                  |
 | 25:58      | And there's also replicate and duplicate options                  |
 | 26:01      | when you're looking at them.                                      |
-| 26:02      | But what I really like about the groups in Dev and Think          |
+| 26:02      | But what I really like about the groups in [[DEVONthink]]          |
 | 26:05      | is you can copy a link to a group,                                |
 | 26:08      | as well as copying a link to a specific item.                     |
 | 26:10      | Or as you mentioned earlier,                                      |
@@ -680,12 +680,12 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 26:55      | And that actually is one of the things                            |
 | 26:58      | that has morphed into a tag now,                                  |
 | 27:00      | because you have groups and you have tagging                      |
-| 27:02      | in Dev and Think.                                                 |
+| 27:02      | in [[DEVONthink]].                                                 |
 | 27:03      | Yeah, okay, so that brings the next topic, right?                 |
 | 27:07      | Groups and tags.                                                  |
 | 27:08      | So we're talking about groups in this segment                     |
 | 27:10      | and you're putting together groups, which is awesome,             |
-| 27:13      | but Dev and Think also has extensive tag support.                 |
+| 27:13      | but [[DEVONthink]] also has extensive tag support.                 |
 | 27:16      | And the idea of groups, which are basically folders,              |
 | 27:22      | I know Rose just explained the differences,                       |
 | 27:25      | but it's a single location that you can put a file.               |
@@ -711,7 +711,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 28:18      | sorted by each colour.                                             |
 | 28:20      | So, and that's a physical object,                                 |
 | 28:22      | which it has that limitation,                                     |
-| 28:24      | whereas the files on your Dev and Think database                  |
+| 28:24      | whereas the files on your [[DEVONthink]] database                  |
 | 28:28      | are digital objects.                                              |
 | 28:30      | And you can index them in multiple ways.                          |
 | 28:33      | Going back to the Lego example,                                   |
@@ -723,7 +723,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 28:50      | it's generally because of the poor implementation of tags         |
 | 28:55      | in Mac OS and the abysmal implementation of tags                  |
 | 28:58      | on iPhone and iPad OS.                                            |
-| 29:01      | Dev and Think gives you a tagging scheme                          |
+| 29:01      | [[DEVONthink]] gives you a tagging scheme                          |
 | 29:04      | that actually works.                                              |
 | 29:05      | So, and also all the automation tools                             |
 | 29:08      | that allow you to really put it to good use.                      |
@@ -804,12 +804,12 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 32:24      | So why not have it also in Devon thing?                           |
 | 32:27      | Yes, exactly.                                                     |
 | 32:29      | And I find that one of the beauties of smart groups               |
-| 32:32      | and indeed, the Devon think database,                             |
-| 32:34      | the Devon think database gets synced between devices.             |
+| 32:32      | and indeed, the [[DEVONthink]] database,                             |
+| 32:34      | the [[DEVONthink]] database gets synced between devices.             |
 | 32:37      | So I'm not gonna be missing certain files                         |
 | 32:40      | or this folder didn't somehow get created over here               |
 | 32:45      | and is messed things up.                                          |
-| 32:46      | No, my Devon think database is the source                         |
+| 32:46      | No, my [[DEVONthink]] database is the source                         |
 | 32:49      | and that contains my smart groups.                                |
 | 32:50      | It contains my tags,                                              |
 | 32:52      | which means I download it on another device.                      |
@@ -821,7 +821,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 33:07      | And indeed, smart groups are kind of foundation                   |
 | 33:12      | for smart rules because the rules have, you know,                 |
 | 33:15      | the search for this criteria and then do these actions.           |
-| 33:18      | And one of the reasons why Devon think is so great                |
+| 33:18      | And one of the reasons why [[DEVONthink]] is so great                |
 | 33:21      | is you can split that up.                                         |
 | 33:22      | So you just wanna do the finding.                                 |
 | 33:24      | You've got a smart group.                                         |
@@ -842,18 +842,18 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 33:55      | Because, you know, I would often start                            |
 | 33:56      | by just creating a smart folder somewhere                         |
 | 34:00      | to try and find all the files previously.                         |
-| 34:02      | And it's much easier to do in Devon think.                        |
+| 34:02      | And it's much easier to do in [[DEVONthink]].                        |
 | 34:06      | And that's kind of the next layer of automation                   |
-| 34:09      | with Devon think.                                                 |
+| 34:09      | with [[DEVONthink]].                                                 |
 | 34:10      | One of the ways I explain this to people                          |
-| 34:12      | is that Devon think has its own copy of [[Hazel]]                     |
+| 34:12      | is that [[DEVONthink]] has its own copy of [[Hazel]]                     |
 | 34:15      | running inside of it.                                             |
 | 34:16      | I mean, it's not feature for feature [[Hazel]].                       |
 | 34:19      | In some ways it's better, in some ways it's worse,                |
 | 34:21      | but it's a very complex trigger slash action                      |
 | 34:26      | automation system that can be triggered                           |
 | 34:29      | on a bunch of ways and perform a bunch of actions                 |
-| 34:32      | on files in your Devon think database.                            |
+| 34:32      | on files in your [[DEVONthink]] database.                            |
 | 34:34      | And I love it, and they call it smart rules.                      |
 | 34:39      | And there's a lot to talk about here.                             |
 | 34:42      | Oh yeah, there is.                                                |
@@ -863,7 +863,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 34:55      | because it's not just files.                                      |
 | 34:57      | It's something we didn't really cover, David.                     |
 | 34:58      | You can have like a website                                       |
-| 35:00      | or a link inside of Devon think as a web archive,                 |
+| 35:00      | or a link inside of [[DEVONthink]] as a web archive,                 |
 | 35:03      | which means that then you can reopen it                           |
 | 35:05      | any time that you need to and you just go straight to it.         |
 | 35:08      | And that's something I actually use                               |
@@ -873,7 +873,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 35:16      | where there's a video that helps you.                             |
 | 35:18      | I do the same thing, just interrupt there.                        |
 | 35:19      | I do the same thing with emails.                                  |
-| 35:21      | If you just drag an email to Devon think,                         |
+| 35:21      | If you just drag an email to [[DEVONthink]],                         |
 | 35:22      | it has not only the email saved with all the texts,               |
 | 35:25      | so you can search it,                                             |
 | 35:26      | but it also creates a link back to the original email.            |
@@ -908,7 +908,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 36:35      | is my pay slips I download on my work machine                     |
 | 36:38      | and they actually get a little bit of massageing with [[Hazel]]        |
 | 36:42      | and thrown into the right folder,                                 |
-| 36:43      | which then Devon think picks up.                                  |
+| 36:43      | which then [[DEVONthink]] picks up.                                  |
 | 36:45      | So one of my criteria for this is that the item is indexed        |
 | 36:49      | and that means that, hey, this hasn't been dealt with             |
 | 36:53      | but I can also, before that even, I can just say,                 |
@@ -934,8 +934,8 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 37:51      | You can say, I want you to do these things when?                  |
 | 37:54      | So on work days or weekends, when it's created,                   |
 | 37:57      | when it's created by the sorter, before it's saved,               |
-| 38:00      | after it's saved, when I quit Devon Think,                        |
-| 38:03      | when I start Devon Think before or after it sinks                 |
+| 38:00      | after it's saved, when I quit [[DEVONthink]],                        |
+| 38:03      | when I start [[DEVONthink]] before or after it sinks                 |
 | 38:06      | every minute, every hour, all sorts of things.                    |
 | 38:08      | There is a whole bunch of stuff.                                  |
 | 38:10      | And one of the things that I really like as well                  |
@@ -952,7 +952,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 38:42      | your import criteria or your matching criteria                    |
 | 38:45      | for things you do not want to accidentally,                       |
 | 38:48      | I don't know, import every single index item                      |
-| 38:51      | into your Devon Think database.                                   |
+| 38:51      | into your [[DEVONthink]] database.                                   |
 | 38:52      | Which means that magically everything disappears                  |
 | 38:54      | out of your [[Obsidian]] database.                                    |
 | 38:56      | And you may be asking,                                            |
@@ -964,13 +964,13 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 39:07      | So the stuff you're talking about                                 |
 | 39:09      | is totally a risk that you have                                   |
 | 39:13      | when you have a smart rule system,                                |
-| 39:14      | whether it's [[Hazel]] or Devon Think.                                |
+| 39:14      | whether it's [[Hazel]] or [[DEVONthink]].                                |
 | 39:16      | Yes, absolutely, wherever you do it.                              |
 | 39:18      | So the way, there's a couple of things.                           |
 | 39:22      | So Rose was talking about the trigger level,                      |
 | 39:24      | what is it gonna trigger this rule?                               |
 | 39:27      | Yeah.                                                             |
-| 39:27      | And with Devon Think,                                             |
+| 39:27      | And with [[DEVONthink]],                                             |
 | 39:29      | the triggers start out with a conditional all                     |
 | 39:33      | whenever you create a new one.                                    |
 | 39:34      | So it requires all triggers to be satisfied.                      |
@@ -1004,7 +1004,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 40:49      | So, yes.                                                          |
 | 40:49      | And the way [[Hazel]] works is it automatically applies the rules     |
 | 40:55      | or you can force them.                                            |
-| 40:56      | But one thing Devon think does that's interesting                 |
+| 40:56      | But one thing [[DEVONthink]] does that's interesting                 |
 | 40:59      | as Roses explaining this,                                         |
 | 41:01      | you can determine when these rules run.                           |
 | 41:04      | It doesn't have to be automatic, you know?                        |
@@ -1017,7 +1017,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 41:19      | But I always feel like once you start getting it sorted out,      |
 | 41:24      | I actually add a bunch more, you know?                            |
 | 41:26      | Because the times that these run                                  |
-| 41:29      | and Devon think are interesting,                                  |
+| 41:29      | and [[DEVONthink]] are interesting,                                  |
 | 41:30      | like you can have it run on time,                                 |
 | 41:33      | like every minute or hourly or weekly or whatever,                |
 | 41:36      | or you can even break it down to weekdays and weekends.           |
@@ -1044,7 +1044,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 42:33      | Okay. But before we get to the actions,                           |
 | 42:35      | let's take a minute to talk about triggers,                       |
 | 42:37      | because we've glossed over it.                                    |
-| 42:40      | I mean, the trigger at list in Devon think                        |
+| 42:40      | I mean, the trigger at list in [[DEVONthink]]                        |
 | 42:45      | is truly remarkable.                                              |
 | 42:46      | Oh, yeah.                                                         |
 | 42:47      | I talked earlier about email.                                     |
@@ -1053,23 +1053,23 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 42:53      | that are related specifically to email.                           |
 | 42:56      | So recipient or who it's to                                       |
 | 43:00      | or who the copies go to can be a trigger.                         |
-| 43:04      | So I talked about earlier how I put emails into Devon think.      |
+| 43:04      | So I talked about earlier how I put emails into [[DEVONthink]].      |
 | 43:08      | Well, when I was doing legal work                                 |
 | 43:09      | and I had opposing counsel on a lot of the deals                  |
 | 43:13      | I worked on, anytime I copied one of their emails                 |
-| 43:16      | into Devon think, one of the triggers that would look at          |
+| 43:16      | into [[DEVONthink]], one of the triggers that would look at          |
 | 43:19      | is this email from John at fancylawfirm.com                       |
 | 43:24      | because I only got one kind of email from John                    |
 | 43:26      | of be related to a specific transaction.                          |
 | 43:29      | And that single trigger,                                          |
 | 43:31      | this was a case where I could use any of saying                   |
 | 43:34      | the email came from him or went to him or included him            |
-| 43:39      | was enough for Devon think to say,                                |
+| 43:39      | was enough for [[DEVONthink]] to say,                                |
 | 43:41      | oh, this is part of that file that you're working on              |
 | 43:44      | and just grab the email and put it right there                    |
 | 43:46      | into the email folder.                                            |
 | 43:47      | And it is the detailed triggers                                   |
-| 43:51      | that I think make Devon think a real candidate                    |
+| 43:51      | that I think make [[DEVONthink]] a real candidate                    |
 | 43:53      | for handling all your digital documents.                          |
 | 43:56      | Yes.                                                              |
 | 43:56      | Like URL is another one.                                          |
@@ -1189,21 +1189,21 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 49:24      | And I want to talk about tokens.                                  |
 | 49:25      | Let's put a pin in the token concept for a minute,                |
 | 49:28      | because I think I want to get through to one of the basics.       |
-| 49:30      | But we haven't mentioned yet that Dev and Think                   |
+| 49:30      | But we haven't mentioned yet that [[DEVONthink]]                   |
 | 49:33      | has a very strong built-in OCR engine.                            |
 | 49:36      | I think they licensed the Abbey engine.                           |
 | 49:39      | I'm not sure what their underlying engine is,                     |
 | 49:41      | but their OCR is very good.                                       |
 | 49:43      | But OCR then becomes an action.                                   |
 | 49:45      | So one of the things I do is I have a smart rule on my inbox      |
-| 49:50      | in Dev and Think.                                                 |
+| 49:50      | in [[DEVONthink]].                                                 |
 | 49:51      | And it just looks for any files that don't have OCR applied,      |
 | 49:54      | and it OCRs them.                                                 |
 | 49:55      | So anything that's important enough for me                        |
-| 49:58      | to throw into Dev and Think, quite often, they're just PDF        |
+| 49:58      | to throw into [[DEVONthink]], quite often, they're just PDF        |
 | 50:01      | files that I got somewhere that don't necessarily                 |
 | 50:04      | have an OCR layer.                                                |
-| 50:05      | Dev and Think does it automatically for me                        |
+| 50:05      | [[DEVONthink]] does it automatically for me                        |
 | 50:07      | by just using a simple trigger, which the trigger is              |
 | 50:10      | look for a file that doesn't have OCR, and an action.             |
 | 50:13      | And the action is do OCR in the file                              |
@@ -1215,10 +1215,10 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 50:26      | Yeah.                                                             |
 | 50:27      | And I have to say that I find that very, very                     |
 | 50:29      | useful for a number of different things                           |
-| 50:33      | because you can reformat stuff using Dev and Think.               |
+| 50:33      | because you can reformat stuff using [[DEVONthink]].               |
 | 50:39      | And so a classic example of this is emails.                       |
 | 50:42      | You were mentioning email import earlier.                         |
-| 50:44      | I use Dev and Think to convert that to a PDF                      |
+| 50:44      | I use [[DEVONthink]] to convert that to a PDF                      |
 | 50:47      | because I can import emails and then convert to PDF.              |
 | 50:51      | It is, I will admit, not necessarily the prettiest                |
 | 50:54      | PDF in the world because guess what?                              |
@@ -1233,7 +1233,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 51:18      | It doesn't work, which I replied, OK, I guess you don't have out. |
 | 51:21      | Look, here's a PDF for you.                                       |
 | 51:23      | And I just changed things to automatically convert that.          |
-| 51:26      | But you can do that sort of thing with Dev and Think,             |
+| 51:26      | But you can do that sort of thing with [[DEVONthink]],             |
 | 51:30      | which just makes it even more powerful.                           |
 | 51:33      | Yeah, and a PDF is kind of a more permanent record of it,         |
 | 51:37      | in a sense.                                                       |
@@ -1378,7 +1378,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 57:04      | where you can say if all of these are true, then do this.         |
 | 57:08      | But there's a kind of a clever workaround.                        |
 | 57:11      | And I cover this in detail in a very detailed video               |
-| 57:14      | in the Dev and Think Field Guide                                  |
+| 57:14      | in the [[DEVONthink]] Field Guide                                  |
 | 57:16      | if you've already got it or thinking about it.                    |
 | 57:17      | But you can add conditional rules within rules.                   |
 | 57:22      | So let's go back to that example of John                          |
@@ -1507,7 +1507,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:02:19   | And so you know that everything is related to all of that         |
 | 01:02:22   | or whatever it is that you need to do.                            |
 | 01:02:24   | But I find this to be a very useful combination                   |
-| 01:02:29   | of things in Dev and Think.                                       |
+| 01:02:29   | of things in [[DEVONthink]].                                       |
 | 01:02:32   | Yeah, totally agree.                                              |
 | 01:02:33   | And the flip side of these power tools is on the actions.         |
 | 01:02:37   | And I wanna talk a bit about tokens                               |
@@ -1515,7 +1515,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:02:41   | like you can rename a file,                                       |
 | 01:02:43   | but what I didn't mention was the idea of tokens.                 |
 | 01:02:46   | If you are a [[Hazel]] power user, you know about tokens,             |
-| 01:02:50   | well, they've got them in Dev and Think too.                      |
+| 01:02:50   | well, they've got them in [[DEVONthink]] too.                      |
 | 01:02:53   | And this means when you go to, for instance,                      |
 | 01:02:55   | set a name of a file,                                             |
 | 01:02:58   | that's the one that I think people                                |
@@ -1530,7 +1530,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:03:22   | that it pulls out of itself.                                      |
 | 01:03:24   | So the name of the file, the aliases,                             |
 | 01:03:28   | we didn't, you know, aliases isn't really automation related,     |
-| 01:03:30   | but it's a Dev and Think cool thing you can do.                   |
+| 01:03:30   | but it's a [[DEVONthink]] cool thing you can do.                   |
 | 01:03:33   | You can put the kind of file, the link, the tags,                 |
 | 01:03:37   | so you can literally add tags to the name automatically.          |
 | 01:03:41   | You can add index numbers, counters.                              |
@@ -1545,8 +1545,8 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:04:07   | it'll add that to the file name.                                  |
 | 01:04:09   | And all that stuff is done with this token system,                |
 | 01:04:13   | which you just right click and say insert placeholder.            |
-| 01:04:15   | I always felt like this is like buried in Dev and Think.          |
-| 01:04:18   | I think a lot of people use Dev and Think for rules               |
+| 01:04:15   | I always felt like this is like buried in [[DEVONthink]].          |
+| 01:04:18   | I think a lot of people use [[DEVONthink]] for rules               |
 | 01:04:20   | and don't even realise that stuff is there.                       |
 | 01:04:23   | Postal code, tab, line breaks.                                    |
 | 01:04:25   | And then on top of all that,                                      |
@@ -1555,7 +1555,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:04:35   | that you're doing the rule, you can add it.                       |
 | 01:04:37   | If you wanna get the date, it was added to your library           |
 | 01:04:40   | because there's always a problem with documents                   |
-| 01:04:42   | that you add to something like Dev and Think.                     |
+| 01:04:42   | that you add to something like [[DEVONthink]].                     |
 | 01:04:44   | It's like, if you add it                                          |
 | 01:04:45   | and then you put the date in the name,                            |
 | 01:04:47   | the date it's gonna use often is the date                         |
@@ -1567,18 +1567,18 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:05:02   | and try and find the date and put it.                             |
 | 01:05:05   | So it's just really, and I think I've covered like 50%            |
 | 01:05:12   | of the available tokens in this long rant.                        |
-| 01:05:15   | So if you use Dev and Think,                                      |
+| 01:05:15   | So if you use [[DEVONthink]],                                      |
 | 01:05:18   | please figure out placeholders                                    |
 | 01:05:20   | because it's gonna really up your game.                           |
 | 01:05:23   | Yes, yeah, it really is.                                          |
 | 01:05:24   | And I should note, I mentioned earlier custom metadata.           |
 | 01:05:28   | And I feel like this is worth talking about here again            |
 | 01:05:30   | because custom metadata is essentially,                           |
-| 01:05:33   | Dev and Think is a database.                                      |
+| 01:05:33   | [[DEVONthink]] is a database.                                      |
 | 01:05:34   | You're adding more fields to your documents                       |
 | 01:05:37   | and things inside of the database                                 |
 | 01:05:39   | so that you can sort them even better in various ways.            |
-| 01:05:44   | And so for example, one of the things that I use Dev and Think    |
+| 01:05:44   | And so for example, one of the things that I use [[DEVONthink]]    |
 | 01:05:47   | for is helping organise my receipts                               |
 | 01:05:50   | and other information for Texas.                                  |
 | 01:05:52   | And this means that I need to know                                |
@@ -1595,7 +1595,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:06:18   | you'll probably want to do this on the Mac.                       |
 | 01:06:20   | I don't think you can actually access this                        |
 | 01:06:22   | and change this on iOS.                                           |
-| 01:06:24   | Dev and Think to Go is a very useful tool,                        |
+| 01:06:24   | [[DEVONthink]] to Go is a very useful tool,                        |
 | 01:06:26   | but it is very much, I'm taking my data with me                   |
 | 01:06:29   | rather than I am doing all of the magic,                          |
 | 01:06:31   | but you can add a new field to this                               |
@@ -1738,14 +1738,14 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:12:47   | where they're taking advantage                                    |
 | 01:12:48   | of the [[artificial intelligence]]                                    |
 | 01:12:49   | and these are some rules                                          |
-| 01:12:51   | what I consider to be unique to Devon think                       |
+| 01:12:51   | what I consider to be unique to [[DEVONthink]]                       |
 | 01:12:53   | I've never seen them anywhere else before.                        |
 | 01:12:55   | And my favourite is the classified tool                            |
 | 01:12:57   | and it's similar to the earlier group,                            |
 | 01:13:01   | similar items tool I was talking about                            |
 | 01:13:03   | but it's better and more powerful.                                |
 | 01:13:05   | And it's accessed in the inspector                                |
-| 01:13:09   | and what it does is it uses the Devon think                       |
+| 01:13:09   | and what it does is it uses the [[DEVONthink]]                       |
 | 01:13:12   | [[artificial intelligence]] and it will look at a file                |
 | 01:13:16   | and say, I think this belongs there.                              |
 | 01:13:19   | You know, it'll figure out and it's for grouping files.           |
@@ -1755,7 +1755,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:13:31   | Like if I was talking about earlier about that case,              |
 | 01:13:33   | if I started putting emails and documents                         |
 | 01:13:36   | that had the ACMI contract data                                   |
-| 01:13:38   | and a Devon think would be looking at that                        |
+| 01:13:38   | and a [[DEVONthink]] would be looking at that                        |
 | 01:13:40   | and as I did it two or three times,                               |
 | 01:13:43   | it would increasingly start to realise,                           |
 | 01:13:45   | oh, wait a second, anything related to this case                  |
@@ -1770,7 +1770,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:14:08   | I want OmniFocus or the app starts to pay attention               |
 | 01:14:13   | to how you act and then it starts giving you                      |
 | 01:14:16   | what it thinks that you want the most.                            |
-| 01:14:18   | And the more you use Devon think,                                 |
+| 01:14:18   | And the more you use [[DEVONthink]],                                 |
 | 01:14:20   | the better the classified tool gets.                              |
 | 01:14:22   | And I find this just, it's like the best kind of automation       |
 | 01:14:27   | in the sense that you're not preparing the rules                  |
@@ -1779,13 +1779,13 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:14:35   | just based on the way you use the app.                            |
 | 01:14:38   | Yes, yeah, I should note that you can get to the classified       |
 | 01:14:41   | just through the right click menu on any document                 |
-| 01:14:43   | or file in Devon think.                                           |
+| 01:14:43   | or file in [[DEVONthink]].                                           |
 | 01:14:45   | If you right click then underneath group items,                   |
 | 01:14:49   | right above batch process and apply rules,                        |
 | 01:14:51   | there's classified as well.                                       |
 | 01:14:52   | And it is just a great kind of magic                              |
 | 01:14:56   | and something else with the classified tool.                      |
-| 01:14:59   | If you have multiple Devon think databases,                       |
+| 01:14:59   | If you have multiple [[DEVONthink]] databases,                       |
 | 01:15:01   | you can cross the streams.                                        |
 | 01:15:03   | Now, it usually goes best if there's don't cross the streams.     |
 | 01:15:05   | That's probably what you're aiming to do                          |
@@ -1795,7 +1795,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:15:12   | Because especially looking at the sync options,                   |
 | 01:15:15   | if you've got secure work data                                    |
 | 01:15:17   | that shouldn't be going various places,                           |
-| 01:15:19   | you can have an entirely local Devon think database               |
+| 01:15:19   | you can have an entirely local [[DEVONthink]] database               |
 | 01:15:22   | that's synced over your local network.                            |
 | 01:15:24   | So it's not even like going out to the internet                   |
 | 01:15:27   | or you can sync through [[Dropbox]], iCloud, et cetera.               |
@@ -1855,7 +1855,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:17:43   | of how frequently you access that particular file.                |
 | 01:17:46   | But you can also, over here,                                      |
 | 01:17:48   | this is something we've missed, David.                            |
-| 01:17:49   | Reminders, I forgot to talk about reminders and Devon think.      |
+| 01:17:49   | Reminders, I forgot to talk about reminders and [[DEVONthink]].      |
 | 01:17:54   | And I can't believe it, because that is so useful.                |
 | 01:17:57   | So say you have a regular maintenance task                        |
 | 01:17:59   | that you need to do.                                              |

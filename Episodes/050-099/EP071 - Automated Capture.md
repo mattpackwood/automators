@@ -86,7 +86,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 02:02      | it was kind of like confetti cannon, and these things were just flying across my kitchen.                |
 | 02:06      | So it's like, okay, I need a basket. So A, I need to buy a basket, but I need the dimensions             |
 | 02:11      | for this. And so I captured that. And there's all sorts of things that we need to capture.               |
-| 02:17      | So I was wondering, before we dive too deep into this, let's give our automakers listeners               |
+| 02:17      | So I was wondering, before we dive too deep into this, let's give our Automators listeners               |
 | 02:22      | a bit of a background. What kind of things do you capture?                                               |
 | 02:24      | Like you, everything. I mean, just like I was mentioning earlier, thoughts are an important              |
 | 02:29      | capture because my brain is always like cooking in the background on ideas. And if I don't               |
@@ -222,7 +222,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 13:57      | for capture and use the downloaded actions that are available, then you can do that.                     |
 | 14:02      | And I would argue that you should do that because [[Drafts]] is a great application for                      |
 | 14:06      | this. But I mean, there are plenty of other applications that you could use. I mean, I                   |
-| 14:11      | actually do use reminders for some things because when I say hello, Apple lady, and                      |
+| 14:11      | actually do use [[Apple Reminders\|Reminders]] for some things because when I say hello, Apple lady, and                      |
 | 14:16      | she's listening because I've got a speaker in almost every room now. I don't have one                    |
 | 14:20      | in the hallway, but there are three rooms adjacent to the hallway with these. I don't                    |
 | 14:24      | have one in the bathroom. So I have to use my Apple watch there if I need to capture                     |
@@ -635,7 +635,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 41:47      | This may not sound super automated, but when I break it down, it actually is.                            |
 | 41:54      | So I'll do that.                                                                                         |
 | 41:55      | First of all, I have, you know, add this to my shopping list, so for example, add bananas                |
-| 42:01      | to my shopping list, and that goes into a shopping list in reminders.                                    |
+| 42:01      | to my shopping list, and that goes into a shopping list in [[Apple Reminders\|Reminders]].                                    |
 | 42:06      | And then I actually do have a shortcut that can pull those items into OmniFocus, because                 |
 | 42:12      | a lot of my things to purchase do end up in OmniFocus.                                                   |
 | 42:16      | Some people don't think that's best practice.                                                            |
@@ -651,13 +651,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 42:59      | And I use this for a certain thing.                                                                      |
 | 43:02      | So recently, I had to take a course of medication and is antibiotic, so you need to take them            |
 | 43:07      | at the right time and stuff like that.                                                                   |
-| 43:09      | So I used shortcuts, actually, in that particular case, to add a series of tasks to Jew, which           |
+| 43:09      | So I used shortcuts, actually, in that particular case, to add a series of tasks to [[Due]], which           |
 | 43:16      | it then nagged me for.                                                                                   |
-| 43:17      | But Jew can automatically, or can look at a reminders list and anything with a date                      |
+| 43:17      | But [[Due]] can automatically, or can look at a [[Apple Reminders\|Reminders]] list and anything with a date                      |
 | 43:22      | and time, it will just grab for you.                                                                     |
 | 43:25      | And that's perfect.                                                                                      |
 | 43:28      | And I decided that, very occasionally, I do want reminders when I get to a location,                     |
-| 43:32      | and I like using reminders for this because it stays on the home screen of my phone until                |
+| 43:32      | and I like using [[Apple Reminders\|Reminders]] for this because it stays on the home screen of my phone until                |
 | 43:36      | either I leave the location or until I mark it off, unlike OmniFocus, where this is an                   |
 | 43:42      | iOS limitation.                                                                                          |
 | 43:43      | It just appears once, and then it goes away.                                                             |
@@ -687,8 +687,8 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 45:12      | in the background without me thinking about it, which is amazing.                                        |
 | 45:15      | All right.                                                                                               |
 | 45:16      | I want to pull that apart.                                                                               |
-| 45:17      | So the starting point is you're using Siri, and it's excellent integration with the Apple                |
-| 45:24      | Reminders app as a quick capture.                                                                        |
+| 45:17      | So the starting point is you're using Siri, and it's excellent integration with the [[Apple Reminders]]  |
+| 45:24      | app as a quick capture.                                                                        |
 | 45:27      | It seems like that's the reason you're doing this, right?                                                |
 | 45:29      | I mean, rather than going to specific apps.                                                              |
 | 45:31      | Yeah.                                                                                                    |
@@ -715,7 +715,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 46:50      | So while theoretically they can't pass it off to an iPhone or an iPad, which will deal                   |
 | 46:55      | with it, I found sometimes they don't.                                                                   |
 | 46:57      | That's a bit of a, you know, thing where it's just not clicking quite as it should.                      |
-| 47:02      | And I don't know exactly where the problem is, but reminders works 10 out of 10 times.                   |
+| 47:02      | And I don't know exactly where the problem is, but [[Apple Reminders\|Reminders]] works 10 out of 10 times.                   |
 | 47:06      | So I've stuck with the simple solution.                                                                  |
 | 47:09      | So that's a third point of failure.                                                                      |
 | 47:10      | It's like it's got to then go from the HomePod to the mobile device and, you know, something's          |
@@ -733,14 +733,14 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 47:40      | And then I've got a, you know, a checklist that I go through at that point.                              |
 | 47:44      | I don't make do items or every item on the checklist.                                                    |
 | 47:47      | It's just get started with the shutdown, but you are actually pulling items that are date                |
-| 47:53      | related out of reminders and putting them into do automatically.                                         |
+| 47:53      | related out of [[Apple Reminders\|Reminders]] and putting them into do automatically.                                         |
 | 47:56      | Yeah.                                                                                                    |
 | 47:57      | Yeah.                                                                                                    |
 | 47:58      | And this is a native feature of due.                                                                     |
 | 47:59      | I didn't really do anything for this.                                                                    |
 | 48:01      | So if you open due in the, in the sidebar under a settings, I believe, then there should                 |
 | 48:09      | be an option under, um, so there's import where you can specifically import everything                   |
-| 48:14      | in one list, but there's also auto import where you can select a reminders list, um,                     |
+| 48:14      | in one list, but there's also auto import where you can select a [[Apple Reminders\|Reminders]] list, um,                     |
 | 48:20      | and it will, it will then attempt to import that.                                                        |
 | 48:22      | And I set my background app refresh, uh, to, to maximum because, you know, I'm not going                 |
 | 48:27      | anywhere and I've got a max iPhone.                                                                      |
@@ -767,7 +767,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 49:48      | And then the rest of it is handled through shortcut that I've programmed.                                |
 | 49:51      | Okay.                                                                                                    |
 | 49:52      | So the first thing, so that we're addressing time related reminders through due and then                 |
-| 49:57      | you had your addressing location related to reminders, just by leaving them in the reminders             |
+| 49:57      | you had your addressing location related to reminders, just by leaving them in the [[Apple Reminders\|Reminders]]             |
 | 50:02      | app, right?                                                                                              |
 | 50:03      | Yeah.                                                                                                    |
 | 50:04      | Yeah.                                                                                                    |
@@ -839,7 +839,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 54:04      | That's the thing.                                                                                        |
 | 54:05      | I'm not choosing the right app for, for the right use case.                                              |
 | 54:09      | And I have found if I'm asking you to remind me of something, then, or sorry, if I'm asking              |
-| 54:18      | reminders to remind me of something, then that means that I probably need to do it very                  |
+| 54:18      | [[Apple Reminders\|Reminders]] to remind me of something, then that means that I probably need to do it very                  |
 | 54:25      | specifically at that time done.                                                                          |
 | 54:28      | And that means that it shouldn't land in omnifocus.                                                      |
 | 54:32      | There are very occasionally exceptions to this rule, but that's occasional.                              |
@@ -981,7 +981,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:03:34   | Thank you very much.                                                                                     |
 | 01:03:35   | Um, and so what I do is I, I have, um, it look, um, for anything, uh, about your Amazon                  |
 | 01:03:42   | return.                                                                                                  |
-| 01:03:43   | And then this one is actually an Integromat.                                                            |
+| 01:03:43   | And then this one is actually an [[Make\|Integromat]].                                                            |
 | 01:03:45   | It branches out.                                                                                         |
 | 01:03:46   | It checks whether or not it's something that I need to print a label for, uh, and if I                   |
 | 01:03:49   | don't need to print a label, then it tells me, uh, then it, uh, gets, uh, uh, um, the,                   |
@@ -1188,7 +1188,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:16:32   | we've got between each other.                                                                            |
 | 01:16:34   | But in case you hadn't noticed, there's a third person in our one-to-one message.                        |
 | 01:16:38   | Yeah.                                                                                                    |
-| 01:16:39   | Who's this Integromat, that keeps messaging me, Rose?                                              |
+| 01:16:39   | Who's this [[Make\|Integromat]], that keeps messaging me, Rose?                                              |
 | 01:16:42   | Well, it's messaging me too.                                                                             |
 | 01:16:44   | So one of the things that I wanted to solve is whenever I have an idea for an automator                  |
 | 01:16:49   | show, I feel like I should be sharing that with you, but I should be sharing that with                   |
@@ -1219,9 +1219,9 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:18:39   | And then I still have to fire something off to ping you through [[Slack]].                                   |
 | 01:18:43   | Now [[Slack]] does have an API and you can get API keys for it depending on how people have                  |
 | 01:18:47   | set up the bases.                                                                                        |
-| 01:18:48   | But Integromat has API integration, a [[Slack]] API, and so it can talk to [[Slack]] for you,                    |
+| 01:18:48   | But [[Make\|Integromat]] has API integration, a [[Slack]] API, and so it can talk to [[Slack]] for you,                    |
 | 01:18:55   | which means I didn't have to figure out any of that.                                                     |
-| 01:18:57   | So I created a three step scenario in Integromat.                                                        |
+| 01:18:57   | So I created a three step scenario in [[Make\|Integromat]].                                                        |
 | 01:19:02   | First of all, it's got a web hook.                                                                       |
 | 01:19:03   | So I ping the web hook and I send it the idea and a note.                                                |
 | 01:19:08   | The note could be empty.                                                                                 |
@@ -1235,24 +1235,24 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:19:39   | But I just thought that that would be a pretty cool way of making sure that things always                |
 | 01:19:43   | end up in there in a nice way so that you know about it.                                                 |
 | 01:19:48   | And yeah, it seemed like a fun exercise in automation, at the very least.                                |
-| 01:19:54   | It feels like Integromat just continues to get traction with cloud automation.                           |
+| 01:19:54   | It feels like [[Make\|Integromat]] just continues to get traction with cloud automation.                           |
 | 01:19:58   | Well, what I like about it is it does work really well for me.                                           |
 | 01:20:03   | So it might not work really well for everyone, but I love that visual element to it.                     |
 | 01:20:09   | Where if you've got a split, then you can see it split, and you don't necessarily see                    |
 | 01:20:14   | a lot of detail about each step until you click into it, but then you have everything.                   |
 | 01:20:21   | And in some ways, it's more powerful than Zapier.                                                        |
-| 01:20:22   | In other ways, Zapier is more powerful than Integromat.                                                  |
+| 01:20:22   | In other ways, Zapier is more powerful than [[Make\|Integromat]].                                                  |
 | 01:20:26   | So I feel like everybody should have a look at both if they're looking for an online web                 |
 | 01:20:31   | automation service.                                                                                      |
 | 01:20:32   | It is cheaper, which has a lot in its favor.                                                             |
 | 01:20:34   | Yeah, it really is interesting because we did a show on cloud-based automation status                    |
 | 01:20:41   | like about four months ago, and what we said then is still true.                                         |
 | 01:20:45   | All of these players have got different areas of focus.                                                  |
-| 01:20:49   | I have TTT, Zapier, Integromat, and I guess if you want to try this out, you just got                    |
+| 01:20:49   | I have TTT, Zapier, [[Make\|Integromat]], and I guess if you want to try this out, you just got                    |
 | 01:20:54   | to really take a look at each tool and see what problems you're trying to solve.                         |
 | 01:20:59   | But I still wouldn't recommend making them to Rube Goldberg because you're adding the                    |
 | 01:21:05   | internet to the mix on every step for these solutions.                                                   |
-| 01:21:09   | And it could be no fault of Integromat, but something may not work because the service                   |
+| 01:21:09   | And it could be no fault of [[Make\|Integromat]], but something may not work because the service                   |
 | 01:21:15   | you're connecting to is having issues, and then you get frustrated.                                      |
 | 01:21:20   | Yeah, yeah, and that's the thing.                                                                        |
 | 01:21:22   | You have to figure out where the balance lies for you.                                                   |
@@ -1286,11 +1286,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:23:30   | One of the things I've been doing, which is just really Automators 101, but it has a very                |
 | 01:23:35   | robust keyboard shortcut system.                                                                         |
 | 01:23:38   | And since this is at this point at least a Mac-only app, I have mapped out an entire                     |
-| 01:23:43   | panel of Stream Deck to this app.                                                                        |
-| 01:23:48   | So when I load this app, you can have it, Stream Deck has an option to automatically load a              |
+| 01:23:43   | panel of [[Stream Deck]] to this app.                                                                        |
+| 01:23:48   | So when I load this app, you can have it, [[Stream Deck]] has an option to automatically load a              |
 | 01:23:52   | panel based on which app you're running.                                                                 |
 | 01:23:55   | A lot of the more obscure keyboard shortcut stuff that I don't seem to be able to remember,              |
-| 01:24:00   | I've just added buttons to my Stream Deck for it.                                                        |
+| 01:24:00   | I've just added buttons to my [[Stream Deck]] for it.                                                        |
 | 01:24:03   | Another way that I found it very easy to work with this is doing text replacement stuff,                 |
 | 01:24:09   | like TextExpander or whatnot.                                                                           |
 | 01:24:11   | And also, as I talked about during the show today, creating custom actions and [[Drafts]] where              |
@@ -1305,17 +1305,17 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:24:49   | take an app and kind of take the reins of it using automation tools.                                     |
 | 01:24:53   | Yeah.                                                                                                    |
 | 01:24:54   | I really like that.                                                                                      |
-| 01:24:55   | And I'm glad you mentioned that you can automatically change which Stream Deck profile for the app       |
+| 01:24:55   | And I'm glad you mentioned that you can automatically change which [[Stream Deck]] profile for the app       |
 | 01:25:00   | that you're in, because I find sometimes this is exactly what I need, and sometimes this                 |
 | 01:25:06   | is not what I need.                                                                                      |
-| 01:25:07   | So I've actually dedicated the bottom right-hand corner of my Stream Deck on every single profile        |
+| 01:25:07   | So I've actually dedicated the bottom right-hand corner of my [[Stream Deck]] on every single profile        |
 | 01:25:14   | pretty much to a return to my default profile button, because you can change profiles.                   |
 | 01:25:22   | Which means that when I open OmniFocus, I get my OmniFocus profile and things like that,                 |
 | 01:25:28   | which really helps.                                                                                      |
 | 01:25:30   | But then if I need my regular one, because say I'm in OmniFocus, but now I'm going to                    |
 | 01:25:34   | record automators, so I need my podcasting profile, then I can just bounce back to my                    |
 | 01:25:39   | default one.                                                                                             |
-| 01:25:40   | And then from there, it's essentially an index of my Stream Deck profile.                                |
+| 01:25:40   | And then from there, it's essentially an index of my [[Stream Deck]] profile.                                |
 | 01:25:45   | So I can easily go back to whatever it is I need to do.                                                  |
 | 01:25:48   | So then it's two buttons to get me into podcasting mode.                                                 |
 | 01:25:52   | And that's great.                                                                                        |
@@ -1325,11 +1325,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:26:02   | I should probably change it, because the bottom left is the most inaccessible one, so I'm                |
 | 01:26:06   | less likely to press that accidentally.                                                                  |
 | 01:26:10   | But I'll have to see.                                                                                    |
-| 01:26:11   | I'm also loving the fact that Stream Deck has got so many integrations and apps.                         |
+| 01:26:11   | I'm also loving the fact that [[Stream Deck]] has got so many integrations and apps.                         |
 | 01:26:15   | I recently installed Ecamm Live for iOS today, so I can share my screen.                                 |
 | 01:26:20   | And I love the fact that there are actions for this, so I have my different profiles,                    |
 | 01:26:25   | so I can share iPad versus iPhone versus me.                                                             |
-| 01:26:29   | I like the Stream Deck so much.                                                                          |
+| 01:26:29   | I like the [[Stream Deck]] so much.                                                                          |
 | 01:26:31   | I know that it's an expense, and there are apps out there where you can turn an iPad                     |
 | 01:26:36   | screen into some of these features.                                                                      |
 | 01:26:38   | But there's just something to be said to have a panel of physical buttons next to your Mac,              |
@@ -1343,16 +1343,16 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:27:12   | I've been able to map using [[Keyboard Maestro]] and choose from menu item in [[Keyboard Maestro]].              |
 | 01:27:20   | That's like a very simple command in [[Keyboard Maestro]], but you can go many layers deep                   |
 | 01:27:24   | in submenus and get features added to a [[Keyboard Maestro]] script.                                         |
-| 01:27:29   | And then there is a third-party plugin for the Stream Deck called KMLink.                                |
+| 01:27:29   | And then there is a third-party plugin for the [[Stream Deck]] called KMLink.                                |
 | 01:27:35   | I want to say TJ turned me on to this, but I'm not sure who turned me on to it.                          |
 | 01:27:40   | But the thing I like about that over the native [[Keyboard Maestro]] integration is that once                |
-| 01:27:45   | you put a KMLink script on your Stream Deck, you can move it around.                                     |
-| 01:27:51   | You can drag it to different places on the Stream Deck and the Stream Deck app and not                   |
+| 01:27:45   | you put a KMLink script on your [[Stream Deck]], you can move it around.                                     |
+| 01:27:51   | You can drag it to different places on the [[Stream Deck]] and the [[Stream Deck]] app and not                   |
 | 01:27:57   | have to remap it, because with the built-in one, you have to map it to a particular button.              |
 | 01:28:01   | And I find that really useful to kind of get the layout the way I want.                                  |
 | 01:28:06   | But either way, anytime I want, those three buttons are at the bottom of literally every                 |
-| 01:28:10   | screen on my Stream Deck.                                                                                |
-| 01:28:13   | So I think the Stream Deck is the new drinking game for automators.                                      |
+| 01:28:10   | screen on my [[Stream Deck]].                                                                                |
+| 01:28:13   | So I think the [[Stream Deck]] is the new drinking game for automators.                                      |
 | 01:28:17   | Well, let's see how frequently it comes up, David.                                                       |
 | 01:28:21   | I'm thinking more of a dark chocolate game myself.                                                       |
 | 01:28:23   | An excuse for dark chocolate, right?                                                                     |

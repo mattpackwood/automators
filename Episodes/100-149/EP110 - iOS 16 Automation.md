@@ -159,7 +159,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 08:54      | playing with the new toys as soon as possible. Yeah, yeah, hopefully we will, we'll have                 |
 | 09:00      | to wait and see, but I'm crossing my fingers that it's going to all work out perfectly                   |
 | 09:05      | and, you know, we'll just continue to be amazing as we always are, David.                                |
-| 09:09      | Yeah, on today for the automakers max, we're going to go ahead and talk about iOS 17 because             |
+| 09:09      | Yeah, on today for the Automators max, we're going to go ahead and talk about iOS 17 because             |
 | 09:15      | why not, right? Rosa and I still have wishes and ideas, so we thought that'd be fun for                  |
 | 09:20      | the bonus episode today. But let's get it back to, you know, what people are getting                     |
 | 09:25      | to know with iOS 16. We've got various categories to go through. What about, you want to talk            |
@@ -389,7 +389,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 27:59      | and user focused features. So we got a bunch this year, you know, send later and some other stuff.       |
 | 28:05      | Do you think this is like a one and done, like they, they're going to leave mail us to stagnate          |
 | 28:10      | again? Or do you think this is going to be the beginning of like additional features like we             |
-| 28:15      | got with Apple notes and reminders? I'm going to be optimistic and say this is the beginning of a        |
+| 28:15      | got with Apple notes and [[Apple Reminders\|Reminders]]? I'm going to be optimistic and say this is the beginning of a        |
 | 28:21      | new chapter of automation focused mail. Me too. You know, I'm not 100% certain it is, but I feel         |
 | 28:27      | like they've, they've really been listening to user feedback and they've looked at the features          |
 | 28:31      | that other people are using other mail apps for, you know, they've not implemented snooze,               |
@@ -530,7 +530,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 41:05      | only a couple of actions. But imagine how much time that would save somebody. You know, they'd           |
 | 41:10      | have, you know, their standard, you know, project setup list, which they, which they always use          |
 | 41:14      | to set up a project. And that's just been pinned for them in a note in notes. And they've now            |
-| 41:19      | got a reminders list for this. They've got a tab group. So when they're looking at links,                |
+| 41:19      | got a [[Apple Reminders\|Reminders]] list for this. They've got a tab group. So when they're looking at links,                |
 | 41:22      | oh, right, I can send that over to the tab group for this project, perfect, done.                        |
 | 41:26      | That's so simple, but so useful to people. And I feel like, you know, this is why                        |
 | 41:33      | the Apple stuff implementing good shortcut sections is really so critical. Because a lot of people       |
@@ -570,21 +570,21 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 44:21      | underlying technology change, which is going to change everything. I mean, we're giving you the          |
 | 44:26      | new actions that are shipping, but I expect a lot of our favourite apps are going to be jumping on        |
 | 44:31      | this bandwagon, and then we're going to have this explosion of new actions. And that is exactly          |
-| 44:36      | what we're looking for. Reminders didn't get as much love. You've got a few things there.                |
-| 44:42      | You can... Yeah, I mean, you've got the ability to create a list in Reminders, which is a much           |
-| 44:48      | underrated action, I think. Just being able to create a new Reminders list, you know, I mentioned        |
+| 44:36      | what we're looking for. [[Apple Reminders\|Reminders]] didn't get as much love. You've got a few things there.                |
+| 44:42      | You can... Yeah, I mean, you've got the ability to create a list in [[Apple Reminders\|Reminders]], which is a much           |
+| 44:48      | underrated action, I think. Just being able to create a new [[Apple Reminders\|Reminders]] list, you know, I mentioned        |
 | 44:53      | before in the example project, new project shortcut, you would be able to, you know,                     |
-| 44:59      | actually create a Reminders list for your specific project now. And that is something that you just,     |
+| 44:59      | actually create a [[Apple Reminders\|Reminders]] list for your specific project now. And that is something that you just,     |
 | 45:03      | you couldn't do before. And I'm really glad that you can. And it's, of course, also got the same         |
 | 45:10      | focus mode integration, the other apps that have got... So anything that integrates with focus modes,    |
 | 45:18      | I believe actually does get a shortcut action for free pretty much because they get that,                |
 | 45:24      | that, you know, set this focus filter, which is really nice. But, you know, the fact that you            |
-| 45:30      | can just create a new list in Reminders now is great. And, you know, you can nest things as well         |
-| 45:37      | with Reminders. So, you know, back to that project setup that I mentioned, you know, you can create      |
+| 45:30      | can just create a new list in [[Apple Reminders\|Reminders]] now is great. And, you know, you can nest things as well         |
+| 45:37      | with [[Apple Reminders\|Reminders]]. So, you know, back to that project setup that I mentioned, you know, you can create      |
 | 45:43      | a list and then have a task in it called Setup and then create nested subtasks underneath that           |
-| 45:50      | setup task. So, you know, you can really go pretty far with Reminders now. And you can open a specific   |
+| 45:50      | setup task. So, you know, you can really go pretty far with [[Apple Reminders\|Reminders]] now. And you can open a specific   |
 | 45:57      | smart list and you can create your own smart list now and unpin the original smart lists.                |
-| 46:01      | So if you want to, you know, have your own views, which are important to you in Reminders,               |
+| 46:01      | So if you want to, you know, have your own views, which are important to you in [[Apple Reminders\|Reminders]],               |
 | 46:06      | you can take advantage of that. And I feel like actually being able to open a new smart list             |
 | 46:12      | or any smart list is actually very important for folks.                                                  |
 | 46:17      | Yeah. Do you have, and maybe you just answered my question with the subroutines, but do you have a       |
@@ -597,16 +597,16 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 46:58      | and you can actually have your list in there, which is really, really useful.                            |
 | 47:01      | That was not there earlier, I'll tell you, because I remember banging my head into that.                 |
 | 47:06      | Yeah, I think that's new. So yeah, that's very cool. And they also, like, it's not in shortcuts,         |
-| 47:12      | which is a shame. And I feel like the reminders team need a little bit of a tap on the shoulder          |
-| 47:15      | and going, hey, you remember that thing called shortcuts? Templates, templates exist in reminders        |
+| 47:12      | which is a shame. And I feel like the [[Apple Reminders\|Reminders]] team need a little bit of a tap on the shoulder          |
+| 47:15      | and going, hey, you remember that thing called shortcuts? Templates, templates exist in [[Apple Reminders\|Reminders]]        |
 | 47:21      | now. And so you can create a template from any list and save it as a template. And I don't know,         |
 | 47:30      | maybe I actually have to have a template to be able to use this inside of shortcuts,                     |
 | 47:39      | but it would be really nice if I could create update and use my templates from shortcuts                 |
-| 47:46      | within reminders. Maybe that's coming later. But I guess we'll see. But as it is, they've added          |
+| 47:46      | within [[Apple Reminders\|Reminders]]. Maybe that's coming later. But I guess we'll see. But as it is, they've added          |
 | 47:52      | some automation, even if they didn't put it in shortcuts.                                                |
 | 47:56      | But you can kind of brute force your way around that by coding your template into shortcuts.             |
 | 48:01      | So if you had a list of things every time you do the monthly report and rather than make it              |
-| 48:09      | template in reminders, you could just create a shortcut that says create list called monthly             |
+| 48:09      | template in [[Apple Reminders\|Reminders]], you could just create a shortcut that says create list called monthly             |
 | 48:14      | report. And then under that, using the trick we just talked about, add the four or five tasks to         |
 | 48:20      | that. And these run the shortcut and it creates it for you. So templates it via shortcuts as             |
 | 48:25      | opposed to the built-in template system. Yeah, the limitation there is your nested tasks. Like,          |
@@ -630,12 +630,12 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 50:07      | So I get reminded, but only if there's things on the list. And honestly, I'm ruined for everything       |
 | 50:13      | else because of that. And they have that review mechanism, and you can URL link anything. For            |
 | 50:19      | me, with the contextual computing thing I do, having links to not just tasks, but projects and           |
-| 50:27      | contexts, it really kind of makes my whole thing work. But I do feel like reminders is creeping          |
+| 50:27      | contexts, it really kind of makes my whole thing work. But I do feel like [[Apple Reminders\|Reminders]] is creeping          |
 | 50:35      | up and to the extent that things that are less intense than OmniFocus are getting gobbled up             |
-| 50:41      | by reminders at this point, because it just keeps getting more and more features every year. So          |
-| 50:45      | if you haven't looked at reminders in a while, and you don't want something like OmniFocus,              |
-| 50:51      | you should take a look at reminders. I think it's really good.                                           |
-| 50:54      | Yeah. Yeah. I'm very impressed with reminders. The team there have been working really hard              |
+| 50:41      | by [[Apple Reminders\|Reminders]] at this point, because it just keeps getting more and more features every year. So          |
+| 50:45      | if you haven't looked at [[Apple Reminders\|Reminders]] in a while, and you don't want something like OmniFocus,              |
+| 50:51      | you should take a look at [[Apple Reminders\|Reminders]]. I think it's really good.                                           |
+| 50:54      | Yeah. Yeah. I'm very impressed with [[Apple Reminders\|Reminders]]. The team there have been working really hard              |
 | 51:00      | into making it into a really good task management app that is still simple. So yeah,                     |
 | 51:06      | just get those templates and shortcuts for me. And I'll give it another whirl.                           |
 | 51:09      | What about [[Safari]]? What are you excited about with new actions in [[Safari]]?                                |
@@ -753,8 +753,8 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:01:27   | and get the location out of the picture of the car and mark the car as parked with the picture.          |
 | 01:01:32   | Yeah, that would be very clever. Now, how would you do that so it only prompts you the first             |
 | 01:01:36   | time? Because the second time I would tap it, I would want it to open the Disneyland app.                |
-| 01:01:40   | Yeah. So the way I would do that is I would really simply just use Data Jar and every time                |
-| 01:01:46   | you open the app, get the Data Jar variable, which will be like a Disney date or something,               |
+| 01:01:40   | Yeah. So the way I would do that is I would really simply just use [[Data Jar]] and every time                |
+| 01:01:46   | you open the app, get the [[Data Jar]] variable, which will be like a Disney date or something,               |
 | 01:01:55   | call it that. And if that, and then set that to today. Okay, but if it isn't, if the date isn't          |
 | 01:02:01   | today, then you know it wasn't today. You're so smart. And do it from there. So smart. You are a         |
 | 01:02:06   | clever programmer. So that's good. So you reset the token. You can also hook it. Yeah, yeah,             |
@@ -762,7 +762,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:02:17   | in one day. Like logically speaking, like it could happen. I could see that there would definitely       |
 | 01:02:23   | be an instance where it would happen, but it's unlikely. And if it happens, you know, and if             |
 | 01:02:27   | that happens, then you can work around it, right? But as it is, you know, it would be really simple      |
-| 01:02:32   | to just save a date in Data Jar. I like that idea. Save the date in Data Jar. And then just get the        |
+| 01:02:32   | to just save a date in [[Data Jar]]. I like that idea. Save the date in [[Data Jar]]. And then just get the        |
 | 01:02:41   | date. And if it's, if the date is today's date, then do that. Just make sure that you only do            |
 | 01:02:46   | the date, not the date and time, because otherwise the date and time is never going to be the current    |
 | 01:02:51   | date. But if you format it as just the date, then you should be good to go. So yeah, that that's         |
@@ -941,20 +941,20 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:18:39   | And also, I would like my iPad sound volume to be set back to the default state. And I                   |
 | 01:18:45   | have to kind of work around it at the moment. And I don't love doing what I'm doing there.               |
 | 01:18:50   | So yeah, it's not great. What I'm doing, David, is the Disney shortcut where I mentioned saving          |
-| 01:18:56   | the date in Data Jar. Yeah. Yeah, I saved the date and the hour in Data Jar. And then I trigger a        |
+| 01:18:56   | the date in [[Data Jar]]. Yeah. Yeah, I saved the date and the hour in [[Data Jar]]. And then I trigger a        |
 | 01:19:06   | different focus mode. And then I trigger, and then from the other focus mode, that's what triggers       |
 | 01:19:12   | everything on my iPads. And then I trigger the sleep mode again. So it's not great. And when it          |
-| 01:19:19   | triggers the sleep mode, it checks whether or not the current date and hour is in Data Jar. If I         |
+| 01:19:19   | triggers the sleep mode, it checks whether or not the current date and hour is in [[Data Jar]]. If I         |
 | 01:19:24   | trigger it like 11, 59, 58 seconds, then it might happen twice. But yeah, I can live with that.          |
-| 01:19:32   | I think at some point we have to do a show on Waze, Rose, Hacks, Data Jar,                               |
+| 01:19:32   | I think at some point we have to do a show on ways, Rose hacks [[Data Jar]],                               |
 | 01:19:37   | to add features because you have a whole collection of them.                                             |
-| 01:19:41   | I love Data Jar. Honestly, it's really great. I have periodic things that trigger on various             |
+| 01:19:41   | I love [[Data Jar]]. Honestly, it's really great. I have periodic things that trigger on various             |
 | 01:19:47   | devices, which will do things like create a daily note and agenda for my work stuff.                     |
 | 01:19:52   | But because the precise time trigger and so on isn't necessarily perfect, I actually just store          |
-| 01:20:00   | the date and the ID of the note in Data Jar so that I know that I've created a note for this date.       |
+| 01:20:00   | the date and the ID of the note in [[Data Jar]] so that I know that I've created a note for this date.       |
 | 01:20:08   | And then I can open today's note with just one click or one tap from anywhere and go straight            |
-| 01:20:13   | to it. And I love the fact that I can do that and I wouldn't be able to do it without Data Jar.          |
-| 01:20:17   | So yeah, we should do another show on Data Jar. Maybe we should get [[Simon Støvring\|Simon]] back again and ask him         |
+| 01:20:13   | to it. And I love the fact that I can do that and I wouldn't be able to do it without [[Data Jar]].          |
+| 01:20:17   | So yeah, we should do another show on [[Data Jar]]. Maybe we should get [[Simon Støvring\|Simon]] back again and ask him         |
 | 01:20:21   | what he's excited about and shortcuts and all the things he's been up to.                                |
 | 01:20:25   | That's a good idea. One last thing. I really think the story here, we talked about it in                 |
 | 01:20:30   | the first segment. But the story here is that we've got more chickens and eggs. And it's been fun        |

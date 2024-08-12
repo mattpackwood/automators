@@ -66,9 +66,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 00:11      | how are you today?                                                                                       |
 | 00:12      | I am great, Rose, and this is an episode I've been looking forward to because we're automating           |
 | 00:17      | Rosemary Orchard today.                                                                                  |
-| 00:19      | Yeah. Yeah. Just when you thought that I couldn't be any more automated, I got a Stream Deck             |
-| 00:23      | pedal and the entire thing just went out the window.                                                     |
-| 00:26      | Yeah. We both got a Stream Deck pedals. We're going to talk about that later in the episode,             |
+| 00:19      | Yeah. Yeah. Just when you thought that I couldn't be any more automated, I got a [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]]             |
+| 00:23      | and the entire thing just went out the window.                                                     |
+| 00:26      | Yeah. We both got [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedals]]. We're going to talk about that later in the episode,             |
 | 00:29      | but the key today is we did an episode a few months ago where I walked through the main                  |
 | 00:34      | automation stuff I'm doing, and I'm like, do you think we could do you, Rose? And you're                 |
 | 00:39      | like, yeah. And I'm like, do you think we could do it within five hours? And you're                      |
@@ -133,7 +133,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 05:10      | writing a script for every type of file in there. You just kind of do it as you open                     |
 | 05:15      | the folder and say, wow, what are you doing here? And how long have you been here? And                   |
 | 05:21      | what can I do to make sure I don't have to see you ever again? And then you just make                    |
-| 05:24      | a [[Hazel]] or a Dev and think or whatever your system is, you make a rule to deal with that                 |
+| 05:24      | a [[Hazel]] or a DEVONthink or whatever your system is, you make a rule to deal with that                 |
 | 05:30      | category. And it's fun because then after a while it really becomes like, you know,                      |
 | 05:36      | when you start out the process, there may be a hundred or a thousand files in that folder.               |
 | 05:40      | But then after you do it a while, you're like, oh, there's three files in here. It's like                |
@@ -157,26 +157,26 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 07:01      | to manage them. But I do have specific automated actions folders inside of iCloud and [[Dropbox]]            |
 | 07:10      | because this means that other things can put files and things there to be managed. So for                |
 | 07:16      | example, Zapier will save certain things into subfolders of the automated actions folder                  |
-| 07:21      | in [[Dropbox]] for me and make previously known as Integromat does that as well. And then                    |
+| 07:21      | in [[Dropbox]] for me and [[Make]] previously known as [[Make\|Integromat]] does that as well. And then                    |
 | 07:26      | I have shortcuts, of course, and that saves things. Historically, always save things inside              |
 | 07:31      | the shortcuts folder. And so that was where my automated actions folder was in iCloud.                   |
 | 07:36      | And I've been able, fortunately, with iOS 15 to move that up a level to the top in iCloud,               |
 | 07:42      | which means that I can have magic happen in those places. And I try to keep those folders                |
 | 07:50      | fairly single purpose, if that makes sense. So I have inside of automated actions, a folder              |
-| 07:55      | called add to dev and think, which, funnily enough, adds everything that gets put in there               |
-| 08:00      | into dev and think, and then that's it. Just because I don't, I want it to be very, very                 |
+| 07:55      | called add to DEVONthink, which, funnily enough, adds everything that gets put in there               |
+| 08:00      | into DEVONthink, and then that's it. Just because I don't, I want it to be very, very                 |
 | 08:06      | obvious when I'm trying to create an automation or doing something on say a phone, which is              |
 | 08:10      | not so easy to see document management on, or massive file paths, that that's where that                 |
 | 08:17      | thing is going. Because the last thing you want is to say, hey, put all of the files                     |
 | 08:23      | that I actually wanted to just keep for like 24 hours, just in case, and then get rid of                 |
-| 08:27      | into dev and think, because when I put something in dev and think it's staying there, not because        |
+| 08:27      | into DEVONthink, because when I put something in DEVONthink it's staying there, not because        |
 | 08:31      | it's difficult to delete things. But that's just because I like, if something's going                    |
-| 08:35      | into dev and think for me, that means that it is something that is a relatively permanent                |
+| 08:35      | into DEVONthink for me, that means that it is something that is a relatively permanent                |
 | 08:39      | archive. You know, I say relatively, because there's always exceptions to the rule. I'm                  |
 | 08:44      | sure when my washing machine breaks, I will delete my washing machine manual. But also,                  |
 | 08:49      | you know, that that's one of my solutions. You know, if something is a archive document,                 |
-| 08:53      | you know, I need to keep this, I need to keep this for a long time. It's going in dev and                |
-| 08:57      | think. But will you, you know, sometimes you'll                                                          |
+| 08:53      | you know, I need to keep this, I need to keep this for a long time. It's going in DEVONthink.                |
+| 08:57      | But will you, you know, sometimes you'll                                                          |
 | 08:59      | look in there and you will find a washing machine manual from 20 years ago. Like, maybe                  |
 | 09:03      | you're not old enough yet, but you'll be surprised how much digital detritus you get.                    |
 | 09:07      | I mean, I got my first washing machine manual when I bought, where I currently live two                  |
@@ -260,16 +260,16 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 15:35      | Because yes, with something like that, you do have to trust it 100%. And it's very useful                |
 | 15:42      | to be able to do that. But also to have a system that, you know, until I trust it 100%, I'm              |
 | 15:47      | able to scope. Yeah, I'm going to stop because I ran into an error.                                      |
-| 15:51      | Yeah, makes sense. Now, where does Devon think fit in this? Because you've mentioned Devon               |
+| 15:51      | Yeah, makes sense. Now, where does [[DEVONthink]] fit in this? Because you've mentioned Devon               |
 | 15:55      | think and [[Hazel]].                                                                                         |
-| 15:57      | Yes. So I do use both. And I should know Devon think is sponsoring the show. But even if                 |
+| 15:57      | Yes. So I do use both. And I should know [[DEVONthink]] is sponsoring the show. But even if                 |
 | 16:02      | they weren't sponsoring the show, I would still have to talk about it because I really                   |
-| 16:06      | love and use the application on a regular basis. And a lot of what I do with Devon think                 |
+| 16:06      | love and use the application on a regular basis. And a lot of what I do with [[DEVONthink]]                 |
 | 16:10      | is essentially just like organise these documents, you know, I've got a business, so I've got            |
 | 16:15      | all of the invoices and receipts and everything that I need to keep. And so all of those end             |
-| 16:20      | up in Devon think. And what I am doing in Devon think for those is I'm using the smart                   |
+| 16:20      | up in [[DEVONthink]]. And what I am doing in [[DEVONthink]] for those is I'm using the smart                   |
 | 16:25      | rules to organise and rename things and put information into custom metadata fields. I                   |
-| 16:32      | can't believe I lived so long with Devon think without really using custom metadata fields,              |
+| 16:32      | can't believe I lived so long with [[DEVONthink]] without really using custom metadata fields,              |
 | 16:37      | but they've allowed me to create, you know, like this was the cost of this and this was                  |
 | 16:41      | the VAT paid on it, fields, which means that then essentially I pretty much have an automated            |
 | 16:49      | texture turn, which is really great combined with some smart dates and so on. And that is                |
@@ -282,12 +282,12 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 17:27      | all have to do texture turns over there are aware can be a bit of a pain at times keeping                |
 | 17:34      | track of all those receipts and everything. It makes it incredibly easy. And my favourite                 |
 | 17:38      | thing that I've been working on recently is getting emails automatically out of mail                     |
-| 17:43      | into Devon think and converting them into a PDF. So all of my Apple receipts get pushed                  |
-| 17:49      | into Devon think and converted into PDFs with all this data on them, because that's                      |
+| 17:43      | into [[DEVONthink]] and converting them into a PDF. So all of my Apple receipts get pushed                  |
+| 17:49      | into [[DEVONthink]] and converted into PDFs with all this data on them, because that's                      |
 | 17:54      | one of the things that I need. Okay, well, it makes sense. So, you know, you've got some                 |
-| 17:59      | stuff in [[Hazel]], you get some stuff in Devon thing. Interestingly, you know, Devon think                  |
+| 17:59      | stuff in [[Hazel]], you get some stuff in Devon thing. Interestingly, you know, [[DEVONthink]]                  |
 | 18:03      | does have a really powerful set of [[Hazel]] like rules inside of it. So you could do it all                 |
-| 18:09      | with either. Yeah, yeah, you could. I just tend to use Devon think for these are documents               |
+| 18:09      | with either. Yeah, yeah, you could. I just tend to use [[DEVONthink]] for these are documents               |
 | 18:14      | that I want to be able to access anywhere. potentially, you know, I probably won't,                      |
 | 18:20      | but I want to be able to. And also, I really need to keep these documents, you know, they're             |
 | 18:27      | documents that they're not something that I will work on, necessarily. They're more                      |
@@ -297,30 +297,30 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 18:48      | you know, manuals and receipts and things like that. But it is really handy to use that                  |
 | 18:54      | to just organise that information because then, right, I'm looking for the thing that tells              |
 | 18:59      | me how to reset my door lock because I have a smart door lock. Okay, well, that it's going               |
-| 19:04      | to be in Devon think, yeah, and I'll just search for lock or door or Yale. And it will                   |
+| 19:04      | to be in [[DEVONthink]], yeah, and I'll just search for lock or door or Yale. And it will                   |
 | 19:11      | appear because not only have I given it, you know, a good file name, which is I've got                   |
 | 19:16      | two different ones. So they both start with Yale door lock, they do have the model in                    |
 | 19:20      | there and then I've added a bunch of information in, in the metadata because that's something            |
 | 19:26      | that you can do where you, you know, add extra information. There's aliases as well that                 |
 | 19:33      | you can use. I tend just to end up writing in the, I think it's a custom metadata field                  |
 | 19:40      | that I created called notes. But it's a very handy place to just add extra information and               |
-| 19:47      | you can do the same thing in Finder. But, you know, it's, for me, somehow Devon think                    |
+| 19:47      | you can do the same thing in Finder. But, you know, it's, for me, somehow [[DEVONthink]]                    |
 | 19:54      | works really well for my brain. And also the fact that it doesn't matter what device I'm                 |
-| 19:59      | on, I can just open my Devon think database and then find everything is in here, except                  |
-| 20:05      | at work, of course, I do have a separate Devon think database for work related things.                   |
-| 20:09      | Yeah, I mean, custom metadata is so much easier with Devon think than Finder. It's like not              |
+| 19:59      | on, I can just open my [[DEVONthink]] database and then find everything is in here, except                  |
+| 20:05      | at work, of course, I do have a separate [[DEVONthink]] database for work related things.                   |
+| 20:09      | Yeah, I mean, custom metadata is so much easier with [[DEVONthink]] than Finder. It's like not              |
 | 20:13      | even close. Like I made a custom field for [[Obsidian]] link. So if I have a related note                    |
-| 20:20      | on any file in Devon think, I've got a custom metadata for that link, you know, nice. One                |
-| 20:26      | thing that you do with Devon think is you create links to documents, which I would imagine               |
+| 20:20      | on any file in [[DEVONthink]], I've got a custom metadata for that link, you know, nice. One                |
+| 20:26      | thing that you do with [[DEVONthink]] is you create links to documents, which I would imagine               |
 | 20:31      | is it's helpful for your tax planning. That is more difficult with Finder based files.                   |
 | 20:37      | And you do have some stuff you can find or do you have a system for that? Like how do                    |
 | 20:41      | you how do you link to a document and find her? I guess is the question. I tend not to,                  |
 | 20:45      | to be honest. You know, if I'm going to link to a file, it's either going to be something                |
-| 20:49      | that is in Devon think or [[Obsidian]]. And I mean, I could put all of my markdown files                     |
+| 20:49      | that is in [[DEVONthink]] or [[Obsidian]]. And I mean, I could put all of my markdown files                     |
 | 20:57      | and everything into [[Obsidian]]. I actually have it index that folder so that if I am searching             |
 | 21:02      | for something and I've, it turns out that what it is is I've stored it in a link in                      |
 | 21:07      | as part of an [[Obsidian]] document, I'll still find it. But pretty much if I'm going to link                |
-| 21:12      | to something, it's going to be in Devon think or [[Obsidian]]. And the files that live on my                 |
+| 21:12      | to something, it's going to be in [[DEVONthink]] or [[Obsidian]]. And the files that live on my                 |
 | 21:18      | device tend not to be things that I, I link to in that sort of way. The closest that I                   |
 | 21:24      | might come is, you know, there's, there's a path to a folder here because that folder                    |
 | 21:29      | contains a project that I'm working on, you know, on development wise. So, you know, I'm                 |
@@ -332,10 +332,10 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 21:51      | markdown documents so that I've got an image there. I tend not to put other kinds of files               |
 | 21:57      | in there. There's no particular reason, but if I'm going to reference a file, then it's                  |
 | 22:04      | probably going to be something that's on the internet or a document that I'm going to be                 |
-| 22:09      | putting in Devon think so that I can have a link to that.                                                |
-| 22:14      | Yeah. I'm, I'm the same way. I feel like Devon think is way better at documents than                     |
+| 22:09      | putting in [[DEVONthink]] so that I can have a link to that.                                                |
+| 22:14      | Yeah. I'm, I'm the same way. I feel like [[DEVONthink]] is way better at documents than                     |
 | 22:20      | [[Obsidian]] is. So I don't put any real documents in [[Obsidian]]. Okay. I know this whole thing                |
-| 22:26      | sounded like a Devon think ad, but we're both big Devon think fans. So sorry. It's just                  |
+| 22:26      | sounded like a [[DEVONthink]] ad, but we're both big [[DEVONthink]] fans. So sorry. It's just                  |
 | 22:29      | weird that they're also sponsoring today, but there you go.                                              |
 | 22:32      | It is weird, but it's just one of those things. Yeah. There is one tiny thing. Well, maybe               |
 | 22:38      | not tiny thing that I will mention that's sort of related to document management, which                  |
@@ -445,14 +445,14 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 31:31      | switches, tell application shortcuts to run shortcut, quote, the name of your shortcut.                  |
 | 31:36      | And you do need quotation marks around the name of your shortcut if it's got a space in                  |
 | 31:40      | it. But it's, it's very easy to do. And there's a number of ways that I can do this. I usually           |
-| 31:46      | trigger bunch primarily from my Stream Deck, because I have the icons there. And I had                   |
+| 31:46      | trigger bunch primarily from my [[Stream Deck]], because I have the icons there. And I had                   |
 | 31:54      | an idea. I only started this the other day, unfortunately, because TJ Lewin created the                  |
-| 32:00      | great calendar icon, which you can have in Stream Deck. And that's controlled through                    |
+| 32:00      | great calendar icon, which you can have in [[Stream Deck]]. And that's controlled through                    |
 | 32:07      | [[Keyboard Maestro]] and you change the background colour of the [[Keyboard Maestro]], the stream                 |
 | 32:13      | deck button, and you change what text is on it all through [[Keyboard Maestro]] and some                     |
 | 32:17      | AppleScript and bash scripts and everything. It's, it's genuinely amazing. And I love it.               |
 | 32:22      | I realised what I can probably do a good chunk of the time is read some of that same data                |
-| 32:30      | and actually use it to display the right bunch. So then when I press one Stream Deck button,             |
+| 32:30      | and actually use it to display the right bunch. So then when I press one [[Stream Deck]] button,             |
 | 32:36      | it will almost certainly run exactly the right bunch for exactly what I'm doing. And then                |
 | 32:41      | I'll have another one next to it for just like, you know, give me all the bunches. And                   |
 | 32:44      | I can choose whichever one manually. But I realise, you know, when I'm, when it's Wednesday,             |
@@ -463,13 +463,13 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 33:05      | what I am playing with at the moment. I don't think that's going to be ready by the time                 |
 | 33:09      | this show ships, but hopefully I will have it in a vaguely shareable state so I can talk                 |
 | 33:15      | about it in the forums.                                                                                  |
-| 33:16      | Yeah, that's a lot. You know, I'm a big fan. Brett and I wrote books together. I just                    |
+| 33:16      | Yeah, that's a lot. You know, I'm a big fan. [[Brett Terpstra\|Brett]] and I wrote books together. I just                    |
 | 33:23      | haven't really got fully invested in bunch it. And I think the reason is because I set                   |
 | 33:29      | up all of these scripts in [[Keyboard Maestro]] to do setups for me. And like the kind of                    |
 | 33:34      | stuff I want to do, usually with a setup is open apps and then arrange them using moon,                  |
 | 33:40      | which is the same thing you're doing with bunch. And occasionally like I'll start a                      |
 | 33:45      | timer or something, but all that stuff is scriptable inside [[Keyboard Maestro]]. I'm trying                 |
-| 33:51      | to make the case for me for bunch. I mean, what should I, what am I missing here?                        |
+| 33:51      | to make the case for me for [[Bunch]]. I mean, what should I, what am I missing here?                        |
 | 33:55      | Well, one of the great things that you can do with bunch, which I think a lot of people                  |
 | 33:59      | probably will like is if you click on the bunch option in the menu bar, there is an                      |
 | 34:03      | option right there, new bunch with open apps, which means that you can just open up the                  |
@@ -535,20 +535,20 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 39:18      | of home kit scenes set up for like Iowa's today, where I use different colour lights                      |
 | 39:24      | in the background and things like that. And I've been getting pretty nerdy with the home                 |
 | 39:28      | automation stuff, David. I think there's going to be quite a bit to talk about there.                    |
-| 39:33      | This episode of automators is brought to you by our friends at Texas Fender. Keep everything             |
-| 39:37      | consistent and accurate with Texas Fender. In our fast-paced world, things change constantly             |
-| 39:42      | and errors in messaging can have significant consequences. Texas Fender lets you make approved           |
+| 39:33      | This episode of automators is brought to you by our friends at TextExpander. Keep everything             |
+| 39:37      | consistent and accurate with . In our fast-paced world, things change constantly             |
+| 39:42      | and errors in messaging can have significant consequences. TextExpander lets you make approved           |
 | 39:47      | messaging available to every team member instantly with just a few keystrokes. So your team stays        |
-| 39:52      | consistent, current and accurate. With Texas Fender, you can get your message right every                |
+| 39:52      | consistent, current and accurate. With TextExpander, you can get your message right every                |
 | 39:56      | time, expand content that corrects your spelling and keep your language consistent with just             |
 | 40:00      | a few keystrokes. So your team members always know the right message for the right person                |
-| 40:05      | at the right time without relying on memory or copy and paste. I love Texas Fender and                   |
+| 40:05      | at the right time without relying on memory or copy and paste. I love TextExpander and                   |
 | 40:10      | I use it for all sorts of things. Recently, I've been experimenting with app-specific                    |
 | 40:15      | snippets again. And guess what? They're even better when you share them because that means               |
 | 40:19      | that everybody who needs to write their text is certain way so it appears right in this                  |
 | 40:23      | application. Well, they can get it just like that every time. As a listener of automators,               |
 | 40:29      | you can get 20% off your first year. Visit TextExpander.com/podcast to learn more                   |
-| 40:33      | about Texas Fender. That's TextExpander.com/podcast. I'll thanks Texas Fender for                   |
+| 40:33      | about TextExpander. That's TextExpander.com/podcast. I'll thanks TextExpander for                   |
 | 40:38      | their support of this show and Relay FM. Okay, so Rose, every time I talk to you, I                     |
 | 40:44      | feel like your home automation has started over. It's like a very much fast moving train.                |
 | 40:51      | Where are you right now with respect to home automation?                                                 |
@@ -796,29 +796,29 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:01:31   | and off the light in there is either on or it's off. But if you go in there and then you close           |
 | 01:01:37   | the door, it will leave the light on until you've opened the door and left. Because the last thing       |
 | 01:01:42   | you want is the light turning off in the middle of a shower.                                             |
-| 01:01:46   | This episode of Automated is brought to you by Devon Think, the flagship product from Devon              |
-| 01:01:49   | Technologies. Devon Think is the most professional document and information management application       |
+| 01:01:46   | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from Devon              |
+| 01:01:49   | Technologies. [[DEVONthink]] is the most professional document and information management application       |
 | 01:01:54   | for the Mac. It's the one place for storing all your documents, snippets, all bookmarks,                 |
 | 01:01:58   | and working with them. The integrated AI assists you with filing and searching,                          |
 | 01:02:01   | while the extensive search language with advanced billion-search operators makes sure                    |
-| 01:02:05   | you're never looking for something and not finding it. Devon Think features a flexible                   |
+| 01:02:05   | you're never looking for something and not finding it. [[DEVONthink]] features a flexible                   |
 | 01:02:09   | sync system that supports many cloud services or lets you synchronise over the local network too         |
 | 01:02:14   | with everything securely encrypted. It secures you the choice for however syncing works best for         |
 | 01:02:18   | you. It has smart rules and flexible reminders that let you automate all parts of your workflow          |
-| 01:02:23   | and delegate boring repeating tasks. Let Devon Think automatically organise your data with rules         |
-| 01:02:28   | you define. Devon Think's [[AppleScript]] Dictionary is one of the largest on the Mac. There's no           |
-| 01:02:32   | part of Devon Think that can't be automated. Except when Devon Think's functionality with                |
+| 01:02:23   | and delegate boring repeating tasks. Let [[DEVONthink]] automatically organise your data with rules         |
+| 01:02:28   | you define. [[DEVONthink]]'s [[AppleScript]] Dictionary is one of the largest on the Mac. There's no           |
+| 01:02:32   | part of [[DEVONthink]] that can't be automated. Except when [[DEVONthink]]'s functionality with                |
 | 01:02:36   | your own commands by adding them into a scripts menu. Even templates can have scripts inside             |
 | 01:02:40   | and you can set up new documents from data with placeholders or inserted by your own [[AppleScript]]        |
 | 01:02:45   | Code. And of course there's so much more from an iOS companion app to email archiving, scanning,         |
 | 01:02:50   | or even an embedded web server for sharing your data securely with your team. I did mention earlier      |
-| 01:02:55   | on the show that I personally use and love Devon Think and I would say that even if they weren't         |
+| 01:02:55   | on the show that I personally use and love [[DEVONthink]] and I would say that even if they weren't         |
 | 01:02:59   | sponsoring today's episode, but one of the features I've been using recently is the Convert              |
-| 01:03:03   | File feature. Because Devon Think automatically imports email and with Convert File you can              |
+| 01:03:03   | File feature. Because [[DEVONthink]] automatically imports email and with Convert File you can              |
 | 01:03:08   | actually convert it to a PDF. Yup, so my emails get imported and converted into PDFs automatically.      |
 | 01:03:14   | Perfect for accounting. So if you think that you need somewhere where you can organise your files        |
-| 01:03:19   | and easily find them, and maybe even convert some documents, check out Devon Think. You can get 10%      |
-| 01:03:24   | of Devon Think 3 or upgrade to it right now. Just go to devontechnologies.com/automators.          |
+| 01:03:19   | and easily find them, and maybe even convert some documents, check out [[DEVONthink]]. You can get 10%      |
+| 01:03:24   | of [[DEVONthink]] 3 or upgrade to it right now. Just go to devontechnologies.com/automators.          |
 | 01:03:29   | That's devontechnologies.com/automators for 10% off. Our thanks to Devon Technologies for          |
 | 01:03:34   | their support of this show and all of Relay FM. So Rose, you've got a lot of great automations,          |
 | 01:03:40   | but what about dealing with applications that don't want to automate, you know,                          |
@@ -906,8 +906,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:11:46   | automatable on macOS. I really don't know what's going on there. Of course, I can do it on iOS,          |
 | 01:11:51   | but having all of the options everywhere is something that I am hoping to have when it                   |
 | 01:11:57   | comes to a lot of these automation possibilities. No, I agree. And of course, that's the trick to        |
-| 01:12:02   | get it into your Stream Deck as well. Because once you have a URL, then only can you trigger it          |
-| 01:12:08   | from [[Keyboard Maestro]], you can insert the URL into a Stream Deck button, which is kind of fun.           |
+| 01:12:02   | get it into your [[Stream Deck]] as well. Because once you have a URL, then only can you trigger it          |
+| 01:12:08   | from [[Keyboard Maestro]], you can insert the URL into a [[Stream Deck]] button, which is kind of fun.           |
 | 01:12:14   | Exactly, yes. And it is really useful for that. I've been enjoying it. There's                           |
 | 01:12:21   | a couple of [[Safari]] extensions. You mentioned Home Safe before. It's not really an automation option,     |
 | 01:12:27   | but it does allow me to get the image from the Key Image from a web page, which can be really            |
@@ -1006,7 +1006,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:21:38   | AppleScript out than to just leave it in. So that's probably what they're going to do.                  |
 | 01:21:43   | But I hope you're right on JavaScript. I would like to see a unified scripting language across           |
 | 01:21:48   | all Apple platforms. And I feel like they must have a plan for it. I would hope. And it seems            |
-| 01:21:55   | like they hinted at it last year in WWDC when they talked about how the shortcuts on the Mac             |
+| 01:21:55   | like they hinted at it last year in [[WWDC]] when they talked about how the shortcuts on the Mac             |
 | 01:22:02   | is just the beginning. And my fingers are crossed and I'm really hoping that they have got a good        |
 | 01:22:09   | answer for that. Yes. So do I. And I do hope that maybe we end up with all the options. Maybe they       |
 | 01:22:18   | go in and they fix JavaScript and add [[Swift]] at the same time. Because that would be pretty amazing.      |
@@ -1051,7 +1051,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:25:57   | They're not actually living in the base. We do let them escape occasionally.                             |
 | 01:26:01   | I hear the Twitch studios are nice from the last time we let Micah out. But all of these give me         |
 | 01:26:07   | a lot of data which I can then access in a lot of other places. So I've been using a lot of Zap here     |
-| 01:26:13   | and some of this is migrated to Make which very recently rebranded from Integromat.                      |
+| 01:26:13   | and some of this is migrated to [[Make]] which very recently rebranded from [[Make\|Integromat]].                      |
 | 01:26:21   | And those do things like watch certain views and then go great. It's time to create a new show           |
 | 01:26:28   | note for automators. I'm going to take this template and I'm going to take this data from air table.     |
 | 01:26:32   | I'm going to replace these placeholders in the template with this data and bam,                          |
@@ -1062,7 +1062,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:27:02   | in air table and then it just bam magically appears in the Google Doc in a nice formatted view           |
 | 01:27:08   | that we can easily share with our guests. Yeah, it's impressive. And organising Google Doc creation      |
 | 01:27:16   | it's not really that much work if you want to try and do it. And there's a lot of ways you can do it.    |
-| 01:27:21   | Like you mentioned that make slash what was it called before Integromat. Yeah,                           |
+| 01:27:21   | Like you mentioned that [[Make]] slash what was it called before [[Make\|Integromat]]. Yeah,                           |
 | 01:27:29   | they've got a nice system in there where you can automate the formation of a Google Doc                  |
 | 01:27:34   | with a template and that's what you're using for this one, right? Yes, yes, I am. So there's a           |
 | 01:27:41   | template document with placeholders in and placeholders are something that you can set up                |
@@ -1076,18 +1076,18 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:28:27   | which was okay, but it didn't result in very pretty documents.                                           |
 | 01:28:30   | Yeah, I've been playing with the same thing for Mac power users and auto-generating the template and     |
 | 01:28:34   | this is not rocket science if you want to do it. I guess that kind of gives me a bigger question is      |
-| 01:28:40   | what else are you doing with like make slash integral mad and Zapier and some of the other              |
+| 01:28:40   | what else are you doing with like [[Make\|Make/Integromat]] and [[Zapier]] and some of the other              |
 | 01:28:46   | web tools? What's your involvement with those at this point?                                             |
 | 01:28:51   | I mean, there's a whole bunch of things happening that I just don't even think about anymore,            |
 | 01:28:57   | because, well, magic just happens and projects appear in OmniFocus or documents appear in                |
 | 01:29:05   | Finder or DEVONthink or wherever they need to be and I'm not thinking about it, which is really          |
-| 01:29:10   | the magic. So I'm just opening make right now to just double check because I know I've got a lot         |
+| 01:29:10   | the magic. So I'm just opening [[Make]] right now to just double check because I know I've got a lot         |
 | 01:29:15   | of different things in here, which help me keep track of things. One I've recently done is Amazon        |
 | 01:29:23   | Returns. If I return something to Amazon, this doesn't happen very often. I try to be smart              |
 | 01:29:28   | when I buy something, so I'm not constantly doing returns. It's not great for the environment or         |
 | 01:29:33   | anything else, but whenever I do an Amazon return, it grabs that email, that email gets forwarded        |
-| 01:29:40   | to it. I use FastMail's rules to forward that to a mail hook at make and it grabs a bunch of              |
-| 01:29:46   | information out of it and adds that as a task or actually a project in OmniFocus. So I end up with       |
+| 01:29:40   | to it. I use FastMail's rules to forward that to a [[Mailhook\|mailhook]] at [[Make]] and it grabs a bunch of              |
+| 01:29:46   | information out of it and adds that as a task or actually a project in [[OmniFocus]]. So I end up with       |
 | 01:29:55   | an auto-completing project which will complete with the last item and then inside of it,                 |
 | 01:30:02   | it's got print label package item for return and then drop off parcel for return. Only it doesn't        |
 | 01:30:08   | just say parcel, it'll actually tell me what the parcel is at all those steps because that               |
@@ -1096,7 +1096,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:30:26   | didn't happen before. I thought I had another week to return something and discovered very               |
 | 01:30:31   | shortly before the post I was closed that I did not. So fortunately, I was able to make it down          |
 | 01:30:35   | there. But what I'm doing with that is I'm just matching text in the email and then I'm calling          |
-| 01:30:41   | PushCut and PushCut is adding the OmniFocus project for me with the information that I need for that.    |
+| 01:30:41   | PushCut and PushCut is adding the [[OmniFocus]] project for me with the information that I need for that.    |
 | 01:30:50   | And there's lots of different things that are going on. Whenever I get, there's a tweet about            |
 | 01:30:58   | iOS today, I get sent that information in such a way that I can tap on it to retweet and so on           |
 | 01:31:06   | and so forth, which I really like. Yeah, I'm trying to use more cloud-based stuff, like                  |
@@ -1123,9 +1123,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:33:11   | more frequently. So it's less of a chore or pay somebody else to do my laundry, which they're            |
 | 01:33:15   | both valid options. I just need to figure out how much more frequently do I need to do laundry to        |
 | 01:33:21   | make this less of a problem. All right. Before we go, we've gone along today. But before we go,          |
-| 01:33:26   | let's just take a few minutes to check in on initial impressions of the Stream Deck pedal.               |
+| 01:33:26   | let's just take a few minutes to check in on initial impressions of the [[[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]].               |
 | 01:33:30   | Like I've just got mine. I just got it installed and set up. I'll tell you a couple of things I          |
-| 01:33:37   | like about it. I like that it's cabled, which sounds weird, but I had been trying a Bluetooth            |
+| 01:33:37   | like about it. I like that it's cabled, which sounds weird, but I had been trying a [[Bluetooth]]            |
 | 01:33:43   | pedal system and it was constantly turning off or not paired and it just wouldn't stay there. So         |
 | 01:33:51   | if you tap on the pedal and nothing happens, then you very quickly lose faith in it. So                  |
 | 01:33:57   | as much as it is a pain to run a cable up the desk, it's actually nice because it's just always          |
@@ -1133,50 +1133,50 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:34:09   | other mistake with the one I had before was they were all the exact same shape. So I don't know.         |
 | 01:34:13   | Oh, right. Yeah. I was referring to it in the MacSparky Labs video as pedal braille,                    |
 | 01:34:17   | but I don't know what the word is, but like with your foot, you can tell where you are without           |
-| 01:34:21   | looking at it. And that's a nice feature that they've got on the Stream Deck pedal. They also,           |
+| 01:34:21   | looking at it. And that's a nice feature that they've got on the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]]. They also,           |
 | 01:34:27   | you know, because it's Elgato, they did a lot of nice little things like they included additional       |
 | 01:34:31   | springs. If you want to make them tighter or looser to press, they even put some rubber                  |
 | 01:34:36   | things in there where you can literally like turn the middle pedal off. You can put them in there        |
 | 01:34:41   | and make it so you can't press it. So if you've resting your foot on it, but I'm not giving up a         |
 | 01:34:46   | third button, right? Oh, no, no, no, no, need all the buttons, definitely all the buttons.               |
-| 01:34:52   | And then the other thing I like about it is that it's a Stream Deck, right? So all the stuff I'm         |
-| 01:34:56   | doing is Stream Deck, keyboard, maestro scripts, whatever I can now stick on my feet. So my initial      |
+| 01:34:52   | And then the other thing I like about it is that it's a [[Stream Deck]], right? So all the stuff I'm         |
+| 01:34:56   | doing is [[Stream Deck]], keyboard, maestro scripts, whatever I can now stick on my feet. So my initial      |
 | 01:35:01   | impression is this is going to be useful for me. I haven't exactly figured out all the ways I'm          |
 | 01:35:06   | going to use it, although I have got a mute button now connected to the centre pedal when I podcast,     |
 | 01:35:12   | which is nice. Yes. Yeah, I am really, really liking it, especially because I record iOS today           |
 | 01:35:19   | live every week. And we display our devices on screen. It's a podcast with video. So we're               |
 | 01:35:26   | displaying our devices as we talk. And so switching between just me on camera versus me and an iPhone    |
-| 01:35:33   | or an iPad with me overlaid on top of it, that's something I was doing before with the Stream Deck.      |
+| 01:35:33   | or an iPad with me overlaid on top of it, that's something I was doing before with the [[Stream Deck]].      |
 | 01:35:40   | But I found, and I need to figure out, I'm going to have to pick your brain David,                       |
-| 01:35:44   | the correct way to do this, because I find different profiles on the Stream Deck tend to                 |
+| 01:35:44   | the correct way to do this, because I find different profiles on the [[Stream Deck]] tend to                 |
 | 01:35:50   | point of a better word, bounce back. So it'll be in whatever profile I've selected. So I'll set it       |
 | 01:35:57   | to say the automators profile. And then after a little while, I'll glance down on my screen deck         |
 | 01:36:02   | and those buttons that I thought were the buttons in the profile. Yeah, they're actually back to my      |
 | 01:36:08   | default buttons in my default profile. And I'm not quite sure why that is. I guess it's because          |
-| 01:36:14   | the Stream Deck doesn't anticipate that you're going to spend an hour and a half                         |
+| 01:36:14   | the [[Stream Deck]] doesn't anticipate that you're going to spend an hour and a half                         |
 | 01:36:18   | still jumping through different applications, but on the same task. And so it bounces you back to        |
 | 01:36:23   | your default. And this is the same sort of thing. I've got it a little bit with the pedal as well.       |
 | 01:36:28   | So what I'm doing at the moment, which I need to figure out a much better way off is I'm actually        |
-| 01:36:33   | going to open up the Stream Deck preferences, and I changed my default profile for the pedal             |
+| 01:36:33   | going to open up the [[Stream Deck]] preferences, and I changed my default profile for the pedal             |
 | 01:36:39   | for each podcast that I do, so that I've got different buttons available to me. And then when            |
 | 01:36:44   | I'm not podcasting, I set it back to my actual default default. Because otherwise, I press the           |
 | 01:36:51   | foot pedal, and I had this before where I was pressing buttons. Fortunately, they are buttons            |
 | 01:36:56   | that are blank on my default profile, but I press it and nothing would happen. And then I glance         |
-| 01:37:01   | down at the Stream Deck and go, oh, that's because there's no button there. And I now have to open       |
+| 01:37:01   | down at the [[Stream Deck]] and go, oh, that's because there's no button there. And I now have to open       |
 | 01:37:05   | the correct profile while I'm podcasting and trying to do all the other things. So I need to             |
 | 01:37:10   | figure out why it's bouncing back or just the correct way to solve this problem.                         |
 | 01:37:17   | Yeah. I haven't had that problem yet, but I haven't been using it that long.                             |
 | 01:37:21   | One big mistake I made was it prompted me and said, do you want to copy your profiles from               |
-| 01:37:27   | your Stream Deck to your... And I just clicked yes without thinking. Well, of course, I have a           |
-| 01:37:32   | Stream Deck with 30 buttons and then a thing with three buttons. That was really dumb to copy            |
+| 01:37:27   | your [[Stream Deck]] to your... And I just clicked yes without thinking. Well, of course, I have a           |
+| 01:37:32   | [[Stream Deck]] with 30 buttons and then a thing with three buttons. That was really dumb to copy            |
 | 01:37:37   | those profiles over. So I'm going to delete them all, which you can do. And if you delete them on        |
-| 01:37:42   | the panel, it does not delete them for the Stream Deck. So I'm going to delete them all and start        |
+| 01:37:42   | the panel, it does not delete them for the [[Stream Deck]]. So I'm going to delete them all and start        |
 | 01:37:47   | over. But I think there's something to this, and I just have to figure out, like I was playing with      |
 | 01:37:53   | in the MacSparky Labs video where I set up the [[Safari]] to move between tabs with the right or left        |
 | 01:37:59   | tab on the thing. You could navigate. That doesn't really make sense. I can do that                      |
 | 01:38:04   | just as quickly with my fingers. I don't think I need to put that on my foot. And that's really          |
 | 01:38:09   | the thing, right? It's like what goes down to the foot and what doesn't. Podcasting, mute the mic,       |
-| 01:38:16   | of course. Like the podcast time stamp stuff, of course. I think Zoom is another great option            |
+| 01:38:16   | of course. Like the podcast time stamp stuff, of course. I think [[Zoom]] is another great option            |
 | 01:38:23   | for this. Wouldn't it be great if you just mash with your foot that it mutes your mic                    |
 | 01:38:27   | or changes cameras or whatever. And so there are things where I think we're on camera or                 |
 | 01:38:34   | like in the thick of battle, like we, when we're recording a podcast, I think using your foot makes      |
@@ -1187,14 +1187,14 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:39:02   | the weirdest positions despite the fact that I've got an air on, which is designed so that it's          |
 | 01:39:07   | really difficult to sit badly in this chair. I still somehow manage it. But I found, actually,           |
 | 01:39:13   | it has got quite a bit of utility. I'm going into meeting mode, hit the button with my foot. I don't     |
-| 01:39:20   | have to reach down and look at the buttons on my Stream Deck for that because that's                     |
+| 01:39:20   | have to reach down and look at the buttons on my [[Stream Deck]] for that because that's                     |
 | 01:39:26   | just a bunch of profile that I want to have available at pretty much any moment. Actually,               |
 | 01:39:31   | it's a screen sharing one. I think now that I'm thinking about it that I trigger. But it's really        |
 | 01:39:36   | useful to be able to do that or just set all my window layouts back to the normal layout                 |
 | 01:39:42   | please. You know, I've been shuffling things around and rearranging them for fixing this problem.        |
 | 01:39:47   | I'm now starting on a new problem, just reset everything to the way it should be.                        |
 | 01:39:51   | And that's been really handy to have just because I actually enjoy having those things                   |
-| 01:39:59   | available without having them take up icons on my Stream Deck, which I try to keep                       |
+| 01:39:59   | available without having them take up icons on my [[Stream Deck]], which I try to keep                       |
 | 01:40:06   | just to the things that I want to be able to reach down and hit a button. But I'm thinking               |
 | 01:40:12   | about which button it is when I hit it, whereas the pedals, I don't think I just tap,                    |
 | 01:40:17   | which I think is the difference there for me. Yeah. Yeah. It's early. I think we'll talk about this      |
@@ -1219,7 +1219,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:41:57   | an Elgato fanboy, but they just, they really do good stuff. I heard from a Mac Power users               |
 | 01:42:02   | listener that said Elgato was formed by, I think it was the people that did, I want to say the logic.    |
 | 01:42:10   | And then they got into hardware and they've got some former Apple people there.                          |
-| 01:42:14   | Whatever's going on over there. I'm a fan. I mean, like, like I've got their XLR box now.                |
+| 01:42:14   | Whatever's going on over there. I'm a fan. I mean, like, like I've got their [[XLR]] box now.                |
 | 01:42:19   | I've got their mic stand and man, it's just all good quality stuff that you don't regret buying          |
 | 01:42:25   | like so much of the stuff these days. All right. Well, that's it. We are the Automators Podcast.         |
 | 01:42:32   | I want to thank our friends. We've got several sponsors today helping us out at Electric,                |

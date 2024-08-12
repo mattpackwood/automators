@@ -320,7 +320,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 17:32      | or my shipping information, or other little small quotes like that sounds good, I'll talk to you         |
 | 17:40      | then, you know, or, or little things like that that I can use that are that are easy to make sure        |
 | 17:45      | that I'm still communicating with people effectively. So I use them for that stuff. And then             |
-| 17:51      | small fun things like my Nintendo switch friend code I have as a TextExpander snippet, and my           |
+| 17:51      | small fun things like my [[Nintendo Switch]] friend code I have as a TextExpander snippet, and my           |
 | 17:56      | Pokemon go friend code I have as a TextExpander snippet, so that it's easy to share them with           |
 | 18:01      | other people. And then, and I know I got it correct. And I don't have to go through all the              |
 | 18:06      | hassle of copying out and pasting it somewhere else every time. So yeah, yeah, no, the forms that        |
@@ -645,13 +645,13 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 49:06      | and then go, okay, well, you know, it's late enough, I can just turn it all off without having to go     |
 | 49:09      | outside makes it very, very convenient. Yeah, I bet. Which app are you using to do the effects           |
 | 49:15      | with the hue lights? Because that's one of the things I have played with in a couple of different        |
-| 49:20      | ways. And I'm currently using a great app called signals for home kit, which basically will let          |
+| 49:20      | ways. And I'm currently using a great app called [[Signals for HomeKit]], which basically will let          |
 | 49:26      | me run a short connection and that will do things like flash my lights or something. And I've got        |
 | 49:31      | this attached to my snooze. So if I snooze my alarm in the morning, it flashes the lights in my          |
 | 49:36      | bedroom obnoxiously bright, and then sets them fairly bright as a hey, Rose, you know that that          |
 | 49:43      | thing about oversleeping that that's not good, you shouldn't be doing that prompt. But I've not          |
-| 49:49      | had anything for for, you know, like actual effects that are continuous, because the signals for         |
-| 49:57      | home kit, they are supposed to be a signal. So they're short. And then they stop. And that's it.         |
+| 49:49      | had anything for for, you know, like actual effects that are continuous, because the [[Signals for HomeKit]]         |
+| 49:57      | they are supposed to be a signal. So they're short. And then they stop. And that's it.         |
 | 50:02      | And so what are you using for this? Yeah, I think I'm not going to remember the one                      |
 | 50:10      | for the breathing. But I've used Ambify is one that I've used for with music. So I do have a             |
 | 50:18      | bunch of them in the in my house has a basement. So I have a bunch of hue lights in the basement.        |
@@ -870,7 +870,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:10:07   | sometimes just don't work. And I'm like, yeah, but I didn't know. I wouldn't say it's a known            |
 | 01:10:11   | thing. I would say that I was aware that a bunch of my shortcuts for the setting of a focus mode         |
 | 01:10:17   | were failing because I have slash had shortcuts attached to each focus mode for when it started          |
-| 01:10:24   | and when it finished to change the two, sorry, set a variable in Data Jar with my current focus          |
+| 01:10:24   | and when it finished to change the two, sorry, set a variable in [[Data Jar]] with my current focus          |
 | 01:10:32   | mode. Because as I mentioned earlier, you can't get shortcuts to tell you what focus mode is             |
 | 01:10:39   | currently running. Your iPhone can do it. Siri has this information. So it should be a possible          |
 | 01:10:43   | to get it through shortcuts on the Mac. [[Jason Snell]] pointed out something that he asked in               |
@@ -989,7 +989,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:21:40   | it's really just a question of, I wonder if we could do this and then trying out different ways          |
 | 01:21:48   | to solve it and see if there's something that actually either makes sense or makes it more               |
 | 01:21:53   | fun in some way. Where most of my automation goes to is making something fun or interesting.             |
-| 01:21:59   | We should start a thread in the automakers forum of times that you've made your spouse angry with        |
+| 01:21:59   | We should start a thread in the Automators forum of times that you've made your spouse angry with        |
 | 01:22:04   | automation. Maybe it should be titled the time I nearly got divorced or something. Even if you're        |
 | 01:22:15   | not married to your partner, I can imagine them being angry enough that that might be the                |
 | 01:22:21   | considered solution to their problems at that moment in time with some of the issues that                |
