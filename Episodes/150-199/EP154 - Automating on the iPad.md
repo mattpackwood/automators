@@ -235,7 +235,7 @@ After Apple's latest announcement, Rosemary and David review their iPad usage an
 | 13:16      | difficult to decide on what is the actual correct device for you because it's contextual.            |
 | 13:26      | It depends.                                                                                          |
 | 13:28      | So yeah, I mean, there's so many good things about it.                                               |
-| 13:31      | I mean, just most of the stuff I do, like day one entries, drafts entries, [[OmniFocus]]                 |
+| 13:31      | I mean, just most of the stuff I do, like [[Day One]] entries, drafts entries, [[OmniFocus]]                 |
 | 13:39      | work, all that stuff works just fine on the iPad mini.                                               |
 | 13:44      | That's the thing, right?                                                                             |
 | 13:45      | So it does most of the little things I do.                                                           |
@@ -507,7 +507,7 @@ After Apple's latest announcement, Rosemary and David review their iPad usage an
 | 31:59      | of good solutions to various things there as well.                                                   |
 | 32:05      | Text automation is another area where I find automation useful on iPad because I do so much          |
 | 32:10      | writing there.                                                                                       |
-| 32:11      | I feel like the Grammarly app on iPad has got a lot better in terms of doing the Grammarly           |
+| 32:11      | I feel like the [[Grammarly]] app on iPad has got a lot better in terms of doing the [[Grammarly]]           |
 | 32:17      | bits where it goes through and tries to rewrite and fix text for you, and it can work in any         |
 | 32:22      | app.                                                                                                 |
 | 32:23      | And I really like the way they've kind of integrated it over the years.                              |

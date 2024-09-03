@@ -326,9 +326,9 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 14:03      | Powerful yet frustrating in its inconsistency.                                                        |
 | 14:07      | At least there's no JavaScript automation on macOS.                                                   |
 | 14:10      | I went to the conference that [[Sal Soghoian]] go and put on, I forget what it was called.                       |
-| 14:16      | Command D.                                                                                            |
+| 14:16      | [[CMD-D Conference\|CMD-D]].                                                                                            |
 | 14:17      | Yeah.                                                                                                 |
-| 14:18      | I went to Command D.                                                                                  |
+| 14:18      | I went to [[CMD-D Conference\|CMD-D]].                                                                                  |
 | 14:19      | Last minute edition.                                                                                  |
 | 14:24      | But his major focus was on JavaScript for automation and especially on Omni's new kind                |
 | 14:33      | of interface language that they had created.                                                          |
@@ -1050,7 +1050,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 54:36      | Yeah, I do tabs with the swipes.                                                                      |
 | 54:39      | That way.                                                                                             |
 | 54:40      | Yeah.                                                                                                 |
-| 54:41      | So, you know, it's always a pain when you're in [[Safari]] or even Chrome and you have another            |
+| 54:41      | So, you know, it's always a pain when you're in [[Safari]] or even [[Google Chrome\|Chrome]] and you have another            |
 | 54:45      | tab you want to get to and using these gestures.                                                      |
 | 54:48      | It's so much better than trying to find a touch target with your mouse and clicking.                  |
 | 54:52      | It's not even close.                                                                                  |
@@ -1075,7 +1075,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 55:58      | And nothing was happening.                                                                            |
 | 55:59      | And this was very confusing.                                                                          |
 | 56:00      | And I was like, ah, I'm missing [[BetterTouchTool]] because I use three finger tap as a middle          |
-| 56:05      | click, which in Chrome, [[Safari]], Firefox will open a link in a new tab.                                |
+| 56:05      | click, which in [[Google Chrome\|Chrome]], [[Safari]], [[Firefox]] will open a link in a new tab.                                |
 | 56:12      | And very basic one.                                                                                   |
 | 56:15      | Do you use PopClip?                                                                                  |
 | 56:16      | Yeah.                                                                                                 |
@@ -1146,7 +1146,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 59:11      | I only have one Siri remote and it's from ITV, so yeah, yeah, but what I love about                   |
 | 59:16      | [[BetterTouchTool]] though is you can also set this to only do things in specific applications          |
 | 59:20      | or in general do it, but not in this application, which is great if you want to create some           |
-| 59:24      | stuff for just Photoshop, but you don't want the same thing to activate when you're using             |
+| 59:24      | stuff for just [[Photoshop]], but you don't want the same thing to activate when you're using             |
 | 59:28      | pages.                                                                                                |
 | 59:29      | Right.                                                                                                |
 | 59:30      | You know, it's great.                                                                                 |

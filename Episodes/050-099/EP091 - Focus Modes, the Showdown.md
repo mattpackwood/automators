@@ -202,7 +202,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 09:59      | I briefly considered it mostly because on my work machine, I didn't know if I should                    |
 | 10:05      | be upgrading straight away to Monterey, if everything was going to go ahead and work.                   |
 | 10:10      | And then I had, you know, I realised I use a very small number of applications for work                 |
-| 10:16      | and Firefox obviously was going to work.                                                                |
+| 10:16      | and [[Firefox]] obviously was going to work.                                                                |
 | 10:18      | And I just checked the others and went, yeah, like this is going to be fine.                            |
 | 10:21      | And honestly, if it isn't fine, I'm going to just find an alternative to these applications             |
 | 10:25      | because I don't want to be held away from upgrading every year.                                         |
@@ -1077,7 +1077,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:05:41   | home screen came out here.                                                                              |
 | 01:05:42   | Let me turn it on so I can just show you.                                                               |
 | 01:05:44   | Maybe we'll figure out a way to share some of these home screens.                                       |
-| 01:05:47   | But I've got the audible Kindle, I've got [[Obsidian]] and day one here, because I actually take            |
+| 01:05:47   | But I've got the audible Kindle, I've got [[Obsidian]] and [[Day One]] here, because I actually take            |
 | 01:05:55   | notes sometimes on books in different contexts.                                                         |
 | 01:05:57   | I've got the [[Apple Books]] app.                                                                           |
 | 01:05:58   | Do you know the [[Apple Books]] app does not have a widget?                                                 |

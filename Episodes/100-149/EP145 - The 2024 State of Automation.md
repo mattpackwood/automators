@@ -351,8 +351,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 17:05      | inputs and so on, which as you've got, you know, the ability to have popups and so on                   |
 | 17:10      | like asking you like, you know, yes or no or one of these three things and so on can                    |
 | 17:14      | be really useful.                                                                                       |
-| 17:15      | And yeah, there's also Chrome profiles, which I don't use Chrome, but I like the idea of                |
-| 17:20      | using different Chrome profiles and don't get me wrong, I love [[Safari]], but the fact                     |
+| 17:15      | And yeah, there's also [[Google Chrome\|Chrome]] profiles, which I don't use [[Google Chrome\|Chrome]], but I like the idea of                |
+| 17:20      | using different [[Google Chrome\|Chrome]] profiles and don't get me wrong, I love [[Safari]], but the fact                     |
 | 17:25      | that it's really difficult to automate [[Safari]], which is quite sad, like there's some bits               |
 | 17:30      | of [[Safari]] that are super easy to automate, which I love.                                                |
 | 17:33      | And then other bits of [[Safari]] are just so difficult to automate, like, you know, the                    |
@@ -488,11 +488,11 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 25:07      | listening to the show, the egg gives you an easy exit off ramp with your text, like no                  |
 | 25:12      | matter what you want to do with it, you push a button and it does it for you.                           |
 | 25:16      | And there's really nothing like that.                                                                   |
-| 25:19      | Another one that's worth mentioned to me is Grammarly, you know, it just, it's slowly                   |
+| 25:19      | Another one that's worth mentioned to me is [[Grammarly]], you know, it just, it's slowly                   |
 | 25:24      | dawned on me that this is a text tool that I use many times a day, you know, I pay for                  |
-| 25:30      | a subscription to Grammarly.                                                                            |
+| 25:30      | a subscription to [[Grammarly]].                                                                            |
 | 25:31      | And over the last year, they've done a better job with their [[Safari]] plugin.                             |
-| 25:36      | So now you don't have to necessarily grab your Grammarly text and go to their website                   |
+| 25:36      | So now you don't have to necessarily grab your [[Grammarly]] text and go to their website                   |
 | 25:41      | to get the full, you know, edit on it.                                                                  |
 | 25:43      | You can do it in most web text editors.                                                                 |
 | 25:47      | And I just, you know, you know, this is to me one of the best examples of AI in motion.                 |
@@ -501,8 +501,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 25:58      | And it makes your writing better.                                                                       |
 | 26:00      | It's just, I think any job you have where you write, you should have a tool like this.                  |
 | 26:06      | Yeah, and I think that's one of the things, you know, there are alternatives out there                  |
-| 26:10      | to Grammarly.                                                                                           |
-| 26:11      | I do also use Grammarly just, you know, it's great for a whole bunch of things.                         |
+| 26:10      | to [[Grammarly]].                                                                                           |
+| 26:11      | I do also use [[Grammarly]] just, you know, it's great for a whole bunch of things.                         |
 | 26:17      | And I do particularly like the fact that they've added specific things like tone detection              |
 | 26:22      | and paraphrasing tools and things like that.                                                            |
 | 26:24      | So if I've got some texts that like, I know this is what I need to say, but it doesn't                  |
@@ -514,19 +514,19 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 26:47      | for it, you know, more often than not.                                                                  |
 | 26:51      | And I have to say it does work pretty well for me with, you know, the things that I need                |
 | 26:56      | it for.                                                                                                 |
-| 26:57      | I don't use it, you know, there's a Grammarly keyboard for iOS.                                         |
+| 26:57      | I don't use it, you know, there's a [[Grammarly]] keyboard for iOS.                                         |
 | 26:59      | I'm not using that as my daily driver keyboard.                                                         |
 | 27:02      | But if I write a longer bit of text, then it is something that I'll switch to and just                  |
 | 27:08      | be like, cool, like, where did iOS swap two words for me that now no longer makes sense                 |
 | 27:15      | that I can't see because I'm now blind to this text because I've been staring at it                     |
 | 27:17      | for three hours and so on.                                                                              |
 | 27:20      | So yeah, that's, it's great for that.                                                                   |
-| 27:23      | There's a challenge for Grammarly because as AI becomes more prevalent, you know, engines               |
+| 27:23      | There's a challenge for [[Grammarly]] because as AI becomes more prevalent, you know, engines               |
 | 27:28      | like [[ChatGPT]] can do grammar check for you.                                                             |
 | 27:30      | You can just ask it and it will do it for you.                                                          |
-| 27:33      | And so, so the question is, why do I pay for a Grammar checker like Grammarly when I could              |
+| 27:33      | And so, so the question is, why do I pay for a Grammar checker like [[Grammarly]] when I could              |
 | 27:39      | get a good AI engine?                                                                                   |
-| 27:42      | And that would just be one of many things it does, but what Grammarly does is they try                  |
+| 27:42      | And that would just be one of many things it does, but what [[Grammarly]] does is they try                  |
 | 27:45      | to go to the next level with it.                                                                        |
 | 27:46      | Like you said, tone detection, just they give you a much better implementation.                         |
 | 27:51      | And I think, I do think like the web and implementation this year got really noticeably better.         |
@@ -534,7 +534,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 28:02      | And that's why I pay for it.                                                                            |
 | 28:04      | But, but, you know, maybe in a couple of years, we will be in a point where like one AI does            |
 | 28:08      | all of this for us and we don't need the separate services.                                             |
-| 28:11      | But at least as we sit here right now, I think Grammarly is kind of killing it if you're                |
+| 28:11      | But at least as we sit here right now, I think [[Grammarly]] is kind of killing it if you're                |
 | 28:15      | willing to pay for it.                                                                                  |
 | 28:17      | Yeah.                                                                                                   |
 | 28:18      | Yeah.                                                                                                   |
@@ -547,7 +547,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 28:39      | And I will continue to do things the way I did before, but I always think that trying                   |
 | 28:43      | these things is such a good way to, you know, encourage yourself to find new automation                 |
 | 28:47      | solutions for problems.                                                                                 |
-| 28:48      | And yes, using something like Grammarly is an automation solution because otherwise you'd               |
+| 28:48      | And yes, using something like [[Grammarly]] is an automation solution because otherwise you'd               |
 | 28:52      | have to sit there and perforate it for the 56th time and then be really annoyed that                    |
 | 28:56      | after you hit send and after your delayed send window is up, that's when you spot that                  |
 | 29:02      | you, you know, made a grammar mistake or something or there's a really obvious typo where you           |
@@ -599,7 +599,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 31:58      | So I don't end up liking using any third-party on-screen keyboards long-term, especially                |
 | 32:03      | on my iPhone, but switching to something and being like, here's a block of text, next,                  |
 | 32:10      | that works really well for me.                                                                          |
-| 32:12      | So yeah, that's what I'm doing with Snipety on iOS, and it's working.                                   |
+| 32:12      | So yeah, that's what I'm doing with Snippety on iOS, and it's working.                                   |
 | 32:15      | And while we're mentioning text expansion, you said text expansion, that's another app                  |
 | 32:20      | that's just, it's still, you know, it's just remarkable how big it's gotten over the years              |
 | 32:24      | and, you know, multi-platform, a lot of companies are using it.                                         |
@@ -651,11 +651,11 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 35:37      | Oh, yeah.                                                                                               |
 | 35:38      | Trust me, I'm filing feedback for everything.                                                           |
 | 35:41      | Like I'm filing feedback for pages.                                                                     |
-| 35:43      | Keynote, numbers, mail, [[Safari]], you name it, every single native macOS application, calendar.           |
+| 35:43      | [[Keynote]], [[Numbers]], [[Apple Mail\|Mail]], [[Safari]], you name it, every single native macOS application, calendar.           |
 | 35:51      | I have filed the same feedback.                                                                         |
 | 35:53      | I'm really sorry to all the people that have to process the radars, especially I know the               |
-| 35:57      | Iwork team has one centralised thing.                                                                   |
-| 36:01      | And so I'm really sorry to the Iwork team for sending you three, but I want one of these                |
+| 35:57      | [[iWork]] team has one centralised thing.                                                                   |
+| 36:01      | And so I'm really sorry to the [[iWork]] team for sending you three, but I want one of these                |
 | 36:07      | for everything.                                                                                         |
 | 36:08      | I want separate ones for numbers and pages and keynote and so on.                                       |
 | 36:11      | And I know if I go to the App Store and I click on the release notes for numbers, pages                 |
@@ -799,8 +799,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 44:56      | that might not sound like a huge thing, but trust me, it is.                                            |
 | 44:59      | I have put shortcuts in the dock on my mom and my dad's Macs.                                           |
 | 45:04      | OK, so my dad has like this whole little guide of like instructions of things of like,                  |
-| 45:09      | hey, so when this keyboard shortcut isn't working in Photoshop,                                         |
-| 45:12      | it's probably because you updated Photoshop and it, you know,                                           |
+| 45:09      | hey, so when this keyboard shortcut isn't working in [[Photoshop]],                                         |
+| 45:12      | it's probably because you updated [[Photoshop]] and it, you know,                                           |
 | 45:15      | unset like one of your preferences.                                                                     |
 | 45:17      | So here's a little guide on how to put it back together.                                                |
 | 45:19      | Obviously, he is still more than welcome to call me                                                     |
@@ -809,7 +809,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 45:26      | So I put together a shortcut that lives in his dock.                                                    |
 | 45:29      | It's got a question mark on it.                                                                         |
 | 45:30      | So he clicks on the question mark and it's like, hey, what do you need help with?                       |
-| 45:33      | Do you need help with your Photoshop keyboard shortcuts?                                                |
+| 45:33      | Do you need help with your [[Photoshop]] keyboard shortcuts?                                                |
 | 45:35      | Do you need help with printing labels for Christmas cards and so on?                                    |
 | 45:39      | And, you know, and it's just there and then it just opens the file for him.                             |
 | 45:45      | And that's it.                                                                                          |

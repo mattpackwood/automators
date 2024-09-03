@@ -980,13 +980,13 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:10:58   | for, well, maybe not a life saver, but it's certainly been very helpful to explain to my dad,          |
 | 01:11:02   | hey, look at the time. If the colon doesn't disappear and reappear, your Mac is okay. You don't        |
 | 01:11:07   | want to force restart it. Try quitting the application instead. Because for a while,                   |
-| 01:11:14   | I discovered that he was just whenever Photoshop stopped responding, he was just force shutting        |
-| 01:11:19   | down his Mac and restarting it, which it did fix the Photoshop problem, but I was slightly worried     |
+| 01:11:14   | I discovered that he was just whenever [[Photoshop]] stopped responding, he was just force shutting        |
+| 01:11:19   | down his Mac and restarting it, which it did fix the [[Photoshop]] problem, but I was slightly worried     |
 | 01:11:24   | he was going to kill his machine by doing that too often or cause a corrupted operating system.        |
 | 01:11:30   | So yeah, little bonus trick for folks there. Yeah, it is always interesting, you know,                 |
 | 01:11:36   | trying to find different solutions to these things. And it's amazing how many things,                  |
 | 01:11:41   | you know, can be solved with a line of AppleScript that you stole from the internet.                  |
-| 01:11:45   | I want to give a shout out as well, actually, to fast scripts. Because fast scripts can run            |
+| 01:11:45   | I want to give a shout out as well, actually, to [[FastScripts]]. Because [[FastScripts]] can run            |
 | 01:11:50   | any script. It can run shell scripts, it can run Python scripts, it can run AppleScripts.             |
 | 01:11:55   | And it lives in your menu bar, it's just a little script icon that lives in your menu bar, but         |
 | 01:12:01   | you can have it show you different scripts and open the scripts in different places                    |

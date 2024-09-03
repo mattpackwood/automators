@@ -497,7 +497,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 32:26      | And that's, I think, the key part of Capture.                                                            |
 | 32:29      | You need to have, or automate a Capture, you need to tweak your tools to work for you.                   |
 | 32:34      | Yeah, I have so many text entry templates and [[Drafts]] where things are going to maybe                     |
-| 32:39      | go into day one or [[Obsidian]] or even maybe an OmniFocus task, but I customise everything                  |
+| 32:39      | go into [[Day One]] or [[Obsidian]] or even maybe an OmniFocus task, but I customise everything                  |
 | 32:47      | in the template forms in [[Drafts]] so I can do as much of the work automatically without                    |
 | 32:52      | me having to type in.                                                                                    |
 | 32:54      | Which is so useful using this text, it's just not a difficult action at all.                             |
@@ -1113,7 +1113,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:11:32   | an email, you do that, and then you know that the mail window has got that, you know, for                |
 | 01:11:38   | the right person.                                                                                        |
 | 01:11:39   | Now I am 100% certain that with the right Google Foo, you could find an AppleScript                     |
-| 01:11:45   | that will do this for you, and assign it to say, and either you could use fast scripts,                  |
+| 01:11:45   | that will do this for you, and assign it to say, and either you could use [[FastScripts]],                  |
 | 01:11:50   | they've sponsored the show before, they would be a great way to do this, to assign a keyboard            |
 | 01:11:53   | shortcut to it, or you could, you know, paste it into an automated direction as well for                 |
 | 01:12:00   | that.                                                                                                    |

@@ -240,7 +240,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 14:11      | on the negatives of these apps that I think drives me a little crazy is listing the name               |
 | 14:17      | of the underlying app under the widget. Just, there's a part of me that hates that. Right?             |
 | 14:22      | Yeah. Me too. Me too. I, I mean, I, I both love it because it means that when people                   |
-| 14:27      | take screenshots, um, either they have to Photoshop every single name out or they don't.               |
+| 14:27      | take screenshots, um, either they have to [[Photoshop]] every single name out or they don't.               |
 | 14:32      | And so then you actually know which apps that they use to create all of this. Yeah. And                |
 | 14:35      | that's good for developers. So that there is a plus to that. I'm sure David Smith is                   |
 | 14:39      | very happy that widget Smith appears on every home screen these days. Oh yeah. Exactly.                |
@@ -815,7 +815,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:03:49   | then you need FastScripts. And best of all, listeners to the Automator's podcast can get 20%           |
 | 01:03:55   | off for a limited time. Just go to fastscripts.app slash auto, now and access to the exclusive         |
 | 01:04:04   | Automator's discount coupon. That's fastscripts.app slash auto for that 20% off. Our thanks to         |
-| 01:04:10   | FastScripts for their support of the Automator's podcast and Olive Relay FM.                           |
+| 01:04:10   | FastScripts for their support of the Automator's podcast and all of Relay FM.                           |
 | 01:04:17   | Rose, this submarine goes deeper into nerdiness.                                                       |
 | 01:04:22   | Oh, it does. It does. And I think the first one that we have to talk about, unfortunately,             |
 | 01:04:27   | I've not had that much time to use it. I've been playing with it for many other things.                |
@@ -919,6 +919,6 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:13:30   | to abduct your dog because she's adorable and who wouldn't want to steal. I'm just going to threaten   |
 | 01:13:33   | to do it. And then you'll tell us and then everybody's happy. And I might get to borrow                |
 | 01:13:36   | your dog for an hour because she's cute. Okay, that does it for today. We want to thank our            |
-| 01:13:42   | sponsors, Microsoft and Fast Scripts. If you'd like to get active in those forums,                     |
+| 01:13:42   | sponsors, Microsoft and FastScripts. If you'd like to get active in those forums,                     |
 | 01:13:46   | head over to talk.automators.fm. You can find the show at relay.fm/automators,                   |
 | 01:13:52   | and our website is automators.fm. See you next time.                                                   |

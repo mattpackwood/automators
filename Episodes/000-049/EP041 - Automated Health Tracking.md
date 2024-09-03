@@ -336,7 +336,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 21:40      | out is how to get my own report out of the health app. Is that as easy as I'm assuming                 |
 | 21:45      | it is?                                                                                                 |
 | 21:46      | Well, I was experimenting with exactly this today because I wanted to do an end of the                 |
-| 21:50      | day summary of my activity and put it in day one. And I wanted to do this with shortcuts               |
+| 21:50      | day summary of my activity and put it in [[Day One]]. And I wanted to do this with shortcuts               |
 | 21:56      | because this is me. And if I'm not using shortcuts, then it does seem like something                   |
 | 21:59      | might be going wrong with the world. And so I built this and you can get a lot of data                 |
 | 22:05      | out. And more importantly, once you've got that data, so there's an action to get health               |
@@ -405,7 +405,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 27:31      | phone is too far away from my watch. So I've been using notifications when I arrive and                |
 | 27:37      | when I leave to help me try and track this information. And especially the one where                   |
 | 27:41      | I leave, I'm working on getting the amount of time that I spent swimming and the distance              |
-| 27:45      | that I swam and logging that to day one so that I can have like a little personal health               |
+| 27:45      | that I swam and logging that to [[Day One]] so that I can have like a little personal health               |
 | 27:50      | general with all of the data in it. Yeah. One of the tricks for me was I, I did not have               |
 | 27:57      | the habit of turning the workout on when I went to the gym. I'd go because there's                     |
 | 28:01      | a separate health monitor you wear there and they, they shame you, you know, if your heart's           |
@@ -528,9 +528,9 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 37:51      | there's also get health samples from the health data. So that may be the solution if I want to make    |
 | 37:57      | like like you're saying the daily text message to the buddy, I could get details out of the app        |
 | 38:02      | that way and just drop it in. Yes. And that's what I've been experimenting with with shortcuts         |
-| 38:07      | as well to try and get a daily summary into day one at the end of the day so that I can go back        |
+| 38:07      | as well to try and get a daily summary into [[Day One]] at the end of the day so that I can go back        |
 | 38:12      | and look over at this information in the context of everything else because I like to also add my      |
-| 38:17      | workouts to day one so that I've got all of my workouts logged there and so on. So I can see           |
+| 38:17      | workouts to [[Day One]] so that I've got all of my workouts logged there and so on. So I can see           |
 | 38:23      | how consistent I'm being with tracking my data. The answer has been so far not very,                   |
 | 38:28      | but with automation, it's improving. There you go. I mean, that's the trick, isn't it?                 |
 | 38:33      | Yes, definitely. So and then the one for your mom is just the same thing, just tracking different      |
@@ -642,7 +642,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 47:51      | so what are you recording? And then this uses, this gives me the option to say that I'm recording      |
 | 47:58      | automators, nested folders, screencasts online, or a guest podcast. And it sets things up with         |
 | 48:04      | the right applications depending on which option I pick. And this has been so useful because I was     |
-| 48:10      | starting to go a little bit insane with the opening Skype every single time, when I actually needed    |
+| 48:10      | starting to go a little bit insane with the opening [[Skype]] every single time, when I actually needed    |
 | 48:16      | [[FaceTime]], for example, or I was going to use ZenCast or something, or just [[Audio Hijack]] and            |
 | 48:22      | [[ScreenFlow]]. So I'm very pleased to have actually found a solution that does not drive me up the        |
 | 48:28      | wall. Yeah, the old problem of getting the audio files to the editor and everything related to it.     |
@@ -658,7 +658,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 49:28      | us. Yes. And I have to say, my previous solution was not acceptable. It was definitely very acceptable |
 | 49:34      | when I started, when we first started with automators. And I was very happy with it. But it            |
 | 49:39      | quickly got to the point where I was getting grumpy with my automation because I'd have to             |
-| 49:43      | wait for Skype to finish launching and then quit Skype so that I could open Zoom or ZenCaster or       |
+| 49:43      | wait for [[Skype]] to finish launching and then quit [[Skype]] so that I could open Zoom or ZenCaster or       |
 | 49:51      | [[FaceTime]] Audio and things like that. So that was less than ideal. But that is now finally fixed.       |
 | 49:57      | So I'm very pleased about that. And I'll put a little bit of documentation in the show notes           |
 | 50:02      | to exactly what gets done. And specifically how I use the alert in audio in [[Keyboard Maestro]] to        |

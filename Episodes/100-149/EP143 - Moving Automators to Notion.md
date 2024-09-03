@@ -1118,7 +1118,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:06:31   | But it also closed stuff off for me, but I've never really gotten into [[Keyboard Maestro]]              |
 | 01:06:36   | for the whole setup thing.                                                                           |
 | 01:06:37   | My [[Keyboard Maestro]] menu bar list is, I want these automations to be available to me.                |
-| 01:06:44   | It's right next to fast scripts and bunch and I know that there's overlap between all                |
+| 01:06:44   | It's right next to [[FastScripts]] and [[Bunch]] and I know that there's overlap between all                |
 | 01:06:50   | three of these.                                                                                      |
 | 01:06:51   | I'm very aware of it, but I like the fact that if I click on my bunch menu bar, then                 |
 | 01:06:56   | that's just like, get me ready to do this thing.                                                     |
@@ -1129,7 +1129,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:07:08   | This is all day job examples where if I click the [[Keyboard Maestro]] macro, it's, hey, let's           |
 | 01:07:14   | clean up a whole bunch of files that are probably floating around that we don't need anymore         |
 | 01:07:19   | and stuff like that.                                                                                 |
-| 01:07:20   | And fast scripts is, hey, so I'm going to want like five different things open in iTerm              |
+| 01:07:20   | And [[FastScripts]] is, hey, so I'm going to want like five different things open in iTerm              |
 | 01:07:26   | at the same time, go, just do it for me.                                                             |
 | 01:07:30   | So yeah, there's overlap, but I love the menu bar aspect.                                            |
 | 01:07:34   | I think for me, that's a big part of it.                                                             |
@@ -1148,11 +1148,11 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:08:25   | That'll be a show we do next year and stay tuned for that.                                           |
 | 01:08:28   | I think perhaps for me, the big thing with bunch versus [[Keyboard Maestro]] for this specifically       |
 | 01:08:33   | is that if I were to change my default browser, for example, I could just search everywhere          |
-| 01:08:38   | for Firefox and I can just replace Firefox with Chrome or whatever it is.                            |
+| 01:08:38   | for [[Firefox]] and I can just replace [[Firefox]] with [[Google Chrome\|Chrome]] or whatever it is.                            |
 | 01:08:44   | I'm not planning on doing that.                                                                      |
-| 01:08:45   | I prefer Firefox personally for a number of reasons for at least my development work                 |
+| 01:08:45   | I prefer [[Firefox]] personally for a number of reasons for at least my development work                 |
 | 01:08:49   | and the rest of the time it's [[Safari]].                                                                |
-| 01:08:52   | But if I were changing [[Safari]] to [[Safari]] technology preview, I've done that, gone back and forth      |
+| 01:08:52   | But if I were changing [[Safari]] to [[Safari Technology Preview]], I've done that, gone back and forth      |
 | 01:08:58   | on that multiple times.                                                                              |
 | 01:09:00   | And I actually use a variable for that because I'm a nerd, why wouldn't I?                           |
 | 01:09:06   | But I could just find a place because I have all of my bunch macros, well, bunch is just             |

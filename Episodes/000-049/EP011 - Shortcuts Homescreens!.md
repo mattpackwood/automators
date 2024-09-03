@@ -666,7 +666,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 36:07      | Of course, using [[Drafts]] for this is great.                                                           |
 | 36:10      | But sometimes I just need to check what the person said before applying to them.                     |
 | 36:14      | And that's unfortunately where it's a little more difficult to use [[Drafts]] because then               |
-| 36:18      | I have to open messages or WhatsApp or Skype or whatever communication method it is we're            |
+| 36:18      | I have to open messages or WhatsApp or [[Skype]] or whatever communication method it is we're            |
 | 36:23      | using probably smoke signals by now.                                                                 |
 | 36:26      | And then check it.                                                                                   |
 | 36:27      | And then I go to [[Drafts]] and I write it only to send it back to the application I just                |
@@ -770,7 +770,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 41:51      | the name of the new application, if you've done, if you've actually put shortcuts on                 |
 | 41:55      | their screen for them, then they have the same icon and they have the same name for                  |
 | 41:59      | the icon and they press it and it just opens the different application.                              |
-| 42:03      | This is a little bit like what I used to do for my grandparents with putting Chrome on               |
+| 42:03      | This is a little bit like what I used to do for my grandparents with putting [[Google Chrome\|Chrome]] on               |
 | 42:07      | the desktop with the Internet Explorer icon because the blue E is the internet.                      |
 | 42:11      | Yeah.                                                                                                |
 | 42:12      | That's clever.                                                                                       |
@@ -904,7 +904,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 49:59      | How about you?                                                                                       |
 | 50:00      | I have OmniFocus, [[Drafts]], and Launch Center Pro, and just those three.                               |
 | 50:05      | I keep trying three in the dock, but I use [[Safari]] a lot because I Google so much.                    |
-| 50:11      | So maybe I need to put a shortcut in my dock to Google Things instead of opening [[Safari]].             |
+| 50:11      | So maybe I need to put a shortcut in my dock to Google things instead of opening [[Safari]].             |
 | 50:16      | Well, actually, and I kind of misspoke, it's not actually OmniFocus.                                 |
 | 50:20      | It's OmniSelect.                                                                                     |
 | 50:21      | It's my shortcut we've been talking about because I like to just, I love the idea of                 |

@@ -160,7 +160,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 04:56      | Well, somehow I never got the message.                                                             |
 | 04:59      | Right now I'm broadcasting on a computer that's running a beta looking at a phone that's on        |
 | 05:04      | a beta and I've got an iPad attached that's on a beta.                                             |
-| 05:07      | All that said, I don't run the technology preview of Safari.                                       |
+| 05:07      | All that said, I don't run the [[Safari Technology Preview\|technology preview of Safari]].                                       |
 | 05:11      | That's like where I draw the line, because I do like having all the features working               |
 | 05:16      | and I don't find that seeing what's next for [[Safari]] is worth the big hole it makes in my           |
 | 05:24      | life of not having [[Safari]] work reliably.                                                           |
@@ -299,21 +299,21 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 13:49      | It's BookMacster.                                                                                 |
 | 13:50      | Mac is in Mac OS and I can put a link to that in the show notes, but what this will                |
 | 13:54      | do is it can go through and, like, I do use it for syncing my bookmarks so that I get              |
-| 13:59      | my bookmarks out of [[Safari]] into Firefox because I have a Firefox profile that then can sync        |
-| 14:05      | that across to other machines and, you know, in those Firefox's.                                   |
+| 13:59      | my bookmarks out of [[Safari]] into [[Firefox]] because I have a [[Firefox]] profile that then can sync        |
+| 14:05      | that across to other machines and, you know, in those [[Firefox\|Firefox's]].                                   |
 | 14:12      | But it can also look for dead links and it can alphabetise links within folders for me             |
 | 14:17      | as well, meaning that, like, you know, the various, you know, folders or bookmarks are             |
 | 14:23      | all alphabetised, which is quite useful when you are looking for something and because             |
 | 14:27      | it will find those dead links, I don't need to worry about, you know, too many, you know,          |
 | 14:33      | bad things popping up and every so often I'll, you know, get that out and run that and, you        |
 | 14:36      | know, usually I'm using [[Safari]].                                                                    |
-| 14:39      | As a developer, I do love using Firefox as well for that stuff.                                    |
+| 14:39      | As a developer, I do love using [[Firefox]] as well for that stuff.                                    |
 | 14:43      | [[Safari\|Safari's]] work developer tools, they're not bad, but I'm just so used to the ones in                |
-| 14:46      | Firefox and how Firefox works and quite frankly, at least in my day job, there's very few people   |
+| 14:46      | [[Firefox]] and how [[Firefox]] works and quite frankly, at least in my day job, there's very few people   |
 | 14:52      | who are using [[Safari]], so while I open it to test what I've done, I'm better off using              |
-| 14:57      | Firefox, given the choice between that and a Chrome-based browser, like, I stick with              |
-| 15:02      | Firefox.                                                                                           |
-| 15:03      | Yeah, Firefox is also my on-deck browser if I need something else for some reason.                 |
+| 14:57      | [[Firefox]], given the choice between that and a [[Google Chrome\|Chrome-based browser]], like, I stick with              |
+| 15:02      | [[Firefox]].                                                                                           |
+| 15:03      | Yeah, [[Firefox]] is also my on-deck browser if I need something else for some reason.                 |
 | 15:10      | Although I have to say, I don't hit that problem as much as I used to about [[Safari]] not working     |
 | 15:16      | nicely with whatever websites I go to.                                                             |
 | 15:18      | I mean, it used to be more frequent that [[Safari]] just wouldn't work, but it's big enough.           |
@@ -514,7 +514,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 27:45      | So what you can do then is you can actually press option and then you can close the tabs           |
 | 27:50      | to the left.                                                                                       |
 | 27:51      | I can't believe how long I didn't know that for because like I use this feature heavily            |
-| 27:57      | in Firefox of like closed tabs to the left.                                                        |
+| 27:57      | in [[Firefox]] of like closed tabs to the left.                                                        |
 | 27:59      | I don't want any of the tabs to the left.                                                          |
 | 28:01      | This doesn't, by the way, include pin tabs.                                                        |
 | 28:02      | It won't close those pin tabs unless you explicitly go to close them.                              |
@@ -622,7 +622,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 33:55      | But sometimes I need to, like I use CleanShot, and I don't necessarily want to do the scrolling    |
 | 34:00      | screenshot thing.                                                                                  |
 | 34:01      | So I often use AwesomeScreenshot on macOS.                                                         |
-| 34:05      | And what I love about AwesomeScreenshot is it's also available for Firefox and Chrome.             |
+| 34:05      | And what I love about AwesomeScreenshot is it's also available for [[Firefox]] and [[Google Chrome\|Chrome]].             |
 | 34:09      | And this can take a screenshot of a whole web page for you so that you can get everything           |
 | 34:15      | in one screenshot.                                                                                 |
 | 34:16      | And then it doesn't just save as a screenshot, it'll let you like share it or upload it somewhere  |
@@ -691,7 +691,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 38:36      | Now, Choosy lets you say, okay, whenever I open this kind of link, so whenever I open              |
 | 38:42      | a link from the [[Slack]] app, I want it to open in this browser.                                      |
 | 38:47      | Whenever I open a link containing relay.fm, I want it to open in [[Safari]], whatever it is.           |
-| 38:53      | But Choosy also has a [[Safari]] extension and Firefox extension and Chrome extension, etc.            |
+| 38:53      | But Choosy also has a [[Safari]] extension and [[Firefox]] extension and [[Google Chrome\|Chrome]] extension, etc.            |
 | 39:00      | Because then what I can do is I can say, hey, this page that I'm on, open it in this browser       |
 | 39:04      | for me, please.                                                                                    |
 | 39:06      | And that for me ends up being very useful, because then I can, you know, open any link             |
@@ -795,9 +795,9 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 45:02      | So yeah, I use Good Links for that as well.                                                        |
 | 45:05      | What about you?                                                                                    |
 | 45:06      | Any final recommendations?                                                                         |
-| 45:07      | A couple, again, I'm getting kind of off the thread of automation, Grammarly.                      |
+| 45:07      | A couple, again, I'm getting kind of off the thread of automation, [[Grammarly]].                      |
 | 45:11      | I guess that you could consider that automation.                                                   |
-| 45:13      | I'm a fan of the Grammarly Grammar Checker.                                                        |
+| 45:13      | I'm a fan of the [[Grammarly]] Grammar Checker.                                                        |
 | 45:17      | I've never had faith in a Grammar Checker in my life, but this one seems to work for               |
 | 45:21      | me.                                                                                                |
 | 45:22      | I think like a hundred bucks a year and they catch errors in my writing all the time.              |
@@ -946,13 +946,13 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 54:59      | But then I also need to open Figma.                                                                |
 | 55:01      | So I just literally just added Figma to this and boom, you know, that's it, it's done.             |
 | 55:07      | And I have to say what the advantage is a bunch as well as if I do change my browser,              |
-| 55:11      | I can literally just go change the word [[Safari]] for [[Safari]] technology preview.                      |
+| 55:11      | I can literally just go change the word [[Safari]] for [[Safari Technology Preview]].                      |
 | 55:15      | And yeah, that's it kind of done, you know, yeah, um, you know, it's one of those things           |
 | 55:22      | that do, do I want to change this?                                                                 |
 | 55:23      | No, I don't necessarily have any intention of changing this, but, you know, the fact               |
 | 55:27      | that I could, if I wanted to, um, is definitely, uh, you know, an appealing factor.                |
 | 55:33      | Um, and, you know, hopefully at some point, if we get better tab group support and other           |
-| 55:37      | automation things, then, um, you know, just like a bunch can open different Chrome profiles,       |
+| 55:37      | automation things, then, um, you know, just like a bunch can open different [[Google Chrome\|Chrome]] profiles,       |
 | 55:43      | maybe, you know, it can also open things in particular [[Safari]] tab groups that will be              |
 | 55:47      | really cool, assuming that, you know, Apple give, you know, the support, uh, for this              |
 | 55:55      | because right now that's kind of missing, but, uh, yeah, just to, just to continue on              |
@@ -1096,11 +1096,11 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:05:04   | So that works really nicely for me.                                                                |
 | 01:05:06   | Yeah.                                                                                              |
 | 01:05:07   | And then like kind of next level of this is going to keyboard my show.                             |
-| 01:05:11   | If you want to perform actions on pages, I mean, I've talked about Grammarly already               |
-| 01:05:16   | in this episode, but I prefer the Grammarly web browser to their native Mac app, which             |
+| 01:05:11   | If you want to perform actions on pages, I mean, I've talked about [[Grammarly]] already               |
+| 01:05:16   | in this episode, but I prefer the [[Grammarly]] web browser to their native Mac app, which             |
 | 01:05:21   | is pretty bad.                                                                                     |
 | 01:05:23   | And so I've just got a shortcut that opens up, actually, I don't use it anymore because            |
-| 01:05:27   | I found a URL that gets me a new blank Grammarly documents, so I can just open that and paste      |
+| 01:05:27   | I found a URL that gets me a new blank [[Grammarly]] documents, so I can just open that and paste      |
 | 01:05:32   | into it.                                                                                           |
 | 01:05:33   | But before I had to click a specific button on the screen to get a new one started.                |
 | 01:05:38   | And, um, that's the kind of stuff where, you know, kind of Keyboard Maestro's muscle               |
@@ -1171,7 +1171,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:09:20   | This will make sure you keep the personality in the communication that you send whilst             |
 | 01:09:24   | staying productive.                                                                                |
 | 01:09:26   | Techs Expander is available on any device you use, across any app you use, on Mac, Windows,        |
-| 01:09:30   | Chrome and iOS.                                                                                    |
+| 01:09:30   | [[Google Chrome\|Chrome]] and iOS.                                                                                    |
 | 01:09:31   | I use Techs Expander for all sorts of things but the thing I love the most is the fact             |
 | 01:09:36   | that the snippets sync.                                                                            |
 | 01:09:37   | I update it in one place and it updates everywhere, which means going back to those company FAQs,  |

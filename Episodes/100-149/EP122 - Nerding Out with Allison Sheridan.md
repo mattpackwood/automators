@@ -336,7 +336,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 19:55      | incredibly well for me. But I can also see why that wouldn't work well for some people because          |
 | 20:00      | they, you know, they're used to, you know, using the trackpad. And especially the maximise windows      |
 | 20:07      | on Mac OS can be quite tricky, I think for some people, because you just kind of lose everything.       |
-| 20:11      | My dad accidentally maximised Photoshop the other day. I had a frantic tech support call going,         |
+| 20:11      | My dad accidentally maximised [[Photoshop]] the other day. I had a frantic tech support call going,         |
 | 20:16      | wait, well, the Mac is gone. Where is the Mac? And eventually after getting a photo of the screen,      |
 | 20:21      | I was like, okay, move your mouse right into the top left corner and then click on the green button.    |
 | 20:25      | And then you'll have your Mac back. He was quite pleased when Mac OS reappeared, but just one of        |
@@ -413,7 +413,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 27:01      | And the application developers tweak something ever so slightly. And then that image, you have          |
 | 27:07      | to like crop it by one pixel all the way around or something. It's like, stop doing this to me.         |
 | 27:13      | Don't torture me. So some experience for me on that find a image button. I like, I use it on            |
-| 27:19      | Grammarly because I use the Grammarly website and there's no way to open a new document except          |
+| 27:19      | [[Grammarly]] because I use the [[Grammarly]] website and there's no way to open a new document except          |
 | 27:24      | click an image. And I've had the same image and I've been using it like three years and it works        |
 | 27:30      | every time. No problems. But then I was using it just recently because Apple, for whatever reason,      |
 | 27:37      | does not let you automate tab groups on the Mac with shortcuts. You know, they added tab groups,        |
@@ -427,9 +427,9 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 28:17      | then you don't need to push it. But, you know, it's like, you are getting very fiddly at that point.    |
 | 28:21      | And honestly, the find an image and click a thing is just fiddly by nature because                      |
 | 28:26      | it is a total hack. But it's, there's no other way to do something like that,                           |
-| 28:31      | that shortcut I use for Grammarly, there's literally no other way to do it.                             |
+| 28:31      | that shortcut I use for [[Grammarly]], there's literally no other way to do it.                             |
 | 28:35      | Unless they have an API, which I'm not aware of.                                                        |
-| 28:38      | So there is another way with Grammarly. But what that involves is basically being a little bit          |
+| 28:38      | So there is another way with [[Grammarly]]. But what that involves is basically being a little bit          |
 | 28:44      | of a web developer or at least nerdy enough to like inspect the web page and then find out like          |
 | 28:50      | which either unique identifier is behind that button or like a special like path to get to              |
 | 28:55      | that button so that then you can click at it with JavaScript. And that's something that I can do        |
@@ -477,7 +477,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 32:52      | Occasionally, I have things go wrong with it. But it's something like where the graphic changed or      |
 | 32:59      | things like that. The other piece that causes problems for it sometimes for me is just                  |
 | 33:04      | anything that involves the internet, where the connection is slow. And I find that having an            |
-| 33:10      | extra long wait commands solves that problem. Like the Grammarly thing where it goes to the website     |
+| 33:10      | extra long wait commands solves that problem. Like the [[Grammarly]] thing where it goes to the website     |
 | 33:16      | and pushes the button, I have a three second delay, which is more time than I need. And you do look     |
 | 33:21      | at the screen and say, ah, now my computer just stopped for three seconds. But it's way faster          |
 | 33:27      | than me hunting and pecking on the page. And I can be drinking tea while it's doing it. So              |
@@ -743,7 +743,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 57:27      | two parcels. So first of all, I use the sleep focus and sleep mode with the health app on my            |
 | 57:31      | iPhone. So when my wake up alarm is snoozed in the morning, what actually happens is it uses            |
 | 57:38      | a great little app called [[Signals for HomeKit]], and it flashes my bedside lights as brightly as         |
-| 57:43      | it they can go. And it's a really sort of horrible greeny yellow colour. It's not a good colour.          |
+| 57:43      | it they can go. And it's a really sort of horrible greeny-yellow colour. It's not a good colour.          |
 | 57:49      | It's my punishment for hitting the switch button. Does it seem to be the most irritating to you?        |
 | 57:53      | Exactly. And it also slightly increases the volume of my HomePod. Not a lot, but it increased the      |
 | 57:57      | volume of my HomePod. But then the other thing that I do is when my wake up alarm actually goes        |
@@ -777,9 +777,9 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:00:22   | the blank fields, time stamps and more. This will make sure that you still keep the personality         |
 | 01:00:27   | and the communications you send. And TextExpander is available on any device you use across any         |
 | 01:00:33   | app use on Mac, Windows, Chrome and iOS. I use TextExpander for nearly everything.                      |
-| 01:00:40   | Not a day goes by that I don't seem to make a new snippet. Just the other day I wrote [[Stream Deck]]       |
+| 01:00:40   | Not a day goes by that I don't seem to make a new snippet. Just the other day I wrote "StreamDeck"       |
 | 01:00:44   | but I put no space. For some reason I was thinking it was camel case. So I made a TextExpander snippet. |
-| 01:00:50   | So anytime I type [[Stream Deck]] with no space it adds a space using a snippet. Just little human          |
+| 01:00:50   | So anytime I type "StreamDeck" with no space it adds a space using a snippet. Just little human          |
 | 01:00:56   | built-in typos can get fixed like that with TextExpander but I can also fill in entire contracts        |
 | 01:01:01   | with TextExpander language. It really boosts your productivity. If repetitive typing is getting         |
 | 01:01:07   | you down you need TextExpander. So check out TextExpander today at textexpander.com/              |

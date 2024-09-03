@@ -162,7 +162,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 06:09      | We're going to talk about this later in the show, but Sal's getting ready to do a whole                                                                                  |
 | 06:13      | three-day conference on [[AppleScript]].                                                                                                                                 |
 | 06:15      | And that's going to be in October in Cartersville, Georgia, going to the South this time.                                                                                |
-| 06:22      | It's called the [[Command-D Down Home Scripting Bootcamp]].                                                                                                              |
+| 06:22      | It's called the [[CMD-D Conference\|CMD-D Down Home Scripting Bootcamp]].                                                                                                              |
 | 06:27      | And we are going to have a code for you at the end of the show to get you $200 off.                                                                                      |
 | 06:31      | So we have a lot to talk about.                                                                                                                                          |
 | 06:34      | But this is the automator, so we like to get nerdy.                                                                                                                      |
@@ -571,9 +571,9 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 36:22      | and all the different things that [[Keynote]] does, it also has sets of commands.                                                                                        |
 | 36:30      | Commands are verbs like make, print, close, quit, open, and then there are some specialised                                                                              |
 | 36:42      | commands for each application that are commands that just that application does itself.                                                                                  |
-| 36:48      | Like an application like [[TextEdit]] would not understand the word rotate that [[Adobe Photoshop\|Photoshop]]                                                         |
+| 36:48      | Like an application like [[TextEdit]] would not understand the word rotate that [[Photoshop]]                                                         |
 | 36:55      | would use.                                                                                                                                                               |
-| 36:57      | So if you were scripting [[Adobe Photoshop]], you would use the word rotate maybe sometimes                                                                              |
+| 36:57      | So if you were scripting [[Photoshop\|Adobe Photoshop]], you would use the word rotate maybe sometimes                                                                              |
 | 37:02      | if you were adjusting your images.                                                                                                                                       |
 | 37:05      | But [[TextEdit]] doesn't really understand what rotate means and it wouldn't have that as                                                                                |
 | 37:11      | a command.                                                                                                                                                               |
@@ -590,12 +590,12 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 37:57      | Then we're going to talk to a specific object in that [[Keynote]].                                                                                                       |
 | 38:03      | And it's going to be the current slide of the front document.                                                                                                            |
 | 38:06      | Now what does current slide mean?                                                                                                                                        |
-| 38:09      | Current slide is a property of the document in Keynote.                                                                                                                  |
+| 38:09      | Current slide is a property of the document in [[Keynote]].                                                                                                                  |
 | 38:14      | And it just means which slide you have selected in the interface.                                                                                                        |
 | 38:18      | That's the current slide.                                                                                                                                                |
 | 38:20      | So whatever slide the user currently has selected, we're going to be addressing it.                                                                                      |
 | 38:26      | So tell the current slide of the front document.                                                                                                                         |
-| 38:28      | So if I have two Keynote documents open, it's the one that's on top of the other one.                                                                                    |
+| 38:28      | So if I have two [[Keynote]] documents open, it's the one that's on top of the other one.                                                                                    |
 | 38:34      | And I'm going to talk to the current slide.                                                                                                                              |
 | 38:37      | And then in between the actual command is on line 14 and 15.                                                                                                             |
 | 38:43      | It's actually one line, but I couldn't fit it on one line in the page.                                                                                                   |
@@ -828,7 +828,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 54:17      | So, you know, one way you could get better at doing this stuff is going and taking a three-day                                                                           |
 | 54:21      | course on AppleScript.                                                                                                                                                   |
 | 54:23      | And there just happens to be one in October.                                                                                                                             |
-| 54:27      | The [[Command D Down Home Scripting Bootcamp]], where you get taught by the master, Sal will                                                                             |
+| 54:27      | The [[CMD-D Conference\|CMD-D Down Home Scripting Bootcamp]], where you get taught by the master, Sal will                                                                             |
 | 54:32      | be there teaching you for three days about how to get better at AppleScript.                                                                                             |
 | 54:35      | And, you know, I think back to those two days I spent with you at Mackerel, I really think                                                                               |
 | 54:42      | it was a huge step for me in my automation journey.                                                                                                                      |
@@ -860,7 +860,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 56:18      | them and make them your own, which is one of the massive advantages of going to these                                                                                    |
 | 56:21      | things in person.                                                                                                                                                        |
 | 56:23      | You really get to feed all the ideas in together.                                                                                                                        |
-| 56:26      | Yeah, I saw Ray was teaching us some [[AppleScript]] last year at [[Command D]]. He made an                                                                              |
+| 56:26      | Yeah, I saw Ray was teaching us some [[AppleScript]] last year at [[CMD-D Conference\|CMD-D]]. He made an                                                                              |
 | 56:32      | analog clock with [[AppleScript]].                                                                                                                                       |
 | 56:34      | To this day, I have no idea how he did it.                                                                                                                               |
 | 56:37      | The guy really knows his stuff.                                                                                                                                          |
@@ -930,7 +930,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 01:01:14   | The third episode of this new show, we're able to get a kind of intensive [[AppleScript]]                                                                                |
 | 01:01:18   | tutorial from the man himself so I'll say go ahead and thank you so much and do download                                                                                 |
 | 01:01:24   | that script, play with it, let us know in the forums how you're using it and like I                                                                                      |
-| 01:01:29   | said, if you want to get better at this stuff, go to the [[Command D Down Home Scripting Bootcamp]]                                                                      |
+| 01:01:29   | said, if you want to get better at this stuff, go to the [[CMD-D Conference\|CMD-D Down Home Scripting Bootcamp]]                                                                      |
 | 01:01:34   | in October.                                                                                                                                                              |
 | 01:01:35   | Sal, you're also speaking at a couple of places.                                                                                                                         |
 | 01:01:37   | I guess you're at the [[Mac Sysadmin Conference]], correct?                                                                                                              |

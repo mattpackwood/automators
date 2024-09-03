@@ -450,7 +450,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 24:25      | I'm not muted.                                                                                         |
 | 24:27      | And then when you tap it, it toggles it.                                                               |
 | 24:29      | But if you work with Microsoft Teams and [[Slack]] and Zoom, and I don't know, maybe throwing              |
-| 24:34      | some WebEx and maybe even Skype still in there.                                                        |
+| 24:34      | some WebEx and maybe even [[Skype]] still in there.                                                        |
 | 24:38      | Well, depending on which app you're in, you're going to need something different in each               |
 | 24:41      | of those apps.                                                                                         |
 | 24:43      | And that's where a macro pad, even just a one button macro pad, could come in super                    |
@@ -486,7 +486,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 26:20      | dashes on there to help you orient yourself.                                                           |
 | 26:23      | But if you think about it, you know, that's not necessarily the most comfortable position              |
 | 26:28      | for doing other things in, especially if you're, say, using one of those Wacom tablets or similar      |
-| 26:34      | with Photoshop, you may actually want something that's not reach over this quite large Wacom           |
+| 26:34      | with [[Photoshop]], you may actually want something that's not reach over this quite large Wacom           |
 | 26:41      | tablet to press the button on the keyboard.                                                            |
 | 26:43      | You may want just the keys that you need within easy reach.                                            |
 | 26:47      | And that's where a macro pack can come in really handy for that.                                       |

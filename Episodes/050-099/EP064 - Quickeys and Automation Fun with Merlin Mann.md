@@ -510,30 +510,30 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 21:43      | And then I, again, I feel like that motivation is like, how do I make this easier to use?                     |
 | 21:47      | How do I make this more powerful?                                                                             |
 | 21:48      | How do I make it so my family doesn't have to talk to a lamp?                                                 |
-| 21:52      | This episode of The Automators is brought to you by Fast Scripts.                                             |
+| 21:52      | This episode of The Automators is brought to you by FastScripts.                                             |
 | 21:56      | Get powerful script management and instant access to your scripts.                                            |
 | 22:00      | Go to fastscripts.app slash auto to get 20% off.                                                              |
 | 22:04      | What's the point of creating all these automations to deal with the tedious tasks in your life                |
 | 22:09      | if you don't have instant access to those automations at the tip of your fingers?                             |
-| 22:14      | Fast Scripts is a supercharged script menu for your Mac that makes it easy to organise                        |
+| 22:14      | FastScripts is a supercharged script menu for your Mac that makes it easy to organise                        |
 | 22:19      | and run your scripts by defining global or app specific keyboard shortcuts.                                   |
 | 22:24      | You can customise the behaviour of all your most used Mac apps.                                                |
 | 22:28      | You can even use it to override the default keyboard shortcuts in many apps.                                  |
-| 22:32      | The best part is Fast Scripts is completely free to use with up to 10 keyboard shortcuts.                     |
+| 22:32      | The best part is FastScripts is completely free to use with up to 10 keyboard shortcuts.                     |
 | 22:37      | So you can use it as a quick fix for your most urgent needs.                                                  |
 | 22:41      | And when you decide you want more than 10 shortcuts, unlock premium functionality with                        |
 | 22:46      | a one-time payment of $25.                                                                                    |
 | 22:48      | I use my Mac every day and I've tried a lot of different ways to launch scripts and there                     |
-| 22:52      | is nothing faster than Fast Scripts.                                                                          |
+| 22:52      | is nothing faster than FastScripts.                                                                          |
 | 22:55      | I love the way you can use keyboard shortcuts to get everything going.                                        |
 | 22:59      | In fact, after a while, you don't even remember what the keyboard shortcuts are, your fingers                 |
 | 23:03      | just push some buttons and magic starts happening on your Mac.                                                |
-| 23:06      | And that's all because of Fast Scripts.                                                                       |
+| 23:06      | And that's all because of FastScripts.                                                                       |
 | 23:09      | Listeners to The Automators podcast can get 20% off for a limited time.                                       |
 | 23:13      | Just go to fastscripts.app slash auto a-u-t-o.                                                                |
 | 23:17      | Now to access the exclusive Automators discount coupon.                                                       |
 | 23:21      | That's fastscripts.app slash auto for 20% off.                                                                |
-| 23:24      | And our thanks to Fast Scripts for their support of this show and all of Relay FM.                            |
+| 23:24      | And our thanks to FastScripts for their support of this show and all of Relay FM.                            |
 | 23:29      | Hey, let's talk a little bit about shortcuts because we were mentioning it earlier.                           |
 | 23:35      | Are you using shortcuts these days and what are the things that you're doing with it?                         |
 | 23:40      | Yeah, absolutely.                                                                                             |
@@ -1367,17 +1367,17 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:08:47   | Let's begin.                                                                                                  |
 | 01:08:48   | There's so much more.                                                                                         |
 | 01:08:49   | So let's take that same example here.                                                                         |
-| 01:08:51   | When I started a podcast, I wanted to launch Skype, and I need to open this, but let's                        |
+| 01:08:51   | When I started a podcast, I wanted to launch [[Skype]], and I need to open this, but let's                        |
 | 01:08:57   | just say you've got words and then you've got things like punctuation that mean things.                       |
-| 01:09:04   | So if I do this, it's going to open Skype.                                                                    |
-| 01:09:07   | If I do this, it's going to quit Skype.                                                                       |
+| 01:09:04   | So if I do this, it's going to open [[Skype]].                                                                    |
+| 01:09:07   | If I do this, it's going to quit [[Skype]].                                                                       |
 | 01:09:09   | If I do this, it's going to open this URL.                                                                    |
 | 01:09:12   | If I do that, it's going to open this Finder window, et cetera, et cetera.                                    |
 | 01:09:16   | But it goes further than that.                                                                                |
 | 01:09:17   | He's added so much to this.                                                                                   |
 | 01:09:19   | I mean, the basic part of it is, like for me, I have a bunch called Start Podcast, and                        |
 | 01:09:24   | that does what?                                                                                               |
-| 01:09:25   | It opens Skype.                                                                                               |
+| 01:09:25   | It opens [[Skype]].                                                                                               |
 | 01:09:26   | It opens [[Audio Hijack]].                                                                                        |
 | 01:09:28   | It quits [[Dropbox]].                                                                                             |
 | 01:09:29   | It quits Plex.                                                                                                |
@@ -1415,7 +1415,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:11:09   | So you could basically have, you could abstract out, this is the thing that involves every                    |
 | 01:11:13   | kind of podcast, no matter what.                                                                              |
 | 01:11:16   | This is for this particular podcast.                                                                          |
-| 01:11:18   | So that opens Zoom instead of Skype or what have you.                                                         |
+| 01:11:18   | So that opens Zoom instead of [[Skype]] or what have you.                                                         |
 | 01:11:21   | So I would just say it's a, it would be a fun thing for people to whack around in because                     |
 | 01:11:25   | it is instantly going to be useful.                                                                           |
 | 01:11:27   | It is a little bit fun and nerdy, and if you want to go deeper on it, there's a lot more                      |

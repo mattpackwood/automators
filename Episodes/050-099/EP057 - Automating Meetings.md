@@ -783,7 +783,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 58:23      | tag as well as the store name tag. And so that helps because, you know, you can see                       |
 | 58:32      | how to do that.                                                                                           |
 | 58:33      | And I just like the idea of doing it in JavaScript because then I can just add tons of things.            |
-| 58:38      | I usually go through an open 10, 15 pages inside of, you know, [[Safari]] or Firefox on                       |
+| 58:38      | I usually go through an open 10, 15 pages inside of, you know, [[Safari]] or [[Firefox]] on                       |
 | 58:45      | my work machine. If I'm taking a quick break from work, usually like three pages there.                   |
 | 58:49      | But then I just add them all. And then when I get to it later on whatever platform I'm                    |
 | 58:53      | on, that's why I went with the OmniFocus automation here with the JavaScript scripting. Then I            |
@@ -881,7 +881,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:06:40   | place to try it. I think it's fun as a nerd to look at something                                          |
 | 01:06:44   | and try and turn it into an everything tool. But we have this abundance of riches like                    |
 | 01:06:50   | OmniFocus is such an amazing task manager. And even though Roam is great, Roam will never                 |
-| 01:06:57   | be as good of a task manager as OmniFocus. So why don't I just use OmniFocus or day one                   |
+| 01:06:57   | be as good of a task manager as OmniFocus. So why don't I just use OmniFocus or [[Day One]]                   |
 | 01:07:03   | is a great journalling tool and it has end-to-end encryption and Roam could be a journalling                |
 | 01:07:08   | tool but doesn't have end-to-end encryption. So I'm not sure it makes sense for me to do                  |
 | 01:07:12   | it there. And so so that's kind of my thought process. But but it is I am definitely a believer           |

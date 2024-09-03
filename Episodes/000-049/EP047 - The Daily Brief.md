@@ -473,7 +473,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 36:28      | you say the magic phrase, which is fun. But the 18th time in a row in the morning, just to get           |
 | 36:33      | all the information that you need can be a little wearing. And the other thing that you could do         |
 | 36:37      | with this, which I've just thought of, is if you wanted to, you could save your daily brief into         |
-| 36:43      | day one or something. Now, previously, what I was trying to do back when iOS 13 just was in beta,        |
+| 36:43      | [[Day One]] or something. Now, previously, what I was trying to do back when iOS 13 just was in beta,        |
 | 36:49      | early beta, is I was creating a PDF, converting the PDF to an image, and then setting that to my         |
 | 36:56      | lock screen information. So then when I, when I picked up my lock screen, I got like a little            |
 | 37:01      | overview of my day. Unfortunately, the ability to set the wallpaper automatically has gone.              |
@@ -732,7 +732,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:00:10   | Doc. And then, of course, we have another [[Airtable]] action to update our [[Airtable]] record with a link      |
 | 01:00:16   | to the show notes. Because this means that what I'm doing with my [[Stream Deck]] button, when I get         |
 | 01:00:22   | my [[Stream Deck]] back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the [[Airtable]]   |
-| 01:00:27   | [[Airtable]] base in Firefox for me. And then I can see the link to the show notes. And I can just           |
+| 01:00:27   | [[Airtable]] base in [[Firefox]] for me. And then I can see the link to the show notes. And I can just           |
 | 01:00:35   | click on it and go straight to the show notes there. Because, of course, every show has a different      |
 | 01:00:38   | document. Nice. That was a lot of work, though. It sounds like a lot of work, but actually,              |
 | 01:00:43   | once I realised that I just needed a formatter action, it wasn't so much work. I added the script        |
