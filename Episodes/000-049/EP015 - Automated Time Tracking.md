@@ -349,7 +349,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 11:51      | But, you know, it is limited in that respect.                                   |
 | 11:54      | But for that trade-off, it is 100% automatic.                                   |
 | 11:58      | So that's a good start, right?                                                  |
-| 12:00      | Yeah, it is, you know, I really wish Apple would open this up,                  |
+| 12:00      | Yeah, it is, you know, I really wish [[Apple]] would open this up,                  |
 | 12:03      | though.                                                                         |
 | 12:04      | Oh, yeah.                                                                       |
 | 12:05      | Just let third parties access that data.                                        |
@@ -828,7 +828,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 31:49      | and there were about 60 people in there.                                        |
 | 31:51      | I don't know, there could have been a bad guy in there                          |
 | 31:53      | trying to intercept my email to get details                                     |
-| 31:56      | of my iTunes account or my Amazon account,                                      |
+| 31:56      | of my iTunes account or my [[Amazon]] account,                                      |
 | 32:00      | but they couldn't do it because I was running ExpressVPN                        |
 | 32:02      | and that kept them out, it secured me.                                          |
 | 32:05      | And you know what, these days it's time                                         |

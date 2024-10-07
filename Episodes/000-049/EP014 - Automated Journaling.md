@@ -419,7 +419,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 19:25      | So it allows you to log everything that you watch films, TV shows, etc.                             |
 | 19:32      | And it can produce an RSS feed, it can produce calendar feeds, all sorts of things.                 |
 | 19:37      | And then I take that RSS feed from track.tv and I have that sent to [[Day One]].                        |
-| 19:43      | So every time I watch something, I use [[Infuse]] on the Apple TV and on iOS a lot of the time          |
+| 19:43      | So every time I watch something, I use [[Infuse]] on the [[Apple TV]] and on iOS a lot of the time          |
 | 19:49      | to watch things, it will automatically log that for me.                                             |
 | 19:54      | And so I'm sitting there and I've watched two episodes of, say, Death in Paradise, rewatching       |
 | 19:59      | last season in anticipation of the new season coming next week, I believe, when this episode        |
@@ -481,7 +481,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 23:23      | This episode of The Automators is brought to you by PDF pin, the ultimate tool for editing          |
 | 23:27      | PDFs from our friends over at Smile.                                                                |
 | 23:30      | Now everybody has a need to use PDFs and you know, occasionally you need more than what             |
-| 23:36      | Apple's willing to give you and PDF pin is the application you need for that problem.               |
+| 23:36      | [[Apple\|Apple's]] willing to give you and PDF pin is the application you need for that problem.               |
 | 23:43      | With PDF pin, you can say goodbye to manual forms or remember getting out typewriters               |
 | 23:48      | to fill out forms.                                                                                  |
 | 23:49      | Maybe you're too young to have such a pain in the neck.                                             |
@@ -684,7 +684,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 36:18      | the future.                                                                                         |
 | 36:19      | You're saving yourself time by just taking one quick snap now.                                      |
 | 36:23      | Another thing you could do to journal, another idea that occurs to me is if you like writing        |
-| 36:29      | but you don't care about paper that much and you want to write with an Apple Pencil                 |
+| 36:29      | but you don't care about paper that much and you want to write with an [[Apple Pencil]]                 |
 | 36:34      | on an iPad, the usual suspects would all be good at that.                                           |
 | 36:41      | I would actually really recommend GoodNotes for this because they have a bunch of different         |
 | 36:45      | template options.                                                                                   |
@@ -699,7 +699,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 37:16      | Exactly.                                                                                            |
 | 37:17      | And so you can have the exact diary page you want with the exact prompts you want.                  |
 | 37:23      | And you could even make them different ones for different days like we were talking about           |
-| 37:26      | earlier and just fill that out with your Apple Pencil.                                              |
+| 37:26      | earlier and just fill that out with your [[Apple Pencil]].                                              |
 | 37:28      | So anyway, there's a lot of ways to automate journalling.                                            |
 | 37:32      | If you're thinking about it and you're listening to the show, maybe that's what you need to         |
 | 37:38      | get a daily habit of doing it and why not?                                                          |

@@ -193,7 +193,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 06:46      | I'm just capturing that and I'll deal with it later.                                                   |
 | 06:49      | And that's the, that's the whole beauty of this.                                                       |
 | 06:50      | Yeah.                                                                                                  |
-| 06:51      | You know, some people complain about complications on the Apple watch, how they don't work well        |
+| 06:51      | You know, some people complain about complications on the [[Apple Watch]], how they don't work well        |
 | 06:56      | because so often a developer is trying to jam a very complicated app into a very small                 |
 | 07:01      | screen with no buttons.                                                                                |
 | 07:05      | And [[Drafts]] is one of the exceptions to that because like Tim was saying, [[Drafts]] is kind                |
@@ -207,14 +207,14 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 07:46      | right?                                                                                                 |
 | 07:47      | And the badge just represents anything in the inbox that hasn't been processed.                        |
 | 07:51      | Yeah.                                                                                                  |
-| 07:52      | So I love the Apple Watch functionality and the fact that you can have it tag automatically.           |
-| 07:57      | Everything that comes from the Apple Watch is so useful because then as you say to him,                |
+| 07:52      | So I love the [[Apple Watch]] functionality and the fact that you can have it tag automatically.           |
+| 07:57      | Everything that comes from the [[Apple Watch]] is so useful because then as you say to him,                |
 | 08:01      | it doesn't always understand what you say quite right.                                                 |
-| 08:03      | And this is on Apple's dictation.                                                                      |
+| 08:03      | And this is on [[Apple\Apple's]] dictation.                                                                      |
 | 08:06      | I should point out, agile tortures hasn't written their own dictation engine.                          |
 | 08:10      | They use the built-in dictation engine.                                                                |
 | 08:13      | So that means all of your data is nice and secure and safe as well.                                    |
-| 08:16      | And I like to tag everything that comes from the Apple Watch because then when I'm looking             |
+| 08:16      | And I like to tag everything that comes from the [[Apple Watch]] because then when I'm looking             |
 | 08:19      | at it and I'm like, what did I mean, six "catala"?                                                       |
 | 08:22      | What?                                                                                                  |
 | 08:23      | What is that?                                                                                          |
@@ -225,7 +225,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 08:32      | My only question was if it's six, why isn't it 10, honestly?                                           |
 | 08:37      | I think it was a specific recipe that I was actually making sure I had the ingredients                 |
 | 08:42      | for because I had the recipe on my iPad and I was going through the stuff in the kitchen               |
-| 08:47      | and it was much easier to just talk to my Apple Watch.                                                 |
+| 08:47      | and it was much easier to just talk to my [[Apple Watch]].                                                 |
 | 08:50      | I believe I was making chocolate brownies.                                                             |
 | 08:52      | Nice.                                                                                                  |
 | 08:53      | See, I thought it was 10 is six and six is none.                                                       |
@@ -250,7 +250,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 10:20      | and it's a built-in action for a list to [[Apple Reminders\|Reminders]].                                                    |
 | 10:25      | And I tap that, it's added to my grocery list and I'm done.                                            |
 | 10:29      | That is genius.                                                                                        |
-| 10:30      | Yeah, I know we have some listeners at Apple and I'd ask the listeners at Apple right                  |
+| 10:30      | Yeah, I know we have some listeners at [[Apple]] and I'd ask the listeners at [[Apple]] right                  |
 | 10:34      | now to just think pleasant thoughts for a moment and tune out because one of the things                |
 | 10:39      | [[Drafts]] does, I'm not sure if this is even allowed, but he manages to loop dictation                    |
 | 10:46      | in a way because usually there's a dictation timer on the iPhone and iPad where after about            |
@@ -284,9 +284,9 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 12:12      | That's really annoying.                                                                                |
 | 12:13      | Have you tried talking to one of the ladies in a can recently, adding stuff to your shopping           |
 | 12:17      | list?                                                                                                  |
-| 12:18      | I literally have to go, Amazon lady, please add toilet paper to the shopping list.                     |
-| 12:22      | Amazon lady, please add ketchup to the shopping list.                                                  |
-| 12:25      | Amazon lady, please add XYZ to the shopping list.                                                      |
+| 12:18      | I literally have to go, [[Amazon]] lady, please add toilet paper to the shopping list.                     |
+| 12:22      | [[Amazon]] lady, please add ketchup to the shopping list.                                                  |
+| 12:25      | [[Amazon]] lady, please add XYZ to the shopping list.                                                      |
 | 12:28      | And you're there going in so many more words.                                                          |
 | 12:30      | I'd rather just say the words new line.                                                                |
 | 12:31      | So I'm stealing your action there, Tim.                                                                |
@@ -765,7 +765,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 41:52      | You can also connect via USB.                                                                          |
 | 41:55      | Luna Display is super simple to set up, and you'll love that extra screen real estate.                 |
 | 42:00      | The Luna Display is a complete extension to your Mac.                                                  |
-| 42:03      | It supports external keyboards as well as Apple Pencil and touch interactions.                         |
+| 42:03      | It supports external keyboards as well as [[Apple Pencil]] and touch interactions.                         |
 | 42:07      | You can basically have a touchscreen Mac by using your Luna Display on your iPad.                      |
 | 42:13      | And the all new liquid video engine brings significantly reduced latency and a faster                  |
 | 42:17      | screen refresh rate.                                                                                   |

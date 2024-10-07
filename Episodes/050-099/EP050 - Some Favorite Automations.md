@@ -71,8 +71,8 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 01:12      | about a week or so. So if you want to get it, head over to learn.mexparki.com. There's               |
 | 01:16      | nothing in it about automation, really, but I can't help but talk about it everywhere                |
 | 01:22      | I go. So if you feel you're interested in photos, I did try to make this one so it's                 |
-| 01:28      | accessible to everyone. So if there's someone in your world that may not be writing Apple            |
-| 01:33      | scripts and shortcuts, but does want to get better at taking pictures with their iPhone              |
+| 01:28      | accessible to everyone. So if there's someone in your world that may not be writing [[AppleScript\|AppleScripts]]            |
+| 01:33      | and shortcuts, but does want to get better at taking pictures with their iPhone              |
 | 01:36      | or managing photos, this might be something for them.                                                |
 | 01:40      | Okay, we made it to episode 50. Hooray!                                                              |
 | 01:44      | Yeah, we did. It's a shiny number, a really round shiny number. I love it. I'm really                |
@@ -131,9 +131,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 05:48      | like it is the it is the hammer that that, you know, hammers all nails because it's                  |
 | 05:54      | just so great. It has it's so deep in its integration with the Mac operating system.                 |
 | 06:00      | And there's almost nothing that you can't do with it. And sometimes you will have to                 |
-| 06:06      | resort to like an AppleScript or something a little more advanced. In fact, one of my               |
-| 06:10      | automations I'm going to share in today's show involves [[Keyboard Maestro]] and an Apple                 |
-| 06:14      | script. But for so much of the things you want to do, it just works. I mean, you talked              |
+| 06:06      | resort to like an [[AppleScript]] or something a little more advanced. In fact, one of my               |
+| 06:10      | automations I'm going to share in today's show involves [[Keyboard Maestro]] and an [[AppleScript\|AppleScripts]].                 |
+| 06:14      | But for so much of the things you want to do, it just works. I mean, you talked              |
 | 06:20      | earlier about, you know, find a button on the screen and push it, you know, and one                  |
 | 06:26      | of the things [[Keyboard Maestro]] can do is you can just take a quick little screenshot of               |
 | 06:30      | the screen and then you can save that image to a [[Keyboard Maestro]] action and just say,                |
@@ -244,7 +244,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 15:15      | Yeah, that's cool. So [[Keyboard Maestro]], I agree is one of the most interesting topics                |
 | 15:21      | we've been able to cover here. The other one and one you've made reference to already                |
 | 15:25      | is shortcuts. I feel like shortcuts is the spirit animal of this podcast because you                 |
-| 15:31      | and I, as we've mentioned, we started recording the show before Apple announced shortcuts.           |
+| 15:31      | and I, as we've mentioned, we started recording the show before [[Apple]] announced shortcuts.           |
 | 15:36      | And then, then they announced it. So we had to go back and rerecord the first couple episodes,       |
 | 15:43      | but we've been running the show, the lifespan of shortcuts. And we've had some great coverage        |
 | 15:49      | of it over the, you know, last couple of years. We've, I've really enjoyed having app developers     |
@@ -288,7 +288,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 19:02      | talk to him or hear him on the show, you know, this guy believes in this so much. And I loved        |
 | 19:07      | the episode where he came on to share that crazy control board he made. And we'll put                |
 | 19:13      | a link to it. And this is something if you want a fun weekend project, try and set up                |
-| 19:18      | Sal's control board with your iPad and your Mac. He's driving AppleScripts from the,                |
+| 19:18      | Sal's control board with your iPad and your Mac. He's driving [[AppleScript\|AppleScripts]] from the,                |
 | 19:23      | from the glass screen of his iPad. It's just kind of amazing. And, you know, it's just,              |
 | 19:29      | it just epitomises Sal's creative thinking about automation and, and what he's done for              |
 | 19:35      | the Mac and iOS now.                                                                                 |
@@ -309,9 +309,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 20:38      | I don't have enough ports for this. So I'm using the macOS Catalina screen extension                 |
 | 20:44      | to do this. But, you know, having that both as an extra display and then also as a palette           |
 | 20:49      | of macros that I can, I can tap to run has been a game changer.                                      |
-| 20:53      | Well, I will say about that, though, is he opened my eyes about some of the AppleScripts            |
+| 20:53      | Well, I will say about that, though, is he opened my eyes about some of the [[AppleScript\|AppleScripts]]            |
 | 20:58      | to control system preferences and system events. And a bunch of those scripts, I've just basically   |
-| 21:04      | copied any keyboard master into a, into a palette. But yeah, that was probably one of                |
+| 21:04      | copied any [[Keyboard Maestro}] into a, into a palette. But yeah, that was probably one of                |
 | 21:10      | my favourite guests. And what about you? Any particular guest stand out for you as we get             |
 | 21:14      | through episode 50?                                                                                  |
 | 21:15      | I mean, it's, it's really hard to pick a favourite because I've loved everybody that                  |
@@ -386,9 +386,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 27:03      | that just skips us. If I pick other, then it allows me to input an address with dictation,           |
 | 27:10      | because I'm probably about to start a car, so I shouldn't be typing. And then and if                 |
 | 27:14      | I pick one of them, then it uses that. And then I found around here, Google Maps is actually         |
-| 27:19      | best. I wanted to use Apple Maps, but Google Maps is better. It's for for this area. And             |
+| 27:19      | best. I wanted to use [[Apple Maps]], but Google Maps is better. It's for for this area. And             |
 | 27:24      | it shows the speed limit on the screen and everything for me all the time, which I noticed           |
-| 27:27      | Apple Maps not always doing. So it gets the directions using that for me. And it will do             |
+| 27:27      | [[Apple Maps]] not always doing. So it gets the directions using that for me. And it will do             |
 | 27:32      | that right at the end of the script then. And then it also picks a random driving playlist.          |
 | 27:37      | I've created five different driving playlists. And it picks a random one of those for me,            |
 | 27:41      | and then it plays it. And, you know, that's that's it. But at the same time, it's really             |
@@ -403,14 +403,14 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 28:30      | of the shortcut for me. Yeah, exactly. And and I also the the frequent destination stuff             |
 | 28:36      | is nice. Because you can just when you're in the car, you can make it easy to go there.              |
 | 28:43      | Although, if they're frequent destinations, do you need directions? Is there a way to                |
-| 28:47      | script because in Apple Maps, you can manually tell it, you know, just give me directions,           |
+| 28:47      | script because in [[Apple Maps]], you can manually tell it, you know, just give me directions,           |
 | 28:54      | give me verbals, you know, so it just gives it on the screen. Because I actually like                |
 | 28:58      | knowing ETA information and how long until my next turn, even though I know where I'm                |
 | 29:04      | going. So I use directions all the time for that. But I don't know that there's a way                |
 | 29:09      | to script that to turn off the the voice directions in Automator. I'm sorry, shortcuts.              |
 | 29:16      | I don't think there is either, especially in my case, I'm using Google Maps as well.                 |
 | 29:20      | So I'm not even I don't even have a lot of the other options. Because so inside, I should            |
-| 29:28      | know I'm using the standard Apple action, which is show driving directions to destination            |
+| 29:28      | know I'm using the standard [[Apple]] action, which is show driving directions to destination            |
 | 29:34      | using. And then if you tap on maps, then depending on the apps that you have installed, you will     |
 | 29:39      | have a series of options. So in my case, I have maps, city map or Google Maps and ways               |
 | 29:43      | installed. And so I've selected Google Maps. But I don't get to choose with or without               |
@@ -439,7 +439,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 31:35      | pin as my my icon for the other ones, which might be a good idea. I may have to rework               |
 | 31:40      | this before it gets into the show notes this week. Toolbox pro is so great. And and the              |
 | 31:45      | ability, I mean, that's just another thing. I mean, who would have thought that we could             |
-| 31:49      | actually customise the user interface with icons, you know, Apple's not going to bother              |
+| 31:49      | actually customise the user interface with icons, you know, [[Apple|Apple's]] not going to bother              |
 | 31:53      | doing that. But through a third party app, we can. I love that. All right. So I need                 |
 | 31:58      | to know just for my own knowledge, you said you've got multiple driving playlists. What              |
 | 32:04      | how, how do you break them up? I mean, like is one just ABBA? Yeah. Okay. It's not just              |
@@ -501,10 +501,10 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 36:46      | No, because so the way that you trigger an NFC tag on your iPhone is the reader is actually          |
 | 36:52      | near the camera area at the top of your phone. So what I do is I tap the camera area of the          |
 | 36:58      | phone to the NFC tag, but then when it actually docks, the NFC tag is round about against            |
-| 37:03      | the Apple logo. I mean, it should be approximately there because the mount sits just below the       |
+| 37:03      | the [[Apple]] logo. I mean, it should be approximately there because the mount sits just below the       |
 | 37:09      | volume button height wise because otherwise if it's pressing all the buttons and things              |
 | 37:12      | can go a little bit crazy and you're wondering why you don't hear any music, that did not            |
-| 37:16      | happen to me today at all. So, but because it's down then sitting around the Apple logo              |
+| 37:16      | happen to me today at all. So, but because it's down then sitting around the [[Apple]] logo              |
 | 37:22      | area, it doesn't trigger it because there's no reader there. So it's not a problem, fortunately.     |
 | 37:27      | Really? Is that sensitive? Because I use the NFC tags, but I've just never thought about             |
 | 37:31      | leaving one near one after I trigger it. Usually, I've got one in the door jam.                      |
@@ -512,17 +512,17 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 37:39      | Yeah. Interesting.                                                                                   |
 | 37:40      | Yeah.                                                                                                |
 | 37:41      | Well, I'll tell you, I had an automation thing. I kind of went the Rose Mary Orchard direction       |
-| 37:46      | this week. So I created a [[Keyboard Maestro]] script to create a new contact in CardHop.                |
-| 37:53      | You know, CardHop is a great app. It's like made by the same people, makes Fantastic                 |
-| 37:57      | Al. And it has the same idea of you can type one line of syntax and create a contact the             |
-| 38:02      | same way you can do a calendar event with Fantastic Al. And, you know, kind of getting               |
-| 38:08      | back to automating Basecamp, one of the things I do with Basecamp when I make a new project          |
+| 37:46      | this week. So I created a [[Keyboard Maestro]] script to create a new contact in [[CardHop]].                |
+| 37:53      | You know, [[CardHop]] is a great app. It's like made by the same people, makes [[Fantastical]].                 |
+| 37:57      | And it has the same idea of you can type one line of syntax and create a contact the             |
+| 38:02      | same way you can do a calendar event with [[Fantastical]]. And, you know, kind of getting               |
+| 38:08      | back to automating Basecamp, one of the things I do with [[Basecamp]] when I make a new project          |
 | 38:13      | is I also create an email archive for that project. And the way it works is you just                 |
 | 38:17      | blind copy every email or forward every email related to that project to this magic email            |
 | 38:23      | address and then it saves it and indexes it for you. So it's kind of a nice way to keep              |
 | 38:28      | emails together with documents in a project. But the idea of going into, you know, Basecamp,         |
 | 38:36      | being in a new email address every time we create a new project and then creating a new              |
-| 38:41      | contact, it just makes me want to yank my hair. I mean, the Apple Contacts app is terrible           |
+| 38:41      | contact, it just makes me want to yank my hair. I mean, the [[Apple Contacts]] app is terrible           |
 | 38:47      | about adding new contacts. It requires a combination of mouse clicks, mouse moves and keyboard entry |
 | 38:56      | that is, you know, it's almost a masochistic how hard it is to create new contacts. I know           |
 | 39:02      | people are rolling their eyes, but it's just, it's too much, right? I don't want to spend            |
@@ -532,7 +532,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 39:21      | CardHop that basically you'd copy it to, you'd copy the magic email address, put it in a             |
 | 39:28      | paste buffer and then it would run a script and it'd ask you the name and it would open              |
 | 39:33      | CardHop and enter the text for you and create the contact entry. And that was great, but             |
-| 39:38      | you know, there's a lot of people that don't own CardHop and also this is one where I felt           |
+| 39:38      | you know, there's a lot of people that don't own [[CardHop]] and also this is one where I felt           |
 | 39:43      | like, you know, going directly into the contacts database would feel better than, you know,          |
 | 39:49      | watching it appear on the screen because sometimes it doesn't always work right when you're opening  |
 | 39:54      | a third-party app and you're trying to type a string of text if the, you know, the application       |
@@ -541,17 +541,17 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 40:09      | have contacts, actions built, you know, it does has a lot of built-in actions, but for               |
 | 40:15      | whatever reason, contacts is not one of them. There's not like a built-in [[Keyboard Maestro]]           |
 | 40:20      | action to create a new contact or to alter a contact. So I went, you know, to our old                |
-| 40:26      | different AppleScript. And, you know, with a couple of Google searches, I was able to               |
-| 40:29      | very quickly get the syntax to create a new contact card using AppleScript. And I opened            |
+| 40:26      | different [[AppleScript]]. And, you know, with a couple of Google searches, I was able to               |
+| 40:29      | very quickly get the syntax to create a new contact card using [[AppleScript]]. And I opened            |
 | 40:35      | up the script editor on the Mac and ran some samples and very quickly had it running the             |
-| 40:40      | way I wanted. But this is a case where I want to run an AppleScript that's going to have            |
+| 40:40      | way I wanted. But this is a case where I want to run an [[AppleScript]] that's going to have            |
 | 40:46      | changing data in it. You know, the actual email is going to change and the description               |
-| 40:50      | of the project is going to change. So I wanted to write variables into an AppleScript. And          |
+| 40:50      | of the project is going to change. So I wanted to write variables into an [[AppleScript]]. And          |
 | 40:56      | I wanted to run the whole thing through [[Keyboard Maestro]] because I already have a whole series       |
 | 41:01      | of Basecamp related automations built on that caps lock B button. So I have like a palette           |
 | 41:07      | of, and I just wanted to make this one more thing on the palette. So the challenge I had             |
-| 41:12      | was to create a [[Keyboard Maestro]] script that would run an AppleScript that would grab               |
-| 41:18      | a variable that I created in [[Keyboard Maestro]] and insert it into an AppleScript. And I              |
+| 41:12      | was to create a [[Keyboard Maestro]] script that would run an [[AppleScript]] that would grab               |
+| 41:18      | a variable that I created in [[Keyboard Maestro]] and insert it into an [[AppleScript]]. And I              |
 | 41:23      | had never done that before. So I had to do some research and I figured it out. So, and               |
 | 41:27      | I'll put the, I made a video on it and I'll put it in the show notes. But the, so what               |
 | 41:32      | I do in the [[Keyboard Maestro]] half of it is the first thing I do is I grab a prompt from              |
@@ -566,24 +566,24 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 42:15      | the clipboard contents and assigns that to a variable as well. And the re, I'll explain              |
 | 42:22      | why I did that in a minute. But so at the end of the process, the [[Keyboard Maestro]] half              |
 | 42:26      | of this is I've created two variables. One is the name of the project. One is the magic              |
-| 42:31      | email address. And then I run it a AppleScript. And the way you get [[Keyboard Maestro]] variables      |
-| 42:38      | into an AppleScript is a AppleScript to [[Keyboard Maestro]]. There's actually a Keyboard              |
-| 42:43      | Maestro is AppleScript addressable. So you can set a AppleScript variable to the contents          |
+| 42:31      | email address. And then I run it a [[AppleScript]]. And the way you get [[Keyboard Maestro]] variables      |
+| 42:38      | into an [[AppleScript]] is a [[AppleScript]] to [[Keyboard Maestro]]. There's actually a Keyboard              |
+| 42:43      | Maestro is [[AppleScript]] addressable. So you can set a [[AppleScript]] variable to the contents          |
 | 42:52      | of a variable from [[Keyboard Maestro]]. So all you do is say, you know, get or set magic                |
 | 42:58      | email, which is the magic email address to the, the variable, you know, clipboard email              |
 | 43:06      | that I had in [[Keyboard Maestro]]. So all I'm doing in that step is grabbing a variable                 |
-| 43:10      | out of [[Keyboard Maestro]], inserting it into memory for AppleScript. And I do that for                |
-| 43:14      | both of those. So it's a, it's like a three step keyboard, AppleScript to grab the variables        |
+| 43:10      | out of [[Keyboard Maestro]], inserting it into memory for [[AppleScript]]. And I do that for                |
+| 43:14      | both of those. So it's a, it's like a three step keyboard, [[AppleScript]] to grab the variables        |
 | 43:20      | out of [[Keyboard Maestro]]. Then once I have those, I'm golden, you know, I can just run                |
-| 43:26      | the typical create a new contact AppleScript command. And mine is very simple because I             |
+| 43:26      | the typical create a new contact [[AppleScript]] command. And mine is very simple because I             |
 | 43:32      | don't have email address. I'm sorry, I don't have phone numbers and, and physical addresses.         |
 | 43:37      | All I'm doing is one email address and the name of the organisation. And when you make               |
-| 43:43      | that identification with the AppleScript name of organisation, but you don't do first               |
+| 43:43      | that identification with the [[AppleScript]] name of organisation, but you don't do first               |
 | 43:48      | name and last name, it automatically creates a contact and marks it as an organisation               |
 | 43:54      | because it says, Hey, he didn't give me a first or last name. So I'm going to assume                 |
-| 43:57      | this is an organisation. I thought that was really smart by the contacts slash AppleScript          |
+| 43:57      | this is an organisation. I thought that was really smart by the contacts slash [[AppleScript]]          |
 | 44:02      | team. And then I just add to that the, the magic email. And then the final thing I do                |
-| 44:08      | is you can use an AppleScript, add a contact to a group. So then I add the new contact              |
+| 44:08      | is you can use an [[AppleScript]], add a contact to a group. So then I add the new contact              |
 | 44:14      | to the group called base camp filings, which is a specific group of my contacts database.            |
 | 44:20      | And all that happens in the background when you run this little script. And when I'm done,           |
 | 44:25      | you don't see anything. All you do is you copy the, you know, the email, you hit the                 |
@@ -597,7 +597,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 44:59      | a new email to them. You know, I think I'd be better off with a little bit of keyboard               |
 | 45:02      | maestro magic in my life. Well, you know, there's a lot of times you don't need it because           |
 | 45:07      | like an email is a good example, you can add an email, an email information to contacts              |
-| 45:14      | right from with the app with data detectors. Apple's done a good job of kind of simplifying          |
+| 45:14      | right from with the app with data detectors. [[Apple|Apple's]] done a good job of kind of simplifying          |
 | 45:18      | that. You can, but I would like it to be an appellate on my screen. So it kind of prompts            |
 | 45:23      | me to do this, if that makes sense. It sounds a little weird, maybe, but I feel like the             |
 | 45:28      | fact that it shows me like the name of the person instead of the email address, because              |
@@ -642,7 +642,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 48:05      | We are looking at [[WWDC]] and just down the road.                                                       |
 | 48:10      | Yeah.                                                                                                |
 | 48:11      | [[WWDC]] starts exactly one month from the day this episode releases.                                    |
-| 48:16      | I feel like we are giving Apple plenty of notice so that they can fulfill all of our                 |
+| 48:16      | I feel like we are giving [[Apple]] plenty of notice so that they can fulfill all of our                 |
 | 48:19      | desires here.                                                                                        |
 | 48:20      | Yes.                                                                                                 |
 | 48:21      | That's how it works, right?                                                                          |
@@ -668,13 +668,13 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 49:11      | that stuff.                                                                                          |
 | 49:12      | I feel, yes, it's a third-party thing, but that's not a bad thing.                                   |
 | 49:15      | It means that those can iterate and improve at a separate pace and so on.                            |
-| 49:21      | But I feel like we need more Apple Shortcuts actions.                                                |
+| 49:21      | But I feel like we need more [[Shortcuts\|Apple Shortcuts]] actions.                                                |
 | 49:25      | Do not disturb while driving.                                                                        |
 | 49:26      | I mentioned this earlier.                                                                            |
 | 49:27      | I can't enable that in Shortcuts.                                                                    |
 | 49:28      | I can't log menstrual health things, not the symptoms related to it either, rather, inside           |
 | 49:36      | of Shortcuts and stuff like that.                                                                    |
-| 49:38      | I feel like adding a little bit more of this and that if Apple apps added Shortcuts support          |
+| 49:38      | I feel like adding a little bit more of this and that if [[Apple]] apps added Shortcuts support          |
 | 49:44      | as well, and that's outside of the Shortcuts team, that's up to the makers of GarageBand             |
 | 49:49      | and stuff to add.                                                                                    |
 | 49:50      | I'm not quite sure what you would do with GarageBand Shortcuts, but maybe creating a                 |
@@ -725,9 +725,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 52:46      | Definitely.                                                                                          |
 | 52:47      | Stuff like the health thing is particularly a contentious issue for third-party developers.          |
 | 52:53      | For example, I believe Scriptable originally had support for health data, and they had               |
-| 52:57      | to remove it because Apple wouldn't let them release Scriptable in the app store with health         |
+| 52:57      | to remove it because [[Apple]] wouldn't let them release Scriptable in the app store with health         |
 | 53:02      | kit support.                                                                                         |
-| 53:03      | I feel like Apple is doing a great job trying to protect us from the bad guys, but they're           |
+| 53:03      | I feel like [[Apple]] is doing a great job trying to protect us from the bad guys, but they're           |
 | 53:09      | protecting us from ourselves as well in ways that we probably wouldn't like to see.                  |
 | 53:14      | It would be great if they maybe ease up on that and go, okay, and can you show us an                 |
 | 53:20      | example use case of this, and [[Scriptable]] people, [[Simon Støvring\|Simon]], give us a sample script of where you         |
@@ -746,7 +746,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 54:14      | it.                                                                                                  |
 | 54:15      | I forget what the exact language is, but I don't like that language anyway, but there's              |
 | 54:21      | so many hoops you have to jump through before that problem happens.                                  |
-| 54:25      | Why not give us the ability, or maybe Apple people hate to hear this, but add one more               |
+| 54:25      | Why not give us the ability, or maybe [[Apple]] people hate to hear this, but add one more               |
 | 54:31      | checkbox, and are you sure checkbox isn't saying you really want access to this stuff?               |
 | 54:38      | Okay.                                                                                                |
 | 54:39      | Yeah.                                                                                                |
@@ -764,7 +764,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 55:24      | Yeah.                                                                                                |
 | 55:25      | I think this is an interesting problem.                                                              |
 | 55:29      | I think we're going to probably see some improvements to Catalyst this year, which is the system     |
-| 55:34      | that Apple offer for you to put an iOS app on the Mac, and that's a great idea, and it's             |
+| 55:34      | that [[Apple]] offer for you to put an iOS app on the Mac, and that's a great idea, and it's             |
 | 55:41      | definitely working for some applications.                                                            |
 | 55:43      | For other applications, the developers are saying, no, it's not there for me yet.                    |
 | 55:47      | I still need to develop a separate Mac application, but I'm wondering if this year the improvements  |
@@ -775,7 +775,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 56:11      | and how you can literally script anything on your Mac.                                               |
 | 56:15      | What is the necessity of shortcuts?                                                                  |
 | 56:18      | I think it's going to be more limited than what we can already do, but it does offer                 |
-| 56:23      | a different avenue for people who don't want to learn AppleScript or deal with Keyboard              |
+| 56:23      | a different avenue for people who don't want to learn [[AppleScript]] or deal with Keyboard              |
 | 56:27      | Maestro.                                                                                             |
 | 56:28      | I think there's a benefit to it.                                                                     |
 | 56:30      | I'd like to see it happen, but I am super curious when they do get around to it to see               |

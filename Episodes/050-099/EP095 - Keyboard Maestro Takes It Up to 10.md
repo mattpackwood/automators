@@ -87,8 +87,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 02:07      | how you sync it, which means that I can sync it to my work machine as well and have the                  |
 | 02:12      | things there, even though I don't actually sync shortcuts to my work machine.                            |
 | 02:18      | So it's quite useful being able to do that.                                                              |
-| 02:21      | Yeah, and, you know, shortcuts has done a lot, you know, they allow scripting and Apple                  |
-| 02:27      | Script and a lot of very powerful automation to be embedded in a shortcut, but there's                   |
+| 02:21      | Yeah, and, you know, shortcuts has done a lot, you know, they allow scripting and [[AppleScript]]                  |
+| 02:27      | and a lot of very powerful automation to be embedded in a shortcut, but there's                   |
 | 02:32      | a lot it's still not very good at, you know, like one very basic feature is just select                  |
 | 02:38      | an item from the menu, you know, I mean, that is something that people want to do in                     |
 | 02:42      | automation and [[Apple Mail]], for a long time, that was one of the ways I was filing messages               |
@@ -137,7 +137,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 06:01      | and then it triggers a [[Keyboard Maestro]] script.                                                          |
 | 06:05      | So not only can you trigger it with your [[Stream Deck]] or some keyboard shortcut, or you can               |
 | 06:10      | trigger it with a keyboard and attach and a keyboard and a [[MIDI]] note.                                    |
-| 06:14      | You can also trigger it with your phone or iPad or Apple Watch.                                          |
+| 06:14      | You can also trigger it with your phone or iPad or [[Apple Watch]].                                          |
 | 06:19      | And that is kind of awesome.                                                                             |
 | 06:21      | But people are already going the other direction now to where they're allowing [[Keyboard Maestro]]          |
 | 06:27      | to trigger shortcuts.                                                                                    |
@@ -161,8 +161,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 07:29      | I feel like they're difficult to script in [[Keyboard Maestro]].                                             |
 | 07:33      | I mean, you can do it.                                                                                   |
 | 07:34      | You can write an [[AppleScript]] to do anything with contacts, but I don't want to have to                  |
-| 07:38      | break out the AppleScript.                                                                              |
-| 07:40      | I don't have to break glass and break out AppleScript just to change a contact detail                   |
+| 07:38      | break out the [[AppleScript]].                                                                              |
+| 07:40      | I don't have to break glass and break out [[AppleScript]] just to change a contact detail                   |
 | 07:45      | where with shortcuts, they make that very easy.                                                          |
 | 07:50      | These are not, neither one replaces the other.                                                           |
 | 07:54      | They both have things they're good at and bad at.                                                        |
@@ -521,7 +521,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 29:56      | it was being retailed at and then Camel, Camel, Camel said, hey, this is dropped in                      |
 | 30:01      | price to the recommended retail price.                                                                   |
 | 30:04      | And that's the point when I went and bought it and it said it would come at the end of                   |
-| 30:08      | February and then I had an email from Amazon just yesterday actually to say that it should               |
+| 30:08      | February and then I had an email from [[Amazon]] just yesterday actually to say that it should               |
 | 30:12      | be coming earlier.                                                                                       |
 | 30:14      | Okay, well, you're ahead of me.                                                                          |
 | 30:17      | Yeah, well, I'm going to be seeing what [[Keyboard Maestro]] can do with this because, of course,            |
@@ -559,7 +559,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 32:32      | you don't want to use up, like Ctrl L to me gets a copy of the [[Obsidian]] URL when I'm                     |
 | 32:39      | in [[Obsidian]] because it's only going to work.                                                             |
 | 32:42      | That Ctrl L is only going to work to run that command when I'm in [[Obsidian]].                              |
-| 32:47      | When I go over to OmniFocus or Fantastical or whatever or Apple Mail, it's going to use                   |
+| 32:47      | When I go over to OmniFocus or Fantastical or whatever or [[Apple Mail]], it's going to use                   |
 | 32:53      | it.                                                                                                      |
 | 32:54      | Ctrl L maybe do something entirely different.                                                            |
 | 32:56      | And it, in effect, allows you to make app-specific shortcuts or triggers that, you know, once            |
@@ -590,13 +590,13 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 35:00      | outdent things in my inbox and they get converted to be a project.                                       |
 | 35:04      | Another use for these app-specific groups is to create individual conflict pellets inside                |
 | 35:10      | the app.                                                                                                 |
-| 35:11      | Like I have a bunch of scripts over it in Apple Mail, they're AppleScripts to move                      |
+| 35:11      | Like I have a bunch of scripts over it in [[Apple Mail]], they're [[AppleScript\|AppleScripts]] to move                      |
 | 35:16      | a message to a specific mailbox and do other things with messages.                                       |
 | 35:20      | But one of them is move, like I like to move messages, like maybe I want to move it to                   |
 | 35:25      | the same box black hole or to the priority folder or whatever.                                           |
 | 35:30      | And I've just done a conflict pallet for MacSparky stuff, I hit Control M. And this is                  |
 | 35:38      | a feature that used to be in some of the third-party mail plugins where you could do this, but           |
-| 35:43      | I just wrote them as AppleScripts and embedded them in Keyboard Master, so I don't have to              |
+| 35:43      | I just wrote them as [[AppleScript\|AppleScripts]] and embedded them in [[Keyboard Maestro}], so I don't have to              |
 | 35:48      | worry about losing the plug-in support.                                                                  |
 | 35:53      | But I've got a bunch of those, and they do have specific keyboard shortcuts, like I can                  |
 | 35:57      | hit Control 1 for a certain folder, Control 2, whatever.                                                 |
@@ -727,7 +727,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 44:34      | You can, and then of course the [[Stream Deck]] is a huge kind of [[Keyboard Maestro]] launching                 |
 | 44:41      | device for me as well.                                                                                   |
 | 44:42      | I was just looking, do they, do they only make the standard [[Stream Deck]] now that they                    |
-| 44:47      | used to have three sizes, but just looking on Amazon real quickly.                                       |
+| 44:47      | used to have three sizes, but just looking on [[Amazon]] real quickly.                                       |
 | 44:50      | I don't even see that they have the big one for sale anymore.                                            |
 | 44:54      | I did see them the other day when I was having a look and I was just having a look on their              |
 | 44:59      | website and they do seem to be focusing on their [[Stream Deck#Stream Deck MK 2\|Stream Deck MK 2]], which is the medium               |
@@ -934,23 +934,23 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 58:23      | And of course, the other option that you've got is to be able to calculate the time and                  |
 | 58:28      | say now plus 20 minutes or now minus 15 minutes or whatever, which is, again, great for that             |
 | 58:36      | date and time that you were talking about.                                                               |
-| 58:39      | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from                  |
+| 58:39      | This episode of Automated is brought to you by DEVONthink, the flagship product from                  |
 | 58:43      | DEVONtechnologies.                                                                                    |
-| 58:44      | [[DEVONthink]] is the most professional document and information management application for               |
+| 58:44      | DEVONthink is the most professional document and information management application for               |
 | 58:48      | the Mac.                                                                                                 |
 | 58:49      | It's the one place for storing all your documents, snippets, all bookmarks, and working with             |
 | 58:53      | them.                                                                                                    |
 | 58:54      | The integrated AIs assist you with filing and searching or the extensive search language                 |
 | 58:58      | with advanced billions of search operators means you're never going to not find something.               |
-| 59:03      | [[DEVONthink]] features a flexible sync system that supports many cloud services or lets                  |
+| 59:03      | DEVONthink features a flexible sync system that supports many cloud services or lets                  |
 | 59:07      | you synchronise over the local network too, with everything securely encrypted.                          |
 | 59:11      | This gives you the choice for however syncing works best for you.                                        |
 | 59:14      | It has smart rules and flexible reminders that let you automate all parts of your workflow               |
 | 59:18      | and delegate boring, repeating tasks.                                                                    |
-| 59:21      | Let [[DEVONthink]] automate your data with rules you define.                                              |
-| 59:25      | [[DEVONthink]]'s AppleScript dictionary is one of the largest on the Mac.                                |
-| 59:27      | There's no part of [[DEVONthink]] that can't be automated.                                                |
-| 59:30      | Extend [[DEVONthink]]'s functionality with your own commands by adding them to its scripts                |
+| 59:21      | Let DEVONthink automate your data with rules you define.                                              |
+| 59:25      | DEVONthink's AppleScript dictionary is one of the largest on the Mac.                                |
+| 59:27      | There's no part of DEVONthink that can't be automated.                                                |
+| 59:30      | Extend DEVONthink's functionality with your own commands by adding them to its scripts                |
 | 59:33      | menu.                                                                                                    |
 | 59:35      | Open templates can have scripts inside, and you can set up new documents with data from                  |
 | 59:38      | placeholders or inserted by your own AppleScript code.                                                  |
@@ -960,12 +960,12 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 59:54      | So everything that you can do in a rule you can do with batch processing, which means                    |
 | 59:57      | that that's great for one-off tasks, and then once I've figured it out, I can turn                       |
 | 01:00:01   | it into a rule, which is even better because all of my work does double duty.                            |
-| 01:00:05   | You should use [[DEVONthink]] if you've got documents and you're going to need to find                    |
+| 01:00:05   | You should use DEVONthink if you've got documents and you're going to need to find                    |
 | 01:00:09   | what's where, and you don't necessarily want to have to do all the filing yourself,                      |
 | 01:00:13   | but you need everything to be available everywhere.                                                      |
 | 01:00:16   | And I have to say, being able to find something, whether I archived it and filed it on my Mac            |
 | 01:00:20   | or my laptop or my phone, really makes my life much easier.                                              |
-| 01:00:25   | You can get 10% off [[DEVONthink]] 3 or upgrade to it right now.                                          |
+| 01:00:25   | You can get 10% off DEVONthink 3 or upgrade to it right now.                                          |
 | 01:00:28   | Just go to DEVONtechnologies.com/Automators, that's DEVONtechnologies.com/Automators       |
 | 01:00:32   | for 10% off.                                                                                             |
 | 01:00:33   | I'll thanks the DEVONtechnologies for their support of this show and all of Relay FM.                |
@@ -997,7 +997,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:02:10   | Because Memoji sounds like a drink, you know, honestly.                                                  |
 | 01:02:13   | But anyway, so the Memoji of me with my thumbs up and on the iPhone iPad, that's super easy.             |
 | 01:02:19   | And I wanted to make that easy on the Mac.                                                               |
-| 01:02:22   | So in the Apple Mail group, so the app colon mail, in that group, I created a set of scripts,            |
+| 01:02:22   | So in the [[Apple Mail]] group, so the app colon mail, in that group, I created a set of scripts,            |
 | 01:02:33   | and all it does is it hits command R, which is reply.                                                    |
 | 01:02:39   | And then it pays a special clipboard.                                                                    |
 | 01:02:42   | And what I did was I went on the iPad, I believe I did on my iPad, and I just looked at the              |
@@ -1007,7 +1007,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:03:04   | as saved clipboards, because in [[Keyboard Maestro]], you can have a bunch of clipboards.                    |
 | 01:03:09   | So I've got all these images, and I gave them a specific name, it's Memoji-call-me, Memoji-celebrate,    |
 | 01:03:17   | or curse, and I've got a bunch of the ones that I'd saved.                                               |
-| 01:03:22   | And so now in [[Keyboard Maestro]], in Apple Mail, I hit command R, and then here, let me just               |
+| 01:03:22   | And so now in [[Keyboard Maestro]], in [[Apple Mail]], I hit command R, and then here, let me just               |
 | 01:03:29   | go look and make sure I'm getting this right.                                                            |
 | 01:03:31   | I hit command R, I wait 0.3 seconds, because, you know, wait is always there, pause.                     |
 | 01:03:37   | And then I paste the named clipboard, and then I, and you can select, you know, in the                   |
@@ -1177,13 +1177,13 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:16:16   | and they've got aliases for a lot of the icons in there as well. If you search for a package,            |
 | 01:16:23   | then I said, I don't think it was package. I was searching for mail and I got envelope.                  |
 | 01:16:27   | That was it. The fact that that works and that's available, other developers have                        |
-| 01:16:34   | done this. Apple does not, from my understanding, have a limited number of developers.                   |
+| 01:16:34   | done this. [[Apple]] does not, from my understanding, have a limited number of developers.                   |
 | 01:16:39   | I'm sure they're all very busy, but it'd be really great if we had the FSF symbols everywhere,           |
 | 01:16:43   | and maybe even take a leaf out of the OmniFocus four book and give us an option to just choose           |
 | 01:16:49   | any colour we like. Because yes, it's slightly limiting to have to think, okay, which shade               |
 | 01:16:55   | of blue is this one going to be? Or which shade of pink? And yeah, I mean, it's fine,                    |
 | 01:17:00   | but it would be lovely to have more. I've been lately doing this thing where I just got the              |
-| 01:17:05   | Apple Six Colors, and I've been using them and a lot of stuff I do lately. And just like,                |
+| 01:17:05   | [[Apple]] Six Colors, and I've been using them and a lot of stuff I do lately. And just like,                |
 | 01:17:11   | that is like my go-to set of colours for stuff like this. I'm using it for my calendars. If you           |
 | 01:17:16   | look at the MacSparky.com web page, the Six Colors show up in different ways, you know,                   |
 | 01:17:22   | like on the lapse page I'm using them. And it just makes it kind of easy. They're not very,              |
@@ -1195,9 +1195,9 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:17:51   | And I am very much still in love with them. And I really like the, the ability because                   |
 | 01:17:59   | do not disturb is just so extreme. And it makes it hard to work because sometimes you do need to         |
 | 01:18:05   | talk to people that you work with. So you punch a little hole for that person, but otherwise             |
-| 01:18:10   | you're left alone. And that is exactly what we've wanted. Yeah, I'm a big fan. I hope that Apple         |
+| 01:18:10   | you're left alone. And that is exactly what we've wanted. Yeah, I'm a big fan. I hope that [[Apple]]         |
 | 01:18:17   | continues to develop on it. I hope a lot of people are using it. I think that a lot of times,            |
-| 01:18:21   | whether Apple gives something more attention depends on how much it gets adopted. So, you know,          |
+| 01:18:21   | whether [[Apple]] gives something more attention depends on how much it gets adopted. So, you know,          |
 | 01:18:27   | and they know that already, how many people are using it. So hopefully that means it will get            |
 | 01:18:32   | more of it. But man, I am not like souring on this, or, or like it's not like falling by the             |
 | 01:18:39   | wayside, like some features sometimes do for me. No, it's been very useful for me as well.               |
@@ -1290,7 +1290,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:27:01   | works really well. And you can build an entire automation system inside [[DEVONthink]].                   |
 | 01:27:07   | Yes. I guess we need to talk about that at some point. I guess we should probably go into that.          |
 | 01:27:11   | Yeah. Yeah, we should. Because there's so much automation that you can do with it. I've got it           |
-| 01:27:16   | pulling stuff out of Apple Mail and converting it to PDFs, all sorts of things. So yeah, there's         |
+| 01:27:16   | pulling stuff out of [[Apple Mail]] and converting it to PDFs, all sorts of things. So yeah, there's         |
 | 01:27:22   | definitely plenty that we can talk about there. But in the meantime, you'll be pleased to hear           |
 | 01:27:26   | I got everything to my accountants in record time. They were expecting it to take me two weeks.          |
 | 01:27:31   | And I got it back to them in two days, because I just had everything. Like I just created a rule.        |

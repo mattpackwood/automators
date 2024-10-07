@@ -78,7 +78,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 00:27      | Did you know about the thing called [[WWDC]]?                                                             |
 | 00:31      | Have you heard of it before?                                                                          |
 | 00:32      | Yeah.                                                                                                 |
-| 00:33      | Yeah, the Apple annual developers conference.                                                         |
+| 00:33      | Yeah, the [[Apple]] annual developers conference.                                                         |
 | 00:36      | We're pulling you out of Europe and bringing you back to California.                                  |
 | 00:39      | Yeah.                                                                                                 |
 | 00:40      | Yeah.                                                                                                 |
@@ -278,8 +278,8 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 11:11      | So I broke the DIY principles, do not repeat yourself.                                                |
 | 11:16      | And I wrote an app in [[AppleScript]] called Moodblast that would take one status update                 |
 | 11:23      | and send it to 12 different services.                                                                 |
-| 11:25      | Now, had you had any experience with AppleScript at that point?                                      |
-| 11:28      | No, that was my learning AppleScript.                                                                |
+| 11:25      | Now, had you had any experience with [[AppleScript]] at that point?                                      |
+| 11:28      | No, that was my learning [[AppleScript]].                                                                |
 | 11:32      | Yeah.                                                                                                 |
 | 11:33      | That's not a small project to start with.                                                             |
 | 11:35      | No.                                                                                                   |
@@ -287,7 +287,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 11:39      | Yeah, if that works, right?                                                                           |
 | 11:41      | So that's what counts.                                                                                |
 | 11:42      | Well, you almost had to to make HTTP post requests with various headers.                              |
-| 11:51      | And that morphed into an Objective C bridged AppleScript application so I could put an               |
+| 11:51      | And that morphed into an Objective C bridged [[AppleScript]] application so I could put an               |
 | 11:57      | interface on it and that was my first like real success in the world.                                 |
 | 12:01      | My blog went from 10 hit today to a thousand hit today as I built up that audience for                |
 | 12:08      | this stuff I was I was making.                                                                        |
@@ -297,21 +297,21 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 12:17      | I'm a sucker for likes.                                                                               |
 | 12:20      | So when I got positive feedback in comments and and then moving on to writing for two                 |
 | 12:26      | and everything, it just constantly drove me to not only automate, which I would do anyway,            |
-| 12:34      | but to automate in ways that I could share and to learn things like AppleScript that                 |
+| 12:34      | but to automate in ways that I could share and to learn things like [[AppleScript]] that                 |
 | 12:40      | more people could easily grasp.                                                                       |
-| 12:42      | People write me often say, well, I want to learn AppleScript.                                        |
+| 12:42      | People write me often say, well, I want to learn [[AppleScript]].                                        |
 | 12:45      | What do I do?                                                                                         |
 | 12:46      | And, you know, I usually say, well, buy salsa going in his book because the guy is he's               |
 | 12:50      | the guy.                                                                                              |
 | 12:51      | But I think the real answer to that question is find a problem that you can solve with                |
-| 12:55      | AppleScript and then make an AppleScript to solve the problem because learning that                 |
+| 12:55      | [[AppleScript]] and then make an [[AppleScript]] to solve the problem because learning that                 |
 | 13:00      | stuff in the abstract doesn't it just doesn't gel at least for me.                                    |
 | 13:04      | I have to try and be fixing something in order for me to really get it.                               |
 | 13:08      | Yeah.                                                                                                 |
 | 13:09      | Well, I need a problem to solve.                                                                      |
 | 13:11      | And then it's easy for me to keep searching and digging until I find the way to solve                 |
 | 13:15      | it and in the process, picking up all the tools that of course, there are some things                 |
-| 13:19      | that you can't solve with AppleScript, which is something of a danger.                               |
+| 13:19      | that you can't solve with [[AppleScript]], which is something of a danger.                               |
 | 13:22      | I was there the other day trying to figure out how to turn a CSV, which was not a CSV                 |
 | 13:28      | but a semicolon separated file into a particular format of XML with shortcuts.                        |
 | 13:35      | And after a good half an hour, I decided, you know what, I'm just going to use Python.                |
@@ -321,49 +321,49 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 13:45      | in every language.                                                                                    |
 | 13:46      | And sometimes you do make it a little bit more difficult for yourself to do it in other               |
 | 13:50      | languages or not on impossible.                                                                       |
-| 13:52      | But that said, AppleScript, because it does do Apple events is extremely powerful.                   |
-| 13:57      | So there are less things that AppleScript can't do compared to something like shortcuts.             |
+| 13:52      | But that said, [[AppleScript]], because it does do Apple events is extremely powerful.                   |
+| 13:57      | So there are less things that [[AppleScript]] can't do compared to something like shortcuts.             |
 | 14:03      | Powerful yet frustrating in its inconsistency.                                                        |
-| 14:07      | At least there's no JavaScript automation on macOS.                                                   |
+| 14:07      | At least there's no [[JavaScript]] automation on macOS.                                                   |
 | 14:10      | I went to the conference that [[Sal Soghoian]] go and put on, I forget what it was called.                       |
 | 14:16      | [[CMD-D Conference\|CMD-D]].                                                                                            |
 | 14:17      | Yeah.                                                                                                 |
 | 14:18      | I went to [[CMD-D Conference\|CMD-D]].                                                                                  |
 | 14:19      | Last minute edition.                                                                                  |
-| 14:24      | But his major focus was on JavaScript for automation and especially on Omni's new kind                |
+| 14:24      | But his major focus was on [[JavaScript]] for automation and especially on Omni's new kind                |
 | 14:33      | of interface language that they had created.                                                          |
-| 14:36      | And it was impressive yet also when you apply the inconsistency of AppleScript to the less           |
-| 14:48      | natural language of JavaScript, it can take me twice as long to write something in JXA                |
-| 14:57      | as it can to write it in AppleScript.                                                                |
+| 14:36      | And it was impressive yet also when you apply the inconsistency of [[AppleScript]] to the less           |
+| 14:48      | natural language of [[JavaScript]], it can take me twice as long to write something in [[JXA]]                |
+| 14:57      | as it can to write it in [[AppleScript]].                                                                |
 | 15:00      | Yeah.                                                                                                 |
 | 15:01      | It depends.                                                                                           |
-| 15:02      | Because the JavaScript built into macOS is supposed to be the replacement for AppleScript.           |
+| 15:02      | Because the [[JavaScript]] built into macOS is supposed to be the replacement for [[AppleScript]].           |
 | 15:06      | That is extremely weird in some cases.                                                                |
-| 15:08      | And in some cases, the JavaScript doesn't do what the equivalent AppleScript command                 |
+| 15:08      | And in some cases, the [[JavaScript]] doesn't do what the equivalent [[AppleScript]] command                 |
 | 15:11      | does because it's missing a trigger or something to talk to something else.                           |
-| 15:15      | To get the contents of a web page using just JavaScript, you have to use Objective C bridging         |
+| 15:15      | To get the contents of a web page using just [[JavaScript]], you have to use Objective C bridging         |
 | 15:24      | and use those very verbose get contents of URL with encoding type methods.                            |
 | 15:32      | And it is, it's a mess.                                                                               |
 | 15:34      | I don't, I don't love it.                                                                             |
 | 15:35      | Yeah.                                                                                                 |
 | 15:36      | And I just want to pull out of the weeds for a minute.                                                |
-| 15:38      | So the JavaScript that we're talking about is that the variant that the Omni group is                 |
+| 15:38      | So the [[JavaScript]] that we're talking about is that the variant that the Omni group is                 |
 | 15:42      | made that allows you to automate their applications.                                                  |
 | 15:46      | And the advantage of it is that it works across platforms.                                            |
-| 15:49      | So where AppleScript only allows you to create something for the Mac, this JXA allows you            |
+| 15:49      | So where [[AppleScript]] only allows you to create something for the Mac, this [[JXA]] allows you            |
 | 15:55      | to create something for both the iOS and the Mac.                                                     |
 | 15:59      | So if you're working on both platforms, it's very helpful.                                            |
 | 16:02      | I think the really underlying problem is that doesn't need to come from Omni, it needs to             |
-| 16:06      | come from Apple.                                                                                      |
+| 16:06      | come from [[Apple]].                                                                                      |
 | 16:07      | And, and I don't know if we ever will see something.                                                  |
-| 16:11      | I don't know if Apple cares enough to develop something like AppleScript across both platforms.      |
+| 16:11      | I don't know if [[Apple]] cares enough to develop something like [[AppleScript]] across both platforms.      |
 | 16:15      | Well, I hear they have this automation team working with the Siri people who are really,              |
 | 16:21      | you know, into this kind of thing.                                                                    |
 | 16:22      | So maybe, maybe the shortcuts guys will get their hands on this.                                      |
 | 16:25      | Yeah.                                                                                                 |
-| 16:26      | There was a lot of fear for everyone when Sal was removed from Apple.                                 |
+| 16:26      | There was a lot of fear for everyone when Sal was removed from [[Apple]].                                 |
 | 16:30      | Yeah.                                                                                                 |
-| 16:31      | Everyone assumed, oh, Apple just doesn't care about automation, but then with the acquisition         |
+| 16:31      | Everyone assumed, oh, [[Apple]] just doesn't care about automation, but then with the acquisition         |
 | 16:36      | of workflow and their stunning ability not to ruin it, yeah, my faith was restored.                   |
 | 16:44      | I think at least for iOS, well, not only have they not ruined it, they've improved it.                |
 | 16:49      | I mean, workflow had limitations that Siri shortcuts do not and that they've continued                |
@@ -371,7 +371,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 16:58      | Yeah.                                                                                                 |
 | 16:59      | No shortcuts is amazing.                                                                              |
 | 17:00      | I also think though, the shortcuts is, you know, if we're looking at the stuff on a spectrum,         |
-| 17:04      | this is never going to run as deep as AppleScript and certainly not as deep as any sort              |
+| 17:04      | this is never going to run as deep as [[AppleScript]] and certainly not as deep as any sort              |
 | 17:10      | of shell scripting can do.                                                                            |
 | 17:12      | No, probably not.                                                                                     |
 | 17:14      | That's also part of like on a Mac with the idea of a desktop with multiple applications               |
@@ -379,9 +379,9 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 17:26      | more app as desktop idea of iOS.                                                                      |
 | 17:31      | It's a different concept that requires a different approach and I think shortcuts is really tackling  |
 | 17:37      | that in a smart way and I see the more apps that add shortcut actions, the more interactivity         |
-| 17:46      | we'll be able to do without the hassle of JavaScript.                                                 |
+| 17:46      | we'll be able to do without the hassle of [[JavaScript]].                                                 |
 | 17:50      | Yeah.                                                                                                 |
-| 17:51      | And I think that's the path Apple sees too.                                                           |
+| 17:51      | And I think that's the path [[Apple]] sees too.                                                           |
 | 17:53      | I mean, we were just talking a few episodes ago about, you know, what's going to happen               |
 | 17:57      | next in one idea being floated is what if Siri shortcuts finds its way to the Mac and                 |
 | 18:03      | that would be great, but it's definitely not going to be as powerful as what like you're              |
@@ -612,8 +612,8 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 30:33      | What are you working on these days?                                                                   |
 | 30:35      | As of very recently, most of my automation has been kind of along the lines of what we                |
 | 30:41      | were talking about with the HD access file.                                                           |
-| 30:43      | Like I just made it so that if I include a link to an affiliate Amazon product, it automatically      |
-| 30:51      | adds the disclaimer that Amazon requests to the bottom of my post.                                    |
+| 30:43      | Like I just made it so that if I include a link to an affiliate [[Amazon]] product, it automatically      |
+| 30:51      | adds the disclaimer that [[Amazon]] requests to the bottom of my post.                                    |
 | 30:58      | So I don't have to constantly be like, oh, I used an affiliate link.                                  |
 | 31:02      | I better add the disclaimer.                                                                          |
 | 31:04      | It just automates based on what I've already done, things that, you know, I'm going to                |
@@ -676,9 +676,9 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 33:59      | Let's open the app though.                                                                            |
 | 34:00      | I can tell you real quick, maybe not real quick.                                                      |
 | 34:04      | Yeah.                                                                                                 |
-| 34:05      | It's okay, I'm currently searching on Amazon to see if they have them in Amazon, in Germany.          |
-| 34:11      | So it can control Chromecast, Harmony Hub, IFTTT, IKEA, Trad Free Lights, Internet                    |
-| 34:21      | Request, IR Blaster, which is, Flick makes an IR Blaster too that you can use to turn                 |
+| 34:05      | It's okay, I'm currently searching on [[Amazon]] to see if they have them in [[Amazon]], in Germany.          |
+| 34:11      | So it can control [[Chromecast]], [[Logitech Harmony\|Harmony Hub]], [[IFTTT]], IKEA, Trad Free Lights, Internet                    |
+| 34:21      | Request, [[IR Blaster]], which is, Flick makes an [[IR Blaster]] too that you can use to turn                 |
 | 34:27      | a point, like your TV on and off.                                                                     |
 | 34:30      | Yeah.                                                                                                 |
 | 34:31      | So LIFX, Philips Hue, Play a Sound, [[Slack]] Post, Sonos, [[Spotify]], Zapier, VLC, Wemo, Wink.              |
@@ -691,11 +691,11 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 34:51      | Well, I have five around the house, but that's the one that's in my office.                           |
 | 34:57      | One of them just turns on the whole entertainment system.                                             |
 | 34:59      | It's mounted underneath the lip of the dining room, coffee table.                                     |
-| 35:03      | So using the IR Blaster to do that, I mean, you still got to get a TV turned on, okay.                |
-| 35:08      | I use the IR, and I use a Harmony, whatever their hub is called.                                      |
+| 35:03      | So using the [[IR Blaster]] to do that, I mean, you still got to get a TV turned on, okay.                |
+| 35:08      | I use the [[IR]], and I use a [[Logitech Harmony\|Harmony]], whatever their hub is called.                                      |
 | 35:14      | Yeah.                                                                                                 |
 | 35:15      | Yeah.                                                                                                 |
-| 35:16      | I think it's the Logitech Harmony Hub or something along those lines.                                 |
+| 35:16      | I think it's the [[Logitech Harmony\|Logitech Harmony Hub]] or something along those lines.                                 |
 | 35:20      | Something like that, yeah.                                                                            |
 | 35:21      | Yeah.                                                                                                 |
 | 35:22      | I feel like everybody who's interested in automation eventually gets to the point where               |
@@ -705,20 +705,20 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 35:31      | Yeah.                                                                                                 |
 | 35:32      | It's hard because you have the different inputs and they're using old technology, you know,           |
 | 35:37      | really, I mean, to get them working.                                                                  |
-| 35:40      | So is that, is that, so you're solving that problem with the Harmony remote and the flip              |
+| 35:40      | So is that, is that, so you're solving that problem with the [[Logitech Harmony\|Harmony remote]] and the flip              |
 | 35:44      | buttons?                                                                                              |
 | 35:45      | Yeah.                                                                                                 |
-| 35:46      | I like the Harmony remote.                                                                            |
-| 35:48      | I have programmed to control my soundbar, my TV, and my Apple TV, and the Roku.                       |
+| 35:46      | I like the [[Logitech Harmony\|Harmony remote]].                                                                            |
+| 35:48      | I have programmed to control my soundbar, my TV, and my [[Apple TV]], and the Roku.                       |
 | 35:56      | So I basically, I can narrow it down to just one remote.                                              |
-| 35:59      | I keep the Apple TV remote out because the touchpad is basically how you navigate.                    |
-| 36:07      | But for turning power on, off, changing inputs, volume, all done through the Harmony remote.          |
+| 35:59      | I keep the [[Apple TV]] remote out because the touchpad is basically how you navigate.                    |
+| 36:07      | But for turning power on, off, changing inputs, volume, all done through the Logitech Harmony\|Harmony remote]].          |
 | 36:14      | Yeah.                                                                                                 |
 | 36:15      | I forget how much, Brett.                                                                             |
 | 36:17      | I mean, from your very roots with the X10, you have always been a guy that liked to not               |
 | 36:21      | only automate like pixels moving around on your screen, but just automate everything                  |
 | 36:26      | in your life.                                                                                         |
-| 36:27      | I am enamored with automation.                                                                        |
+| 36:27      | I am enamoured with automation.                                                                        |
 | 36:30      | Now, I remember when you were telling me, I forget the name of the device, there was                  |
 | 36:34      | that device that sold for a while where you could wave your hands in front of your computer           |
 | 36:38      | and it could.                                                                                         |
@@ -747,7 +747,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 37:33      | I'm glad you're still using it.                                                                       |
 | 37:34      | Yeah.                                                                                                 |
 | 37:35      | Now, that's pretty cool.                                                                              |
-| 37:36      | Going back to Siri, do you ever use Siri on the Apple TV?                                             |
+| 37:36      | Going back to Siri, do you ever use Siri on the [[Apple TV]]?                                             |
 | 37:40      | Yes, all the time.                                                                                    |
 | 37:42      | Yeah.                                                                                                 |
 | 37:43      | And it's great for dictating in searches and stuff.                                                   |
@@ -768,7 +768,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 38:18      | Just say it.                                                                                          |
 | 38:19      | Just say it.                                                                                          |
 | 38:20      | Stop typing.                                                                                          |
-| 38:21      | I do think it's on Apple a little bit because you have to have the cursor in the right place          |
+| 38:21      | I do think it's on [[Apple]] a little bit because you have to have the cursor in the right place          |
 | 38:27      | to make the search work.                                                                              |
 | 38:29      | I feel like the operating system could be fixed to say, look, if you're in YouTube and you            |
 | 38:34      | hold the microphone button down, just go to the search and type in, you know, it's not                |
@@ -782,7 +782,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 39:00      | Siri should do that.                                                                                  |
 | 39:01      | But if you say something and it goes, I'll put this in the search of the application that             |
 | 39:06      | I'm currently in.                                                                                     |
-| 39:07      | That would be a smart solution from Apple and that would be a great automation for us                 |
+| 39:07      | That would be a smart solution from [[Apple]] and that would be a great automation for us                 |
 | 39:11      | so that we could be even lazier, which everybody loves to be.                                         |
 | 39:14      | You know, you can specify apps to search now.                                                         |
 | 39:18      | You can say search for this in YouTube or search Netflix for this.                                    |
@@ -960,7 +960,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 49:38      | Yeah.                                                                                                 |
 | 49:39      | I mean, so let's make it easier for listeners.                                                        |
 | 49:41      | You don't have to go set up a Raspberry Pi to do this.                                               |
-| 49:43      | You can go on Amazon and buy any really ten key, right?                                                 |
+| 49:43      | You can go on [[Amazon]] and buy any really ten key, right?                                                 |
 | 49:48      | Or you can even like, if you've got an extended keyboard, you could attach it to the number           |
 | 49:52      | pad keys.                                                                                             |
 | 49:53      | I mean, something people don't realise is [[BetterTouchTool]] that has, again, one of                   |
@@ -977,7 +977,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 50:30      | If you have a touch bar on your laptop, you can put stuff on there like the time or whatever,         |
 | 50:35      | you know, just pieces of data that are important to you are just going to show up there.              |
 | 50:40      | And I feel like [[BetterTouchTool]] is like, I mean, it'll never get sure locked because                |
-| 50:47      | it's too nerdy, but man, Apple didn't even think about that stuff when they shipped the,              |
+| 50:47      | it's too nerdy, but man, [[Apple]] didn't even think about that stuff when they shipped the,              |
 | 50:53      | you know, this touch bar.                                                                             |
 | 50:54      | But anyway.                                                                                           |
 | 50:55      | Well, and all the way back to its original intention with the track pad, like I am so                 |
@@ -1090,7 +1090,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 56:37      | Exactly.                                                                                              |
 | 56:38      | If you select text with the keyboard, PopClip doesn't activate.                                      |
 | 56:40      | So that's a pain.                                                                                     |
-| 56:42      | So you can add, I mine is a tip tap middle and you can have it run an AppleScript to                 |
+| 56:42      | So you can add, I mine is a tip tap middle and you can have it run an [[AppleScript]] to                 |
 | 56:48      | launch PopClip.                                                                                      |
 | 56:50      | So when I've selected text and for whatever reason the PopClip window hasn't come up,                |
 | 56:55      | I can just tip tap on my, uh, keypad or on my trackpad and bring up PopClip to way to                |

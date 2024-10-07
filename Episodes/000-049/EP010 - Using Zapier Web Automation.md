@@ -424,10 +424,10 @@ Today we venture into the brave new world of web automation, and we start with g
 | 14:38      | I can include the tab key.                                                                                     |
 | 14:40      | So I can run the snippet in the subject line of the email.                                                     |
 | 14:43      | It fills in a subject line, then it tabs down to the body.                                                     |
-| 14:46      | And I can embed an AppleScript in there,                                                                      |
+| 14:46      | And I can embed an [[AppleScript]] in there,                                                                      |
 | 14:48      | so it gets the person's name from the email                                                                    |
 | 14:51      | and puts it, it says hi, and then insert name Rose, right?                                                     |
-| 14:55      | Because it gets it from the thing I'm running an AppleScript.                                                 |
+| 14:55      | Because it gets it from the thing I'm running an [[AppleScript]].                                                 |
 | 14:58      | And I can insert data, and I can copy things                                                                   |
 | 15:01      | from the clipboard, and it'll drop into the email.                                                             |
 | 15:04      | It's just like way more powerful than anything                                                                 |
@@ -855,7 +855,7 @@ Today we venture into the brave new world of web automation, and we start with g
 | 34:57      | it will actually send me a push notification to go,                                                            |
 | 34:59      | hey, there was a problem, you should fix this                                                                  |
 | 35:03      | and tell me what the error was and where I can find more information.                                          |
-| 35:06      | So I've integrated that same thing into my [[Zapier]]'s apps                                                       |
+| 35:06      | So I've integrated that same thing into my [[Zapier\|Zapier's]] apps                                                       |
 | 35:08      | where I need to know that they've happened.                                                                    |
 | 35:11      | And you can actually even use this, this is a tip for people listening.                                        |
 | 35:15      | If you want to, you can use [[URL Schemes]] with it.                                                               |

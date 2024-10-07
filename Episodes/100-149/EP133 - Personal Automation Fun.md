@@ -354,8 +354,8 @@ Rose and David share a collection of their favourite personal automations rangin
 | 18:55      | Now, thanks to Vitally for their support of this show and really AFM.                                   |
 | 19:01      | I've got one for you.                                                                                  |
 | 19:02      | It's quite simple, but we're going to start simple and get more complex through the show.              |
-| 19:07      | But I have recently been doing a lot of testing with [[Apple Reminders\|Apple's Reminders app]].                            |
-| 19:11      | We're in beta season, so I always like to try and kick the tires on what Apple's working               |
+| 19:07      | But I have recently been doing a lot of testing with [[Apple Reminders\|[[Apple|Apple's]] Reminders app]].                            |
+| 19:11      | We're in beta season, so I always like to try and kick the tires on what [[Apple|Apple's]] working               |
 | 19:15      | on.                                                                                                    |
 | 19:16      | And one of the things about it that is more difficult than with OmniFocus is capture,                  |
 | 19:23      | the creating a new task isn't as easy as it is with some more powerful task managers.                  |
@@ -433,7 +433,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 24:03      | I didn't take that many slots on my root directory, and I liked the ability to just tap an icon        |
 | 24:08      | in the dock and then tap an icon in to have a pre-filled task item.                                    |
 | 24:12      | With [[Apple Reminders\|Reminders]], it feels like a lot more.                                                              |
-| 24:14      | But honestly, I don't know that I'll be using [[Apple Reminders\|Reminders]] in a few months once Apple ships               |
+| 24:14      | But honestly, I don't know that I'll be using [[Apple Reminders\|Reminders]] in a few months once [[Apple]] ships               |
 | 24:18      | all this stuff.                                                                                        |
 | 24:19      | So maybe I'll just go with it as it is for now.                                                        |
 | 24:22      | But that's a nice way to handle the problem.                                                           |
@@ -467,7 +467,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 26:25      | But edit, select like three or four things that I want to add subtasks to.                             |
 | 26:30      | And then in the Omni Automation menu, run a little automation, that doesn't take very                   |
 | 26:39      | long at all.                                                                                           |
-| 26:41      | And I was able to put together four lines of Omni Automation JavaScript, which add child                |
+| 26:41      | And I was able to put together four lines of Omni Automation [[JavaScript]], which add child                |
 | 26:46      | tasks to all of the selected tasks, and it makes sure that the parent task is set to                   |
 | 26:53      | being completed when all of the child tasks are completed.                                             |
 | 26:56      | And honestly, this has saved me quite a bit of typing and dragging and dropping, but it's              |
@@ -578,14 +578,14 @@ Rose and David share a collection of their favourite personal automations rangin
 | 34:40      | a trick.                                                                                               |
 | 34:41      | I think Brett's the first one to turn me on to this where you just run an [[AppleScript]]                 |
 | 34:46      | on [[Moom]].                                                                                               |
-| 34:47      | So, you set the windows the way you want, you have [[Moom]] run via AppleScripts, you set                 |
+| 34:47      | So, you set the windows the way you want, you have [[Moom]] run via [[AppleScript\|AppleScripts]], you set                 |
 | 34:53      | them up for recording the automators and then the windows all arrange themselves for that.             |
 | 34:58      | But there's a lot more you can do with shortcuts.                                                      |
 | 35:01      | Like at this point, you can clear the screen of windows, you can open up specific apps                 |
 | 35:08      | and the stuff that I think shortcuts is really good at this set is like the kind of focus              |
 | 35:14      | and time management stuff like if you're using Timery, you can have it run a script to start           |
 | 35:22      | your timer.                                                                                            |
-| 35:23      | If you're using timing, you can have it run an AppleScript to start your timer.                       |
+| 35:23      | If you're using timing, you can have it run an [[AppleScript]] to start your timer.                       |
 | 35:27      | If you're into focus modes, you can have it trigger whatever focus mode it is you need                 |
 | 35:32      | when you're doing that setup.                                                                          |
 | 35:34      | And like all of that like system level stuff I find is actually easier in shortcuts than               |
@@ -686,7 +686,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 42:34      | to try it out. I mean, I did give it a solo try for a couple of days. And then I decided               |
 | 42:40      | that I had too much going on in my life at the moment to actually consider really switching            |
 | 42:45      | productivity systems because that's always an endeavor. And so instead, I decided that                 |
-| 42:53      | I was just going to keep playing with [[Apple Reminders\|Reminders]] because it's really easy to say, hey, Apple            |
+| 42:53      | I was just going to keep playing with [[Apple Reminders\|Reminders]] because it's really easy to say, hey, [[Apple]]            |
 | 42:58      | lady, add this thing to blah, blah list or remind me to bunk. And so I've mentioned                    |
 | 43:05      | this before, you know, I have reminders, you know, when I get out of the car, when I get               |
 | 43:09      | home and things like that. So anything that I add to [[Apple Reminders\|Reminders]], my default list in [[Apple Reminders\|Reminders]]           |
@@ -714,11 +714,11 @@ Rose and David share a collection of their favourite personal automations rangin
 | 45:17      | due at the same time because due watches that list. And then everything else in automated              |
 | 45:23      | processing gets dumped into my OmniFocus inbox. Very, very simple. But anything on my shopping         |
 | 45:29      | list or my grocery list gets a little extra processing. Now, I should know actually in                 |
-| 45:35      | both automated processing and this, I have a tendency to say, Hey, Apple lady, blah,                   |
-| 45:42      | blah, blah. And then every so often Apple lady will get, you know, a little bit confused.              |
-| 45:47      | And so I'll be like, cancel, no, Hey, Apple lady cancel. And somehow cancel gets added                 |
+| 45:35      | both automated processing and this, I have a tendency to say, Hey, [[Apple]] lady, blah,                   |
+| 45:42      | blah, blah. And then every so often [[Apple]] lady will get, you know, a little bit confused.              |
+| 45:47      | And so I'll be like, cancel, no, Hey, [[Apple]] lady cancel. And somehow cancel gets added                 |
 | 45:54      | to my list, whatever list it was that I was adding something to. And now sometimes I do                |
-| 45:59      | need to cancel things. And that may be something that I say, Hey, Apple lady remind me to,             |
+| 45:59      | need to cancel things. And that may be something that I say, Hey, [[Apple]] lady remind me to,             |
 | 46:04      | I don't know, cancel the automated reminder from the management company about the gardening.           |
 | 46:11      | I don't know, they don't actually send me a reminder. It'd be very nice if they did.                   |
 | 46:15      | But yeah, the, you know, if I, if I want to add something with the word cancel in, then                |
@@ -752,7 +752,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 48:58      | on my Mac, running every 30 minutes and tidying this up. However, there is a slight problem            |
 | 49:03      | with this because, you know, what always happens when I'm driving to the grocery store? Yeah,          |
 | 49:08      | I think of things that I need to buy. Oh yeah, I need to do this. I need to buy that. You              |
-| 49:12      | know, I need to buy some more juice or something like that. And so I can say, hey, Apple lady,         |
+| 49:12      | know, I need to buy some more juice or something like that. And so I can say, hey, [[Apple]] lady,         |
 | 49:17      | add this to my, you know, grocery list or shopping list. And that's great. But unless                  |
 | 49:25      | I take a very long detour, I am not going to be driving for over half an hour. And so                  |
 | 49:30      | the chances of PushCut picking this up are pretty low. But you may remember, David, right              |
@@ -779,7 +779,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 51:23      | nerdy, but it's working for me. Yeah. I mean, you went all the way in. Yeah. Yeah. I really            |
 | 51:31      | feel like the, you know, the idea of grocery list is a great source of automation exploration,         |
 | 51:38      | right? You know, because I think it's something we all need to do. It's something we'd all             |
-| 51:43      | like to see be more effective. And the Apple has actually made progress on that in the                 |
+| 51:43      | like to see be more effective. And the [[Apple]] has actually made progress on that in the                 |
 | 51:47      | latest betas. They, if you make a list called grocery list or you designated list as your              |
 | 51:52      | grocery list in your [[Apple Reminders\|Reminders]] app, it sorts them into the various aisles that they need               |
 | 51:58      | to be in, you know, and I should have clarified earlier. Even when I'm not testing [[Apple Reminders\|Reminders]],          |
@@ -890,31 +890,31 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:01:51   | productivity stuff, I think often it's app-based stuff. A lot of people who want to automate           |
 | 01:01:56   | it get lost because they don't have quite what they need. When earlier in the show I                   |
 | 01:02:01   | was talking about for doing setups, how the aha moment for me for shortcuts was when I                 |
-| 01:02:07   | realised I could run an AppleScript to arrange my windows using a third-party app. I just             |
+| 01:02:07   | realised I could run an [[AppleScript]] to arrange my windows using a third-party app. I just             |
 | 01:02:12   | wanted to take a minute to call that out, that concept that if you are facing a problem                |
 | 01:02:19   | with shortcuts or [[Keyboard Maestro]] or anything that you're trying to do personal productivity          |
 | 01:02:25   | automation on, you need to look sometimes beyond the obvious solution because for a                    |
 | 01:02:31   | lot of people trying to automate stuff like this, the solution is out there. It just takes             |
-| 01:02:36   | a couple extra steps. One of the big ones I would like to call this AppleScript. If                   |
-| 01:02:42   | you're working on the Mac, there's just so many problems that AppleScript will solve                  |
+| 01:02:36   | a couple extra steps. One of the big ones I would like to call this [[AppleScript]]. If                   |
+| 01:02:42   | you're working on the Mac, there's just so many problems that [[AppleScript]] will solve                  |
 | 01:02:47   | for you with a little creativity. I have several examples here, but I'm going to start with            |
 | 01:02:54   | one. I mentioned earlier I record a lot. When I decide to open up a recording session,                 |
 | 01:03:04   | one of the things I do is I change the resolution of my screen. Well, that is a pain in the            |
-| 01:03:08   | neck. The way Apple makes it, you got to go to the display setting, you got to go find                 |
+| 01:03:08   | neck. The way [[Apple]] makes it, you got to go to the display setting, you got to go find                 |
 | 01:03:12   | a little button, you got to click on it. It's very human-intensive to switch resolution.               |
 | 01:03:19   | I know people listening might be rolling their eyes, but it is. When you want to get to work,          |
 | 01:03:23   | you want to get to work. I tried to [[AppleScript]] that forever and I never could find                   |
-| 01:03:30   | a way to do it. I even asked [[Sal Soghoian]], the master of AppleScript. There really wasn't              |
+| 01:03:30   | a way to do it. I even asked [[Sal Soghoian]], the master of [[AppleScript]]. There really wasn't              |
 | 01:03:35   | a good way to do it. There was some UI scripting of the display preference, which is, if you're        |
 | 01:03:42   | listening, it's just as complicated as that sentence sounded. It's not consistent. Then                |
 | 01:03:49   | I figured out, because I started looking at apps and one of the apps I downloaded was                  |
 | 01:03:54   | display menu. I was looking at the website and they said, well, if you pay us $5 or something          |
-| 01:03:59   | to get the pro version, you get AppleScript support. It's like the light bulbs went off.              |
-| 01:04:04   | It's like, oh, wait a second. I can AppleScript display resolution using a third-party                |
+| 01:03:59   | to get the pro version, you get [[AppleScript]] support. It's like the light bulbs went off.              |
+| 01:04:04   | It's like, oh, wait a second. I can [[AppleScript]] display resolution using a third-party                |
 | 01:04:10   | app. To solve the problem, what I had to do was I had to get a third-party app, in this                |
-| 01:04:16   | case display menu, and then figure out their AppleScript implementation, which they do                |
-| 01:04:21   | a pretty good job of explaining on their website. Then I can reset a resolution with an Apple          |
-| 01:04:27   | script call. Now that I have that, it's a one-line code of AppleScript. I'm not sharing               |
+| 01:04:16   | case display menu, and then figure out their [[AppleScript]] implementation, which they do                |
+| 01:04:21   | a pretty good job of explaining on their website. Then I can reset a resolution with an [[AppleScript]]          |
+| 01:04:27   | call. Now that I have that, it's a one-line code of [[AppleScript]]. I'm not sharing               |
 | 01:04:34   | this so you guys all can change your resolution. Very few people need to do it as often as             |
 | 01:04:38   | I do, but this is an example of the way I solved the problem. Now that I've got that                   |
 | 01:04:43   | little snippet of code, I save it as a TextExpander snippet. I can dump it into a shortcut.           |
@@ -926,7 +926,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:05:16   | that screen change. I hated it every time I had to open that display box, and now I don't. But         |
 | 01:05:21   | the trick was to keep your mind open to oddball solutions to this automation problem.                  |
 | 01:05:27   | Yeah. That's really cool. I like the way that you dumped it into a TextExpander snippet. What I       |
-| 01:05:33   | would probably have done is actually just put it into a shortcut or an AppleScript file and then      |
+| 01:05:33   | would probably have done is actually just put it into a shortcut or an [[AppleScript]] file and then      |
 | 01:05:43   | just always run that because then if I ever need to change it, then I only have to change it in        |
 | 01:05:47   | one place. At the same time, you're probably not going to need to change that very often.              |
 | 01:05:52   | You know what? I'm going to do that. That makes way more sense. I'm going to switch to that.           |
@@ -941,7 +941,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:06:42   | care and they would leave it on 100% of the time, but if you're recording, you don't really want a     |
 | 01:06:47   | digital clock up there because sometimes you make a mistake and you have to reset something, and then  |
 | 01:06:52   | if people are watching the recording, they see suddenly 10 minutes just dropped off the universe.      |
-| 01:06:58   | There's not an ideal fix for that because now it has to be there because the way Apple has done        |
+| 01:06:58   | There's not an ideal fix for that because now it has to be there because the way [[Apple]] has done        |
 | 01:07:03   | the sidebar. Yeah. But what you can do is make it more obtuse, and if you switch it to the analog      |
 | 01:07:10   | clock, you're much less likely to notice that the analog minute hand jumped a little bit than you are  |
 | 01:07:16   | to see the digital hand jumped up 10 minutes. I wanted to easily change that. Again, you can do        |
@@ -952,7 +952,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:07:48   | that. Again, I've got that thing spread all over the place, and it's just a little thing I call.       |
 | 01:07:54   | There is no automator or shortcut action that does this. There is no keyboard. You can run a           |
 | 01:08:01   | shell script through shortcuts or [[Keyboard Maestro]]. Yeah. Well, that's my point, but there is no built |
-| 01:08:08   | in native action to do this. It's too niche. Apple is never going to make that. Once I got the shell   |
+| 01:08:08   | in native action to do this. It's too niche. [[Apple]] is never going to make that. Once I got the shell   |
 | 01:08:15   | script, then I made a shortcut action, and I made a [[Keyboard Maestro]] action. Now I've got one more     |
 | 01:08:21   | little thing in my bag of tricks of automation I can use. I feel like that's the extreme. If I lost    |
 | 01:08:29   | you in that, you're like, I'm not going to do shell scripts. You're growing off the deep and           |
@@ -985,9 +985,9 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:11:24   | he was going to kill his machine by doing that too often or cause a corrupted operating system.        |
 | 01:11:30   | So yeah, little bonus trick for folks there. Yeah, it is always interesting, you know,                 |
 | 01:11:36   | trying to find different solutions to these things. And it's amazing how many things,                  |
-| 01:11:41   | you know, can be solved with a line of AppleScript that you stole from the internet.                  |
+| 01:11:41   | you know, can be solved with a line of [[AppleScript]] that you stole from the internet.                  |
 | 01:11:45   | I want to give a shout out as well, actually, to [[FastScripts]]. Because [[FastScripts]] can run            |
-| 01:11:50   | any script. It can run shell scripts, it can run Python scripts, it can run AppleScripts.             |
+| 01:11:50   | any script. It can run shell scripts, it can run Python scripts, it can run [[AppleScript\|AppleScripts]].             |
 | 01:11:55   | And it lives in your menu bar, it's just a little script icon that lives in your menu bar, but         |
 | 01:12:01   | you can have it show you different scripts and open the scripts in different places                    |
 | 01:12:08   | and things like that. You can trigger it from a shortcut, but because you then have those scripts      |

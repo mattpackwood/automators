@@ -118,7 +118,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 02:39      | My phone locked up.                                                                                                                                              |
 | 02:40      | It overheated.                                                                                                                                                   |
 | 02:41      | It was non-responsive, so I just left it, and when I came back, the back had just shattered.                                                                     |
-| 02:46      | I think maybe after expansion or something, I need to take it to the Apple Store.                                                                                |
+| 02:46      | I think maybe after expansion or something, I need to take it to the [[Apple Store]].                                                                                |
 | 02:50      | I should point out I did stop using it after this.                                                                                                               |
 | 02:54      | I just left it turned off and dead.                                                                                                                              |
 | 02:56      | Since I've got it home, I have plugged it in where I have safety equipment, like a bucket                                                                        |
@@ -128,13 +128,13 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 03:06      | That's crazy.                                                                                                                                                    |
 | 03:07      | It already had impact points on the back that I'm 100% sure of because otherwise it wouldn't                                                                     |
 | 03:12      | shatter the way it has done, but it is broken.                                                                                                                   |
-| 03:16      | So I'm going to take it to the Apple Store and have them have a look at it at some point.                                                                        |
+| 03:16      | So I'm going to take it to the [[Apple Store]] and have them have a look at it at some point.                                                                        |
 | 03:20      | But yeah.                                                                                                                                                        |
 | 03:21      | So I kept dropping it.                                                                                                                                           |
 | 03:22      | Yeah, I decided I'll try the smaller one because within two weeks, you can always return it.                                                                     |
 | 03:27      | So yeah, I went back to smaller, and I'm happy with it.                                                                                                          |
 | 03:33      | Yeah, I have to admit, because we did the thing where I gave my old phone to my daughter,                                                                        |
-| 03:37      | then I took her phone to sell it to Apple.                                                                                                                       |
+| 03:37      | then I took her phone to sell it to [[Apple]].                                                                                                                       |
 | 03:41      | I decided to try that this time.                                                                                                                                 |
 | 03:42      | I hadn't done that before, and I was looking at the smaller pro, and that's actually a                                                                           |
 | 03:48      | really nice phone.                                                                                                                                               |
@@ -282,13 +282,13 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 13:17      | It's also a trigger list, which is a great getting things done technique.                                                                                        |
 | 13:22      | This episode of Automators is brought to you by Daylight from Market Circle.                                                                                     |
 | 13:25      | Daylight is the small business CRM and project management app for Mac, iPhone and iPad.                                                                          |
-| 13:32      | Daylight is made for entrepreneurs and small businesses that use Apple devices.                                                                                  |
+| 13:32      | Daylight is made for entrepreneurs and small businesses that use [[Apple]] devices.                                                                                  |
 | 13:35      | It doesn't matter what kind of company you have, whether it's a financial service, a                                                                             |
 | 13:39      | marketing agency, photography, real estate agent, or maybe even a podcaster.                                                                                     |
 | 13:44      | Juggling multiple clients and projects can be a challenge.                                                                                                       |
 | 13:48      | You might forget to follow up or lose track of details, emails and next steps.                                                                                   |
 | 13:53      | Daylight solves all of those problems.                                                                                                                           |
-| 13:55      | It has Apple Meal, contact and calendar integration.                                                                                                             |
+| 13:55      | It has [[Apple Mail]], Contact and Calendar integration.                                                                                                             |
 | 13:58      | You can track all your leads in the sales pipeline and it even has document management                                                                           |
 | 14:02      | so you can attach relevant files.                                                                                                                                |
 | 14:03      | Plus, you can manage projects to keep track of all of the moving pieces.                                                                                         |
@@ -297,7 +297,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 14:19      | It's worth checking out.                                                                                                                                         |
 | 14:20      | 95% of their customers that they surveyed said Daylight improves overall organisation                                                                            |
 | 14:25      | and productivity.                                                                                                                                                |
-| 14:26      | That's MarketCircle.com.                                                                                                                                         |
+| 14:26      | That's marketcircle.com.                                                                                                                                         |
 | 14:27      | Our thanks to Daylight for their support of Automators and all of Relay FM.                                                                                     |
 | 14:34      | All right.                                                                                                                                                       |
 | 14:35      | The thing I did next after that was the problem I was having is I didn't like having to read                                                                     |
@@ -306,7 +306,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 14:49      | If I'm going to bring an iPad with me, there's a list of things I need.                                                                                          |
 | 14:53      | I need a charger.                                                                                                                                                |
 | 14:54      | I need a keyboard.                                                                                                                                               |
-| 14:55      | I need an Apple Pencil.                                                                                                                                          |
+| 14:55      | I need an [[Apple Pencil]].                                                                                                                                          |
 | 14:58      | There's things I need.                                                                                                                                           |
 | 15:00      | Whereas if I'm going to bring a Mac, it's a different list or if I'm going to be going                                                                           |
 | 15:03      | into cold weather, it's one list or if I'm going into rain, it's a different list.                                                                               |
@@ -548,7 +548,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 28:40      | What if I want to do something like this in the Mac?                                                                                                             |
 | 28:42      | And it seems to me there's really two ways to do it, at least in my kind of automation                                                                           |
 | 28:47      | legal.                                                                                                                                                           |
-| 28:48      | You could definitely do it with an [[AppleScript]], but I did not write an AppleScript for this.                                                                   |
+| 28:48      | You could definitely do it with an [[AppleScript]], but I did not write an [[AppleScript]] for this.                                                                   |
 | 28:52      | With the way, the two ways I did it was with two additional tools.                                                                                               |
 | 28:56      | I did it both with [[Keyboard Maestro]] and I did it with TextExpander.                                                                                             |
 | 29:01      | And it wasn't that difficult with either one.                                                                                                                    |
@@ -563,7 +563,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 29:39      | And if you check the box for that, then it's going to add the, you know, the items contained                                                                     |
 | 29:45      | within that optional selection to your text list.                                                                                                                |
 | 29:49      | And then you could just go through and, you know, basically paste in or you trigger the                                                                          |
-| 29:55      | snippet and whatever text editor of your choice, Apple notes to whatever.                                                                                        |
+| 29:55      | snippet and whatever text editor of your choice, [[Apple Notes]] to whatever.                                                                                        |
 | 30:01      | And then I didn't think about trying to [[Apple Reminders\|Reminders]], but I don't think it would work.                                                                              |
 | 30:06      | I'll test that out before we publish.                                                                                                                            |
 | 30:08      | But the other way, so you would just trigger the TextExpander snippet.                                                                                          |
@@ -880,7 +880,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 48:51      | Yeah.                                                                                                                                                            |
 | 48:52      | I did a video in the shortcuts field guide on [[Drafts]] and one of the things I really                                                                              |
 | 48:55      | like about it is that it gives a unique identifier to each draft's note, which it makes accessing                                                                |
-| 49:01      | it from outside like from OmniFocus really easy, whereas Apple Notes doesn't give you                                                                            |
+| 49:01      | it from outside like from OmniFocus really easy, whereas [[Apple Notes]] doesn't give you                                                                            |
 | 49:06      | that unique identifier.                                                                                                                                          |
 | 49:08      | The only way I came up with to really reliably get to a specific Apple Note is to insert some                                                                    |
 | 49:15      | unique string into it, like a password almost, like some just unique group of letters and                                                                        |
@@ -906,7 +906,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 50:22      | to say a note, an OmniFocus, or a link to something.                                                                                                             |
 | 50:27      | Unique links out of OmniFocus, [[Drafts]], Ulysses, [[DEVONthink]].                                                                                                   |
 | 50:31      | All these apps make them, right?                                                                                                                                 |
-| 50:34      | Except the Apple native app.                                                                                                                                     |
+| 50:34      | Except the [[Apple]] native app.                                                                                                                                     |
 | 50:35      | In that case, you've got to come up with some goofy search term and that anyway.                                                                                 |
 | 50:41      | Whatever.                                                                                                                                                        |
 | 50:42      | Well, you can use, don't forget, 1Password has a feature where you can generate a password                                                                     |

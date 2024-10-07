@@ -117,38 +117,37 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 03:00      | But at the same time, I have often found myself frustrated by the resources available.                 |
 | 03:06      | Because I mean, I remember in the very earliest days, you know, if you wanted to script anything       |
 | 03:10      | on the Mac, you're doing [[AppleScript]].                                                                 |
-| 03:12      | And AppleScript was something that I always struggled with.                                           |
+| 03:12      | And [[AppleScript]] was something that I always struggled with.                                           |
 | 03:14      | I never quite understood how to make it do the things that I wanted it to do and always                |
 | 03:20      | seemed a bit arcane.                                                                                   |
 | 03:21      | And I sort of knew there was all this stuff that you could do.                                         |
 | 03:24      | But I just, I had so much trouble wrapping my head around it that I think it wasn't                    |
 | 03:28      | until I started learning like programming languages later.                                             |
-| 03:31      | For some reason, even those, you know, ended up being more accessible to me than Apple                 |
-| 03:35      | script.                                                                                                |
+| 03:31      | For some reason, even those, you know, ended up being more accessible to me than [[AppleScript]].       |
 | 03:36      | In my earliest days, you know, learning basic and even hyper talk, like, I could get my,               |
-| 03:41      | I can understand what I was doing there, whereas with AppleScript, it felt like it should             |
+| 03:41      | I can understand what I was doing there, whereas with [[AppleScript]], it felt like it should             |
 | 03:45      | be something I could easily, oh yeah, just do this thing and it does this, but it never                |
 | 03:50      | seemed to quite work for me.                                                                           |
 | 03:51      | So I struggle with that.                                                                               |
-| 03:52      | I think the challenge with AppleScript is that, you know, they, they really wanted it                 |
+| 03:52      | I think the challenge with [[AppleScript]] is that, you know, they, they really wanted it                 |
 | 03:56      | to be more accessible to non programmers.                                                              |
 | 03:59      | Yeah.                                                                                                  |
 | 04:00      | So it's got a certain fuzziness to it that you really have to get used to.                             |
 | 04:05      | And like if you are a more traditional programmer and you know how to declare a variable and           |
 | 04:11      | do certain things and it always works the same way, but you always do it exactly the                   |
-| 04:15      | same way, a language that is, you know, more that is fuzzier like AppleScript, it can                 |
+| 04:15      | same way, a language that is, you know, more that is fuzzier like [[AppleScript]], it can                 |
 | 04:22      | be vexing.                                                                                             |
 | 04:23      | Yeah.                                                                                                  |
 | 04:24      | And I think part of the challenge for me, especially as someone who also does a lot of writing         |
-| 04:28      | is the AppleScript always purports to be this like written in English style programming               |
+| 04:28      | is the [[AppleScript]] always purports to be this like written in English style programming               |
 | 04:33      | language, right?                                                                                       |
 | 04:34      | And, but it doesn't look like English and it doesn't look like programming and I always                |
 | 04:38      | just was like super confused.                                                                          |
 | 04:40      | Yeah.                                                                                                  |
 | 04:41      | I get it, man.                                                                                         |
-| 04:42      | I think a lot of people struggle with that, which is a, I think one of the reasons Apple               |
+| 04:42      | I think a lot of people struggle with that, which is a, I think one of the reasons [[Apple]]               |
 | 04:45      | has gone so hard on shortcuts is they want something that, you know, people can do without             |
-| 04:50      | having to decipher AppleScript.                                                                       |
+| 04:50      | having to decipher [[AppleScript]].                                                                       |
 | 04:53      | Right.                                                                                                 |
 | 04:54      | And then in the meantime, in like the interim there, we had Automator, right on the, on                |
 | 04:57      | the Mac.                                                                                               |
@@ -164,7 +163,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 05:28      | date.                                                                                                  |
 | 05:29      | Like you select a date from a date picker and then it stays like that.                                 |
 | 05:31      | It's not like a dynamic thing and, and, and stuff like that.                                           |
-| 05:34      | I, I found it very frustrating and similarly, you know, with AppleScript, like you can                |
+| 05:34      | I, I found it very frustrating and similarly, you know, with [[AppleScript]], like you can                |
 | 05:40      | say like with records from shortcuts or for each, but you don't use for each to go through             |
 | 05:48      | it.                                                                                                    |
 | 05:49      | It's like repeat with shortcut in folder from shortcuts or something like that.                        |
@@ -252,7 +251,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 10:21      | Yes, it can or no, I've added a filter in here to stop it doing that.                                  |
 | 10:25      | That could be very useful.                                                                             |
 | 10:27      | And I wonder if, you know, because I find I think a lot of people have discovered shortcuts            |
-| 10:31      | over the last, you know, couple of years, obviously with Apple buying them and shipping                |
+| 10:31      | over the last, you know, couple of years, obviously with [[Apple]] buying them and shipping                |
 | 10:34      | it, you know, built into every iPhone.                                                                 |
 | 10:37      | But I think more people would be inclined to play with it if it looked a bit more like                 |
 | 10:41      | a game.                                                                                                |
@@ -280,7 +279,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 11:38      | they were attracted to automator.                                                                      |
 | 11:41      | And the problem with automator wasn't that the people that made it were, were enthusiastic             |
 | 11:45      | about it.                                                                                              |
-| 11:46      | It was just, I think upper management at Apple never gave it, you know, sufficient resources           |
+| 11:46      | It was just, I think upper management at [[Apple]] never gave it, you know, sufficient resources           |
 | 11:51      | to become as good as it could have been.                                                               |
 | 11:53      | I mean, they, they announced automator with so much fanfare, but they never did much with              |
 | 11:58      | it afterwards.                                                                                         |
@@ -289,14 +288,14 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 12:09      | with their apps.                                                                                       |
 | 12:10      | And it just never got that traction.                                                                   |
 | 12:12      | Yeah.                                                                                                  |
-| 12:13      | It's very, very Apple-like move to announce something with a big announcement and then                 |
+| 12:13      | It's very, very [[Apple]]-like move to announce something with a big announcement and then                 |
 | 12:17      | kind of quietly just let it die.                                                                       |
 | 12:19      | Yeah.                                                                                                  |
 | 12:20      | I think upper management, there were some people that were management that just weren't interested     |
 | 12:23      | in automation.                                                                                         |
 | 12:24      | And that's my outside take, you know, I mean, I think Steve Jobs got it.                               |
 | 12:29      | Right.                                                                                                 |
-| 12:30      | Because automation is what kept Apple afloat, you know, it was all the automation stuff they           |
+| 12:30      | Because automation is what kept [[Apple]] afloat, you know, it was all the automation stuff they           |
 | 12:34      | had in the nineties that kept publishers buying Macs and probably kept the company from going          |
 | 12:39      | under.                                                                                                 |
 | 12:40      | But, you know, times change, right?                                                                    |
@@ -328,7 +327,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 13:52      | it and they've, they've shipped a whole bunch of actions for shortcuts and including a recent          |
 | 13:56      | update where they've added a whole bunch extra stuff on the Mac, which was really nice.                |
 | 14:02      | But like, there isn't a lot of buy in from, say, the meal app inside of shortcuts.                     |
-| 14:07      | And it would be really nice to see, you know, those other teams at Apple, you know, step               |
+| 14:07      | And it would be really nice to see, you know, those other teams at [[Apple]], you know, step               |
 | 14:11      | up to the plate or give the shortcuts team access to whatever it is they need to do                    |
 | 14:14      | to be able to do more.                                                                                 |
 | 14:16      | I don't just want to send an email.                                                                    |
@@ -369,7 +368,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 15:53      | and B, you can also access it in shortcuts.                                                            |
 | 15:54      | You have to talk about it every time, but like that's table stakes at this point.                      |
 | 15:58      | Yeah.                                                                                                  |
-| 15:59      | Like two that really stand out are Apple notes and [[Apple Reminders\|Reminders]].                                          |
+| 15:59      | Like two that really stand out are [[Apple Notes]] and [[Apple Reminders\|Reminders]].                                          |
 | 16:01      | Like [[Apple Reminders\|Reminders]] got new features last year.                                                             |
 | 16:04      | Yeah.                                                                                                  |
 | 16:05      | And even though there is good support in shortcuts or [[Apple Reminders\|Reminders]], none of the new features got          |
@@ -385,7 +384,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 16:30      | hand, right hand, come on guys, you know, talk to each other.                                          |
 | 16:33      | Yeah.                                                                                                  |
 | 16:34      | And I get that they have privacy and secrecy concerns.                                                 |
-| 16:37      | You know, Apple have had a lot of things leaked before and, you know, especially the week              |
+| 16:37      | You know, [[Apple]] have had a lot of things leaked before and, you know, especially the week              |
 | 16:41      | or a couple of weeks before [[WWDC]], which we're in as we record this episode and as it releases,         |
 | 16:46      | you know, I can imagine it must be really disheartening if you're a developer, you've                  |
 | 16:50      | been working on something for the last year, you know, you've been working really hard.                |
@@ -408,13 +407,13 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 17:58      | via the share sheet, then you actually don't want that action.                                         |
 | 18:01      | You want whatever's coming through the share sheet.                                                    |
 | 18:03      | And so you have to kind of do some smart stuff and it would be really nice if there were               |
-| 18:06      | just deeper integration with the Apple native apps and, you know, show Microsoft how it's              |
+| 18:06      | just deeper integration with the [[Apple]] native apps and, you know, show Microsoft how it's              |
 | 18:12      | done.                                                                                                  |
 | 18:13      | My hope on that is the adoption, especially by third parties of shortcuts in a way that                |
 | 18:17      | I feel like an automator never really got.                                                             |
-| 18:21      | I'm hoping that spurs Apple a bit when they realise, hey, there, all these other apps                  |
+| 18:21      | I'm hoping that spurs [[Apple]] a bit when they realise, hey, there, all these other apps                  |
 | 18:25      | are building this stuff in and users are responding to that and being positive about that.             |
-| 18:29      | I hope that sort of feedback loops into Apple and they're like, way, we should be spending             |
+| 18:29      | I hope that sort of feedback loops into [[Apple]] and they're like, way, we should be spending             |
 | 18:33      | more time on our own stuff so that we don't look like we're second-class citizens on our               |
 | 18:38      | own platform.                                                                                          |
 | 18:39      | Um, but yeah, I mean, and, and full props to, uh, apps like [[Rogue Amoeba]], uh, or they                  |
@@ -430,13 +429,13 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 19:08      | Oh yeah.                                                                                               |
 | 19:09      | Yep.                                                                                                   |
 | 19:10      | My weekends just disappeared.                                                                          |
-| 19:11      | And to get back to your point, Rose, about, you know, secrecy inside Apple, you know,                  |
+| 19:11      | And to get back to your point, Rose, about, you know, secrecy inside [[Apple]], you know,                  |
 | 19:15      | the leaks that happen usually are in the manufacturing chain.                                          |
-| 19:19      | That's usually where the leaks come rarely does Apple have software leaks and, you know,               |
-| 19:24      | they make those employees sign documents when you join Apple that literally, you know, makes           |
+| 19:19      | That's usually where the leaks come rarely does [[Apple]] have software leaks and, you know,               |
+| 19:24      | they make those employees sign documents when you join [[Apple]] that literally, you know, makes           |
 | 19:30      | you feel like they're going to take your second child.                                                 |
 | 19:33      | If you speak, right?                                                                                   |
-| 19:34      | I mean, it's so bad that people leave Apple and they're still afraid to talk about it.                 |
+| 19:34      | I mean, it's so bad that people leave [[Apple]] and they're still afraid to talk about it.                 |
 | 19:38      | You know, so I don't think the issue is leaks coming out of teams working together and making          |
 | 19:44      | a better product for the customer.                                                                     |
 | 19:45      | It just seems to me so counter-intuitive that, you know, there should be a shortcuts team               |
@@ -460,8 +459,8 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 20:59      | And you know, there is something to be said for it.                                                    |
 | 21:03      | Don't start on things too early, but it kind of feels to an extent that some things maybe              |
 | 21:07      | don't get started at all or are granting started much too late because there doesn't appear            |
-| 21:12      | to be a automation framework for [[Safari]] tab groups, for example, there's nothing in Apple              |
-| 21:17      | Script, there doesn't appear to be a single way to get this information.                               |
+| 21:12      | to be a automation framework for [[Safari]] tab groups, for example, there's nothing in [[AppleScript]], |
+| 21:17      | there doesn't appear to be a single way to get this information.                               |
 | 21:21      | And I've gone digging.                                                                                 |
 | 21:22      | I have gone digging for this because I love tab groups, but you know, there's stuff in                 |
 | 21:27      | there that's years old, I was surprised at one point trying to do an automation to set                 |
@@ -484,7 +483,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 22:25      | the races.                                                                                             |
 | 22:26      | All right.                                                                                             |
 | 22:27      | All right.                                                                                             |
-| 22:28      | So that's definitely better, but I definitely feel like it's Apple's just that's there.                |
+| 22:28      | So that's definitely better, but I definitely feel like it's [[Apple|Apple's]] just that's there.                |
 | 22:31      | Literally your OS.                                                                                     |
 | 22:32      | Yes.                                                                                                   |
 | 22:33      | You built that feature in.                                                                             |
@@ -804,7 +803,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 42:26      | Then it hits the tab key and goes to the body and types the body message.                              |
 | 42:29      | So I can do all of this in one step.                                                                   |
 | 42:31      | There's just no other text expansion tool that can do that.                                            |
-| 42:35      | It can also run AppleScript.                                                                           |
+| 42:35      | It can also run [[AppleScript]].                                                                           |
 | 42:36      | So I have it pull the first name from the recipient of the email and put it into the email.            |
 | 42:41      | So it'll say, hi, Rose, because it got it out of the recipient name in the email.                      |
 | 42:46      | It can also use the contents of the clipboard.                                                         |
@@ -964,7 +963,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 55:14      | home. Honestly, if you've got shades in your house and you would like them to go up and down,          |
 | 55:20      | maybe just because it's another thing to do or to help you get up in the morning,                      |
 | 55:24      | or just because it's a cool home automation feature, then you want Hunter Douglas. Hunter              |
-| 55:29      | Douglas shades are compatible with all your favourite home automation systems. Amazon Alexa,            |
+| 55:29      | Douglas shades are compatible with all your favourite home automation systems. [[Amazon]] Alexa,            |
 | 55:34      | [[HomeKit\|Apple HomeKit]], Google Assistant, if there's some that and more. I know listeners of the show would     |
 | 55:39      | really love to be able to automate this stuff themselves too, helping them integrate their             |
 | 55:42      | shades with the other products in their home, and you can get that control with Hunter Douglas.        |
@@ -976,7 +975,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 56:08      | Let's talk about that whole date and elapsed time bit in the middle. Because I think that's            |
 | 56:14      | something that a lot of people could benefit from. Shortcuts, in my opinion, actually really           |
 | 56:19      | simplifies dealing with dates and actually getting time between dates too. Because if you've ever done |
-| 56:25      | date automation in AppleScript or any of the traditional programming languages,                        |
+| 56:25      | date automation in [[AppleScript]] or any of the traditional programming languages,                        |
 | 56:31      | it does require you to use, I guess, what they call absolute time, which is where you                  |
 | 56:35      | got to use the [[Unix]] command and go and figure out what second you are basically in the universe        |
 | 56:40      | to establish a baseline for time. It's a huge pain. At some point, Rose and I probably should          |
@@ -1041,16 +1040,16 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:01:40   | right? But again, if you're making it portable as possible, you can't depend on having third           |
 | 01:01:44   | parties in there. Yeah, I have to say, I did not think about getting the current time out of the       |
 | 01:01:48   | [[Audio Hijack]] one. Oh my gosh, how did I not think about that? That's because it didn't exist when      |
-| 01:01:52   | you built it. Yeah, that too. So my day job is writing PHP and JavaScript. The project that I          |
-| 01:02:00   | work on at work is a Laravel application with a React front end. So JavaScript to me is not a          |
-| 01:02:07   | problem facing with [[AppleScript\|AppleScripts]]. I hate JavaScript. Well, you come to me with Apple                  |
-| 01:02:14   | Script and I'm like, oh, maybe not. But at the very least, there's plenty of options out there.        |
+| 01:01:52   | you built it. Yeah, that too. So my day job is writing PHP and [[JavaScript]]. The project that I          |
+| 01:02:00   | work on at work is a Laravel application with a React front end. So [[JavaScript]] to me is not a          |
+| 01:02:07   | problem facing with [[AppleScript\|AppleScripts]]. I hate [[JavaScript]]. Well, you come to me with [[AppleScript]]                  |
+| 01:02:14   | and I'm like, oh, maybe not. But at the very least, there's plenty of options out there.        |
 | 01:02:22   | This is what I love about things like this is there's so many different ways to solve this             |
 | 01:02:26   | problem. And also just to highlight that, you were talking about Epoch and [[Unix]] Time.                  |
-| 01:02:33   | Apple also has their own special one called Coco Time, which is time since midnight UTC January        |
+| 01:02:33   | [[Apple]] also has their own special one called Coco Time, which is time since midnight UTC January        |
 | 01:02:39   | 1st, 2001, which is sometimes used in some of those things, which is just a little bit of              |
 | 01:02:45   | extra fun. I thought you were going to say from like January 24th, 1984. And I'd be like,              |
-| 01:02:50   | that would be such an Apple decision. That would be very Apple. But I have to say,                     |
+| 01:02:50   | that would be such an [[Apple]] decision. That would be very [[Apple]]. But I have to say,                     |
 | 01:02:54   | I somewhat appreciate the fact that it's January 1st, 2001, because it saves you 30 years.             |
 | 01:02:59   | Right. Oh, yeah, that's great. Plus, you get to skip that whole Y2K-ish.                               |
 | 01:03:04   | Yep. Yep. There's no worries about the ATM eating all our money over here anymore at any rate.         |
@@ -1133,15 +1132,15 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:10:01   | different way to do it. But the best way to do it is the way that you've done it, because it's         |
 | 01:10:05   | actually done. That's right. That's a great call. Yeah. So it makes a lot of sense. No, I really       |
 | 01:10:11   | like that, because especially if you don't already have a smart scale, and then, you know, like,       |
-| 01:10:15   | is it only operating on your home network? I have a eufy scale, and it's not that I don't            |
-| 01:10:19   | trust eufy, but I've used the Arrow app to block its internet access, so that it's just,             |
+| 01:10:15   | is it only operating on your home network? I have a [[eufy]] scale, and it's not that I don't            |
+| 01:10:19   | trust [[eufy]], but I've used the Arrow app to block its internet access, so that it's just,             |
 | 01:10:24   | you know, it logs via the app on my phone to the health kit, and that's it. Thank you very much.       |
 | 01:10:28   | But I appreciate the fact that it does do that, you know, when my phone turns on,                      |
 | 01:10:33   | and I open the app. But I can imagine that a lot of people wouldn't necessarily want a Wi-Fi           |
 | 01:10:38   | connected scale. And if you've already got scales and they work, then why not just, you know,          |
 | 01:10:43   | save yourself some cash and do it via shortcuts to log it? You know, that makes perfect sense.         |
 | 01:10:49   | Yeah, I agree. Yeah, it's nice to have the option, and you can also control where it is,               |
-| 01:10:53   | right? Like, that's the thing I feel great about is like, I know it's on my phone, I trust Apple       |
+| 01:10:53   | right? Like, that's the thing I feel great about is like, I know it's on my phone, I trust [[Apple]]       |
 | 01:10:57   | with, you know, other health data. So I'm totally fine having this information in there.               |
 | 01:11:02   | Yes, yes. And then you could always get really nerdy and convert it into a really pretty chart         |
 | 01:11:07   | with Charty, if you wanted to, or something. I do have that, but I haven't yet mastered that           |
@@ -1199,7 +1198,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:15:39   | I have to say it's one of the remote most robust shortcuts I have made in that I've never had a        |
 | 01:15:44   | once I figured out how to make it work. I've never had a problem and never had to touch it again.      |
 | 01:15:49   | It does literally what I want it to do every single time. And this is one of the places where          |
-| 01:15:54   | Apple sort of predictive AI stuff works well, because you know, my frequently my phone will            |
+| 01:15:54   | [[Apple]] sort of predictive AI stuff works well, because you know, my frequently my phone will            |
 | 01:16:01   | tell me like as I wake up in the morning, and I'm checking my phone and everything, it'll pop up a     |
 | 01:16:04   | little, you know, like the little widget where it's like, Hey, you normally read your comics           |
 | 01:16:08   | right now. It's cool. I do want to read my comics at the button and it'll launch the shortcut and      |

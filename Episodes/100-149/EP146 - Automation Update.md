@@ -104,14 +104,14 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 02:17      | But we also have to make everything work.                         |
 | 02:20      | And I know that they definitely ran into some issues              |
 | 02:22      | at various points.                                                |
-| 02:23      | And I'm sure they had to file some bug reports with Apple         |
+| 02:23      | And I'm sure they had to file some bug reports with [[Apple]]         |
 | 02:26      | to try and get some things fixed in [[SwiftUI]]                       |
 | 02:31      | or try and work around it.                                        |
 | 02:33      | But I feel like they've done a really good job.                   |
 | 02:34      | And it shows with the universal unified UI                        |
 | 02:37      | that you get across all the devices now.                          |
 | 02:39      | So it's got the [[SwiftUI]], which gives it the foundation            |
-| 02:43      | to work across all Apple platforms going forward.                 |
+| 02:43      | to work across all [[Apple]] platforms going forward.                 |
 | 02:47      | So if they want to add a new feature now,                         |
 | 02:49      | it's not like implementing it three times for iPhone, iPad,       |
 | 02:54      | and Mac, or even Vision Pro going forward.                        |
@@ -149,20 +149,20 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 04:22      | which has just been significantly improved,                       |
 | 04:26      | that makes my life a lot easier.                                  |
 | 04:27      | And I really love that about it.                                  |
-| 04:29      | Yeah, and to me, the big one is the OmniFocus JavaScript          |
+| 04:29      | Yeah, and to me, the big one is the OmniFocus [[JavaScript]]          |
 | 04:34      | automation flavour that they've built.                             |
 | 04:38      | And this, I want to give a lot of the credit                      |
 | 04:41      | to [[Sal Soghoian]], but I know that it was the OmniGroup2.            |
 | 04:44      | But they came up with a new automation language in essence.       |
-| 04:48      | It's a very, it's a flavour of JavaScript.                         |
+| 04:48      | It's a very, it's a flavour of [[JavaScript]].                         |
 | 04:51      | But it really applies to OmniApplications.                        |
 | 04:55      | And what the effect is, is you can essentially                    |
 | 04:59      | build any feature you want in the app                             |
-| 05:01      | if you have JavaScript skills.                                    |
+| 05:01      | if you have [[JavaScript]] skills.                                    |
 | 05:04      | But they've also pre-populated it.                                |
 | 05:07      | I've lost track.                                                  |
 | 05:08      | It's over 100 new features that you can add just                  |
-| 05:11      | by implementing one of these JavaScript implementations.          |
+| 05:11      | by implementing one of these [[JavaScript]] implementations.          |
 | 05:14      | And the beauty of it is it doesn't just work on Mac.              |
 | 05:18      | It works on all platforms.                                        |
 | 05:20      | And so you add a new feature, and the feature                     |
@@ -221,7 +221,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 07:46      | And it's one of the features of OmniFocus                         |
 | 07:49      | that makes it the app of choice for me.                           |
 | 07:52      | But automating those in the early days was very difficult.        |
-| 07:55      | I wrote these really archaic Apple scripts                        |
+| 07:55      | I wrote these really archaic [[AppleScript\|AppleScripts]]        |
 | 08:00      | that would go through and set it a fur date.                      |
 | 08:02      | But it always felt to me kind of like throwing the dice           |
 | 08:05      | every time I ran that script.                                     |
@@ -248,7 +248,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 09:06      | to a pre-written script and then hooking up the buttons.          |
 | 09:09      | Or if you just want to use the keyboard,                          |
 | 09:11      | you can do that too.                                              |
-| 09:13      | Whereas lately, I've come to using my extended Apple keyboard.    |
+| 09:13      | Whereas lately, I've come to using my extended [[Apple]] keyboard.    |
 | 09:17      | For some reason, I got it out.                                    |
 | 09:19      | And that number pad for an automator can be quite useful.         |
 | 09:24      | Yeah, definitely.                                                 |
@@ -418,7 +418,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 16:30      | or say, okay, if it's on this iPad                                |
 | 16:32      | because I haven't updated that iPad yet, it just works.           |
 | 16:36      | And that for me is like, wow, you know, like, you know,           |
-| 16:39      | it's a feature that Apple and the shortcuts team added            |
+| 16:39      | it's a feature that [[Apple]] and the [[Shortcuts]] team added            |
 | 16:43      | a couple of iOS's ago,                                            |
 | 16:44      | but we haven't really seen it appear in many places.              |
 | 16:47      | The only place I've really seen it happen before                  |
@@ -447,7 +447,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 17:38      | So that to me is, you know, my favourite feature.                  |
 | 17:41      | Is that because of [[SwiftUI]] that it's working so well,            |
 | 17:44      | or did they do something else, you think?                         |
-| 17:46      | No, so Apple explicitly added something                           |
+| 17:46      | No, so [[Apple]] explicitly added something                           |
 | 17:49      | where if you've got two apps by the same app developer            |
 | 17:53      | and their shortcuts, the shortcuts action                         |
 | 17:55      | is using the same signature, then it is the same action.          |
@@ -469,7 +469,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 18:39      | I'm not sure, but there is,                                       |
 | 18:43      | there's a couple of things going on over there.                   |
 | 18:45      | First of all, he's added a ton of features                        |
-| 18:48      | through this new automation JavaScript scheme.                    |
+| 18:48      | through this new automation [[JavaScript]] scheme.                    |
 | 18:51      | And it's kind of fun to just go feature shopping.                 |
 | 18:53      | Like, you go in there and you download an automation              |
 | 18:57      | and just add a feature to OmniFocus                               |
@@ -594,7 +594,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 24:38      | to create all these additional features.                          |
 | 24:40      | And you too, dear listener,                                       |
 | 24:41      | if you want to put some effort into it,                           |
-| 24:44      | JavaScript's not that hard.                                       |
+| 24:44      | [[JavaScript\|JavaScript's]] not that hard.                                       |
 | 24:46      | You can usually kind of finagle your way through it,              |
 | 24:49      | but I would also recommend writing into the Omni-Group            |
 | 24:52      | if there's one you'd like.                                        |
@@ -650,8 +650,8 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 27:05      | Yeah, and that is just something that, you know,                  |
 | 27:08      | makes lives a lot easier and not only that,                       |
 | 27:11      | but this is also a great way to see some of the ways              |
-| 27:16      | that you can use JavaScript with OmniFocus as well,               |
-| 27:21      | because there's JavaScript in the workflow.                       |
+| 27:16      | that you can use [[JavaScript]] with OmniFocus as well,               |
+| 27:21      | because there's [[JavaScript]] in the workflow.                       |
 | 27:23      | If you download it, then you can actually, you know,              |
 | 27:25      | edit it and play with it.                                         |
 | 27:27      | It's not, you know, just compiled in a way                        |

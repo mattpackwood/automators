@@ -120,11 +120,11 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 05:55      | Rose, we need an explanation of what that cryptic text meant.                                            |
 | 06:00      | Okay, well, it's not that cryptic. So for people that aren't aware, my favourite colour is purple.         |
 | 06:05      | And therefore, the correct answer to are you getting a new iMac, which is M1, is                         |
-| 06:13      | my Mac mini still within its return period. So thank you, Apple. Yes, I am. Are you getting              |
+| 06:13      | my Mac mini still within its return period. So thank you, [[Apple]]. Yes, I am. Are you getting              |
 | 06:19      | a new iPhone in purple? No, no, I'm not because I have the iPhone 12 Pro Max. It's only the iPhone 12    |
 | 06:25      | that is available in purple. So it's the 12 and the 12 mini. And Jay, I want to pick your brains         |
 | 06:30      | a little bit about the mini actually. When we get to that, I want a purple iPhone. I want a pro          |
-| 06:36      | purple iPhone so much. They did green. They're doing blue this year. Please, Apple purple next           |
+| 06:36      | purple iPhone so much. They did green. They're doing blue this year. Please, [[Apple]] purple next           |
 | 06:42      | year. A lovely dark sort of mystical purple on the pro iPhones. That would just be magical.              |
 | 06:49      | Absolutely magical. But yeah, I'm getting a new iMac, David. I've never had an iMac before. It's         |
 | 06:55      | going to be exciting. And yeah, I can't wait because I've been trialling this M1 Mac mini,                |
@@ -161,14 +161,14 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 10:05      | I'll be traveling a lot. You know, that's I mean, we're already having those conversations about         |
 | 10:09      | next year and like making sure we have the right miles and stuff set up. So for me, it's like,           |
 | 10:16      | do I really want to invest in this beautiful screen that I'm only going to get to play with              |
-| 10:22      | half of the time? And part of me says, yes, absolutely 100% you're an Apple nerd, you do that.           |
+| 10:22      | half of the time? And part of me says, yes, absolutely 100% you're an [[Apple]] nerd, you do that.           |
 | 10:29      | The other part of me is like, well, they have this iPad. And I have like a work,                         |
 | 10:36      | you know, laptop that's fine. I could just use that to invest in an iPad. And I mean, I have             |
 | 10:42      | and the new iPad has so much with this supporting Thunderbolt. So now I can plug it into my LG,          |
 | 10:49      | you know, cinema display thing, that this massive screen here. And I, I'm really excited about how       |
 | 10:57      | much power comes in that new iPad. But I really need them to make some applications that are             |
 | 11:03      | going to use that power. And I'm specifically talking about logic and final cut for me. But              |
-| 11:09      | I know that there are a few alternatives out there. But I, I'm just begging Apple, like if               |
+| 11:09      | I know that there are a few alternatives out there. But I, I'm just begging [[Apple]], like if               |
 | 11:16      | you've given me a $2,000 iPad that I want to buy, give me the applications that will make me             |
 | 11:22      | say this is a no brainer, you know, shut up and take my money.                                           |
 | 11:26      | Yeah, I talked to a friend years ago about why they don't have the pro apps on the iPad after            |
@@ -178,7 +178,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 11:51      | now this new one, if you get the terabyte size one has 16 gigabytes of RAM. And all of a sudden,         |
 | 11:57      | I feel like maybe we're, you know, I don't want to be too hopeful because, you know, we've been down     |
 | 12:02      | this road before, but maybe this is the year that they're like, okay, we built it with a powerful        |
-| 12:07      | enough chip, we've given enough RAM. Now all the Apple pro apps are going to show up here. And,          |
+| 12:07      | enough chip, we've given enough RAM. Now all the [[Apple]] pro apps are going to show up here. And,          |
 | 12:12      | and maybe this is the year who knows. Yeah, yeah, that would be pretty exciting. I've decided            |
 | 12:18      | I am not going to have a laptop anymore. I'm going 12.9 inch iPad pro and an iMac. And until             |
 | 12:25      | [[WWDC]] happens, I'm going to be using Jump Desktop whenever I need to get onto my Mac,                     |
@@ -195,9 +195,9 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 13:17      | purple story here. I'm not doing magic mouse. So I don't, I don't really have many issues,               |
 | 13:24      | but I do have a slight case of arthritis in my hands. And it's just one of those things where            |
 | 13:29      | if I do the smart thing and I use a good ergonomic mouse and stuff like that, I don't have a problem.    |
-| 13:35      | The Apple Magic keyboard is fine for me 90% of the time. And the other 10% of the time,                  |
+| 13:35      | The [[Apple Magic Keyboard]] is fine for me 90% of the time. And the other 10% of the time,                  |
 | 13:40      | I've got plenty of other keyboards running around way too many keyboards. So that's all good.            |
-| 13:45      | So I will be getting the Apple Magic keyboard. And with the iMac configuration I'm looking at,           |
+| 13:45      | So I will be getting the [[Apple Magic Keyboard]]. And with the iMac configuration I'm looking at,           |
 | 13:51      | it will come with the Touch ID built in, and I'll be getting the matching purple trackpad.               |
 | 13:56      | And this will be accompanied by my standee, my city friend, the Logitech MX Master 3,                    |
 | 14:03      | which is an excellent ergonomic mouse with a horizontal scroll wheel,                                    |
@@ -207,7 +207,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 14:22      | do you know what a hardware store is? You mean like a DIY store? There you go.                           |
 | 14:26      | Like Home Depot type thing? Yeah, exactly. Like we B&Q here or Wickes or Screwfix                        |
 | 14:30      | here, yes. All right, so go there and get yourself a can of glossy purple spray paint.            |
-| 14:38      | And then you just lay the mouse. I already Amazon did. It's arriving tomorrow.                           |
+| 14:38      | And then you just lay the mouse. I already [[Amazon]] did. It's arriving tomorrow.                           |
 | 14:42      | And then just lay the mouse down, go outside, and put some newspaper underneath it so you                |
 | 14:47      | don't mess up the ground. And then just spray it purple and you're good.                                 |
 | 14:51      | Yeah, there's purple spray paint arriving tomorrow. It wasn't for the mouse that I'm tempted.            |
@@ -238,21 +238,21 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 17:13      | text my mom or just have an application button that says, you know, sorry, I haven't messaged in so      |
 | 17:19      | long. Just kind of those classic ones. And then I started getting into programming. And from there,      |
 | 17:28      | it became, you know, for those that don't know, there's a script box in Draft Actions. And it's          |
-| 17:34      | been there for some time now that allows for JavaScript. And I was like, Oh, I can use this to           |
-| 17:43      | learn how to code. So for me, going in and learning, you know, Python and learning JavaScript for        |
+| 17:34      | been there for some time now that allows for [[JavaScript]]. And I was like, Oh, I can use this to           |
+| 17:43      | learn how to code. So for me, going in and learning, you know, Python and learning [[JavaScript]] for        |
 | 17:51      | most of this type of automation stuff. And I had, I had not really at the time, I don't even think       |
 | 17:57      | I'd only had like one like MacBook Pro. And I wasn't thinking about things like [[Keyboard Maestro]]                |
 | 18:03      | or all this other stuff. So yeah, a lot of my automation really started on iOS devices and,       |
 | 18:09      | you know, [[Drafts]] being the biggest part of that. Because at the time, I think I remember the day         |
-| 18:16      | when a friend of mine showed me this app called Workflow. And I was just like, Apple's never             |
+| 18:16      | when a friend of mine showed me this app called Workflow. And I was just like, [[Apple\|Apple's]] never             |
 | 18:22      | going to let this thing stay in the store. Like, it's crazy.                                             |
-| 18:26      | The joke at the time was that they had naked pictures of somebody at Apple, because there's              |
+| 18:26      | The joke at the time was that they had naked pictures of somebody at [[Apple]], because there's              |
 | 18:31      | no other way it would have got approved. Maybe that's how they all got hired.                            |
 | 18:37      | Yeah, you know, something I didn't know, Jay, was that you actually learned development and              |
 | 18:43      | programming through [[Drafts]] automation. That is, that's a great story. And I know there's a lot           |
 | 18:50      | of people out there listening who like automation, they're not developers, they don't know much about    |
 | 18:55      | programming. But they probably would like to learn more. And I think, you know, [[Drafts]] automation,       |
-| 19:02      | particularly JavaScript automation, is a great place to get started. How did you go about learning,      |
+| 19:02      | particularly [[JavaScript]] automation, is a great place to get started. How did you go about learning,      |
 | 19:08      | you know, the craft? Well, and I would say I have to be fair and say I was interested in                 |
 | 19:15      | Python development at the time. And I was, you know, I was doing kind of the, you know, free code camp   |
 | 19:21      | and like those courses. And I had mentors. But I think what [[Drafts]] and what iOS automation taught        |
@@ -261,7 +261,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 19:42      | things with that platform. And like everything is so well documented. Now I'm like, wow, I wish I        |
 | 19:46      | would have had this, you know, almost eight years ago, or seven years ago. But it's, it's interesting    |
 | 19:55      | because at the time, all you could do is go on to Stack Overflow and like, how do I do a for loop        |
-| 20:01      | in JavaScript? And in your mind, you're like, okay, there's a chance that the developer hasn't           |
+| 20:01      | in [[JavaScript]]? And in your mind, you're like, okay, there's a chance that the developer hasn't           |
 | 20:09      | included this kind of logic, or there's a chance that it just won't translate one to one. So in my       |
 | 20:15      | mind, I'm like, oh, this works like this. But then there are all these other things that I don't really  |
 | 20:21      | know about. And it just became, well, let's try it and let's build what we know and build off of what    |
@@ -275,7 +275,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 21:11      | okay. I just, I'm really curious because for everybody, their first automation that they                 |
 | 21:16      | remembered, you know, doing that was held together with duct tape, hopes, wishes, and unicorn tears      |
 | 21:22      | is always special. So, so, so what was this, you know, how, how did you create, obviously,               |
-| 21:26      | you know, use [[Drafts]] and JavaScript from the sounds of it? But, but what was the purpose of this?        |
+| 21:26      | you know, use [[Drafts]] and [[JavaScript]] from the sounds of it? But, but what was the purpose of this?        |
 | 21:32      | So I, I've been a productivity fan person for a long time. And one of the things that I had,             |
 | 21:40      | you know, really started thinking about was how does my mood affect my productivity? Like,               |
 | 21:45      | I mean, obviously, we just have days where we just can't even. And, and that's, you know,                |
@@ -336,7 +336,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 26:51      | it just is kind of a Swiss Army knife for text. And if someone works with text, this is a great          |
 | 26:57      | automation platform because you can make your life so much easier with it. But let's talk a bit about    |
 | 27:05      | some of your other automation because you've gone far beyond that since, you know, your initial          |
-| 27:10      | exploration into [[Drafts]] and JavaScript. Yeah, so I mentioned that, you know, that quickly turned         |
+| 27:10      | exploration into [[Drafts]] and [[JavaScript]]. Yeah, so I mentioned that, you know, that quickly turned         |
 | 27:16      | into programming. And I feel like anyone that can write a shortcut, anyone that can write a              |
 | 27:24      | workflow or a [[Keyboard Maestro]] action, you're already on the right track. I tell people my             |
 | 27:32      | claim to automation fame for the people that I worked around was I got in trouble once for not           |
@@ -532,7 +532,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 45:22      | you're doing this stuff repeatedly. I think those are some of the best automations.                      |
 | 45:27      | I recently did one that's very similar to this where it will copy the URL of the currently               |
 | 45:32      | open [[Safari]] window, open deliveries and start adding a new delivery. And I do this for when              |
-| 45:38      | I've ordered things from Amazon, so that I can easily grab that link and just paste it into              |
+| 45:38      | I've ordered things from [[Amazon]], so that I can easily grab that link and just paste it into              |
 | 45:43      | deliveries ready to add that so that I know things are coming. And I realise I don't use                 |
 | 45:49      | it all that often, but I do the same thing. I do command L command C, command space type DEL,            |
 | 45:56      | wait for it to appear, tap enter, command N, and then it delivers picks it up on my keyboard.            |
@@ -870,12 +870,12 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:18:06   | okay, cool. Thanks. Anytime that you hook a web URL. So if I go to macsparkyy.com or relay.fm slash        |
 | 01:18:15   | automators and I hook it, if I immediately go to pinboard, it's there. And if it was already there,      |
 | 01:18:22   | then it, hey, it shows that it's already there. And it adds this tag, this from dot or from colon        |
-| 01:18:27   | hook tag. So if I have a pinboard, you know, client on my iPhone, which I do, I have Pinstachio,        |
+| 01:18:27   | hook tag. So if I have a pinboard, you know, client on my iPhone, which I do, I have [[Pinstachio]],        |
 | 01:18:36   | that's my pinboard client of choice for iOS, then I can just search for that from hook tag or,           |
 | 01:18:45   | you know, most cases, I just have it, it's the last thing that was open or because I'm often             |
 | 01:18:49   | just storing everything with hook. Now it's the top thing on that menu. So if you have files that        |
 | 01:18:56   | you'd have URLs that you know, you've hooked, you can then go into your pinboard client on your          |
-| 01:19:02   | mobile device and they're there. Okay, I really like this. I did not know about Pinstachio. I've        |
+| 01:19:02   | mobile device and they're there. Okay, I really like this. I did not know about [[Pinstachio]]. I've        |
 | 01:19:07   | been looking for a new pinboard application for, for, for iOS. And I think you've just solved my         |
 | 01:19:13   | problem. And it's a clever name. Gotta give them. Yeah, bonus points for being clever.                   |
 | 01:19:21   | Could you give us an example of how you're using hook in your work life? Obviously,                      |
@@ -883,16 +883,16 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:19:29   | still trying to wrap their head around it, maybe, you know, an example of how you're using it day        |
 | 01:19:34   | to day would help, I think. So if I can, if we can talk inside baseball on a podcast,                    |
 | 01:19:42   | we have the automators dock here that we've planned. I have that hooked to a lot of the                  |
-| 01:19:50   | different websites that we've talked about. So I have it hooked to Bunch. I have it hooked to            |
-| 01:19:55   | [[Alfred]]'s website. I have it hooked to some of the videos that I have in the notes and a lot of           |
+| 01:19:50   | different websites that we've talked about. So I have it hooked to [[Bunch]]. I have it hooked to            |
+| 01:19:55   | [[Alfred\|Alfred's]] website. I have it hooked to some of the videos that I have in the notes and a lot of           |
 | 01:20:02   | the documentation and a lot of these links that we've, we've saved here, I have them all hooked.         |
 | 01:20:08   | So in the future, if I'm talking with someone and maybe we're talking about Mac automation and           |
-| 01:20:14   | they're like, oh, hey, you did that cool thing with Bunch. I can go, yeah, let me show you               |
-| 01:20:18   | the website. And if I go to the Bunch website, because that's hooked to this, I could, if I              |
-| 01:20:24   | just activate hook really quick, I can go, oh, you know what, I was on Automator 75. You should,         |
+| 01:20:14   | they're like, oh, hey, you did that cool thing with [[Bunch]]. I can go, yeah, let me show you               |
+| 01:20:18   | the website. And if I go to the [[Bunch]] website, because that's hooked to this, I could, if I              |
+| 01:20:24   | just activate Hook really quick, I can go, oh, you know what, I was on Automator 75. You should,         |
 | 01:20:30   | you should check that out. And then once the episode is live, because again, we're talking in            |
 | 01:20:33   | the past, I will have that hooked as well. And I'll probably remove the show notes,                      |
-| 01:20:39   | because I won't need that anymore. So then I can go to Bunch and I can say, oh, yeah,                    |
+| 01:20:39   | because I won't need that anymore. So then I can go to [[Bunch]] and I can say, oh, yeah,                    |
 | 01:20:44   | it's really cool. You know what, I could talk about this for hours, but I already did that               |
 | 01:20:51   | on the show. And here's a link to it. And then just copy that link and then send it off to him.          |
 | 01:20:55   | Nice. Yeah, I use it both for MacSparky and Legal in much the same way. And like one thing              |
@@ -910,7 +910,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:22:05   | meetings. I average, you know, I think 4.2 something zoom calls a day. So for me,                        |
 | 01:22:16   | whenever I have a meeting pop up, I have all of the context around that meeting stored on the            |
 | 01:22:22   | event itself via hook. And the cool thing is if you're using something like just this generic            |
-| 01:22:28   | Apple calendars app, it even supports repeating events. So I don't have to hook them every single        |
+| 01:22:28   | [[Apple Calendar\|Apple Calendars app]], it even supports repeating events. So I don't have to hook them every single        |
 | 01:22:35   | time. I just have to hook it to one instance. And it's always there. So if I'm doing like our            |
 | 01:22:41   | YouTube planning session, or if I'm meeting with a new customer or a new partner that we're working      |
 | 01:22:47   | with, I can just activate hook, do a quick search for this whole workflow that I have set up for,        |

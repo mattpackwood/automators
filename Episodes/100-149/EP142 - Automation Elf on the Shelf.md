@@ -111,7 +111,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 03:13      | to turn it back on?                                                                                 |
 | 03:16      | This question that I'll let you all answer at home, connect the dots.                               |
 | 03:21      | I see some of you are going, uh-huh, uh-huh, I got it, I got it, I got it.                          |
-| 03:25      | So yeah, use, if you're going to do that, a Zigbee one or something that can remember               |
+| 03:25      | So yeah, use, if you're going to do that, a [[Zigbee]] one or something that can remember               |
 | 03:29      | the time and power itself back on after like a minute or something like that.                       |
 | 03:34      | Personally I don't do that, I don't have those on a smart plug.                                     |
 | 03:37      | I have them on a UPS, actually the UPS is connected to a smart plug, but that's only                |
@@ -201,21 +201,21 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 08:56      | And that's part of winter, I guess, in the Northern Hemisphere, at least, holiday automation.       |
 | 09:01      | Always feels like it involves winter because, you know, we both grew up here.                       |
 | 09:05      | I mean, if you're in Australia, turn off the fans when you leave the house, you know, save          |
-| 09:09      | the environment, things like that, you know, if you have Aircon, then yeah, you can turn            |
-| 09:14      | off the Aircon.                                                                                     |
+| 09:09      | the environment, things like that, you know, if you have air-con, then yeah, you can turn            |
+| 09:14      | off the air-con.                                                                                     |
 | 09:15      | It might even be worth looking into, you know, a lot of folks have got Aircon with like a           |
-| 09:20      | remote control that you can control via an IR blaster.                                              |
+| 09:20      | remote control that you can control via an [[IR blaster]].                                              |
 | 09:25      | So something that doesn't have home kit support, I'm going to completely forget the name of         |
 | 09:30      | it now.                                                                                             |
 | 09:31      | But it does have an app and it can learn.                                                           |
-| 09:35      | I'm not thinking of the Logitech Harmony.                                                           |
+| 09:35      | I'm not thinking of the [[Logitech Harmony\|Logitech Harmony]].                                                           |
 | 09:37      | That was a great one.                                                                               |
 | 09:40      | I have to pour one out.                                                                             |
 | 09:41      | I'm going to miss that.                                                                             |
 | 09:42      | That was a great device.                                                                            |
 | 09:43      | I mean, I still have mine.                                                                          |
 | 09:45      | It still works.                                                                                     |
-| 09:46      | Logitech say they're going to keep it going.                                                        |
+| 09:46      | [[Logitech]] say they're going to keep it going.                                                        |
 | 09:48      | So you know, that's great.                                                                          |
 | 09:50      | But yeah, I don't know how long that's actually going to keep going.                                |
 | 09:55      | But there is an alternative one.                                                                    |
@@ -230,13 +230,13 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 10:24      | it thinks it's slightly larger than it is, so stuff is constantly slightly off the edges            |
 | 10:28      | of the screen.                                                                                      |
 | 10:29      | Yeah, I can control that via this little smart device.                                              |
-| 10:33      | So I've got it linked into my Chromecast now, which is really cool.                                 |
-| 10:37      | So when I turn my Chromecast on, the TV turns on, et cetera.                                        |
-| 10:40      | So I've just managed to double check and it is the broad link IR blaster.                           |
+| 10:33      | So I've got it linked into my [[Chromecast]] now, which is really cool.                                 |
+| 10:37      | So when I turn my [[Chromecast]] on, the TV turns on, et cetera.                                        |
+| 10:40      | So I've just managed to double check and it is the broad link [[IR blaster]].                           |
 | 10:44      | And yeah, so they don't work with [[HomeKit]], unfortunately, or at least not yet.                      |
 | 10:48      | Maybe at some point they'll add master support and then we can use them in [[HomeKit]].                 |
 | 10:54      | But as it is, it's great for learning, like I've got this fan heater that's got a remote            |
-| 11:01      | control for it or an aircon unit or a whole home heating unit that's got one of those               |
+| 11:01      | control for it or an air-con unit or a whole home heating unit that's got one of those               |
 | 11:07      | remote controls that sends out an IR blast of some kind.                                            |
 | 11:11      | And it will work with that over Wi-Fi.                                                              |
 | 11:14      | It doesn't work with [[HomeKit]], so you'll have to use its app or something like [[Home Assistant]]        |
@@ -268,7 +268,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 12:44      | I wonder if I could get one of these and program my ceiling fan radio commands into it, you         |
 | 12:49      | know, because my ceiling fan has a remote and that would be kind of fun.                            |
 | 12:54      | It's worth giving it a try.                                                                         |
-| 12:55      | They're like $16 on Amazon on Black Friday sale right now.                                          |
+| 12:55      | They're like $16 on [[Amazon]] on Black Friday sale right now.                                          |
 | 12:59      | So hopefully there will still be some of those sales going on when this episode releases            |
 | 13:03      | and folks can take advantage of that.                                                               |
 | 13:06      | And they have a couple of different ones too.                                                       |
@@ -328,7 +328,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 16:13      | They're a bit larger physically, but they are fabulous for things like this.                        |
 | 16:18      | And then if you don't have a hub at all and you just want to buy like one smart plug to             |
 | 16:23      | try this thing out, then I'd recommend Merrill's M-E-R-O-S.                                         |
-| 16:28      | You can get those on Amazon.                                                                        |
+| 16:28      | You can get those on [[Amazon]].                                                                        |
 | 16:30      | Make sure to get the ones that work with [[HomeKit]] or [[Matter]], not the ones that don't work with       |
 | 16:34      | [[HomeKit]] or Matter.                                                                                  |
 | 16:35      | And those are the work of a Wi-Fi.                                                                  |
@@ -336,7 +336,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 16:45      | know, you just want to try one smart plug, then those are very affordable to give it                |
 | 16:50      | a go.                                                                                               |
 | 16:51      | Yeah.                                                                                               |
-| 16:52      | I have been buying the Aqara stuff.                                                                 |
+| 16:52      | I have been buying the [[Aqara]] stuff.                                                                 |
 | 16:53      | I'm so in the bag for them at this point and their smart plugs are good.                            |
 | 16:58      | Another thing I would recommend, since we're kind of in that neighbourhood and we're talking         |
 | 17:02      | about the holidays, is on your advice, about three or four years ago, I bought a [[HomeKit]]            |
@@ -440,11 +440,11 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 23:57      | But I do like to automate it, and there's a couple of ways you can do it.                           |
 | 24:02      | I'm trying to keep it simple, and this is one that absolutely lends itself to [[HomeKit]].              |
 | 24:08      | You don't have to have any fancy home assistant or any other technology to make it work.            |
-| 24:12      | If you've got Apple Tech and you've got Apple Music, you can run this holiday playlist via          |
+| 24:12      | If you've got [[Apple]] Tech and you've got [[Apple Music]], you can run this holiday playlist via          |
 | 24:19      | a shortcut.                                                                                         |
 | 24:21      | And it's not that hard, really.                                                                     |
 | 24:23      | You just have a shortcut that plays a specific playlist on a specific device.                       |
-| 24:29      | The problem is that Apple's not consistent.                                                         |
+| 24:29      | The problem is that [[Apple\|Apple's]] not consistent.                                                         |
 | 24:35      | You can address a specific sound device on the iPhone, but not on the Mac.                          |
 | 24:41      | So every time I talk about this, people write me, like, I spent an hour, and I can't figure         |
 | 24:45      | out how to find my home bot.                                                                        |
@@ -679,7 +679,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 39:48      | You may be not using automation too often, but you're like, Hey, why not?                           |
 | 39:53      | It's the holidays.                                                                                  |
 | 39:54      | I want to automate my lights.                                                                       |
-| 39:56      | There's a couple of ways to trigger these automations on Apple platforms.                           |
+| 39:56      | There's a couple of ways to trigger these automations on [[Apple]] platforms.                           |
 | 39:59      | You can do it in the home app where it has an automations button, where you can set                 |
 | 40:03      | up an automation.                                                                                   |
 | 40:05      | You can also do them through a more advanced shortcut.                                              |
@@ -751,7 +751,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 45:07      | because most people have seasonal and holiday lighting that they would like to turn on and          |
 | 45:11      | off at certain times, like on its sunset and off at 10pm or something like that, so a smart         |
 | 45:17      | plug can be a great gift for somebody like that a little earlier in the holiday season.             |
-| 45:22      | One of the best gifts you can give somebody in the United States is a Lutron Casetaa               |
+| 45:22      | One of the best gifts you can give somebody in the United States is a [[Lutron]] Caseta               |
 | 45:25      | switch because you have to install it for them or get an electrician if they don't                  |
 | 45:30      | know what they're doing with the wall switches, but boy, that's an automation that immediately      |
 | 45:35      | takes for people, but I want to go back also to, I have something for you.                          |
@@ -815,7 +815,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 49:51      | That's one of my recommendations.                                                                   |
 | 49:53      | Yeah, Anker makes such great batteries.                                                             |
 | 49:56      | I only buy their stuff and there's a lot of press right now about fake products that look           |
-| 50:05      | like an Apple power supply and then they X-ray them and they don't have all the parts inside        |
+| 50:05      | like an [[Apple]] power supply and then they X-ray them and they don't have all the parts inside        |
 | 50:10      | them that they need.                                                                                |
 | 50:12      | For instance, the ground wire is not attached.                                                      |
 | 50:16      | But Anker is a company I feel like I can trust.                                                     |
@@ -854,16 +854,16 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 52:17      | And then it'll just be a light that's a little on and off thing, but you know, that works           |
 | 52:21      | really well.                                                                                        |
 | 52:22      | Yeah.                                                                                               |
-| 52:23      | And it's 10 bucks on Amazon in the US, crazy.                                                       |
+| 52:23      | And it's 10 bucks on [[Amazon]] in the US, crazy.                                                       |
 | 52:26      | Yeah, exactly.                                                                                      |
 | 52:28      | So it's worth giving these things a go and trying them out.                                         |
 | 52:32      | And yeah, I have just checked, unfortunately, it looks like those anchor power banks, they          |
 | 52:35      | are insanely popular to the point where they're not shipping for a while.                           |
 | 52:40      | Looks like they're not going to ship until sort of December or so, which is kind of crazy.          |
-| 52:46      | But hopefully, I found whenever I order stuff from Anchor, they use Amazon shipping, same           |
+| 52:46      | But hopefully, I found whenever I order stuff from Anchor, they use [[Amazon]] shipping, same           |
 | 52:50      | as mouse, M-O-U-S-2.                                                                                |
 | 52:53      | And yeah, that definitely speeds things up.                                                         |
-| 52:58      | And they're very much a learn from Apple, under promise, over deliver, we'll tell you               |
+| 52:58      | And they're very much a learn from [[Apple]], under promise, over deliver, we'll tell you               |
 | 53:03      | it'll be here by the end of next month and then it turns up like four days later or something       |
 | 53:07      | like that.                                                                                          |
 | 53:08      | So yeah, definitely, it's the right way to do it if you're going to make a promise there            |
@@ -871,7 +871,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 53:15      | Do you want me to make you feel bad?                                                                |
 | 53:17      | Oh, okay.                                                                                           |
 | 53:18      | In the US, I could get it tomorrow.                                                                 |
-| 53:20      | No, I was looking at the Amazon product page in the US for those batteries.                         |
+| 53:20      | No, I was looking at the [[Amazon]] product page in the US for those batteries.                         |
 | 53:25      | I mean, I already have one of those batteries and I have the charger for it as well.                |
 | 53:29      | I really like the fact that the charging base, like you just drop the battery pack on there         |
 | 53:32      | and it charges, like you don't have to have a USB cable to charge the battery.                      |

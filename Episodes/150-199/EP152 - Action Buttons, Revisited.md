@@ -402,7 +402,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 15:11      | And all the kind of home kit enabled stuff                      |
 | 15:13      | that I've put together, I've put in there.                      |
 | 15:16      | Like I want to add to it                                        |
-| 15:18      | because I bought one of those [[Broadlink IR Blaster\|Broadlink blasters]]                |
+| 15:18      | because I bought one of those [[Broadlink Smart IR Blaster\|Broadlink blasters]]                |
 | 15:22      | that you told me about.                                         |
 | 15:23      | So it sends out an [[IR]] signal                                    |
 | 15:25      | and I've got it all now hooked up                               |
@@ -507,7 +507,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 19:21      | but also run that shortcut through [[Siri]] whenever I need.        |
 | 19:24      | Well, who knows what the rumours are going to be                 |
 | 19:27      | whether this actually happens or not,                           |
-| 19:28      | but let's say that Apple does put a dedicated capture button    |
+| 19:28      | but let's say that [[Apple]] does put a dedicated capture button    |
 | 19:32      | on the iPhone in addition to the action button.                 |
 | 19:35      | So that would presumably be hardwired to your camera, right?    |
 | 19:38      | Just hold it up, push it and take a picture.                    |
@@ -526,7 +526,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 20:13      | Because you've got the action button,                           |
 | 20:14      | the action button is camera and the capture button is a note    |
 | 20:17      | or something like that.                                         |
-| 20:18      | But you know, Apple, if you're going to give us another button, |
+| 20:18      | But you know, [[Apple]], if you're going to give us another button, |
 | 20:21      | just make it programmable again.                                |
 | 20:23      | Like by all means have a default, but make it programmable.     |
 | 20:26      | And yeah, I'll be happy button.                                 |
@@ -730,11 +730,11 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 28:57      | with no work by me, zero work.                                  |
 | 29:00      | There's nothing else, I just do it and it's done.               |
 | 29:02      | And then you add the last piece of the puzzle                   |
-| 29:04      | is they've got a Apple Watch complication                       |
+| 29:04      | is they've got a [[Apple Watch]] complication                       |
 | 29:07      | and shortcut support for [[Whisper Memos]].                       |
 | 29:10      | So you can either add it as a complication,                     |
 | 29:12      | but in my case, I've added it to the action button              |
-| 29:15      | on the Apple Watch Ultra.                                       |
+| 29:15      | on the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]].                                       |
 | 29:16      | So now I just push the big orange button                        |
 | 29:20      | and I start talking.                                            |
 | 29:22      | And when I'm done, it's in my [[Drafts]] inbox.                     |
@@ -866,7 +866,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 34:54      | Where would we be without [[Drafts]], Rose?                         |
 | 34:57      | Greg always, Greg gives us,                                     |
 | 35:00      | he is the lubricant of automation,                              |
-| 35:02      | of text automation and all these Apple stuff.                   |
+| 35:02      | of text automation and all these [[Apple]] stuff.                   |
 | 35:05      | Yeah, yeah.                                                     |
 | 35:07      | All right, got a short one this week.                           |
 | 35:09      | I hope you enjoyed it.                                          |

@@ -133,7 +133,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 04:18      | which are shortcuts to automated notion, sadly passed away earlier this year.                             |
 | 04:24      | Obviously, this is very sad for all of us because he was a fabulous developer and very                    |
 | 04:28      | supportive of other developers and shortcuts creators in just talking to people and setting               |
-| 04:34      | up demo code that people could play with, passing in feedback to Apple, and so on.                        |
+| 04:34      | up demo code that people could play with, passing in feedback to [[Apple]], and so on.                        |
 | 04:38      | Obviously, also, he's been on the show before.                                                            |
 | 04:40      | You can go back and listen to his episode.                                                                |
 | 04:43      | Just a lovely guy.                                                                                        |
@@ -174,7 +174,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 07:07      | them of a little burden there, and keep something running for the community, which is, I think            |
 | 07:14      | I hope what Alex would have wanted, we basically just want to keep it running.                            |
 | 07:20      | I know so many of the actions that he added in Toolbox Pro, the very first Toolbox Pro,                   |
-| 07:24      | it kind of got Sherlocked by the Shortcuts team, but in a good way.                                       |
+| 07:24      | it kind of got [[Sherlocking\|Sherlocked]] by the Shortcuts team, but in a good way.                                       |
 | 07:28      | He was happy about it.                                                                                    |
 | 07:29      | He was like, these actions are going to go away because they're now part of Shortcuts.                    |
 | 07:32      | This is great.                                                                                            |
@@ -279,11 +279,11 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 14:12      | as far as home kit is concerned, especially with regards to the fact that you can then                    |
 | 14:17      | bring devices into home kit that weren't previously home kit compatible by buying a [[Matter]] Hub            |
 | 14:23      | or using a [[Matter]] Hub and having those devices connected to it.                                           |
-| 14:28      | I have SwitchBot, I have SwitchBot curtains, and previously I was not able to get those                   |
+| 14:28      | I have [[SwitchBot Bot\|SwitchBot]], I have [[SwitchBot Curtain Opener\|SwitchBot curtains]], and previously I was not able to get those                   |
 | 14:35      | into home kit natively.                                                                                   |
-| 14:37      | I would have had to go through Homebridge, which is what I did originally, and then later                 |
+| 14:37      | I would have had to go through [[Homebridge]], which is what I did originally, and then later                 |
 | 14:43      | I moved to using [[Home Assistant]] for that.                                                                 |
-| 14:45      | Now I can buy a SwitchBot Smart Hub and add that to the [[Matter]]-based one.                                 |
+| 14:45      | Now I can buy a [[SwitchBot Hub\|SwitchBot Smart Hub]] and add that to the [[Matter]]-based one.                                 |
 | 14:53      | It's got a little temperature dial and temperature screen and everything built into it, which             |
 | 14:57      | is very nice.                                                                                             |
 | 14:58      | I can connect that to the curtains and connect that to home kit, and voila, my curtains are               |
@@ -375,10 +375,10 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 20:34      | It might have caught them a few times.                                                                    |
 | 20:36      | Probably fine, but I personally just don't like the idea of sticking a camera out there                   |
 | 20:40      | when it's not necessary, so instead, what I've done is I've got a smart button stuck                      |
-| 20:45      | out there, which when I press it, as far as [[HomeKit\|HomeKit's]]ø concerned, it's a doorbell, so                      |
+| 20:45      | out there, which when I press it, as far as [[HomeKit\|HomeKit's]] concerned, it's a doorbell, so                      |
 | 20:49      | I get the chime on my HomePods and everything, and I just stuck a fake picture in there.                 |
 | 20:52      | It literally just says the word doorbell as an image, and [[HomeKit]] sees that as the camera,                |
-| 20:59      | and [[Home Assistant]]'s just there going, by the way, [[HomeKit]], hey, here's a doorbell.                       |
+| 20:59      | and [[Home Assistant\|Home Assistant's]] just there going, by the way, [[HomeKit]], hey, here's a doorbell.                       |
 | 21:03      | This is a doorbell as far as you're concerned.                                                            |
 | 21:05      | Have fun with it.                                                                                         |
 | 21:06      | Being able to do that and not having a million and one hubs, hubs are great.                              |
@@ -388,7 +388,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 21:23      | onto your probably not ready for this Wi-Fi, but at some point, you end up with the Aqara                 |
 | 21:30      | hub, the IKEA hub, the Hue hub, this other hub that came from this other company.                         |
 | 21:36      | 60 different hubs or something, it can feel like being able to consolidate that down to                   |
-| 21:42      | [[Home Assistant]] with Zigbee and Z-Wave and [[Thread]] support is very, very nice.                              |
+| 21:42      | [[Home Assistant]] with [[Zigbee]] and Z-Wave and [[Thread]] support is very, very nice.                              |
 | 21:50      | That's what I really get out of it.                                                                       |
 | 21:52      | I have a funny story about [[Home Assistant]] and automation.                                                 |
 | 21:58      | I think I'll just leave it with this before we move on, but I have to share it with somebody,             |
@@ -445,13 +445,13 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 24:49      | All right, Rose, let's get into the basics of [[HomeKit]].                                                    |
 | 24:54      | And some of this stuff you may already know, but stick with us.                                           |
 | 24:56      | We're going to get deeper as we go through the outline.                                                   |
-| 24:58      | But just as a starting point for someone like the listener who wrote in, Apple doesn't make               |
+| 24:58      | But just as a starting point for someone like the listener who wrote in, [[Apple]] doesn't make               |
 | 25:03      | the [[HomeKit]] hardware.                                                                                     |
-| 25:04      | I think that's something people are mistaken because, you know, it doesn't have the Apple                 |
+| 25:04      | I think that's something people are mistaken because, you know, it doesn't have the [[Apple]]                 |
 | 25:07      | thing.                                                                                                    |
 | 25:08      | They always make the whole widget.                                                                        |
 | 25:09      | When it comes to [[HomeKit]], that's not true.                                                                |
-| 25:13      | They make the phone and they make some of the Apple hardware that connects to [[HomeKit]]                     |
+| 25:13      | They make the phone and they make some of the [[Apple]] hardware that connects to [[HomeKit]]                     |
 | 25:18      | devices, but the actual making of the light switches and the light bulbs and the security                 |
 | 25:23      | cameras, they've left that to other people.                                                               |
 | 25:26      | And then it's up to them to support the [[HomeKit]] protocol.                                                 |
@@ -459,19 +459,19 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 25:34      | you need to buy a box that's got a doodad in it that says [[HomeKit]] on the box.                             |
 | 25:39      | That's where it starts.                                                                                   |
 | 25:40      | Yeah.                                                                                                     |
-| 25:41      | Well, I mean, you could also argue that it starts with a Apple TV or a HomePod as well.                   |
+| 25:41      | Well, I mean, you could also argue that it starts with a [[Apple TV]] or a HomePod as well.                   |
 | 25:47      | Because in order for your [[HomeKit]] home to be a properly smart home, you are going to                      |
 | 25:52      | need a device that lives at home to be the controller or one of the controllers, realistically,           |
 | 26:00      | because if you have more than one of these, then they sort of go around and around Robin.                 |
 | 26:04      | You used to be able to, and I emphasise used to here, use an iPad.                                        |
 | 26:10      | In my experience, anybody who used an iPad found themselves in for a world of trouble                     |
-| 26:14      | when it came to [[HomeKit]] stuff, which is probably one of the reasons why Apple has removed this            |
+| 26:14      | when it came to [[HomeKit]] stuff, which is probably one of the reasons why [[Apple]] has removed this            |
 | 26:18      | feature.                                                                                                  |
 | 26:20      | And if you previously set up [[HomeKit]] and you had an iPad as a hub, then you may not have                  |
 | 26:27      | been able to upgrade to the new [[HomeKit]] architecture.                                                     |
 | 26:31      | So you would need to remove the iPad as [[HomeKit]] hub and then update that.                                 |
 | 26:35      | But it also took it away in the iPadOS settings as well.                                                  |
-| 26:38      | But yeah, so you'll need either a HomePod or an Apple TV or more than one of those to                     |
+| 26:38      | But yeah, so you'll need either a HomePod or an [[Apple TV]] or more than one of those to                     |
 | 26:43      | be a [[HomeKit]] hub.                                                                                         |
 | 26:45      | And then, yeah, some kind of [[HomeKit]] widgety-wadgety.                                                     |
 | 26:48      | It could be a [[HomeKit]] light, it could be a [[HomeKit]] camera, doorbell, it could just be                     |
@@ -505,7 +505,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 28:12      | You may need a hub to go with the something home kit.                                                     |
 | 28:14      | For example, if you buy a Hue light bulb, unless it's one of the Bluetooth ones, which                    |
 | 28:19      | I'm not sure I really recommend Bluetooth is never great for smart home devices.                          |
-| 28:26      | I would much prefer Zigbee, Z-Wave, [[Thread]], or even Wi-Fi over Bluetooth.                                 |
+| 28:26      | I would much prefer [[Zigbee]], Z-Wave, [[Thread]], or even Wi-Fi over Bluetooth.                                 |
 | 28:32      | But yeah, you might need a hub.                                                                           |
 | 28:35      | It's certainly if you're buying like an IKEA light or whether the IKEA sensors or buttons,                |
 | 28:44      | then you will need one of their hubs.                                                                     |
@@ -541,7 +541,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 30:07      | traffic to your Wi-Fi signal.                                                                             |
 | 30:10      | And that can make them inconsistent and slower and not as good.                                           |
 | 30:15      | So I think with both, and I think under Rose's tutelage, I've come to learn this.                         |
-| 30:20      | If there's a Zigbee hub, if there's a device that comes with a hub, I almost welcome it                   |
+| 30:20      | If there's a [[Zigbee]] hub, if there's a device that comes with a hub, I almost welcome it                   |
 | 30:25      | because maybe it costs us a little bit more, but you know the communications between the                  |
 | 30:30      | device and the system is going to be rock solid and it's just more consistent.                            |
 | 30:35      | So I almost lean toward hubs more than away from them.                                                    |
@@ -576,12 +576,12 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 32:02      | somebody sticks a label on and says, oh yeah, it's enterprise-grade, you're probably going                |
 | 32:07      | to run into problems if you go with a whole bunch of Wi-Fi devices.                                       |
 | 32:10      | You know, there are some things that are fine on Wi-Fi cameras, doorbells, that sort of thing,            |
-| 32:14      | you know, that you won't find a Zigbee camera, doesn't exist because the Zigbee protocol                  |
+| 32:14      | you know, that you won't find a [[Zigbee]] camera, doesn't exist because the [[Zigbee]] protocol                  |
 | 32:19      | isn't big enough basically for videos and images.                                                         |
 | 32:24      | But you'll find some things which basically kind of only exist as Wi-Fi.                                  |
 | 32:28      | And that's fine.                                                                                          |
 | 32:29      | But if you've got the choice of, you know, something that has a hub.                                      |
-| 32:33      | So for example, David, you're a big fan of the Lutron Caseta light switches, and those                    |
+| 32:33      | So for example, David, you're a big fan of the [[Lutron]] Caseta light switches, and those                    |
 | 32:39      | come with a hub.                                                                                          |
 | 32:40      | And so all of your light switches just connect to one hub, and then that just works.                      |
 | 32:45      | And that's going to be a lot less painful on your network.                                                |
@@ -595,12 +595,12 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 33:11      | And then there's one connection between that and home kit, essentially, which is to the                   |
 | 33:16      | internet, then the better.                                                                                |
 | 33:18      | Yeah, exactly.                                                                                            |
-| 33:19      | And that's why Lutron was such a big win for me.                                                          |
+| 33:19      | And that's why [[Lutron]] was such a big win for me.                                                          |
 | 33:22      | I didn't even really realise why I liked it so much until my friend Robert said, oh,                      |
 | 33:29      | no, they've got their own bandwidth.                                                                      |
 | 33:32      | It's just rock solid because, you know, they're on that, that hub, and it just, that solved               |
 | 33:38      | the problem.                                                                                              |
-| 33:39      | And that's why everybody who discovers Lutron is like, oh, these are the greatest lights                  |
+| 33:39      | And that's why everybody who discovers [[Lutron]] is like, oh, these are the greatest lights                  |
 | 33:42      | in the world.                                                                                             |
 | 33:43      | They just turn on when you push the button, and that's what you want, right?                              |
 | 33:47      | But that, that, so that's a part of home kit.                                                             |
@@ -634,15 +634,15 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 35:31      | You're going to drive yourself crazy.                                                                     |
 | 35:33      | Also let's talk for a minute about third party apps, because as you get into the home kit                 |
 | 35:39      | world, one of the things they'll be surprised to learn is that all of these vendors that                  |
-| 35:43      | make the things, Lutron as an example, they have apps, but then you have the home kit                     |
+| 35:43      | make the things, [[Lutron]] as an example, they have apps, but then you have the home kit                     |
 | 35:48      | app and the pairing process happens in the home kit app.                                                  |
 | 35:52      | You don't really go into the third party app to make all this work, but then you still                    |
 | 35:57      | kind of need it.                                                                                          |
 | 35:58      | And it's like, could you explain Rose, how you, what your thought is about these third                    |
 | 36:03      | party apps and where you use them and don't use them?                                                     |
-| 36:06      | Yeah, basically my personal opinion on third party apps for things like this, and Apple                   |
+| 36:06      | Yeah, basically my personal opinion on third party apps for things like this, and [[Apple]]                   |
 | 36:10      | are really working hard to bring things like updates to devices into home kits so that                    |
-| 36:15      | you don't need to use, for example, the Hue app or the Lutron app to update stuff.                        |
+| 36:15      | you don't need to use, for example, the Hue app or the [[Lutron]] app to update stuff.                        |
 | 36:18      | You can do it through home kit.                                                                           |
 | 36:20      | It's not 100% there yet.                                                                                  |
 | 36:21      | So you may slash probably will need the third party app for these things.                                 |
@@ -692,7 +692,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 39:07      | Obviously it, it varies not even depending on the vendor, but depending on what device                    |
 | 39:12      | type it is and protocol it is and things like that.                                                       |
 | 39:15      | So a Bluetooth version of this light bulb might not be able to install the update through                 |
-| 39:19      | the home kit app, but a Zigbee version of the light bulb that otherwise looks identical                   |
+| 39:19      | the home kit app, but a [[Zigbee]] version of the light bulb that otherwise looks identical                   |
 | 39:22      | could or vice versa.                                                                                      |
 | 39:25      | It's very difficult to pinpoint exactly what it is.                                                       |
 | 39:29      | And in some cases it's just a case of like the vendors have got a limited number of developers            |
@@ -719,7 +719,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 40:35      | know what their intentions are and what they're actually doing on your device.                            |
 | 40:39      | They just want some basic automation and I feel like that's who this shows for people                     |
 | 40:43      | that want to do this stuff.                                                                               |
-| 40:44      | They want to trust Apple.                                                                                 |
+| 40:44      | They want to trust [[Apple]].                                                                                 |
 | 40:46      | And so my, my thoughts is the third party apps, install them as little as possible and                    |
 | 40:50      | open them as little as possible.                                                                          |
 | 40:52      | Yeah.                                                                                                     |
@@ -778,15 +778,15 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 44:32      | to their software so I feel like there are a few vendors that I'm comfortable recommending                |
 | 44:36      | one of them is Aqara and Rosemary actually I think you turn me on to them first because                   |
 | 44:44      | you started buying their stuff the interesting thing about Aqara is it does require a hub                 |
-| 44:48      | but it's a hub in the best of ways because it is giving you I think is it a Zigbee I                      |
-| 44:53      | don't know what they're underlying yeah they have a Zigbee and [[Thread]] I can't remember                    |
+| 44:48      | but it's a hub in the best of ways because it is giving you I think is it a [[Zigbee]] I                      |
+| 44:53      | don't know what they're underlying yeah they have a [[Zigbee]] and [[Thread]] I can't remember                    |
 | 44:58      | if [[Thread]] is in the newest hub or if it's in one of the ones coming but they certainly                    |
-| 45:02      | it's a Zigbee based hub but depending on which hub you buy there's like a teeny tiny little               |
+| 45:02      | it's a [[Zigbee]] based hub but depending on which hub you buy there's like a teeny tiny little               |
 | 45:06      | stick one which is great if you just want to like try some stuff out and you know get                     |
 | 45:10      | something very cheap they've got a couple of camera ones so your hub is also a camera                     |
 | 45:16      | which is really cool and then they've got just sort of like a black round circular                        |
-| 45:20      | puck but it's got an IR blaster in it as well which is very cool so it can control things                 |
-| 45:26      | like TV and stuff that that unfortunately the IR blaster stuff last time I double checked                 |
+| 45:20      | puck but it's got an [[IR blaster]] in it as well which is very cool so it can control things                 |
+| 45:26      | like TV and stuff that that unfortunately the [[IR blaster]] stuff last time I double checked                 |
 | 45:32      | it didn't turn up in home kit which was a little bit of a shame but I think they've                       |
 | 45:36      | been working on that so that may appear soon or is already there I'm not 100% certain but                 |
 | 45:41      | yeah their their stuff is very affordable as well I find yeah that's the advantage so                     |
@@ -795,17 +795,17 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 45:56      | different capabilities in terms of how many devices they can drive and whatnot but once                   |
 | 46:01      | you get the hub then the actual hardware is very affordable and I feel like you get the                   |
 | 46:07      | hub money back if you pretty quickly like you were talking earlier about the leak detection               |
-| 46:12      | and I'm assuming you're using Aqara leak detectors so I did that too and honestly it paid for             |
+| 46:12      | and I'm assuming you're using [[Aqara Water Leak Sensor\|Aqara leak detectors]] so I did that too and honestly it paid for             |
 | 46:18      | the hub just the leak detectors and I don't know it's a thing here in California where                    |
 | 46:23      | you go out of town and your house has a leak and it does you know multiple you know tens                  |
 | 46:28      | of thousands of dollars of damage so I have friends that have experienced that so that's                  |
-| 46:34      | always been a worry for me and these Aqara leak detectors are just awesome they're small                  |
+| 46:34      | always been a worry for me and these [[Aqara Water Leak Sensor\|Aqara leak detectors]] are just awesome they're small                  |
 | 46:39      | they're inexpensive I think you get if you buy them in multiples they're about $15 each                   |
 | 46:44      | and you can just you know they they work rock solid I put an indelible marker on them and                 |
 | 46:50      | then I stick them under the water heater under the toilets you know they're all over the house            |
 | 46:55      | yeah and just like Rose said this is one where I think [[HomeKit]] is really good at this because             |
 | 47:00      | of the exact problem Rose described when they detect a leak they go crazy they set off [[HomeKit]]            |
-| 47:05      | as an alarm system in a way that I'm not sure a third-party app could do I think only Apple's             |
+| 47:05      | as an alarm system in a way that I'm not sure a third-party app could do I think only [[Apple|Apple's]]             |
 | 47:10      | sort of access could give you that alarm that goes off like you know the missiles are coming              |
 | 47:14      | in and it's great in fact when I was testing it my daughter who was up in Westwood at the                 |
 | 47:22      | time I you know it's a different she lives she goes to school UCLA so she's up there                      |
@@ -813,8 +813,8 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 47:33      | off not only my device went off on everybody and the family and she wasn't she was you                    |
 | 47:39      | know two and a half hours away from me and she got the alarm so and that's what you want                  |
 | 47:44      | when you have a water leak right you want everybody to know right away so I feel like                     |
-| 47:49      | you know the car stuff just as the leak detectors are a good example but let's just go through            |
-| 47:54      | it really quick so both you and I use the leak detectors I think their switches are                       |
+| 47:49      | you know the car stuff just as the [[Aqara Water Leak Sensor\|leak detectors]] are a good example but let's just go through            |
+| 47:54      | it really quick so both you and I use the [[Aqara Water Leak Sensor\|leak detectors]] I think their switches are                       |
 | 47:59      | really good too like one of the things with [[HomeKit]] is just having a physical switch                      |
 | 48:03      | to where you can push the button and it triggers an automation so it's essentially a light switch         |
 | 48:08      | you can stick anywhere in the house and I feel like the car they're very reasonably priced                |
@@ -909,9 +909,9 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 55:25      | are like eye rail or they're like in inside a little rail there's like hooky plasticky things             |
 | 55:32      | inside of a rail that slide back and forth either way and I have as well I mentioned SiwtchBots           |
 | 55:39      | ones earlier but I have some Aqara motors for controlling curtains and the Aqara motors are               |
-| 55:45      | better than the SwitchBot motors in some sense in many senses because they are more powerful and          |
+| 55:45      | better than the [[SwitchBot Curtain Opener\|SwitchBot]] motors in some sense in many senses because they are more powerful and          |
 | 55:50      | when you have floor length velvet curtains like I do you need the more powerful motors because            |
-| 55:56      | the SwitchBots could not handle those and so I have Aqara curtain sensors and I also have blind           |
+| 55:56      | the [[SwitchBot Curtain Opener\|SwitchBot's]] could not handle those and so I have Aqara curtain sensors and I also have blind           |
 | 56:01      | or not curtain sensors curtain motors as a blind motors which have like a little cog on them and          |
 | 56:07      | the chain from the blind goes in there and then it can open and close the the blinds automatically        |
 | 56:13      | for me based on you know just like me arriving home and yeah then my my blinds by my door open            |
@@ -920,20 +920,20 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 56:33      | point another way so that I don't end up sitting there with a whole bunch of like sun shining             |
 | 56:37      | into my eyes attempting to blind me which is great but I so good to take advantage of the sunlight        |
 | 56:43      | I think Aqara is the one who I bought the most products from at this point yeah yeah if you buy           |
-| 56:49      | the the like the sensors and someone from Aliexpress in particular you can definitely get                 |
+| 56:49      | the the like the sensors and someone from Ali Express in particular you can definitely get                 |
 | 56:56      | you know good bundles very cheaply you'll have to wait a little bit for postage it could be               |
 | 57:01      | you know 10 days two weeks for it but you know it's I feel like it's worth waiting the 10 days            |
-| 57:08      | to two weeks if you know like buy one from Amazon by all means and get it tomorrow to try it out          |
+| 57:08      | to two weeks if you know like buy one from [[Amazon]] by all means and get it tomorrow to try it out          |
 | 57:13      | but then if you go okay I want six of these buttons then yeah you can save quite a bundle                 |
-| 57:19      | by buying them on Ali Express and they'll all connect to the same hub and Zigbee, Z-Wave,              |
+| 57:19      | by buying them on Ali Express and they'll all connect to the same hub and [[Zigbee]], Z-Wave,              |
 | 57:24      | etc. they are global they use slightly different channels in various areas at least                       |
-| 57:30      | Zigbee does but the the actual hardware devices will connect regardless of where they're from            |
+| 57:30      | [[Zigbee]] does but the the actual hardware devices will connect regardless of where they're from            |
 | 57:36      | so it's well worth saving some money on those if you've got a hub so yeah definitely recommend            |
 | 57:43      | those and I think like you said the sensors to me is really the the Aqara the gold in the car             |
 | 57:50      | is the sensors because it's expensive some sensors are like $50 just to buy a single sensor and           |
 | 57:56      | they're just so much less expensive and they work rock solid with the car just get yourself a hub         |
 | 58:02      | and if you want to add sensors throughout your house you're going to save yourself a ton of money         |
-| 58:05      | another vendor that we have talked about you know is my Lutron Casetaa only in the US as far as I        |
+| 58:05      | another vendor that we have talked about you know is my [[Lutron]] Caseta only in the US as far as I        |
 | 58:11      | understand not in Europe but boy if you want a great light solution in fact I've talked about             |
 | 58:17      | this a bunch on the automators podcast in the past I'm not going to dwell on it but you replace           |
 | 58:21      | the switches and that's the trick with lights if you put automated switches in the wall then all          |
@@ -942,11 +942,11 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 58:38      | know the muggles for lack of a better word in your house they just want to hit the switch and             |
 | 58:43      | turn the light off and on and those still do so nothing changes the light switch still works              |
 | 58:48      | but it does also automation friendly so I think if you are in the US at least and you want to             |
-| 58:54      | really just get a great home kit experience by the Lutron Casetaa switches they're expensive             |
+| 58:54      | really just get a great home kit experience by the [[Lutron]] Caseta switches they're expensive             |
 | 59:01      | don't buy them all at once I think I've got them in every key switch in my house but it took me           |
 | 59:07      | about a year and every month I would go buy another one and switch it out and eventually I had it         |
 | 59:11      | everywhere I needed it but they're they're awesome do you have a switch recommendation that's not         |
-| 59:17      | Lutron? So I did try Lightwave, Lightwave RF over here in the UK despite the name including RF            |
+| 59:17      | [[Lutron]]? So I did try Lightwave, Lightwave RF over here in the UK despite the name including RF            |
 | 59:25      | they are not using radio frequency in the sense of you know like old-fashioned radio frequency            |
 | 59:30      | they're using Z-Wave or Z-Wave depending on your pronunciation I say I tried because the                  |
 | 59:37      | switches are required the the lights to be dimmable and the light that I was trying was not               |
@@ -1092,7 +1092,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:12:50   | on halfway and lock the doors or whatever you can do that with the scene yeah now it should be noted      |
 | 01:12:58   | because you mentioned there lock the door the anything that involves a security device so that            |
 | 01:13:03   | would be like doors windows locks garage doors things like that in home kit is going to require           |
-| 01:13:10   | confirmation it's not just to be able to run entirely automatically because apple being apple             |
+| 01:13:10   | confirmation it's not just to be able to run entirely automatically because [[Apple]] being [[Apple]]             |
 | 01:13:16   | want to keep you safe and secure they don't want you accidentally setting up an automation for            |
 | 01:13:19   | whenever the bathroom light turns on unlocks the front door that would possibly go very badly in          |
 | 01:13:24   | some places so yeah that you're gonna you won't be able to just automate lots of things including         |
@@ -1109,7 +1109,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:14:31   | yeah agreed I I really feel like that's like the power move if you're just going to work with the         |
 | 01:14:36   | home kit app is you get everything you know build it out put your devices in by your hardware but         |
 | 01:14:43   | the end of the day make scenes and think about it and those are the easiest way to call them off with     |
-| 01:14:48   | Siri if you want to do that with Siri you can put like on your Apple watch you can put buttons for        |
+| 01:14:48   | Siri if you want to do that with Siri you can put like on your [[Apple Watch]] you can put buttons for        |
 | 01:14:54   | the individual scenes it's much easier than trying to control the lights with your watch but              |
 | 01:14:58   | you can have a list of five scenes and just scroll through on your watch and they've even got a           |
 | 01:15:02   | complication for it it's just the actual moment point of control scenes are the way to go it's            |
@@ -1265,7 +1265,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:28:24   | and voila you're set up yeah but what we're trying to do is make it easier so that you can expand         |
 | 01:28:29   | things and make it better and smarter and better for yourself later um I think my only parting piece      |
 | 01:28:37   | of advice for people is going to be when you run into a limitation that you can't do something with       |
-| 01:28:41   | home kit or whatever remember home kit is limited apple have tried to set it up to be simple for          |
+| 01:28:41   | home kit or whatever remember home kit is limited [[Apple]] have tried to set it up to be simple for          |
 | 01:28:50   | everyone which means for my grandmother as well as for me the result of that is I'm going to be           |
 | 01:28:57   | the one that gets very frustrated because I can't have it automatically do this thing                     |
 | 01:29:02   | rather than my grandmother getting frustrated because she can't figure out that this button               |

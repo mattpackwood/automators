@@ -271,13 +271,13 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 09:06      | we had recorded some episodes                                     |
 | 09:08      | and then everything got replaced                                  |
 | 09:11      | because at the time we recorded the episodes,                     |
-| 09:13      | Apple released shortcuts.                                         |
+| 09:13      | [[Apple]] released shortcuts.                                         |
 | 09:15      | And...                                                            |
 | 09:16      | Yeah, we were at [[WWDC]].                                            |
 | 09:18      | I just spoken to [[Myke Hurley]] and I met Steven.                    |
 | 09:23      | And we were confirming everything was ready to go                 |
 | 09:25      | and we had some episodes.                                         |
-| 09:27      | And then Apple threw a really lovely curve ball                   |
+| 09:27      | And then [[Apple]] threw a really lovely curve ball                   |
 | 09:30      | in the forward shortcuts.                                         |
 | 09:31      | And it's like, all right, where's the trash can?                  |
 | 09:34      | We need that.                                                     |
@@ -325,7 +325,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 11:10      | Or it's really under powered                                       |
 | 11:11      | because you can't just type what you want into it.                |
 | 11:14      | But honestly, it is a really great tool                           |
-| 11:18      | that is now ubiquitous on Apple platforms.                        |
+| 11:18      | that is now ubiquitous on [[Apple]] platforms.                        |
 | 11:21      | Some of the actions aren't,                                       |
 | 11:22      | but the app itself and its existence is.                          |
 | 11:25      | I mean, assuming everyone is running, you know,                   |
@@ -501,7 +501,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 18:23      | I mean, those are absolute avenues of automation.                 |
 | 18:28      | And then I guess the last category is I would just say scripts    |
 | 18:32      | or scripting languages.                                           |
-| 18:34      | AppleScript, JavaScript, Python.                                 |
+| 18:34      | [[AppleScript]], [[JavaScript]], Python.                                 |
 | 18:37      | And we haven't covered those as in much detail                    |
 | 18:40      | but we do link out to them quite often.                           |
 | 18:42      | The problem with those is how do you explain                      |
@@ -650,7 +650,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 24:22      | but sitting there typing out a list of my events every day        |
 | 24:26      | that's bananas, you know what I mean?                             |
 | 24:28      | And with shortcuts, this stuff is easy.                           |
-| 24:30      | Now I could have done it with some clever AppleScript            |
+| 24:30      | Now I could have done it with some clever [[AppleScript]]            |
 | 24:33      | and [[Keyboard Maestro]],                                             |
 | 24:34      | but shortcuts make stuff like this way easier.                    |
 | 24:38      | And lately I've really been appreciating                          |
@@ -902,8 +902,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 34:36      | in crossing the streams, Ghostbusters style,                      |
 | 34:39      | you know, where you've thought about it a little bit,             |
 | 34:41      | or maybe not, and then I end up, you know,                        |
-| 34:43      | putting AppleScript inside of a shortcut,                         |
-| 34:46      | or running a shortcut through AppleScript inside a bunch,         |
+| 34:43      | putting [[AppleScript]] inside of a shortcut,                         |
+| 34:46      | or running a shortcut through [[AppleScript]] inside a bunch,         |
 | 34:50      | which is actually run by [[Keyboard Maestro]] from my [[Stream Deck]].    |
 | 34:54      | And so I've ended up kind of nesting automation types             |
 | 34:57      | and crossing streams in ways which I feel                         |
@@ -918,7 +918,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 35:16      | And I think that is a trend which, you know,                      |
 | 35:20      | I'm seeing in a lot of places, you know,                          |
 | 35:23      | somebody tweeted at us a little while ago                         |
-| 35:26      | to say that they've used their first AppleScript,                 |
+| 35:26      | to say that they've used their first [[AppleScript]],                 |
 | 35:28      | which they copied and pasted it into a [[Keyboard Maestro]] macro.    |
 | 35:32      | And, you know, and that is great.                                 |
 | 35:35      | I'm really thrilled that more people are doing things like that   |
@@ -926,9 +926,9 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 35:41      | when you can just go, right,                                      |
 | 35:43      | well, [[Keyboard Maestro]], for example,                              |
 | 35:45      | can do everything I need except this little bit,                  |
-| 35:47      | but AppleScript can do that.                                      |
+| 35:47      | but [[AppleScript]] can do that.                                      |
 | 35:48      | And this person wrote a script,                                   |
-| 35:49      | which I can read because it's AppleScript.                        |
+| 35:49      | which I can read because it's [[AppleScript]].                        |
 | 35:51      | So I know what it's doing because it's just words.                |
 | 35:53      | So I'll just copy and paste that                                  |
 | 35:55      | and put that in this [[Keyboard Maestro]] macro                       |
@@ -1031,7 +1031,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 40:01      | is one of the largest on the Mac.                                 |
 | 40:02      | There's no part of DEVONthink that can't be automated.            |
 | 40:05      | And because the app has such a rich history on the Mac,           |
-| 40:07      | there are so many existing AppleScripts                           |
+| 40:07      | there are so many existing [[AppleScript\|AppleScripts]]                           |
 | 40:10      | that have been written to make DEVONthink work harder for you.    |
 | 40:12      | You can extend DEVONthink's functionality                         |
 | 40:14      | with your own commands by adding them to its scripts menu.        |
@@ -1075,7 +1075,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 41:47      | Time is taking away at a relatively rapid pace.                   |
 | 41:51      | But I reckon, David, do you think if we wish hard enough          |
 | 41:55      | and talk about all the things that we want,                       |
-| 41:57      | Apple have got time?                                              |
+| 41:57      | [[Apple]] have got time?                                              |
 | 41:58      | Like from my counting, they've got like six weeks until.          |
 | 42:01      | Sure, they can just add all that in, why not?                     |
 | 42:04      | Yeah, yeah, yeah.                                                 |
@@ -1127,7 +1127,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 44:05      | which all do that sort of thing                                   |
 | 44:08      | where it just doesn't work, unfortunately.                        |
 | 44:10      | Yeah, I would like to even just state that request                |
-| 44:13      | more generally and have Apple just get better                     |
+| 44:13      | more generally and have [[Apple]] just get better                     |
 | 44:16      | at device conflicts, you know?                                    |
 | 44:18      | Mm-hmm.                                                           |
 | 44:19      | You know, now that you've got shortcuts                           |
@@ -1371,11 +1371,11 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 54:53      | They're not going in very deep with it.                           |
 | 54:54      | Not everybody is [[BetterTouchTool]].                               |
 | 54:57      | And I think that one of the reasons is                            |
-| 54:59      | is Apple could do a better job making it easier                   |
+| 54:59      | is [[Apple]] could do a better job making it easier                   |
 | 55:01      | to integrate shortcuts with the core functions                    |
 | 55:03      | of your application.                                              |
 | 55:05      | Yes.                                                              |
-| 55:06      | And I'd like to see them do that rather than Apple                |
+| 55:06      | And I'd like to see them do that rather than [[Apple]]                |
 | 55:08      | spend their time making a bunch of actions,                       |
 | 55:10      | let the developers do it.                                         |
 | 55:11      | Cause that's what we want them for.                               |
@@ -1393,7 +1393,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 55:34      | one of the most powerful Mac apps ever,                           |
 | 55:38      | you know, has to ask these questions                              |
 | 55:40      | really means that, you know, there's something lacking there      |
-| 55:45      | that just doesn't make it quite as easy as Apple think it is.     |
+| 55:45      | that just doesn't make it quite as easy as [[Apple]] think it is.     |
 | 55:49      | And related to that, I really wish that they would do             |
 | 55:51      | a better job of educating app review                              |
 | 55:55      | on what the heck is shortcuts                                     |
@@ -1422,7 +1422,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 56:58      | create a shortcut showcase on their website of,                   |
 | 57:01      | hey, here are some example shortcuts                              |
 | 57:02      | some of our users are using,                                      |
-| 57:04      | which promote shortcuts and promotes iOS and Apple.               |
+| 57:04      | which promote shortcuts and promotes iOS and [[Apple]].               |
 | 57:08      | And then, you know, they can link back to that sort of thing.     |
 | 57:11      | But I can't even search for shortcuts                             |
 | 57:14      | which contain actions from a specific app right now,              |
@@ -1430,7 +1430,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 57:19      | Wait, which was the shortcut that had my app's action in it?      |
 | 57:23      | Well, they have to go through and open them and find out.         |
 | 57:26      | It's not great.                                                   |
-| 57:27      | Yeah, but, you know, that's always been a challenge at Apple      |
+| 57:27      | Yeah, but, you know, that's always been a challenge at [[Apple]]      |
 | 57:29      | to get kind of company-wide buy-in to automation.                 |
 | 57:33      | I mean, I remember...                                             |
 | 57:34      | Well, it's not so much automation that I'm concerned about.       |
@@ -1445,8 +1445,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 58:01      | but they had Automator actions                                    |
 | 58:04      | that were way better than what they had for pages.                |
 | 58:07      | You know, I mean, it just...                                      |
-| 58:08      | And it's just Apple,                                              |
-| 58:10      | just because Apple as a platform developer                        |
+| 58:08      | And it's just [[Apple]],                                              |
+| 58:10      | just because [[Apple]] as a platform developer                        |
 | 58:12      | has this shortcut thing,                                          |
 | 58:14      | it doesn't seem like everybody in app review                      |
 | 58:17      | gets behind it and understands how important this is.             |
@@ -1497,7 +1497,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:00:07   | [[Safari]] updates as part of Mac OS or independently.                |
 | 01:00:11   | And [[Xcode]], you know, [[Xcode]] could add some actions.                |
 | 01:00:14   | So be nice, you know, it would be a really great                  |
-| 01:00:18   | to see buy-in from internal Apple software developers             |
+| 01:00:18   | to see buy-in from internal [[Apple]] software developers             |
 | 01:00:22   | as well as all of the other app developers out there              |
 | 01:00:26   | doing all of those things.                                        |
 | 01:00:28   | I remember reading in Machiavelli,                                |
@@ -1627,7 +1627,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:05:31   | I did.                                                            |
 | 01:05:31   | The Mac Studio display is, well,                                  |
 | 01:05:34   | existence is theoretical.                                         |
-| 01:05:36   | Apple have told me it should be with me sometime                  |
+| 01:05:36   | [[Apple]] have told me it should be with me sometime                  |
 | 01:05:38   | between the 20th of May and something of June.                    |
 | 01:05:42   | So, you know, I'm sure that it exists in theory.                  |
 | 01:05:45   | Maybe the box already exists,                                     |
@@ -1798,7 +1798,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:11:53   | So that will go with it.                                          |
 | 01:11:54   | But I may end up with another magic keyboard                      |
 | 01:11:58   | with the Touch ID on because Touch ID is useful.                  |
-| 01:12:01   | But honestly, with the Unlock with Apple Watch feature            |
+| 01:12:01   | But honestly, with the Unlock with [[Apple Watch]] feature            |
 | 01:12:03   | that I've got on, that you can just enable on your Mac,           |
 | 01:12:08   | I don't need Touch ID most of the time.                           |
 | 01:12:12   | I can just double press the side of my watch                      |
@@ -1920,11 +1920,11 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:16:55   | And at the same time,                                             |
 | 01:16:57   | I think [[JavaScript]] is going to become more essential              |
 | 01:17:01   | for automation.                                                   |
-| 01:17:02   | I think a lot of people are leaning into JavaScript.              |
+| 01:17:02   | I think a lot of people are leaning into [[JavaScript]].              |
 | 01:17:04   | I mean, they just released [[Audio Hijack\|Audio Hijack 4]],                        |
 | 01:17:08   | which has shortcuts integration,                                  |
 | 01:17:09   | but it also has [[JavaScript]] automation.                            |
-| 01:17:12   | And JavaScript is where you can really                            |
+| 01:17:12   | And [[JavaScript]] is where you can really                            |
 | 01:17:14   | make that application dance.                                      |
 | 01:17:16   | I think if you want to automate,                                  |
 | 01:17:18   | starting to get a little familiar with [[JavaScript]]                 |
@@ -1952,7 +1952,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:18:08   | But I think, you know,                                            |
 | 01:18:09   | if people are looking to just upgrade                             |
 | 01:18:12   | their automation knowledge,                                       |
-| 01:18:14   | then we've got JavaScript there ready.                            |
+| 01:18:14   | then we've got [[JavaScript]] there ready.                            |
 | 01:18:16   | You know, it's not waiting in the wings.                          |
 | 01:18:18   | It's just, you know, it's in the starting blocks                  |
 | 01:18:20   | for a lot of people,                                              |

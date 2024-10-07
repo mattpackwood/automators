@@ -214,7 +214,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 09:28      | adjacent apps. There's so much to do there like if you're just if you're interested in home             |
 | 09:33      | automation and you're just using the home app even though it gets better with the next release,         |
 | 09:39      | you're missing out. I mean, and we've talked about on the show we've done episodes before with all      |
-| 09:43      | these apps, but it is a truly remarkable number one that Apple left the door open for third party       |
+| 09:43      | these apps, but it is a truly remarkable number one that [[Apple]] left the door open for third party       |
 | 09:50      | developers to get in and you know, fiddle around with [[HomeKit]] and number two, the way the developers    |
 | 09:57      | have delivered the goods on this stuff. But we skipped over Scotty. So we started this conversation     |
 | 10:04      | around focus. What are the kinds of focus modes that you're using? So like I say, I think there's       |
@@ -369,13 +369,13 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 24:39      | I need to investigate this. Rose, have you ever played with this? But basically, you've got...          |
 | 24:43      | Yeah, I have. And it's one of those things that a lot of the time, depending on what kind of calendar   |
 | 24:49      | it is, so your calendar has to be a local calendar on your Mac. This is something that is really,       |
-| 24:55      | really important for that to work. It can't be like an iCloud calendar or something even or             |
+| 24:55      | really important for that to work. It can't be like an iCloud Calendar or something even or             |
 | 25:02      | Google Calendar that doesn't work. And then once you've added the event and you go back in and you      |
-| 25:07      | try to edit it, then there is probably but not guaranteed to be the option to add the Apple             |
-| 25:14      | script. So I don't do that. I just have anything that's scheduled for things like that I have in        |
+| 25:07      | try to edit it, then there is probably but not guaranteed to be the option to add the [[AppleScript]].       |
+| 25:14      | So I don't do that. I just have anything that's scheduled for things like that I have in        |
 | 25:20      | [[Keyboard Maestro]] with a trigger for the right time. And that just deals with it for me.                 |
 | 25:26      | Well, the advantage of putting it on a calendar event and the way it does is you open a file,           |
-| 25:30      | they got rid of the run AppleScript command that they used to have years ago, which I wish they had.     |
+| 25:30      | they got rid of the run [[AppleScript]] command that they used to have years ago, which I wish they had.     |
 | 25:34      | But I believe you can save a script file or an actual, an app out of automator. But how long            |
 | 25:41      | is automator going to be around? Well, you can save a shortcut to your doc and then it gets             |
 | 25:45      | put in your users applications folder. And then that shortcut is just like a mini application           |
@@ -388,7 +388,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 26:18      | says, today, I'm going to spend the day, you know, you know, I don't know, watering the garden,         |
 | 26:23      | I'm not going to do the focus stuff today. And you just delete it for that day. And then                |
 | 26:28      | the light doesn't turn purple that day. So I feel like there's something to this. I need to dig         |
-| 26:32      | into it. But Apple has definitely made triggering events, triggering scripts with calendar events       |
+| 26:32      | into it. But [[Apple]] has definitely made triggering events, triggering scripts with calendar events       |
 | 26:38      | harder over the last few years. I don't think many people were using it.                                |
 | 26:43      | No, no. So just for anybody who's listening, who wants to know, you have to add the event to            |
 | 26:49      | your calendar, then you add an alert, go all the way to the bottom of the list, custom. And then        |
@@ -576,7 +576,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 45:20      | And now it's easy because all of those decisions have been made and the                                 |
 | 45:25      | pieces put in place for it. But before that, it was not easy.                                           |
 | 45:28      | Well, I do think it's interesting to think of automation beyond the normal tools. We talk               |
-| 45:34      | about things like AppleScript and [[Keyboard Maestro]], yada, yada, yada. But there are a lot              |
+| 45:34      | about things like [[AppleScript]] and [[Keyboard Maestro]], yada, yada, yada. But there are a lot              |
 | 45:40      | of pro level tools that do have their own automation built in. I'm not real familiar with               |
 | 45:46      | Farad. I do most of my audio stuff in Logic. But this is news to me. I didn't realise some              |
 | 45:52      | of these tools were already built for you. And whether you do it with a fancy script or the             |
@@ -762,8 +762,8 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:02:58   | done here and repurpose it for any of those applications. DEVONthink has really well                    |
 | 01:03:04   | documented [[URL Schemes\|URL scheme]] support. [[Obsidian]] has [[URL Schemes\|URL scheme]] support, though you might want one of the        |
 | 01:03:10   | extra plugins for that to improve it. And, you know, I'm sure for a lot of applications that            |
-| 01:03:17   | people are using, it'll either have [[URL Schemes\|URL scheme]] support or shortcut support or AppleScript              |
-| 01:03:22   | support or something. And yeah, you can run an AppleScript, you know, quite easily through a           |
+| 01:03:17   | people are using, it'll either have [[URL Schemes\|URL scheme]] support or shortcut support or [[AppleScript]]              |
+| 01:03:22   | support or something. And yeah, you can run an [[AppleScript]], you know, quite easily through a           |
 | 01:03:29   | [[URL Schemes\|URL scheme]], you know, either wrap it in a shortcut or something. So, you know, I think that this,       |
 | 01:03:36   | you know, creating an interactive dashboard for your day automatically, which, you know,                |
 | 01:03:43   | shows you what you need. But it's also not automatically updating necessarily, because                  |

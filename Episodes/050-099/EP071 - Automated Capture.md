@@ -128,7 +128,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 05:44      | of your cupboard when you open it up, right? Yeah, yeah, I did. So I had a tape measure                  |
 | 05:49      | and I just grabbed all that stuff and and or, you know, looked at it and I considered                    |
 | 05:55      | taking a photo of the cupboard and then diagramming it. And I realised that by the time I did that,      |
-| 05:59      | I could just grab my Apple pencil and draw it on my iPad. And then, you know, I had it                   |
+| 05:59      | I could just grab my [[Apple Pencil]] and draw it on my iPad. And then, you know, I had it                   |
 | 06:03      | right there. And I will confess that one didn't go into my typical capture system, but I'm               |
 | 06:09      | always willing to make allowances so that I actually have the data captured in the format                |
 | 06:13      | that makes the most sense for the data rather than saying that I have to stick to a specific             |
@@ -179,7 +179,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 10:15      | iOS 14. You can you can set it to do specific things like take a screenshot or something                 |
 | 10:20      | like that. But I have set it to open [[Drafts]]. And for a long time, I thought that this feature            |
 | 10:25      | was kind of flaky. And that was because I was trying to double tap the bottom of my                      |
-| 10:28      | iPhone. It turns out if you double tap the Apple logo, then it works every single time,                  |
+| 10:28      | iPhone. It turns out if you double tap the [[Apple]] logo, then it works every single time,                  |
 | 10:33      | guaranteed. And I've set that up so they create a new draft automatically. That's the shortcut           |
 | 10:37      | is running create draft and it and then it opens that a new draft for me. Because that                   |
 | 10:43      | gets me into [[Drafts]] super, super quickly. The other thing, of course, that I have is                     |
@@ -215,17 +215,17 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 13:27      | whole procedure and we're going to talk about that later about, you know, how do you get                 |
 | 13:30      | the stuff out of [[Drafts]] into the various buckets they belong later. But but otherwise, yeah,             |
 | 13:36      | just just get something like that. You know, if you don't want to spend money, you could                 |
-| 13:41      | do it in Apple notes, you could just open an Apple note and you could have one ready.                    |
+| 13:41      | do it in [[Apple Notes]], you could just open an Apple note and you could have one ready.                    |
 | 13:45      | Well, I mean, [[Drafts]] is free. That's something that people will keep forgetting [[Drafts]] is                |
 | 13:49      | actually free. The in-app purchase is only necessary if you're doing things like creating                |
 | 13:53      | your own actions and workspaces and stuff like that. If you just want to use [[Drafts]]                     |
 | 13:57      | for capture and use the downloaded actions that are available, then you can do that.                     |
 | 14:02      | And I would argue that you should do that because [[Drafts]] is a great application for                      |
 | 14:06      | this. But I mean, there are plenty of other applications that you could use. I mean, I                   |
-| 14:11      | actually do use [[Apple Reminders\|Reminders]] for some things because when I say hello, Apple lady, and                      |
+| 14:11      | actually do use [[Apple Reminders\|Reminders]] for some things because when I say hello, [[Apple]] lady, and                      |
 | 14:16      | she's listening because I've got a speaker in almost every room now. I don't have one                    |
 | 14:20      | in the hallway, but there are three rooms adjacent to the hallway with these. I don't                    |
-| 14:24      | have one in the bathroom. So I have to use my Apple watch there if I need to capture                     |
+| 14:24      | have one in the bathroom. So I have to use my [[Apple Watch]] there if I need to capture                     |
 | 14:29      | something there. But you know, if I say hey, lady, then she captures stuff. And that works               |
 | 14:37      | really well because then anything with a time on, I just assume that it's got to go into                 |
 | 14:43      | you. So geo automatically grabs that for me. If it's got a location on, then it gets left                |
@@ -443,14 +443,14 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 29:01      | to this show.                                                                                            |
 | 29:03      | It is super easy.                                                                                        |
 | 29:04      | You go online and you look at sample actions and you're like, oh my gosh, these guys are                 |
-| 29:09      | writing massive JavaScript and I'm not going to be able to do that and it's just going                   |
+| 29:09      | writing massive [[JavaScript]] and I'm not going to be able to do that and it's just going                   |
 | 29:13      | to break.                                                                                                |
 | 29:14      | I'm going to waste a bunch of time.                                                                      |
 | 29:15      | So I'm not going to do that.                                                                             |
 | 29:16      | But like, capture is a great example.                                                                    |
 | 29:18      | Like I have one for client phone calls, right?                                                           |
 | 29:22      | And all of this is templated, you know, you can template text in a draft action.                         |
-| 29:27      | You don't have to write any JavaScript to do that.                                                       |
+| 29:27      | You don't have to write any [[JavaScript]] to do that.                                                       |
 | 29:29      | All you do is say, insert template text and in there, you can put variables like the current             |
 | 29:35      | date and time.                                                                                           |
 | 29:36      | So like as soon as a client calls me or since I hang up from a client, I open a draft.                   |
@@ -526,7 +526,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 34:40      | And I've tried to experiment with expanding this a little bit on macOS and writing custom                |
 | 34:46      | bookmarklets.                                                                                            |
 | 34:47      | Sure.                                                                                                    |
-| 34:48      | Bookmarklets are essentially JavaScript that you can click to do something.                              |
+| 34:48      | Bookmarklets are essentially [[JavaScript]] that you can click to do something.                              |
 | 34:53      | And there are lots of examples out there that you can find of bookmarklets.                              |
 | 34:56      | I mean, we actually have one for Relay FM, where I can click a magic button and it appends               |
 | 35:02      | a link to the Automator show notes.                                                                      |
@@ -546,7 +546,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 36:00      | than it is on the Mac because we don't have shortcuts on the Mac.                                        |
 | 36:04      | And shortcuts parses the entire website for you and you just build out a text file that                  |
 | 36:09      | says title and you insert the title that you pull out with the shortcut.                                 |
-| 36:14      | Rather than monkeying around with JavaScript that may break with the next JavaScript update              |
+| 36:14      | Rather than monkeying around with [[JavaScript]] that may break with the next [[JavaScript]] update              |
 | 36:18      | or next time you update your Mac for some reason, it may stop working.                                   |
 | 36:23      | The shortcuts method is faster to create and more reliable.                                              |
 | 36:26      | So I find myself doing the same.                                                                         |
@@ -614,7 +614,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 40:27      | with fill-in-the-blank fields using quick abbreviations, save serious time by storing                    |
 | 40:32      | and expanding phrases you type frequently, and get your message right every time by expanding            |
 | 40:37      | content that corrects your spelling and keeps your language consistent with a few keystrokes.            |
-| 40:43      | TextExpander is on all of the Apple platforms as well as Windows, and I find so many uses                |
+| 40:43      | TextExpander is on all of the [[Apple]] platforms as well as Windows, and I find so many uses                |
 | 40:49      | for it.                                                                                                  |
 | 40:50      | We're talking a lot today about [[Drafts]], but did you know [[Drafts]] has built-in TextExpander                |
 | 40:54      | support?                                                                                                 |
@@ -630,7 +630,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 41:29      | FM.                                                                                                      |
 | 41:30      | So, David, I think we need to talk about more ways that we automate capture, because there               |
 | 41:37      | are lots of ways.                                                                                        |
-| 41:38      | And I touched on this a little bit earlier, but I say, hey Apple lady, and use that as                   |
+| 41:38      | And I touched on this a little bit earlier, but I say, hey [[Apple]] lady, and use that as                   |
 | 41:45      | a capture method.                                                                                        |
 | 41:47      | This may not sound super automated, but when I break it down, it actually is.                            |
 | 41:54      | So I'll do that.                                                                                         |
@@ -693,7 +693,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 45:29      | I mean, rather than going to specific apps.                                                              |
 | 45:31      | Yeah.                                                                                                    |
 | 45:32      | Yeah.                                                                                                    |
-| 45:33      | Because you can say, hey, Apple Lady, create a note in [[Drafts]].                                           |
+| 45:33      | Because you can say, hey, [[Apple]] Lady, create a note in [[Drafts]].                                           |
 | 45:40      | But that's more words than, well, it's actually the same number of words as remind me to,                |
 | 45:46      | or pretty much.                                                                                          |
 | 45:48      | But I just find that remind me to is easy syntax.                                                        |
@@ -927,7 +927,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:00:09   | tasks based on it or whatever, I'll take care of it all.                                                 |
 | 01:00:12   | But that quick capture to me, and I'd love to hear from people in the audience if they've                |
 | 01:00:17   | got a better solution, but everything I've tried feels very tenuous.                                     |
-| 01:00:22   | Like trying to capture a specific text message is not easy and Apple just doesn't make it                |
+| 01:00:22   | Like trying to capture a specific text message is not easy and [[Apple]] just doesn't make it                |
 | 01:00:29   | easy.                                                                                                    |
 | 01:00:30   | I found that, you know, the screen grab is the easiest way I could do it.                                |
 | 01:00:34   | Yeah.                                                                                                    |
@@ -975,11 +975,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:03:09   | There are a few cases where it will just mark it as read and leave it in my inbox, but most              |
 | 01:03:13   | of the time it's archived and so it's gone, um, which, uh, is great because the more emails              |
 | 01:03:19   | that can be automatically handled for me, the better.                                                    |
-| 01:03:22   | Um, and a lot of these things are stuff, um, like, for example, um, Amazon returns, whenever             |
-| 01:03:28   | I'm returning something to Amazon, um, I would like a mini OmniFocus project created                      |
+| 01:03:22   | Um, and a lot of these things are stuff, um, like, for example, um, [[Amazon]] returns, whenever             |
+| 01:03:28   | I'm returning something to [[Amazon]], um, I would like a mini OmniFocus project created                      |
 | 01:03:33   | for that.                                                                                                |
 | 01:03:34   | Thank you very much.                                                                                     |
-| 01:03:35   | Um, and so what I do is I, I have, um, it look, um, for anything, uh, about your Amazon                  |
+| 01:03:35   | Um, and so what I do is I, I have, um, it look, um, for anything, uh, about your [[Amazon]]                  |
 | 01:03:42   | return.                                                                                                  |
 | 01:03:43   | And then this one is actually an [[Make\|Integromat]].                                                            |
 | 01:03:45   | It branches out.                                                                                         |
@@ -1112,7 +1112,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:11:26   | Now this isn't automated, which is unfortunate, but it does mean that every time you're processing       |
 | 01:11:32   | an email, you do that, and then you know that the mail window has got that, you know, for                |
 | 01:11:38   | the right person.                                                                                        |
-| 01:11:39   | Now I am 100% certain that with the right Google Foo, you could find an AppleScript                     |
+| 01:11:39   | Now I am 100% certain that with the right Google Foo, you could find an [[AppleScript]]                     |
 | 01:11:45   | that will do this for you, and assign it to say, and either you could use [[FastScripts]],                  |
 | 01:11:50   | they've sponsored the show before, they would be a great way to do this, to assign a keyboard            |
 | 01:11:53   | shortcut to it, or you could, you know, paste it into an automated direction as well for                 |
@@ -1133,7 +1133,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:12:49   | But I did feel that it fitted the topic today, because we did end up in email quite well.                |
 | 01:12:55   | Another option for John, this is a much, you know, hacky, sparky solution.                               |
 | 01:12:59   | If you've got an iPhone or an iPad, you could easily create a shortcut that would prompt                 |
-| 01:13:05   | you to search for emails by a specific name, or you could do this in Apple Mail.                         |
+| 01:13:05   | you to search for emails by a specific name, or you could do this in [[Apple Mail]].                         |
 | 01:13:10   | But with shortcuts, you could make a choose from list shortcut, like if this is a group                  |
 | 01:13:14   | of employees or coworkers, and let's say it's a group of 10 people, you're always going                  |
 | 01:13:18   | to the same 10.                                                                                          |
@@ -1154,15 +1154,15 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:14:07   | However, in this particular case, [[Keyboard Maestro]] can't do this.                                        |
 | 01:14:11   | And [[Keyboard Maestro]] doesn't have as many options available to it as Automator does.                     |
 | 01:14:16   | It's only got two macros or two actions, whereas Automator has several.                                  |
-| 01:14:23   | So if you need to upgrade from Automator, you are going to be looking at AppleScript                     |
+| 01:14:23   | So if you need to upgrade from Automator, you are going to be looking at [[AppleScript]]                     |
 | 01:14:27   | pretty much, and that is going to be, you know, your process.                                            |
-| 01:14:33   | Now you could probably use [[Keyboard Maestro]]'s click-it image to find the drop-down arrow                 |
+| 01:14:33   | Now you could probably use [[Keyboard Maestro\|Keyboard Maestro's]] click-it image to find the drop-down arrow                 |
 | 01:14:42   | next to the person in the to field and click that, and then click search for person.                     |
 | 01:14:51   | But I think that's going to be a pretty hacky way of doing it.                                           |
-| 01:14:54   | So I would recommend sticking to it manually unless you can find an AppleScript that solves              |
+| 01:14:54   | So I would recommend sticking to it manually unless you can find an [[AppleScript]] that solves              |
 | 01:14:57   | the problem.                                                                                             |
 | 01:14:58   | I'll put a link in the show notes.                                                                       |
-| 01:14:59   | I made an AppleScript for Apple Mail that grabs the name of the person in the to field                   |
+| 01:14:59   | I made an [[AppleScript]] for [[Apple Mail]] that grabs the name of the person in the to field                   |
 | 01:15:05   | and then creates the salutation.                                                                         |
 | 01:15:07   | But you don't need the second part, but if you're doing a search, grabbing the name from                 |
 | 01:15:11   | the to field could be helpful.                                                                           |
@@ -1174,11 +1174,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:15:38   | And if I double click it, then it is actually showing me the name, but that's because you're             |
 | 01:15:44   | in my contacts, though I would hope if you're sending people email, then they're in your                 |
 | 01:15:48   | contacts.                                                                                                |
-| 01:15:49   | Yeah, Apple Mail, it's so often there's so many things about it to like as an automator                  |
-| 01:15:55   | that it's addressable by AppleScript, but it's so wonky.                                                 |
-| 01:15:59   | I mean, just like I was writing an AppleScript where I wanted to get the to field and I needed           |
+| 01:15:49   | Yeah, [[Apple Mail]], it's so often there's so many things about it to like as an automator                  |
+| 01:15:55   | that it's addressable by [[AppleScript]], but it's so wonky.                                                 |
+| 01:15:59   | I mean, just like I was writing an [[AppleScript]] where I wanted to get the to field and I needed           |
 | 01:16:05   | to make it plural.                                                                                       |
-| 01:16:06   | I mean, it's just like weird, weird stuff, like whoever was like making the AppleScript                  |
+| 01:16:06   | I mean, it's just like weird, weird stuff, like whoever was like making the [[AppleScript]]                  |
 | 01:16:12   | commands that day had a bad day or maybe it was drinking, I'm not sure what happened                     |
 | 01:16:17   | there because nothing is consistent, but you've really got to kind of dig into the code to               |
 | 01:16:22   | figure that out.                                                                                         |
@@ -1250,7 +1250,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:20:45   | All of these players have got different areas of focus.                                                  |
 | 01:20:49   | I have TTT, Zapier, [[Make\|Integromat]], and I guess if you want to try this out, you just got                    |
 | 01:20:54   | to really take a look at each tool and see what problems you're trying to solve.                         |
-| 01:20:59   | But I still wouldn't recommend making them to Rube Goldberg because you're adding the                    |
+| 01:20:59   | But I still wouldn't recommend making them to [[Rube Goldberg]] because you're adding the                    |
 | 01:21:05   | internet to the mix on every step for these solutions.                                                   |
 | 01:21:09   | And it could be no fault of [[Make\|Integromat]], but something may not work because the service                   |
 | 01:21:15   | you're connecting to is having issues, and then you get frustrated.                                      |
@@ -1393,7 +1393,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:29:58   | think I know about it.                                                                                   |
 | 01:29:59   | So I'm taking them, but I'm only taking them at a level that I feel like she won't realise               |
 | 01:30:06   | that, you know, it's disappearing a little faster than she thought.                                      |
-| 01:30:10   | Okay, David, can I just say right now for the sake of your marriage, Amazon subscribe                    |
+| 01:30:10   | Okay, David, can I just say right now for the sake of your marriage, [[Amazon]] subscribe                    |
 | 01:30:14   | and save.                                                                                                |
 | 01:30:15   | Yeah.                                                                                                    |
 | 01:30:16   | I guess.                                                                                                 |

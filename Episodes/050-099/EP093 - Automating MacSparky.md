@@ -288,11 +288,11 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 13:21      | Yeah.                                                                                                  |
 | 13:22      | And so that, it's up and running and the automation has begun.                                         |
 | 13:25      | So as I said earlier, I'm doing some local automation, getting it to team members.                     |
-| 13:31      | I have different post workflows like that post I mentioned earlier about the AppleScript.             |
+| 13:31      | I have different post workflows like that post I mentioned earlier about the [[AppleScript]].             |
 | 13:37      | I have a couple of friends or people, maybe we'll get to today if we have time is since                |
 | 13:43      | I'm really like put it going all in on MacSparky, I'm really kind of growing a team                   |
 | 13:47      | around it too.                                                                                         |
-| 13:48      | And I've got people that back me up and like technical posts like one about an AppleScript.           |
+| 13:48      | And I've got people that back me up and like technical posts like one about an [[AppleScript]].           |
 | 13:52      | I'm going to have a few people read it before it gets posted to make sure everything works             |
 | 13:57      | for them too.                                                                                          |
 | 13:58      | And I don't post something that's not right.                                                           |
@@ -470,7 +470,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 23:58      | I always thought that was too much for what I'm doing.                                                 |
 | 24:01      | But again, I'm trying to honestly, it really depends.                                                  |
 | 24:04      | Like there are there are so many variances in the kind of ticket systems out there.                    |
-| 24:08      | You know, if you email Apple, if you email Tim Cook, you probably don't get an alter                   |
+| 24:08      | You know, if you email [[Apple]], if you email Tim Cook, you probably don't get an alter                   |
 | 24:13      | reply.                                                                                                 |
 | 24:14      | But I 100% bet that lands in a ticket system and there's a team of stops sorting it out                |
 | 24:18      | and they'll funnel things into, hey, this needs to get filed filed into feedback please                |
@@ -526,22 +526,22 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 26:52      | But again, I've been paying for it since before they were sponsored and just all these methods         |
 | 26:58      | I'm using to try and keep email to something manageable and just see what I need to see.               |
 | 27:04      | I use the smart mailboxes.                                                                             |
-| 27:07      | I'm using Apple Mail across the board.                                                                 |
+| 27:07      | I'm using [[Apple Mail]] across the board.                                                                 |
 | 27:10      | I think I'm going to try and do that.                                                                  |
 | 27:12      | One of those runs again through third party apps to see what's out there again.                        |
 | 27:15      | Yes.                                                                                                   |
-| 27:16      | But Apple Mail is pretty much working for me.                                                          |
+| 27:16      | But [[Apple Mail]] is pretty much working for me.                                                          |
 | 27:19      | And the thing I love about it is the [[AppleScript]] availability.                                        |
 | 27:23      | I did a webinar on this last year, but I've written [[AppleScript\|AppleScripts]] that can move messages,              |
-| 27:29      | can copy messages, can do all sorts of manipulations with [[AppleScript\|AppleScripts]] inside Apple Mail.             |
+| 27:29      | can copy messages, can do all sorts of manipulations with [[AppleScript\|AppleScripts]] inside [[Apple Mail]].             |
 | 27:37      | And then I wrote that script that puts in the recipient.                                               |
 | 27:40      | So I just type X high, it'll say high Rosemary, it'll grab your name from the two fields.              |
-| 27:46      | All those little, like I've tweaked Apple Mail to kind of myself and then I've programmed              |
+| 27:46      | All those little, like I've tweaked [[Apple Mail]] to kind of myself and then I've programmed              |
 | 27:51      | all that stuff into my [[Stream Deck]] and I've also programmed it into the keypad on my extended          |
 | 27:59      | keyboard.                                                                                              |
-| 28:01      | And so I'm really fast with Apple Mail.                                                                |
+| 28:01      | And so I'm really fast with [[Apple Mail]].                                                                |
 | 28:05      | So it's hard for me to move on and I don't think there's anything else that really supports            |
-| 28:08      | [[AppleScript]] customisation the way Apple Mail does, but I'm using a ton of automation.                 |
+| 28:08      | [[AppleScript]] customisation the way [[Apple Mail]] does, but I'm using a ton of automation.                 |
 | 28:14      | I want to say MailMate does, I think MailMate possibly does, but one of the things I found             |
 | 28:20      | when you're switching between mail applications is like leaving a default setup.                       |
 | 28:24      | So I have mail configured on iOS, I don't use it, but I have it configured and shortcuts               |
@@ -552,11 +552,11 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 28:43      | it just works, which I love.                                                                           |
 | 28:45      | But like being able to just, you know, swap things around without breaking all of the                  |
 | 28:51      | automations can be quite useful.                                                                       |
-| 28:53      | So even if you end up leaving, you know, Apple Mail on your Mac and you switch to it for               |
+| 28:53      | So even if you end up leaving, you know, [[Apple Mail]] on your Mac and you switch to it for               |
 | 28:58      | certain things, you know, that's not a bad thing.                                                      |
 | 29:00      | I actually need to go back to MailMate.                                                                |
 | 29:02      | I got really into it last year, I bought a license, I pre-wrote all the key bindings                   |
-| 29:09      | so I had basically all the kind of automation that I have with Apple Mail that I got through           |
+| 29:09      | so I had basically all the kind of automation that I have with [[Apple Mail]] that I got through           |
 | 29:16      | MailMate, but the problem was I had two Macs at the time and getting those rules to sync               |
 | 29:22      | over actually is almost impossible.                                                                    |
 | 29:25      | And then I was tagging inside the app and that also was a sticking point.                              |
@@ -574,7 +574,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 30:21      | I do like a morning clear out to catch any emergencies and then the afternoon I actually               |
 | 30:28      | process Mail.                                                                                          |
 | 30:29      | I don't really respond to Mail unless it's an emergency early afternoon, but like I have               |
-| 30:33      | programmed with those AppleScripts on my numeric keypad or on the [[Stream Deck]], I can                  |
+| 30:33      | programmed with those [[AppleScript\|AppleScripts]] on my numeric keypad or on the [[Stream Deck]], I can                  |
 | 30:41      | type one, two or three.                                                                                |
 | 30:43      | One is priority, two is action, three is read later and then I've got the zero underneath              |
 | 30:49      | it is to archive it.                                                                                   |
@@ -758,7 +758,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 41:39      | to an extent, but equally, it's a very effective shortcut.                                             |
 | 41:42      | So it does exactly what you need, and why wouldn't you just leave it as it is?                         |
 | 41:46      | Yeah.                                                                                                  |
-| 41:47      | And I'm just going crazy with OmniFocus JavaScript stuff and adding more and more of that.             |
+| 41:47      | And I'm just going crazy with OmniFocus [[JavaScript]] stuff and adding more and more of that.             |
 | 41:54      | And yeah.                                                                                              |
 | 41:56      | So in terms of task management, I'm automating a lot of stuff.                                         |
 | 42:00      | I really do want to look at other options to OmniFocus.                                                |
@@ -790,7 +790,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 43:32      | I don't need to go over all here, but I love calendar blocks.                                          |
 | 43:36      | Shortcuts makes it really easy.                                                                        |
 | 43:38      | There's no other tool in my mind that automates calendars better than shortcuts.                       |
-| 43:42      | As much as I love things like [[Keyboard Maestro]], AppleScript, and all the other stuff, they're         |
+| 43:42      | As much as I love things like [[Keyboard Maestro]], [[AppleScript]], and all the other stuff, they're         |
 | 43:48      | much more fiddly for calendar events than shortcuts.                                                   |
 | 43:52      | In my experience, I don't know if you agree or disagree.                                               |
 | 43:55      | I find shortcuts is just so incredibly easy because it's very simple to just have that                 |
@@ -974,7 +974,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 55:14      | And if something like if he was using a different app or something, then that would have been          |
 | 55:18      | much more complicated.                                                                                 |
 | 55:19      | And he did try running it on his watch and it got very confused.                                       |
-| 55:23      | I'm really curious to see what Apple does with this, you know, next year or this year,                 |
+| 55:23      | I'm really curious to see what [[Apple]] does with this, you know, next year or this year,                 |
 | 55:29      | I guess.                                                                                               |
 | 55:30      | I feel like they're going to respond to this.                                                          |
 | 55:33      | But I feel like they will, yeah.                                                                       |
@@ -984,40 +984,40 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 55:51      | Mac field guide, like in November, it just wasn't working.                                             |
 | 55:55      | Now it's working.                                                                                      |
 | 55:56      | So that's good, but there's some points.                                                               |
-| 56:01      | This episode of the automators is brought to you by [[DEVONthink]], the flagship product                  |
+| 56:01      | This episode of the automators is brought to you by DEVONthink, the flagship product                  |
 | 56:06      | from Devon Technologies.                                                                               |
 | 56:09      | Get organised and unleash your creativity.                                                             |
 | 56:11      | Just go to devontechnologies.com/automators to get 10% off.                                      |
-| 56:17      | [[DEVONthink]] is the most professional document and information management application for               |
+| 56:17      | DEVONthink is the most professional document and information management application for               |
 | 56:21      | the Mac.                                                                                               |
 | 56:22      | It's the one place for storing all of your documents, snippets and bookmarks and working               |
 | 56:27      | with them.                                                                                             |
 | 56:28      | Integrated artificial intelligence assists you with filing and searching while the extensive           |
 | 56:33      | search language with advanced Boolean operators is there to help you find even more.                   |
-| 56:38      | [[DEVONthink]] features a flexible sync system that supports many cloud services or lets                  |
+| 56:38      | DEVONthink features a flexible sync system that supports many cloud services or lets                  |
 | 56:43      | you synchronise over the local network too with everything securely encrypted.                         |
 | 56:48      | This gives you the choice of however syncing works best for you.                                       |
 | 56:52      | It has smart rules and flexible reminders that let you automate all parts of your workflow             |
 | 56:56      | and delegate boring repeating tasks.                                                                   |
-| 56:59      | So let [[DEVONthink]] automatically organise your data with rules you define.                             |
-| 57:04      | [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac.                                |
-| 57:07      | There's no part of [[DEVONthink]] that can't be automated.                                                |
-| 57:09      | So extend [[DEVONthink]]'s functionality with your own commands by adding them to its scripts             |
+| 56:59      | So let DEVONthink automatically organise your data with rules you define.                             |
+| 57:04      | DEVONthink's [[AppleScript dictionary is one of the largest on the Mac.                                |
+| 57:07      | There's no part of DEVONthink that can't be automated.                                                |
+| 57:09      | So extend DEVONthink's functionality with your own commands by adding them to its scripts             |
 | 57:14      | menu.                                                                                                  |
 | 57:15      | Even templates have scripts inside and you can set up new documents with data from placeholders        |
-| 57:20      | or inserted by your own [[AppleScript]] code.                                                             |
+| 57:20      | or inserted by your own AppleScript code.                                                             |
 | 57:23      | It's really kind of awesome.                                                                           |
 | 57:25      | And of course there's so much more from an iOS companion app to email archiving scanning               |
 | 57:30      | or even an embedded web server for sharing your data securely with your team.                          |
-| 57:35      | I'm a big fan of [[DEVONthink]].                                                                          |
+| 57:35      | I'm a big fan of DEVONthink.                                                                          |
 | 57:36      | I keep a bunch of data in there.                                                                       |
 | 57:39      | Not only do I like the way it manages documents, I like the automation.                                |
-| 57:43      | I like the fact that you can link anything inside [[DEVONthink]].                                         |
+| 57:43      | I like the fact that you can link anything inside DEVONthink.                                         |
 | 57:46      | If you want to do contextual computing, this is perfect for you because no matter what                 |
 | 57:50      | the file is, you've got just one link away from it anywhere on your Mac.                               |
 | 57:55      | Whether you're managing a lot of documents or doing a lot of research, you should be                   |
-| 57:58      | checking out [[DEVONthink]].                                                                              |
-| 58:00      | And you can get 10% off [[DEVONthink]] 3 or upgrade to it right now.                                      |
+| 57:58      | checking out DEVONthink.                                                                              |
+| 58:00      | And you can get 10% off DEVONthink 3 or upgrade to it right now.                                      |
 | 58:04      | Just go to devontechnologies.com/automators.                                                     |
 | 58:08      | That's devontechnologies.com/automators for that 10% off.                                        |
 | 58:13      | And our thanks to Devon Technologies for their support of the automators and all of RelayFM.           |
@@ -1202,7 +1202,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:10:02   | Yeah, exactly.                                                                                         |
 | 01:10:03   | I mean, you know, one of the things that changed for me over the last year is I've stopped             |
 | 01:10:08   | trying to be so demanding on an iPad.                                                                  |
-| 01:10:11   | I'm trying to try to treat the iPad kind of the way Apple views it in my opinion.                      |
+| 01:10:11   | I'm trying to try to treat the iPad kind of the way [[Apple]] views it in my opinion.                      |
 | 01:10:15   | So a lot of my more advanced automation, I'm not trying to like jump through a million                 |
 | 01:10:20   | hoops in shortcuts.                                                                                    |
 | 01:10:21   | I'm just writing a [[Keyboard Maestro]] script on my Mac and running it there.                             |
@@ -1429,7 +1429,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:23:35   | But one of the things I wanted to mention recently, [[Stephen Millard]], who's been on the show before,    |
 | 01:23:41   | he's been doing a lot of amazingly cool things recently.                                               |
 | 01:23:45   | So he's done an [[Alfred]] action or [[Alfred]] workflow to integrate with shortcuts.                          |
-| 01:23:52   | More recently, he's done a [[Keyboard Maestro]] plug-in for Apple shortcuts, which allows                   |
+| 01:23:52   | More recently, he's done a [[Keyboard Maestro]] plug-in for [[Shortcuts\|Apple Shortcuts]], which allows                   |
 | 01:23:55   | you to run a shortcut in [[Keyboard Maestro]].                                                              |
 | 01:23:59   | And it's brilliant.                                                                                    |
 | 01:24:00   | I love it, David.                                                                                      |
@@ -1494,8 +1494,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:27:12   | So I would like to know when he puts the mail in there.                                                |
 | 01:27:16   | So I don't go out two or three times to find an empty box, so I don't leave the mail in                |
 | 01:27:20   | there for four hours.                                                                                  |
-| 01:27:21   | So I ordered one, and of course, I'm using the Aqara stuff because now that I have their               |
-| 01:27:28   | hub, I'm all in.                                                                                       |
+| 01:27:21   | So I ordered one, and of course, I'm using the [[Aqara]] stuff because now that I have their               |
+| 01:27:28   | [[Aqara Hub\|hub]], I'm all in.                                                                                       |
 | 01:27:30   | Yep.                                                                                                   |
 | 01:27:31   | Yep.                                                                                                   |
 | 01:27:32   | Since we talked about the water sensors, what is it that we call them?                                 |
@@ -1516,7 +1516,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:28:02   | It's brilliant.                                                                                        |
 | 01:28:03   | Yeah.                                                                                                  |
 | 01:28:04   | So I got my parents for Christmas.                                                                     |
-| 01:28:05   | I got them the Aqara E1 hub, which is like a USB stick, and it's really small.                         |
+| 01:28:05   | I got them the [[Aqara Hub#E1\|Aqara E1 hub]], which is like a USB stick, and it's really small.                         |
 | 01:28:12   | It doesn't connect very ethernet or anything, but my parents really don't have a lot of                |
 | 01:28:16   | smart home stuff.                                                                                      |
 | 01:28:17   | And so I got them just sensors for Christmas.                                                          |
@@ -1593,19 +1593,19 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:31:54   | I was just hoping to give my parents some data because they've been looking at smart                   |
 | 01:31:57   | heating systems and they really didn't know whether or not it's worth it.                              |
 | 01:32:01   | So I'm hoping by giving them some easily accessible temperature data that it will be like they'll      |
-| 01:32:05   | be able to make that decision and the Aqara stuff is so affordable that, you know, my                  |
+| 01:32:05   | be able to make that decision and the [[Aqara]] stuff is so affordable that, you know, my                  |
 | 01:32:10   | parents have now said like, oh, maybe we can get some more temperature sensors and I linked            |
 | 01:32:14   | them to a bundle of four.                                                                              |
 | 01:32:16   | They realised how cheap this stuff is and so they're they're probably going to just carpet             |
 | 01:32:20   | that home and sensors, which is great.                                                                 |
 | 01:32:21   | Did the same thing.                                                                                    |
 | 01:32:22   | I told my sister because I have a brother-in-law, it's kind of nerdy.                                  |
-| 01:32:25   | I said, buy him the Aqara hub and two water sensors and he's already called me and he                  |
+| 01:32:25   | I said, buy him the [[Aqara Hub]] and two [[Aqara Water Leak Sensor\|water sensors]] and he's already called me and he                  |
 | 01:32:31   | wants to get more and I gave him the low down in terms of mobile sensors, sensors that grow            |
 | 01:32:39   | legs.                                                                                                  |
 | 01:32:40   | Let me tell you something.                                                                             |
 | 01:32:41   | So the other day I was working and my refrigerator water sensor went off and I'm like, ah, no,         |
-| 01:32:49   | my refrigerator is leaking, but also, yay, my Aqara works, you know.                                   |
+| 01:32:49   | my refrigerator is leaking, but also, yay, my [[Aqara Water Leak Sensor\|Aqara]] works, you know.                                   |
 | 01:32:54   | So I ran into the kitchen and I couldn't find any water anywhere.                                      |
 | 01:32:57   | I literally pulled the refrigerator away from the wall.                                                |
 | 01:33:00   | I'm like, I can't figure out.                                                                          |
@@ -1613,7 +1613,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:33:04   | And I'm looking around and the sensors nowhere to be found.                                            |
 | 01:33:08   | And I'm scratching my head and I go back over to my desk and my dog sleeps under my desk               |
 | 01:33:12   | while I work and she's like chewing on something.                                                      |
-| 01:33:16   | And sure enough, she found the Aqara refrigerator sensor and I guess if you put enough dog saliva      |
+| 01:33:16   | And sure enough, she found the [[Aqara Water Leak Sensor\|Aqara refrigerator sensor]] and I guess if you put enough dog saliva      |
 | 01:33:22   | on it, it will trigger as a leak.                                                                      |
 | 01:33:26   | I mean, it worked.                                                                                     |
 | 01:33:28   | It worked.                                                                                             |
@@ -1630,7 +1630,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:33:53   | I think we're good now.                                                                                |
 | 01:33:54   | I don't think she's going to find anymore, but that was kind of funny, I thought.                      |
 | 01:33:58   | Yeah.                                                                                                  |
-| 01:33:59   | One thing you can do with the Aqara leak sensors that I should have mentioned before is they've        |
+| 01:33:59   | One thing you can do with the [[Aqara Water Leak Sensor\|Aqara leak sensors]] that I should have mentioned before is they've        |
 | 01:34:04   | got two tiny little screws on the back, which you can adjust them.                                     |
 | 01:34:09   | So this means that you could connect something like a water level sensor to it if you wanted           |
 | 01:34:13   | to.                                                                                                    |
@@ -1643,7 +1643,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:34:40   | is down on the floor, you know, where it's going to detect the leak.                                   |
 | 01:34:44   | And so, you know, obviously, you know, that's not necessarily the best solution for these              |
 | 01:34:49   | things, but it can be a very good solution for certain use cases.                                      |
-| 01:34:55   | And also, I may or may not have started deconstructing what the Aqara door sensors, David, I may       |
+| 01:34:55   | And also, I may or may not have started deconstructing what the [[Aqara Door and Window Sensor\|Aqara door sensors]], David, I may       |
 | 01:35:01   | or may not be able to tell you that you can do the same kind of thing with a door sensor               |
 | 01:35:05   | to know whether or not something is open or closed or on or off because it's a binary                  |
 | 01:35:09   | sensor, it has exactly two states.                                                                     |
@@ -1712,12 +1712,12 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:38:19   | I think so far I'm good on that, but, but I am going to put one in my mailbox.                         |
 | 01:38:24   | The question there is, will the range work?                                                            |
 | 01:38:27   | You know, and                                                                                          |
-| 01:38:28   | I mean, the range on Zigbee stuff is pretty good.                                                      |
+| 01:38:28   | I mean, the range on [[Zigbee]] stuff is pretty good.                                                      |
 | 01:38:32   | It may or may not work.                                                                                |
-| 01:38:34   | If not, you could get an Aqara E1 hub and like plug it in as close to your mailbox,                    |
+| 01:38:34   | If not, you could get an [[Aqara Hub#E1\|Aqara E1]] hub and like plug it in as close to your mailbox,                    |
 | 01:38:41   | like house wise as you can, because that, that can just, you know, those hubs are very                 |
 | 01:38:46   | cheap and, and that could be the solution for that particular thing.                                   |
-| 01:38:52   | And it will extend the, if you set it up right, it could extend the Zigbee network for Aqara           |
+| 01:38:52   | And it will extend the, if you set it up right, it could extend the [[Zigbee]] network for [[Aqara]]           |
 | 01:38:57   | in your home, which would be quite good too.                                                           |
 | 01:38:59   | Well, we will, I'll let you know, it's supposed to get delivered here in the next day or two.          |
 | 01:39:05   | And so maybe next show I can report back on how I did with that.                                       |

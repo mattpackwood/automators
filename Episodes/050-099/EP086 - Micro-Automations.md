@@ -89,36 +89,36 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:27      | Yeah.                                                                                                   |
 | 01:28      | I mean, we definitely need to have a look at this purple M1 iMac, David, because it's                   |
 | 01:33      | so gorgeous and it works so well.                                                                       |
-| 01:35      | But we'll get back to that in a bit because I've been writing AppleScript again.                       |
-| 01:39      | AppleScript, David.                                                                                    |
-| 01:40      | All the AppleScript.                                                                                   |
+| 01:35      | But we'll get back to that in a bit because I've been writing [[AppleScript]] again.                       |
+| 01:39      | [[AppleScript]], David.                                                                                    |
+| 01:40      | All the [[AppleScript]].                                                                                   |
 | 01:41      | Yes.                                                                                                    |
-| 01:42      | AppleScript.                                                                                           |
+| 01:42      | [[AppleScript]].                                                                                           |
 | 01:43      | It's still a thing.                                                                                     |
 | 01:44      | It is.                                                                                                  |
-| 01:45      | I hear that once I'm off from people saying, should I learn AppleScript or not?                        |
+| 01:45      | I hear that once I'm off from people saying, should I learn [[AppleScript]] or not?                        |
 | 01:50      | And I do have a little bit of a qualification.                                                          |
 | 01:53      | I think if you're going to be doing a lot of automation for iPhone and iPad, if you're                  |
-| 01:58      | going mobile, I think JavaScript will serve you better at this point because AppleScript               |
+| 01:58      | going mobile, I think [[JavaScript]] will serve you better at this point because [[AppleScript]]               |
 | 02:03      | isn't over there.                                                                                       |
-| 02:04      | And I wish that Apple had put Apple events and AppleScript into the iPad and iPhone                    |
-| 02:09      | because AppleScript is really quite powerful.                                                          |
+| 02:04      | And I wish that [[Apple]] had put Apple events and [[AppleScript]] into the iPad and iPhone                    |
+| 02:09      | because [[AppleScript]] is really quite powerful.                                                          |
 | 02:12      | But if you work at the Mac, sometimes there are automation problems for which there is                  |
-| 02:19      | no solution, but an AppleScript.                                                                       |
+| 02:19      | no solution, but an [[AppleScript]].                                                                       |
 | 02:22      | And I find myself still writing it often.                                                               |
 | 02:25      | Yeah.                                                                                                   |
 | 02:26      | And honestly, some of these were created, like there are other ways to do this stuff.                   |
 | 02:32      | But equally, this was a very efficient way of doing things.                                             |
-| 02:36      | And also it means that I can reuse these AppleScripts in multiple different places.                    |
+| 02:36      | And also it means that I can reuse these [[AppleScript\|AppleScripts]] in multiple different places.                    |
 | 02:40      | Okay.                                                                                                   |
 | 02:41      | So I can put them, I can use the USA plugin for [[Stream Deck]].                                            |
-| 02:45      | We'll have a link to that one in the show notes to run an AppleScript from my Stream                   |
+| 02:45      | We'll have a link to that one in the show notes to run an [[AppleScript]] from my Stream                   |
 | 02:50      | Deck directly.                                                                                          |
 | 02:51      | Or I can include the same text in a bunch file so that I can run it as part of a setup                  |
 | 02:57      | for when I'm switching.                                                                                 |
 | 02:58      | So for example, before the show today, I use Bunch to launch my record automator setup.                 |
 | 03:04      | And one of the things it did is it opened system preferences to the sound pane.                         |
-| 03:08      | Well, it's kind of tricky to do that in any way, but AppleScript, but with AppleScript,               |
+| 03:08      | Well, it's kind of tricky to do that in any way, but [[AppleScript]], but with [[AppleScript]],               |
 | 03:13      | it was really easy to do and works perfectly.                                                           |
 | 03:16      | And so things like that, being able to write just a few words, it really is just a few                  |
 | 03:23      | words to have it do something that you can't necessarily otherwise do is really useful.                 |
@@ -126,7 +126,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 03:31      | And so the specific problem that you're talking about is getting to a specific system setting           |
 | 03:36      | pane.                                                                                                   |
 | 03:37      | And that is actually not so easily automated.                                                           |
-| 03:42      | I mean, Apple doesn't really have a like, for instance, the new shortcuts from act is                   |
+| 03:42      | I mean, [[Apple]] doesn't really have a like, for instance, the new shortcuts from act is                   |
 | 03:48      | doesn't have commands to open a specific settings panel.                                                |
 | 03:53      | And sometimes there are settings panels that you need to get into.                                      |
 | 03:55      | And sometimes they're two or three clicks deep into the system.                                         |
@@ -143,29 +143,29 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 04:31      | see it because it's right there in front of our face, but equally, you know, just being                 |
 | 04:34      | able to go, hey, I frequently use these two system preferences panes.                                   |
 | 04:40      | I will just, you know, put, I'll just put those in my [[Stream Deck]] or I'll have a little                 |
-| 04:46      | [[Alfred]] workflow that just runs the AppleScript because you can do that with [[Alfred]]                     |
+| 04:46      | [[Alfred]] workflow that just runs the [[AppleScript]] because you can do that with [[Alfred]]                     |
 | 04:51      | as well and opens it for me.                                                                            |
 | 04:54      | And being able to do that, it's easy.                                                                   |
 | 04:55      | Of course, actually, you can just open a specific system preferences pane from [[Alfred]].                  |
 | 04:59      | If I open [[Alfred]] and I type sound, you can jump straight to the sound system preferences                |
-| 05:03      | pane, but for other AppleScripts, that could be useful too.                                            |
+| 05:03      | pane, but for other [[AppleScript\|AppleScripts]], that could be useful too.                                            |
 | 05:06      | But yeah, you know, it is surprisingly difficult to do what you would think was a basic thing           |
 | 05:12      | on micros at times.                                                                                     |
 | 05:13      | Yeah.                                                                                                   |
 | 05:14      | They agreed.                                                                                            |
-| 05:15      | And, and that's where these tiny AppleScripts can come in handy because I think the thing              |
-| 05:21      | that to understand about AppleScript is that it addresses applications directly, you                   |
-| 05:28      | know, and yeah, that's done not only by Apple, you know, Apple in this case, Apple has created          |
-| 05:35      | AppleScript hooks into specific views of the system preferences, but also third party                  |
+| 05:15      | And, and that's where these tiny [[AppleScript\|AppleScripts]] can come in handy because I think the thing              |
+| 05:21      | that to understand about [[AppleScript]] is that it addresses applications directly, you                   |
+| 05:28      | know, and yeah, that's done not only by [[Apple]], you know, [[Apple]] in this case, [[Apple]] has created          |
+| 05:35      | [[AppleScript]] hooks into specific views of the system preferences, but also third party                  |
 | 05:40      | applications.                                                                                           |
-| 05:41      | Like I was telling Rose before we started today, recently wrote an AppleScript where                   |
+| 05:41      | Like I was telling Rose before we started today, recently wrote an [[AppleScript]] where                   |
 | 05:45      | if I'm in OmniFocus and I have a task selected and I hit the number pad one, it defers it               |
 | 05:52      | out one day from today, you know, and it's just a little script that changes the defer                  |
-| 05:56      | date with, but that is addressable via AppleScript and OmniFocus.                                      |
+| 05:56      | date with, but that is addressable via [[AppleScript]] and OmniFocus.                                      |
 | 06:00      | And I don't think there's any other way to do that.                                                     |
-| 06:02      | I mean, there is, there is no shell script or a JavaScript that I'm aware of that can                   |
+| 06:02      | I mean, there is, there is no shell script or a [[JavaScript]] that I'm aware of that can                   |
 | 06:07      | go on OmniFocus and change a parameter of a record.                                                     |
-| 06:11      | And that's why AppleScript is still worthy of, you know, of learning and fiddling with.                |
+| 06:11      | And that's why [[AppleScript]] is still worthy of, you know, of learning and fiddling with.                |
 | 06:16      | But, but Rose did, and this is kind of something I want to focus on here for a minute is she            |
 | 06:22      | put together all these little tiny scripts that we can all use and then you put them                    |
 | 06:28      | up on GitHub.                                                                                           |
@@ -173,7 +173,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 06:30      | So there's a link to this in the show notes, I just put it there myself to make sure that               |
 | 06:34      | it's there.                                                                                             |
 | 06:35      | It's the second link.                                                                                   |
-| 06:36      | The first one is the [[Stream Deck]] plugin to run AppleScript because I know you're probably              |
+| 06:36      | The first one is the [[Stream Deck]] plugin to run [[AppleScript]] because I know you're probably              |
 | 06:38      | going to want a way to use this directly before that.                                                   |
 | 06:41      | But they're just all there in the GitHub repo.                                                          |
 | 06:44      | So there's syspref sound, which in case people can't guess is system preferences sound pane.            |
@@ -186,43 +186,43 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 07:17      | It would be very frustrating if it was popping up all the time in my code editor, but sometimes         |
 | 07:21      | they still need to get that text into [[Drafts]].                                                           |
 | 07:24      | And so I end up copying it, and then I just hit a button on my [[Stream Deck]].                             |
-| 07:29      | And that runs an AppleScript to open it in [[Drafts]].                                                     |
-| 07:34      | And it just creates a new note with that AppleScript with with my clipboard.                           |
+| 07:29      | And that runs an [[AppleScript]] to open it in [[Drafts]].                                                     |
+| 07:34      | And it just creates a new note with that [[AppleScript]] with with my clipboard.                           |
 | 07:39      | And it's pretty easy, I have to say, David.                                                             |
 | 07:41      | I was impressed when I was looking at all this stuff at how easy it was actually to                     |
 | 07:47      | write some of these, because I'm somebody who doesn't really end up writing a lot of                    |
-| 07:51      | AppleScript just because there are alternatives most of the time for what I need.                      |
-| 07:56      | But as people who have tried JXA before, that's JavaScript for Automation on Mac, it was supposed       |
-| 08:02      | to be the successor to AppleScript.                                                                    |
+| 07:51      | [[AppleScript]] just because there are alternatives most of the time for what I need.                      |
+| 07:56      | But as people who have tried [[JXA]] before, that's [[JavaScript]] for Automation on Mac, it was supposed       |
+| 08:02      | to be the successor to [[AppleScript]].                                                                    |
 | 08:04      | It's bye.                                                                                               |
-| 08:05      | Okay, so AppleScript, you can write something in AppleScript.                                         |
+| 08:05      | Okay, so [[AppleScript]], you can write something in [[AppleScript]].                                         |
 | 08:09      | So say for example, I'm just going to say tell application [[Drafts]] to create a new clipboard             |
 | 08:15      | with a new note with a clipboard.                                                                       |
 | 08:17      | It's actually to make new [[Drafts]] with properties, content, the clipboard, but you can do that.          |
-| 08:22      | You can write theoretically the exact same thing, but in JavaScript.                                    |
+| 08:22      | You can write theoretically the exact same thing, but in [[JavaScript]].                                    |
 | 08:27      | And it won't work.                                                                                      |
 | 08:28      | Well, that particular one might work, but there will be things where you've written                     |
-| 08:32      | and you're technically having it run the exact same commands in AppleScript and in JavaScript          |
-| 08:37      | in the JavaScript just doesn't work or bugs out or something.                                           |
-| 08:40      | And that's not JavaScript, the languages fault.                                                         |
-| 08:43      | It's somehow Apple didn't quite hook everything into Apple events quite the same way.                   |
+| 08:32      | and you're technically having it run the exact same commands in [[AppleScript]] and in [[JavaScript]]          |
+| 08:37      | in the [[JavaScript]] just doesn't work or bugs out or something.                                           |
+| 08:40      | And that's not [[JavaScript]], the languages fault.                                                         |
+| 08:43      | It's somehow [[Apple]] didn't quite hook everything into Apple events quite the same way.                   |
 | 08:47      | So things just don't work very well.                                                                    |
-| 08:50      | And it's a shame because I actually, I spent about 50% of my time developing in JavaScript.             |
+| 08:50      | And it's a shame because I actually, I spent about 50% of my time developing in [[JavaScript]].             |
 | 08:57      | And so it'd be really good if I could reuse those skills with Automation.                               |
-| 09:00      | So I actually put my skills in project with JavaScript to use a different way, David,                   |
+| 09:00      | So I actually put my skills in project with [[JavaScript]] to use a different way, David,                   |
 | 09:05      | this week.                                                                                              |
 | 09:06      | And I wrote a couple of bookmarklets to get some data from a web page so that I can easily              |
 | 09:10      | copy it and use it elsewhere.                                                                           |
-| 09:12      | But it is very easy to write a single line of AppleScript and have it do great things.                 |
+| 09:12      | But it is very easy to write a single line of [[AppleScript]] and have it do great things.                 |
 | 09:18      | Yeah.                                                                                                   |
 | 09:19      | I would recommend if you're unfamiliar with [[AppleScript]], if you want to do the proper                  |
-| 09:25      | thing and get a book on it, I think [[Sal Soghoian\|Sal Soghoian's]] AppleScript one, two, three is probably              |
+| 09:25      | thing and get a book on it, I think [[Sal Soghoian\|Sal Soghoian's]] AppleScript 1-2-3 is probably              |
 | 09:31      | the book to start with.                                                                                 |
 | 09:33      | There are other ones out there that are good too, but Sal's a friend and when I read it,                |
 | 09:38      | I hear his voice and I took his course at Macworld and I think, you know, he's the guy                  |
-| 09:43      | who was writing AppleScript for Apple for so long.                                                     |
-| 09:47      | But the, but another good way to learn AppleScript, honestly, is to grab somebody else's               |
-| 09:53      | AppleScript and start fiddling with it.                                                                |
+| 09:43      | who was writing [[AppleScript]] for [[Apple]] for so long.                                                     |
+| 09:47      | But the, but another good way to learn [[AppleScript]], honestly, is to grab somebody else's               |
+| 09:53      | [[AppleScript]] and start fiddling with it.                                                                |
 | 09:56      | And that's basically how I created that OmniFocus script is I started looking at a bunch of             |
 | 10:01      | previously created OmniFocus scripts that other people made and I started twisting the dials            |
 | 10:07      | on it and making changes until I got it working the way I want it.                                      |
@@ -240,9 +240,9 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 10:51      | Or even actually, honestly, just having to use all of, you know, command space, SOU return              |
 | 10:57      | doesn't take very long, but when I know I need to do it as part of something else that's                |
 | 11:03      | already being automated, it feels like it takes a very long time.                                       |
-| 11:07      | When I could just await, I can have Bunch run an AppleScript.                                          |
+| 11:07      | When I could just await, I can have Bunch run an [[AppleScript]].                                          |
 | 11:11      | So I actually have most of these scripts live in my Bunch folder because then Bunch can                 |
-| 11:16      | just run them with you, just type the file name, the name of the AppleScript with dot                  |
+| 11:16      | just run them with you, just type the file name, the name of the [[AppleScript]] with dot                  |
 | 11:20      | SCPT at the end.                                                                                        |
 | 11:22      | And then you put it, sorry, put a star at the beginning of the line, space, name of                     |
 | 11:26      | your file dot SCPT.                                                                                     |
@@ -259,7 +259,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 11:59      | I get the E and the C the wrong way around or there's an extra S in there or a double                   |
 | 12:03      | F or something.                                                                                         |
 | 12:04      | You know what I hate?                                                                                   |
-| 12:05      | I hate that Apple calls it system preferences in the Mac and settings on the iPhone and                 |
+| 12:05      | I hate that [[Apple]] calls it system preferences in the Mac and settings on the iPhone and                 |
 | 12:10      | iPad.                                                                                                   |
 | 12:11      | I mean, it's like, just pick one, you know, it's like, it's the same thing and it's got                 |
 | 12:17      | two different names.                                                                                    |
@@ -275,7 +275,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 12:52      | One of the things Bunch allows you to do is run a script at the time that you're doing                  |
 | 12:57      | it.                                                                                                     |
 | 12:58      | So what Rose was talking about is, you know, she's setting up to do a podcast.                          |
-| 13:03      | She can run this AppleScript that opens up the system settings so to the sound panel                   |
+| 13:03      | She can run this [[AppleScript]] that opens up the system settings so to the sound panel                   |
 | 13:08      | so she can make sure everything is just right for her microphone and headphones to record               |
 | 13:14      | a show.                                                                                                 |
 | 13:15      | Yeah.                                                                                                   |
@@ -299,7 +299,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 14:07      | show again.                                                                                             |
 | 14:08      | So it's, you know, it's a quick two second glance.                                                      |
 | 14:12      | Oh yeah, we're good here.                                                                               |
-| 14:15      | And so yeah, do you want me to read the AppleScript, David?                                            |
+| 14:15      | And so yeah, do you want me to read the [[AppleScript]], David?                                            |
 | 14:17      | I think I'm not going to put people to sleep with this because it's more lines.                         |
 | 14:21      | Yeah, I don't think you're going to put people to sleep because it's a very short story.                |
 | 14:24      | Yeah, it is.                                                                                            |
@@ -340,7 +340,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 15:54      | work because it needs to be awake and alert and ready to receive the following command.                 |
 | 15:58      | Yeah.                                                                                                   |
 | 15:59      | So you, first you tell the application and the next line, you tell it to activate, which                |
-| 16:03      | is making it, in essence, the, the focus of the AppleScript.                                           |
+| 16:03      | is making it, in essence, the, the focus of the [[AppleScript]].                                           |
 | 16:08      | It's like, okay, I'm open, do with me as you will.                                                      |
 | 16:12      | And then the next line is set current pane to pane ID.                                                  |
 | 16:16      | com.apple.preferences.sound and that is in quotes.                                                      |
@@ -361,30 +361,30 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 17:14      | Well, I think what happened is multiple people were implementing this and they didn't stop              |
 | 17:19      | to have a common thing.                                                                                 |
 | 17:22      | I had the same thing.                                                                                   |
-| 17:23      | I was recently scripting [[Apple Mail]] with AppleScript.                                                  |
+| 17:23      | I was recently scripting [[Apple Mail]] with [[AppleScript]].                                                  |
 | 17:30      | And I was trying, what was it that I was doing?                                                         |
 | 17:34      | I was trying to set the box, the mailbox.                                                               |
 | 17:41      | And it was working except for the inbox and after a bunch of trial and error, I discovered              |
 | 17:47      | that if you're addressing inbox, it had to be in all caps, but in the other mailbox,                    |
 | 17:52      | it didn't have to be in all caps.                                                                       |
-| 17:55      | That's why people gripe about AppleScript because it's quirky like that.                               |
+| 17:55      | That's why people gripe about [[AppleScript]] because it's quirky like that.                               |
 | 18:00      | And this is just another example, but I don't want to bury the lead here.                               |
 | 18:05      | This line is the actual one line script that you're running.                                            |
 | 18:10      | Everything else is just set up.                                                                         |
 | 18:11      | You're telling it to look at system preferences, you're telling it to activate, then you tell           |
 | 18:14      | it to go to this pane.                                                                                  |
 | 18:16      | And like Rose said, we're going to have a link in the show notes that has all of these                  |
-| 18:20      | panes as AppleScript expects to see them.                                                              |
+| 18:20      | panes as [[AppleScript]] expects to see them.                                                              |
 | 18:24      | So if you want to go to some other pane, whatever that be, maybe an appearance or whatever,             |
 | 18:32      | we can, all you have to do is change that quotes, whatever's in those quotes to what                    |
-| 18:37      | you find at that web page and you can AppleScript automate opening a specific preference               |
+| 18:37      | you find at that web page and you can [[AppleScript]] automate opening a specific preference               |
 | 18:42      | pane.                                                                                                   |
 | 18:43      | Maybe you're not a podcaster, but you're opening some other pane multiple times a day and you           |
 | 18:48      | want an easy way to get to it.                                                                          |
 | 18:49      | Well, for example, the displays pane, so I have just added this link to the show notes,                 |
 | 18:53      | it's actually from the device management profile.                                                       |
 | 18:55      | So that's people who use stuff like Jamf to manage devices, but you can use all of these                |
-| 19:00      | names in AppleScripts anyway.                                                                          |
+| 19:00      | names in [[AppleScript\|AppleScripts]] anyway.                                                                          |
 | 19:01      | But if for example, you are somebody who's in and out of meetings and therefore you're                  |
 | 19:05      | connecting to projectors and stuff or, you know, large displays, then you might want                    |
 | 19:12      | to be opening the display preferences frequently.                                                       |
@@ -407,13 +407,13 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 20:00      | I don't quite know what that is.                                                                        |
 | 20:02      | I'm tempted to find out, but I'm not going to do it as part of the show.                                |
 | 20:05      | Yeah.                                                                                                   |
-| 20:06      | Well, and that is a great short AppleScript that anybody can take and implement.                       |
+| 20:06      | Well, and that is a great short [[AppleScript]] that anybody can take and implement.                       |
 | 20:13      | So you can go to, oh, I'm sorry, I should be a completionist here.                                      |
 | 20:18      | There's one more line and that line says Intel and that just means you're done.                         |
 | 20:24      | Yeah.                                                                                                   |
 | 20:25      | So the Intel line and the Intel line are left aligned and then the activate and the set current         |
 | 20:29      | pain lines are indented by one tab.                                                                     |
-| 20:32      | Now you don't have to remember to write this when you're writing AppleScript, whether                  |
+| 20:32      | Now you don't have to remember to write this when you're writing [[AppleScript]], whether                  |
 | 20:35      | you use a script editor, that's the native script editor application built into the Mac.                |
 | 20:40      | Or if you're using, there's a great application called script debugger, which has got a beautiful       |
 | 20:44      | little ladybird on the icon.                                                                            |
@@ -479,11 +479,11 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 24:22      | And then there's no new line, it's just too quit at the end.                                            |
 | 24:25      | That's it.                                                                                              |
 | 24:26      | All done.                                                                                               |
-| 24:27      | A whole AppleScript in one line.                                                                       |
+| 24:27      | A whole [[AppleScript]] in one line.                                                                       |
 | 24:29      | Yeah.                                                                                                   |
 | 24:30      | My favourite example of a one liner is just the say command.                                             |
-| 24:34      | If you ever just want to be a goofy person and make your computer talk, open the Apple                  |
-| 24:40      | script editor, or it's now called script editor, and just type say and then put in quotes               |
+| 24:34      | If you ever just want to be a goofy person and make your computer talk, open the [[AppleScript]] editor,                  |
+| 24:40      | or it's now called [[Script Editor]], and just type say and then put in quotes               |
 | 24:46      | whatever you want your computer to say.                                                                 |
 | 24:48      | And occasionally like my computer will have conversations with my kids as I'm sitting                   |
 | 24:52      | on the couch.                                                                                           |
@@ -494,7 +494,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 25:03      | You can do that one in shortcuts as well with the speak text command.                                   |
 | 25:07      | And that's a one action shortcut.                                                                       |
 | 25:09      | If we get some time, we'll go to shortcuts at the end and see what we can do there.                     |
-| 25:13      | But yeah, there's a lot of things that you can do with one line in AppleScript, which                  |
+| 25:13      | But yeah, there's a lot of things that you can do with one line in [[AppleScript]], which                  |
 | 25:18      | I think people might not know, because some of these things are actually very easy to                   |
 | 25:23      | do in shortcuts, but they're not so easy to do on the Mac.                                              |
 | 25:26      | So for example, if you want to open a specific note in notes, well, that's kind of tricky.              |
@@ -502,7 +502,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 25:39      | of your note in there, David, and it works.                                                             |
 | 25:41      | Yeah.                                                                                                   |
 | 25:42      | And it's the note title that you want to get.                                                           |
-| 25:46      | So there's not like a unique identifier for Apple notes.                                                |
+| 25:46      | So there's not like a unique identifier for [[Apple Notes]].                                                |
 | 25:50      | You actually use the note title.                                                                        |
 | 25:52      | Yeah.                                                                                                   |
 | 25:53      | But it works.                                                                                           |
@@ -536,10 +536,10 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 27:51      | on my [[Stream Deck]].                                                                                      |
 | 27:52      | I can run it from potentially multiple bunches, and I can also just, you know, run the script           |
 | 27:57      | file, and file scripts is something we should mention.                                                  |
-| 28:01      | We've sponsored the show before, great application for putting AppleScript in your menu bar            |
+| 28:01      | We've sponsored the show before, great application for putting [[AppleScript]] in your menu bar            |
 | 28:06      | and assigning keyboard shortcuts to it as well, which is great, because all of these                    |
 | 28:11      | scripts I then also have in [[FastScripts]], because, you know, this way if I'm looking                    |
-| 28:16      | for something, oh yeah, I know it's an AppleScript, I just click the thing, I just click               |
+| 28:16      | for something, oh yeah, I know it's an [[AppleScript]], I just click the thing, I just click               |
 | 28:20      | the thing, and then I'm good, it's done.                                                                |
 | 28:23      | So yeah, I have multiple ways of running the same scripts, but I try to have one source                 |
 | 28:27      | of truth.                                                                                               |
@@ -556,7 +556,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 29:06      | easy to update.                                                                                         |
 | 29:07      | Yeah, but I do recommend that, whether you use [[FastScripts]] or keyboard mice, or I think                |
 | 29:12      | those are, I'm sorry, yeah, keyboard mice, or [[FastScripts]], those are two of the best                   |
-| 29:16      | ways to do it, but I recommend having some sort of AppleScript launcher.                               |
+| 29:16      | ways to do it, but I recommend having some sort of [[AppleScript]] launcher.                               |
 | 29:23      | There are other ways to launch these scripts that don't require a third-party app, but                  |
 | 29:27      | I just find having the third-party app makes it so much easier, and then I end up using                 |
 | 29:31      | the scripts more often.                                                                                 |
@@ -570,7 +570,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 30:01      | to solve them as we sit here today.                                                                     |
 | 30:03      | One of the ones that I was bumping into was opening particular mailboxes or moving mail                 |
 | 30:11      | to particular mailboxes.                                                                                |
-| 30:12      | I mean, starting with Catalina, Apple allowed you to remove the Unified Inbox from Apple                |
+| 30:12      | I mean, starting with Catalina, [[Apple]] allowed you to remove the Unified Inbox from Apple                |
 | 30:18      | mail, and you can put multiple boxes under the Favourites tab, and they have built-in                    |
 | 30:25      | keyboard shortcuts.                                                                                     |
 | 30:26      | If you hold down, man, I've got to remember what it is.                                                 |
@@ -585,24 +585,24 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 30:54      | I think it's Control Command.                                                                           |
 | 30:55      | But the problem is, if you accidentally resort that Favourites list, then number five no                 |
 | 31:01      | longer corresponds to the one you thought, and in my case, I have three email accounts                  |
-| 31:06      | I'm running through Apple Mail, and then I've got multiple boxes that I want to address                 |
+| 31:06      | I'm running through [[Apple Mail]], and then I've got multiple boxes that I want to address                 |
 | 31:11      | in each account, and 10 slots is just not enough.                                                       |
 | 31:15      | I run out of numbers, and that's that problem.                                                          |
-| 31:20      | It seems insurmountable, but there's an AppleScript that it's not a one-liner.                         |
+| 31:20      | It seems insurmountable, but there's an [[AppleScript]] that it's not a one-liner.                         |
 | 31:24      | We're not going to get into it today because there's too much to it, but you can write                  |
-| 31:28      | an AppleScript that will move that message to a specific mailbox that you identify in                  |
+| 31:28      | an [[AppleScript]] that will move that message to a specific mailbox that you identify in                  |
 | 31:34      | the script.                                                                                             |
 | 31:35      | So it's number one.                                                                                     |
 | 31:36      | It allows you to address more than 10, and number two, it always works.                                 |
 | 31:41      | If you move the mailboxes in your Favourites list, it doesn't care because that's not what               |
-| 31:45      | it's doing, and that's a feature that Apple really didn't write into AppleScript, but                  |
+| 31:45      | it's doing, and that's a feature that [[Apple]] really didn't write into [[AppleScript]], but                  |
 | 31:50      | you can add as a savvy automator.                                                                       |
-| 31:54      | Yeah, and I think a lot of people think, oh, AppleScript, it's going to be difficult                   |
+| 31:54      | Yeah, and I think a lot of people think, oh, [[AppleScript]], it's going to be difficult                   |
 | 32:00      | and complicated and so on.                                                                              |
 | 32:02      | So the ones that I've got on GitHub, the vast majority of them, you can download them and               |
 | 32:06      | run them as they are.                                                                                   |
 | 32:07      | There are some where you might need to replace part of it.                                              |
-| 32:10      | So for example, the name of the note that you want to open in Apple Notes or the name                   |
+| 32:10      | So for example, the name of the note that you want to open in [[Apple Notes]] or the name                   |
 | 32:13      | of the folder, and those you will be able to spot easily because, first of all, I put                   |
 | 32:17      | a comment at the top of the file so you can see what it is that you need to do.                         |
 | 32:21      | And secondly, it's there inside of square brackets, inside the file, and so you delete                  |
@@ -614,7 +614,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 32:45      | I also use [[Drafts]] and so on.                                                                            |
 | 32:47      | You can use multiple applications.                                                                      |
 | 32:49      | Notes is not as automatable, but I'm working with it with shortcuts and some good old fashioned         |
-| 32:54      | AppleScript.                                                                                           |
+| 32:54      | [[AppleScript]].                                                                                           |
 | 32:55      | So it works for me.                                                                                     |
 | 32:56      | All right.                                                                                              |
 | 32:57      | So you talked about [[Drafts]] at the top of the show, and you just mentioned it again.                     |
@@ -657,20 +657,20 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 34:33      | And it's there.                                                                                         |
 | 34:34      | But I could also, inside of these curly brackets, also pass a flag state if I wanted to be flagged,     |
 | 34:40      | or specific tags if I wanted to have things tagged in a certain way.                                    |
-| 34:44      | So I'll actually link to the [[Drafts]] documentation for AppleScript here, because I think some           |
+| 34:44      | So I'll actually link to the [[Drafts]] documentation for [[AppleScript]] here, because I think some           |
 | 34:52      | people might want to actually specifically add things with certain tags.                                |
 | 34:55      | For example, actually, I should probably do this on my work machine.                                    |
 | 34:59      | I'm not actually adding the tag right now on my work machine.                                           |
 | 35:01      | This just occurred to me, David, and I always keep my work [[Drafts]] in a specific workspace               |
 | 35:06      | with a tag.                                                                                             |
-| 35:07      | So I should modify my own AppleScript there.                                                           |
+| 35:07      | So I should modify my own [[AppleScript]] there.                                                           |
 | 35:10      | Yeah.                                                                                                   |
 | 35:11      | And you can add multiple properties.                                                                    |
 | 35:12      | So like you can put content plus flag status.                                                           |
-| 35:16      | And [[Drafts]] started out as an iPhone and iPad app, and obviously didn't have any AppleScript            |
-| 35:22      | support when Greg brought the application to the Mac, he wrote in AppleScript support.                 |
-| 35:28      | I mean, the app has to support it, but because Greg is Greg, of course, it has great Apple              |
-| 35:34      | script support when it shows up on the Mac.                                                             |
+| 35:16      | And [[Drafts]] started out as an iPhone and iPad app, and obviously didn't have any [[AppleScript]]            |
+| 35:22      | support when Greg brought the application to the Mac, he wrote in [[AppleScript]] support.                 |
+| 35:28      | I mean, the app has to support it, but because Greg is Greg, of course, it has great [[AppleScript]]              |
+| 35:34      | support when it shows up on the Mac.                                                             |
 | 35:37      | But that brings up the subject of dictionaries.                                                         |
 | 35:40      | Can you explain what that is?                                                                           |
 | 35:42      | Yeah.                                                                                                   |
@@ -696,34 +696,34 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 36:40      | And then each tag you need to quote, because, you know, that it's a string.                             |
 | 36:46      | And so for, in order for it to get passed through as a string, not as a variable, then                  |
 | 36:52      | you need to quote that, because otherwise, if you say tags, colon, curly bracket, blue,                 |
-| 37:01      | close curly bracket, it's going to look for something called blue, and AppleScript doesn't              |
+| 37:01      | close curly bracket, it's going to look for something called blue, and [[AppleScript]] doesn't              |
 | 37:05      | know what blue is.                                                                                      |
 | 37:06      | They're going, wait, blue, what's blue?                                                                 |
 | 37:08      | I don't know.                                                                                           |
 | 37:09      | And it'll just go, eh, can't do that.                                                                   |
 | 37:12      | But if you quote it, then it just goes, here is blue, you know, and it doesn't look at                  |
 | 37:16      | what it is too much.                                                                                    |
-| 37:17      | It's kind of, you know, kind of like a postperson.                                                      |
+| 37:17      | It's kind of, you know, kind of like a post-person.                                                      |
 | 37:19      | Okay.                                                                                                   |
 | 37:20      | Here's your letter.                                                                                     |
 | 37:21      | But if you just give them paper without any information on it, then what were they going                |
 | 37:26      | to do with that?                                                                                        |
 | 37:27      | Well, your postman will probably recycle it on your behalf.                                             |
-| 37:29      | But AppleScript doesn't know how to do that.                                                            |
+| 37:29      | But [[AppleScript]] doesn't know how to do that.                                                            |
 | 37:32      | So it's just going to go, I don't know, and crash and not be very helpful.                              |
 | 37:37      | But if you format things correctly and you use a dictionary to say, this is what this                   |
 | 37:42      | means, then it can do everything for you, or at least lots of things.                                   |
 | 37:46      | Yeah.                                                                                                   |
 | 37:47      | The dictionary really is the trick to all this.                                                         |
-| 37:50      | As you start working in AppleScript, you'll see AppleScript's other people wrote in an                  |
+| 37:50      | As you start working in [[AppleScript]], you'll see [[AppleScript\|AppleScripts]] other people wrote in an                  |
 | 37:53      | app you may be trying to automate.                                                                      |
-| 37:55      | For me, quite often it's OmniFocus and Apple Mail and the productivity apps I use.                      |
+| 37:55      | For me, quite often it's OmniFocus and [[Apple Mail]] and the productivity apps I use.                      |
 | 37:59      | And I can get so far with other people's scripts, but when you combine that with the                    |
 | 38:03      | dictionary that shows you the exact syntax they need, suddenly ideas start opening up                   |
 | 38:09      | to you.                                                                                                 |
 | 38:10      | Yeah.                                                                                                   |
-| 38:11      | I want to also, before we, we finish AppleScript, I just want to take a minute to talk about            |
-| 38:15      | scripting tools for AppleScript.                                                                        |
+| 38:11      | I want to also, before we, we finish [[AppleScript]], I just want to take a minute to talk about            |
+| 38:15      | scripting tools for [[AppleScript]].                                                                        |
 | 38:17      | Now, there is a tool on the Mac that's native.                                                          |
 | 38:22      | When you open your Mac, it's already there.                                                             |
 | 38:23      | It's called [[Script Editor]].                                                                              |
@@ -737,14 +737,14 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 38:51      | And [[Script Debugger]] was made, as I understand it, by one of the team members originally.                |
 | 38:56      | I mean, it's been around since before Mac OS X.                                                         |
 | 38:59      | I mean, it's been around forever.                                                                       |
-| 39:01      | And it is kind of the power tool for AppleScript and all the people that I bump into that               |
-| 39:08      | really write a lot of AppleScript, just get [[Script Debugger]] because the dictionaries are                |
-| 39:13      | more thorough and it just has more tools than Apple was willing to put into the free app.               |
-| 39:20      | Which app do you use, ROSE, to write your AppleScripts?                                                 |
+| 39:01      | And it is kind of the power tool for [[AppleScript]] and all the people that I bump into that               |
+| 39:08      | really write a lot of [[AppleScript]], just get [[Script Debugger]] because the dictionaries are                |
+| 39:13      | more thorough and it just has more tools than [[Apple]] was willing to put into the free app.               |
+| 39:20      | Which app do you use, ROSE, to write your [[AppleScript\|AppleScripts]]?                                                 |
 | 39:24      | So it varies, actually, David.                                                                          |
 | 39:25      | If I'm doing something on my work machine, then it's usually, I'm just trying to do like                |
 | 39:29      | a very quick edit to something and, you know, quick and dirty, just get it fixed and get                |
-| 39:34      | back to work because they're not paying me to sit there and write AppleScripts and to                   |
+| 39:34      | back to work because they're not paying me to sit there and write [[AppleScript\|AppleScripts]] and to                   |
 | 39:37      | optimise my workflow to the end's degree, you know, they're paying me to do my job.                     |
 | 39:43      | So I try not to spend too much time doing that.                                                         |
 | 39:45      | So I use [[Script Editor]] on that Mac, but on my personal machines, it's [[Script Debugger]]                   |
@@ -763,12 +763,12 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 40:51      | website.                                                                                                |
 | 40:52      | Okay.                                                                                                   |
 | 40:53      | There's a single script at the end on the [[Drafts]] website showing you how you can create                 |
-| 40:55      | a new draft with AppleScript.                                                                          |
+| 40:55      | a new draft with [[AppleScript]].                                                                          |
 | 40:57      | Okay.                                                                                                   |
 | 40:58      | We'll link to it in the show notes.                                                                     |
 | 40:59      | So I started with that.                                                                                 |
-| 41:01      | And then I went and I Googled AppleScript clipboard and found out, hey, this is how                    |
-| 41:05      | you get the clipboard in AppleScript.                                                                  |
+| 41:01      | And then I went and I Googled [[AppleScript]] clipboard and found out, hey, this is how                    |
+| 41:05      | you get the clipboard in [[AppleScript]].                                                                  |
 | 41:08      | And then I changed it because I don't, you know, I wanted this to be a one line script.                 |
 | 41:12      | Okay.                                                                                                   |
 | 41:13      | I didn't need three lines because if I get rid of this two here in the script, so tell                  |
@@ -776,7 +776,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 41:22      | Now there's no particular reason why I wanted this to be a one line script versus a three               |
 | 41:26      | line script.                                                                                            |
 | 41:27      | At the end of the day, it doesn't make a big difference.                                                |
-| 41:29      | But if you're only getting your AppleScript to do a singular thing, then it's very easy                |
+| 41:29      | But if you're only getting your [[AppleScript]] to do a singular thing, then it's very easy                |
 | 41:36      | to say tell application [[Drafts]] to make it, make new draft with properties, et cetera.                   |
 | 41:41      | Instead of tell application [[Drafts]], make new draft with properties and tell.                            |
 | 41:47      | It's just a little bit of extra work.                                                                   |
@@ -802,7 +802,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 42:59      | So if you feel like your script is taking a long time to run and you glance up and you                  |
 | 43:02      | see it was only a second, you know, that's in your head.                                                |
 | 43:05      | Or if you managed to write what I did the other day, which was a hilariously unoptimised                |
-| 43:10      | AppleScript, it can take four and a half seconds to execute.                                           |
+| 43:10      | [[AppleScript]], it can take four and a half seconds to execute.                                           |
 | 43:14      | You might think, Rose, four and a half seconds is four and a half seconds.                              |
 | 43:17      | Don't worry about it.                                                                                   |
 | 43:18      | It was going to be for a [[Stream Deck]] plugin.                                                            |
@@ -814,7 +814,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 43:33      | But yeah, when you see the time that it takes to run some of these scripts and you think,               |
 | 43:38      | oh yeah, this is actually really nice because you click it and it just does it and the information      |
 | 43:43      | is there.                                                                                               |
-| 43:44      | So I should say as a note, because people will probably ask, the AppleScript to create                 |
+| 43:44      | So I should say as a note, because people will probably ask, the [[AppleScript]] to create                 |
 | 43:52      | a new draft with the click board does not open the note, the draft.                                     |
 | 43:57      | It just sticks it there.                                                                                |
 | 44:01      | It's a thing in the background because a lot of the time I just need to save this information           |
@@ -827,10 +827,10 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 44:32      | that.                                                                                                   |
 | 44:33      | So this runs entirely in the background.                                                                |
 | 44:34      | And one last bit on [[Script Debugger]], they have a light mode, which in my opinion is                     |
-| 44:39      | still better than the built-in script editor that Apple gives you.                                      |
+| 44:39      | still better than the built-in script editor that [[Apple]] gives you.                                      |
 | 44:42      | So if you don't want to pay for it, even the light mode is free and they have a 20-day                  |
 | 44:47      | trial with all the features.                                                                            |
-| 44:49      | So you got no excuse if you want to try this AppleScript stuff out, go to late night software,         |
+| 44:49      | So you got no excuse if you want to try this [[AppleScript]] stuff out, go to late night software,         |
 | 44:54      | we'll put a link in the show notes, give [[Script Debugger]] a try.                                         |
 | 44:58      | I think it can really help the process because I find that I write better scripts with Script           |
 | 45:05      | Debugger because the dictionaries are better and the debugging is better and for someone                |
@@ -841,8 +841,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 45:25      | I'm looking at Calendar and there is an option for a new event, I think there is somewhere.             |
 | 45:32      | I'll go with get your offer now.                                                                        |
 | 45:34      | So I'm actually doing this in the dictionary right as I talk.                                           |
-| 45:37      | I can click Paste Tell at the top and it will paste this information into the Apple                     |
-| 45:45      | script and it pastes tell application calendar as well and the end tell as well.                        |
+| 45:37      | I can click Paste Tell at the top and it will paste this information into the [[AppleScript]]                     |
+| 45:45      | and it pastes tell application calendar as well and the end tell as well.                        |
 | 45:51      | So it pastes the whole thing for me so that I know that this is a complete little script.               |
 | 45:56      | It doesn't necessarily mean that that script will run exactly as it is.                                 |
 | 45:59      | You might well need to get some other information and put some other puzzle pieces together,            |
@@ -900,7 +900,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 49:01      | And I believe they can sell you can buy directly from their website too.                                |
 | 49:04      | But you know that little thing on iPhone and iPad where when you select text, it pops up                |
 | 49:10      | a little menu like you want to copy this or paste it and it's a very limited set of things              |
-| 49:16      | you can do with the text on iPhone and iPad, you know, Apple controls that.                             |
+| 49:16      | you can do with the text on iPhone and iPad, you know, [[Apple]] controls that.                             |
 | 49:22      | But this PopClip app was an effort to add that feature to the Mac.                                      |
 | 49:26      | So when you select text on your Mac, excuse me, it opens up like a little selection right               |
 | 49:35      | over the selected text where you can do things like you can copy and paste and do things                |
@@ -913,7 +913,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 50:08      | I use all the time is all caps.                                                                         |
 | 50:11      | Like sometimes I'm doing things I want to turn into all caps and I can just select it                   |
 | 50:16      | and then hit the PopClip.                                                                               |
-| 50:17      | And I could write an AppleScript to do this, I could write a keyboard, maestro, a script.              |
+| 50:17      | And I could write an [[AppleScript]] to do this, I could write a keyboard, maestro, a script.              |
 | 50:21      | There's like a bunch of ways to scratch that itch, but I find the PopClip one is one of                 |
 | 50:26      | the easiest.                                                                                            |
 | 50:27      | You select the text, you click one button, it's done.                                                   |
@@ -974,7 +974,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 53:53      | some quotes and stuff at the end.                                                                       |
 | 53:55      | When I'm searching for an ID, I created that extension using PopMaker.                                  |
 | 54:00      | So I just, you know, I paste what I needed to paste, I double click it or I've got a                    |
-| 54:07      | keyboard shortcut that I set up using AppleScript to activate PopMaker so I can activate it for         |
+| 54:07      | keyboard shortcut that I set up using [[AppleScript]] to activate PopMaker so I can activate it for         |
 | 54:13      | my keyboard so I can paste it and activate PopClip and then I can just click on the thing               |
 | 54:19      | and it turns what is an ID into a query looking for that ID for me.                                     |
 | 54:25      | It doesn't take me long to type by hand but it's really nice to just have it do that automatically.     |
@@ -1002,7 +1002,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 55:56      | That's why PopClip never clicked before for me because I had to activate it from the mouse              |
 | 56:01      | and I'm much more accurate and faster at selecting text with the keyboard the vast majority of          |
 | 56:07      | the time.                                                                                               |
-| 56:08      | But you can control PopClip with AppleScript and then you can set that up to be triggered               |
+| 56:08      | But you can control PopClip with [[AppleScript]] and then you can set that up to be triggered               |
 | 56:14      | by a keyboard shortcut from an automated service, [[FastScripts]], [[Alfred]], [[LaunchBar]], or even              |
 | 56:20      | [[Quicksilver]].                                                                                            |
 | 56:21      | Yeah.                                                                                                   |
@@ -1073,13 +1073,13 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:00:04   | And have a look and see how can I do something with this.                                               |
 | 01:00:07   | And so I've got, I think, I mean, there's only really probably one of the extensions                    |
 | 01:00:12   | that I put on my GitHub page that will probably be of interest to people.                               |
-| 01:00:16   | And that is the Amazon Smile link, because I frequently end up copying links from Amazon                |
+| 01:00:16   | And that is the [[Amazon]] Smile link, because I frequently end up copying links from [[Amazon]]                |
 | 01:00:22   | to people.                                                                                              |
-| 01:00:23   | But if I'm sharing links with my friends, I don't want to be using Amazon affiliate links,              |
+| 01:00:23   | But if I'm sharing links with my friends, I don't want to be using [[Amazon]] affiliate links,              |
 | 01:00:26   | and I definitely don't want them being tracked by all of that, you know, referral rubbish               |
-| 01:00:30   | at the end of an Amazon URL.                                                                            |
-| 01:00:33   | So I have an Amazon Smile PopClip extension, where you can select an Amazon URL, you click              |
-| 01:00:40   | on this little Amazon Smile icon that appears in PopClip, and it will just replace the "www." with "smile".   |
+| 01:00:30   | at the end of an [[Amazon]] URL.                                                                            |
+| 01:00:33   | So I have an [[Amazon]] Smile PopClip extension, where you can select an [[Amazon]] URL, you click              |
+| 01:00:40   | on this little [[Amazon]] Smile icon that appears in PopClip, and it will just replace the "www." with "smile".   |
 | 01:00:49   | And then it also just gets rid of all that tracking gunk at the end.                                    |
 | 01:00:52   | So you end up with a relatively short URL that works, and it donates money to charity,                  |
 | 01:00:56   | which, you know, always feels like a great thing.                                                       |
@@ -1244,24 +1244,24 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:09:53   | Okay, so now you've got a purple iMac, purple iPad mini, any other purple gear in your life             |
 | 01:09:59   | first?                                                                                                  |
 | 01:10:00   | Is that it?                                                                                             |
-| 01:10:01   | I got the new Apple Watch straps, the braided woven loops in English lavender and dark cherry,          |
+| 01:10:01   | I got the new [[Apple Watch]] straps, the braided woven loops in English lavender and dark cherry,          |
 | 01:10:11   | because they're purple too.                                                                             |
-| 01:10:13   | I will hopefully be getting a new Apple Watch.                                                          |
+| 01:10:13   | I will hopefully be getting a new [[Apple Watch]].                                                          |
 | 01:10:14   | This one, unfortunately, had a little bit of an accident a while ago and it's got some                  |
 | 01:10:18   | pretty horrible scratches on the screen.                                                                |
 | 01:10:20   | So I will be getting a new one and again, switching to a cellular one because I'm hoping                |
 | 01:10:24   | to be leaving the house on a more regular basis and maybe leaving my iPhone behind                      |
 | 01:10:28   | at times but wanting to still be able to communicate with people.                                       |
-| 01:10:32   | So yeah, Apple Watch is in my future, but not yet because Apple haven't announced the                   |
+| 01:10:32   | So yeah, [[Apple Watch]] is in my future, but not yet because [[Apple]] haven't announced the                   |
 | 01:10:37   | release date.                                                                                           |
 | 01:10:38   | You know, I really like those woven bands.                                                              |
-| 01:10:40   | That's never really come up on any podcast, but I've never bought an Apple one.                         |
-| 01:10:45   | I get them off Amazon and they're like $10 for one on Amazon that I don't know if they're               |
+| 01:10:40   | That's never really come up on any podcast, but I've never bought an [[Apple]] one.                         |
+| 01:10:45   | I get them off [[Amazon]] and they're like $10 for one on [[Amazon]] that I don't know if they're               |
 | 01:10:51   | as good, but they seem like they're pretty good and there's a lot of colours available.                  |
 | 01:10:57   | But I really like just, you know, slipping it over my hand and not having a buckle scratch              |
 | 01:11:02   | my MacBook and it's those bands I think don't get enough credit.                                        |
 | 01:11:08   | No, I've got the Pride one as well.                                                                     |
-| 01:11:10   | That was the first one of the woven ones that I got from Apple.                                         |
+| 01:11:10   | That was the first one of the woven ones that I got from [[Apple]].                                         |
 | 01:11:13   | And what I like about it is I frequently end up checking my wrist to make sure I'm wearing              |
 | 01:11:16   | my watch because it's so comfortable and it doesn't feel like I'm wearing it.                           |
 | 01:11:20   | And that to me is a sign that I've A, got the size just right and B, it's just incredibly               |
@@ -1272,11 +1272,11 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:11:42   | was purple because the iPhone's not purple, David.                                                      |
 | 01:11:44   | I'm sad.                                                                                                |
 | 01:11:45   | Okay.                                                                                                   |
-| 01:11:46   | So with the iPad mini, are you using the Apple pencil?                                                  |
+| 01:11:46   | So with the iPad mini, are you using the [[Apple Pencil]]?                                                  |
 | 01:11:49   | Yes.                                                                                                    |
-| 01:11:50   | So I already had the Apple pencil for my 12.9 inch iPad pro.                                            |
-| 01:11:55   | I have not bought a second Apple pencil.                                                                |
-| 01:11:57   | I do not need two Apple pencils.                                                                        |
+| 01:11:50   | So I already had the [[Apple Pencil]] for my 12.9 inch iPad pro.                                            |
+| 01:11:55   | I have not bought a second [[Apple Pencil]].                                                                |
+| 01:11:57   | I do not need two [[Apple Pencil\|Apple Pencils]].                                                                        |
 | 01:11:59   | So I just have the same one.                                                                            |
 | 01:12:00   | And because you just pair it by sticking it to the side, it's really easy.                              |
 | 01:12:05   | If I want to use it on the bigger one, I have hot swap between them a couple of times.                  |
@@ -1287,7 +1287,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:12:18   | I like it because it's usually, you know, I'll go and I'll be doing tech support at                     |
 | 01:12:23   | my grandmother's or something and she's trying to tell me all this information.                         |
 | 01:12:27   | And I don't want to take a 12.9 inch iPad pro with a keyboard with me or even 11 inch.                  |
-| 01:12:31   | That was a little too big for that, but taking the iPad mini in the Apple pencil allows me              |
+| 01:12:31   | That was a little too big for that, but taking the iPad mini in the [[Apple Pencil]] allows me              |
 | 01:12:36   | to just scribble this information down.                                                                 |
 | 01:12:38   | And then I can look at it and go, okay, so she's giving me all this information.                        |
 | 01:12:42   | The two things that are actually relevant here are this.                                                |
@@ -1308,7 +1308,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:13:24   | So, you know, this means that I can just be sort of scribbling and, you know, as long                   |
 | 01:13:29   | as my letters are approximately correct, it will do that.                                               |
 | 01:13:32   | Now if I am going to be taking notes from something, say my grandmother said or something,              |
-| 01:13:38   | then I will usually switch to maybe Apple notes, but often notability because I like                    |
+| 01:13:38   | then I will usually switch to maybe [[Apple Notes]], but often notability because I like                    |
 | 01:13:44   | the dotted background on that and I like the ever scrolling pages of it.                                |
 | 01:13:49   | For some reason, notes has just never really clicked in my head as a place to handwrite                 |
 | 01:13:53   | notes.                                                                                                  |
@@ -1319,21 +1319,21 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:14:12   | But I went through a similar process, recently, you know, we've released iOS 15 and it's                |
 | 01:14:18   | got this new feature where if you swipe up from the upper right corner with your pencil,                |
 | 01:14:22   | it opens a new Apple note that you can start drawing on.                                                |
-| 01:14:27   | But I just find, number one, my writing in Apple notes is not very legible, that there's                |
+| 01:14:27   | But I just find, number one, my writing in [[Apple Notes]] is not very legible, that there's                |
 | 01:14:35   | no dot grid or any lines, it's just a blank page and my brain has trouble like organising               |
 | 01:14:41   | that into straight lines.                                                                               |
 | 01:14:43   | And number two, it's not customisable enough in terms of size, it's like a sticky pad,                  |
 | 01:14:49   | it's not like the full page.                                                                            |
 | 01:14:52   | And I know that there's another thing you can do where you tap it with a pencil and                     |
-| 01:14:55   | it opens a new one as well in Apple notes.                                                              |
-| 01:14:57   | But just the bottom line is Apple notes, to me, could get better at Apple pencil input.                 |
+| 01:14:55   | it opens a new one as well in [[Apple Notes]].                                                              |
+| 01:14:57   | But just the bottom line is [[Apple Notes]], to me, could get better at [[Apple Pencil]] input.                 |
 | 01:15:05   | And I really like their tool, their pencil tool, you know, where you can change the                     |
 | 01:15:08   | brush and the colour and everything, but just like things like dot grid or good notes has                |
 | 01:15:14   | this great feature where it has like a large section at the bottom that you write in and                |
 | 01:15:19   | then it puts the text and the, you know, the appropriate size into the document.                        |
 | 01:15:25   | And I really like that because I can write kind of big, but then it's more legible when                 |
 | 01:15:29   | I'm done and it's straight lines.                                                                       |
-| 01:15:32   | And Apple notes has nothing like that.                                                                  |
+| 01:15:32   | And [[Apple Notes]] has nothing like that.                                                                  |
 | 01:15:34   | Yeah, yeah, no, I find particularly the lack of dot grid gets to me because notes has lines             |
 | 01:15:41   | and it has a grid, but I like a dot grid a lot of the time.                                             |
 | 01:15:44   | I will frequently write with lines, but if I want diagrams and stuff, I want a dot grid                 |
@@ -1341,7 +1341,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:15:52   | doing it, I guess.                                                                                      |
 | 01:15:53   | Yeah, me too.                                                                                           |
 | 01:15:54   | And I'm a very much a visual thinker, so I do make diagrams and things when I'm taking                  |
-| 01:15:59   | notes and like you, I've kind of given up on Apple notes, so my go to is good notes.                    |
+| 01:15:59   | notes and like you, I've kind of given up on [[Apple Notes]], so my go to is good notes.                    |
 | 01:16:06   | And I've got it in my doc.                                                                              |
 | 01:16:08   | And if I need to use the pencil to get something in, I find that it takes a few extra seconds           |
 | 01:16:14   | to get into good notes, but the notes I take are so much better that it's worth a few extra             |
@@ -1357,7 +1357,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:16:45   | would allow me to run a shortcut because I just have it open notability, that would                     |
 | 01:16:49   | be fine.                                                                                                |
 | 01:16:50   | But no, they can't do that yet, maybe.                                                                  |
-| 01:16:54   | Maybe next year, Apple, if you're listening, please let us turn that into an accessibility              |
+| 01:16:54   | Maybe next year, [[Apple]], if you're listening, please let us turn that into an accessibility              |
 | 01:16:58   | shortcut of some kind, and I can run a shortcut with it.                                                |
 | 01:17:02   | Just give us a little more power.                                                                       |
 | 01:17:03   | Let us have a doc grid and determine how big the note is by default.                                    |
@@ -1527,16 +1527,16 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:25:40   | And I think the wallet's good.                                                                          |
 | 01:25:41   | I mean, I've never, I don't worry about losing it.                                                      |
 | 01:25:45   | I got the new wallet in Dark Cherry because I've, because I do have a couple of cards                   |
-| 01:25:52   | and I didn't like the fact that there was no find my, in the other Apple wallet.                        |
-| 01:25:58   | So I did upgrade my Apple wallet.                                                                       |
+| 01:25:52   | and I didn't like the fact that there was no find my, in the other [[Apple]] wallet.                        |
+| 01:25:58   | So I did upgrade my [[Apple Wallet]].                                                                       |
 | 01:26:00   | Sounds ridiculous to have done that bonus.                                                              |
 | 01:26:03   | It's also purple now.                                                                                   |
 | 01:26:04   | So that's a definite win.                                                                               |
 | 01:26:06   | And yeah, I like the fact that Find My can say when it was lost, detached from my iPhone                |
 | 01:26:10   | or where it was when it was detached.                                                                   |
 | 01:26:13   | And that works pretty well for me.                                                                      |
-| 01:26:14   | I use Apple Pay most of the time, but it's nice.                                                        |
-| 01:26:17   | I just leave the phone in my bag and use Apple Pay on my watch actually most of the time.               |
+| 01:26:14   | I use [[Apple Pay]] most of the time, but it's nice.                                                        |
+| 01:26:17   | I just leave the phone in my bag and use [[Apple Pay]] on my watch actually most of the time.               |
 | 01:26:24   | But then, you know, if I do need a card for some reason or I need my ID to collect parcel               |
 | 01:26:28   | or, you know, if I'm buying something and they want to check my ID, then I've got my                    |
 | 01:26:33   | ID right there and I don't need to, you know, carry more stuff with me than is necessary,               |
@@ -1548,7 +1548,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:26:47   | Apparently they're coming over here, but I will believe that when I see it because we                   |
 | 01:26:49   | frequently get promised these things and it takes forever for them to show up and then                  |
 | 01:26:53   | they're not as good as was advertised.                                                                  |
-| 01:26:55   | But we do have at the very least COVID passes in our Apple wallet through the NHS application,          |
+| 01:26:55   | But we do have at the very least COVID passes in our [[Apple Wallet]] through the NHS application,          |
 | 01:27:01   | which I am a great fan of, though you do have to update it on a monthly basis and download              |
 | 01:27:05   | a new one.                                                                                              |
 | 01:27:06   | Yeah.                                                                                                   |
@@ -1639,7 +1639,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:33:06   | Well, I can tell you that when I did that morning of test shooting at Disneyland, I wiped out           |
 | 01:33:11   | the battery in that thing in six hours because I was walking around with the camera running             |
 | 01:33:16   | like the whole time, but that would kill the battery in any phone, even the Pro Max.                    |
-| 01:33:23   | So it's all good, but I really think that Apple is on the right track.                                  |
+| 01:33:23   | So it's all good, but I really think that [[Apple]] is on the right track.                                  |
 | 01:33:28   | I mean, they just make good iPhones.                                                                    |
 | 01:33:30   | I mean, every year they make good iPhones.                                                              |
 | 01:33:31   | It's really not a surprise.                                                                             |
@@ -1674,7 +1674,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:35:10   | already good enough, I think, I mean, I'd be shocked if adding a gimbal and having one                  |
 | 01:35:15   | more thing to carry is worth the trouble, but who knows, we'll see.                                     |
 | 01:35:20   | All right.                                                                                              |
-| 01:35:21   | Well, either way, it sounds like we're both pretty happy, and Apple got some of our money,              |
+| 01:35:21   | Well, either way, it sounds like we're both pretty happy, and [[Apple]] got some of our money,              |
 | 01:35:26   | so they should be happy too.                                                                            |
 | 01:35:28   | Got some automation today covered, we've got some new gear.                                             |
 | 01:35:31   | Well, I sure am looking forward to M1X.                                                                 |

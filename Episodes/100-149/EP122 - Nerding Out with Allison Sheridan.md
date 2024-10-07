@@ -84,7 +84,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:08      | Well, the website is called podfeet.com, and my identity is Podfeet, but the main show                  |
 | 01:12      | is called the Nosillacast, and that's a standalone show that I do mostly solo, but every other          |
 | 01:18      | week, Bart Buschotts is on to talk about security, but it's a technology geek podcast with an             |
-| 01:23      | ever-so-slight Apple bias, and then the other shows I have is Programming by Stealth with               |
+| 01:23      | ever-so-slight [[Apple]] bias, and then the other shows I have is Programming by Stealth with               |
 | 01:28      | Bart, and we'll get a little bit into that, but we also did a series called Taming the                  |
 | 01:33      | Terminal, which is a real tight 41-episode series to teach you how to use the terminal,                 |
 | 01:39      | and then I chitchat across the pond light, which is where I talk to people in tech that                 |
@@ -102,7 +102,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 02:45      | it shouldn't work, but he writes these super detailed tutorial show notes. You can read                 |
 | 02:49      | the show notes, you can listen to him, you listen to me in the front row going, I don't                 |
 | 02:53      | understand, can you back up and explain that again? And we've been going over four years                |
-| 02:58      | and worked our way through HTML, CSS, JavaScript, we're doing some shell scripting right now.           |
+| 02:58      | and worked our way through HTML, CSS, [[JavaScript]], we're doing some shell scripting right now.           |
 | 03:05      | We've learned how to wrap our apps up for deployment. We learned all about [[Git]]. It's                    |
 | 03:10      | been a lot of fun.                                                                                      |
 | 03:13      | And Allison does excellent show notes. And if you listen to the automators, I think that                |
@@ -415,7 +415,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 27:13      | Don't torture me. So some experience for me on that find a image button. I like, I use it on            |
 | 27:19      | [[Grammarly]] because I use the [[Grammarly]] website and there's no way to open a new document except          |
 | 27:24      | click an image. And I've had the same image and I've been using it like three years and it works        |
-| 27:30      | every time. No problems. But then I was using it just recently because Apple, for whatever reason,      |
+| 27:30      | every time. No problems. But then I was using it just recently because [[Apple]], for whatever reason,      |
 | 27:37      | does not let you automate tab groups on the Mac with shortcuts. You know, they added tab groups,        |
 | 27:42      | but there's no command in shortcuts to say open up the automators recording tab group. It just,         |
 | 27:47      | I don't know how that one got through, but I'm assuming it's going to get added at some point.          |
@@ -432,7 +432,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 28:38      | So there is another way with [[Grammarly]]. But what that involves is basically being a little bit          |
 | 28:44      | of a web developer or at least nerdy enough to like inspect the web page and then find out like          |
 | 28:50      | which either unique identifier is behind that button or like a special like path to get to              |
-| 28:55      | that button so that then you can click at it with JavaScript. And that's something that I can do        |
+| 28:55      | that button so that then you can click at it with [[JavaScript]]. And that's something that I can do        |
 | 29:01      | because my day job is being a web developer. It's not something that I would necessarily expect         |
 | 29:05      | somebody who doesn't spend all day messing around with websites and breaking them to necessarily        |
 | 29:10      | want to do, let alone know where to start with. You know, there are plenty of guides online.            |
@@ -486,8 +486,8 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 33:43      | Okay. As a challenge to you and to the audience, I want you to open up a PNG that has the Alpha         |
 | 33:51      | channel checked. I open it in preview and uncheck that checkbox and get it to work 20 times in a        |
 | 34:00      | row, like across two days. So what I would do with that, what I would do with the way I'd solve         |
-| 34:06      | that problem is I would find the AppleScript dictionary for preview and see if I could just            |
-| 34:10      | script it. Well, I did one better than that. I run image magic from Homebrew and I just did             |
+| 34:06      | that problem is I would find the [[AppleScript]] dictionary for preview and see if I could just            |
+| 34:10      | script it. Well, I did one better than that. I run image magic from [[Homebrew]] and I just did             |
 | 34:19      | a one line script and I shoved that inside [[Keyboard Maestro]] so I can hit a button and have it           |
 | 34:25      | remove the Alpha channel for me. Yeah. I mean, that's way better than UI scripting,                     |
 | 34:29      | like trying to have it find a button and push it is very, it's creaky. Because things can't go wrong.   |
@@ -495,34 +495,34 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 34:41      | automation that isn't quite working right, like obviously doing the basic steps of how I actually       |
 | 34:47      | got a screenshot of the right image and so on is worth checking. But sometimes that is a signal         |
 | 34:51      | that this is not necessarily the right way to automate this. But with some applications,                |
-| 34:55      | there is just no way to automate it because they don't come with an AppleScript dictionary. There      |
+| 34:55      | there is just no way to automate it because they don't come with an [[AppleScript]] dictionary. There      |
 | 35:00      | are no shortcut sections. There is no API. There is nothing that you can do other than try and          |
 | 35:06      | find this image on the page, please and click it. Yeah. I'm also trying not to learn a lot about        |
 | 35:12      | [[AppleScript]] just because I'm afraid it's going to be taken away from me. So I'm leaning away           |
 | 35:18      | from spending my energy and time on that and doing more towards shell scripting.                        |
-| 35:23      | I think that's probably a good idea in general, but I don't think AppleScript is going to be           |
-| 35:28      | taken away from you. I think the problem with AppleScript, it only works on your Mac. And if           |
-| 35:32      | you start to want to run stuff on your iPad and your iPhone, AppleScript doesn't help you. But         |
-| 35:36      | I think the way I understand it, AppleScript is so embedded into the Mac OS that it would take         |
+| 35:23      | I think that's probably a good idea in general, but I don't think [[AppleScript]] is going to be           |
+| 35:28      | taken away from you. I think the problem with [[AppleScript]], it only works on your Mac. And if           |
+| 35:32      | you start to want to run stuff on your iPad and your iPhone, [[AppleScript]] doesn't help you. But         |
+| 35:36      | I think the way I understand it, [[AppleScript]] is so embedded into the Mac OS that it would take         |
 | 35:44      | time and effort to remove it. And they're not going to spend money to remove it. And also,              |
-| 35:51      | they have customers that buy a lot of Macs that do workflows that still use AppleScript. Apple         |
-| 35:56      | uses AppleScripts to run their stuff. So I think it's not going to go away. And honestly, a lot        |
+| 35:51      | they have customers that buy a lot of Macs that do workflows that still use [[AppleScript]]. [[Apple]]         |
+| 35:56      | uses [[AppleScript\|AppleScripts]] to run their stuff. So I think it's not going to go away. And honestly, a lot        |
 | 36:01      | of times it's the quickest, fastest solution. This week, because my [[Stream Deck]] I'm putting it on,      |
 | 36:09      | I've been trying to [[BetterTouchTool]], I want to turn volume up and down in [[Apple Music]]                 |
-| 36:14      | without changing the volume of my Mac. And I just opened AppleScript. I looked at the music            |
-| 36:19      | dictionary, the command for volume up is real simple. I wrote like a three line AppleScript            |
+| 36:14      | without changing the volume of my Mac. And I just opened [[AppleScript]]. I looked at the music            |
+| 36:19      | dictionary, the command for volume up is real simple. I wrote like a three line [[AppleScript]]            |
 | 36:24      | that turns the volume up and down. And I attached it to buttons on my [[Stream Deck]]. And maybe I          |
 | 36:30      | could have found a scripting solution that did that. But it's just so easy. You should have a           |
-| 36:36      | little working knowledge of AppleScript, I guess is what I'm saying. Yeah, it's one of those things    |
-| 36:40      | where often if you Google how to solve this thing on the Mac, there'll be a little bit of Apple         |
-| 36:43      | script somewhere, which worst case scenario, like goes through like system events to like click         |
-| 36:48      | at specific things. But yeah, I will absolutely go plagiarise an AppleScript. I'm not above that       |
+| 36:36      | little working knowledge of [[AppleScript]], I guess is what I'm saying. Yeah, it's one of those things    |
+| 36:40      | where often if you Google how to solve this thing on the Mac, there'll be a little bit of [[AppleScript]]         |
+| 36:43      | somewhere, which worst case scenario, like goes through like system events to like click         |
+| 36:48      | at specific things. But yeah, I will absolutely go plagiarise an [[AppleScript]]. I'm not above that       |
 | 36:55      | going out and saying, okay, somebody's already written it. I'm going to splat it in there and           |
 | 36:59      | see if it does what I wanted to do. But I'm not going to invest as much time as I am. And like          |
-| 37:03      | I said, in learning AppleScripts, yeah, learning shell scripts, I meant.                               |
+| 37:03      | I said, in learning [[AppleScript\|AppleScripts]], yeah, learning shell scripts, I meant.                               |
 | 37:08      | Yeah. And what I would add to that is also in addition to being able to go pull a script                |
 | 37:12      | off the internet is I would with your level of knowledge, you should just learn a basic                 |
-| 37:17      | understanding of how dictionaries work in AppleScript. I spent a bunch of time on that, David.         |
+| 37:17      | understanding of how dictionaries work in [[AppleScript]]. I spent a bunch of time on that, David.         |
 | 37:21      | And I just life's too short. I'm learning other things. Okay. All right. Well, speaking of other        |
 | 37:27      | things, you mentioned Alison that you're using image magic through brew to fix the alpha channel        |
 | 37:33      | problem with the image. There is another solution to this problem, which I'd like to recommend for      |
@@ -684,7 +684,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 51:46      | focus modes. And if the button is in gray, like the button with a microphone is gray and I press        |
 | 51:53      | that it's going to turn on podcasting focus mode till the event ends. But if I press the microphone     |
 | 51:58      | with the orange background, it's just going to turn on podcasting focus mode and it's not going to      |
-| 52:03      | turn off. And all of that is way faster than the way Apple wants you to do it. So I feel like           |
+| 52:03      | turn off. And all of that is way faster than the way [[Apple]] wants you to do it. So I feel like           |
 | 52:09      | maybe you should explore using some of the smaller actions as kind of an entry point.                   |
 | 52:15      | Well, like I said, little tiny things do work. Like do not disturb. Let me see. What exactly            |
 | 52:24      | does it say? I'm looking forward. I've got just like 20 things I've tried to do, maybe four of          |
@@ -706,7 +706,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 53:58      | nerdy apps like that. But it could also be from some random person on Reddit who doesn't actually       |
 | 54:04      | know how shortcuts work. [[Matthew Cassinelli]], maybe? I was just going to say that. Yeah, he's got a lot  |
 | 54:09      | of good recommendations and some things you can download. He's been a guest on the show and he          |
-| 54:15      | worked on the shortcuts team and he worked for Apple. I trust anything he would post. I think           |
+| 54:15      | worked on the shortcuts team and he worked for [[Apple]]. I trust anything he would post. I think           |
 | 54:20      | he's a good one. Yeah. One thing I would say is sometimes shortcuts may not be the most intuitive       |
 | 54:26      | for folks. And there was really good example of this on the shortcut subreddit the other day,           |
 | 54:32      | where somebody was using a home automation and they were using the stop and output action.              |
@@ -728,7 +728,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 56:07      | what I use on iOS and that's it. But I don't do a lot of work other than just writing, for example,     |
 | 56:13      | and bear. So I don't know what to automate over there. Well, sounds like you don't need it, but         |
 | 56:19      | the... I mean, all of those home kit things that you were talking about, including in                   |
-| 56:23      | My Keyboard Master and so on, you could chain those together as a series of actions in a shortcut.      |
+| 56:23      | My [[Keyboard Maestro}] and so on, you could chain those together as a series of actions in a shortcut.      |
 | 56:28      | And that could be useful. There are also home kit shortcuts. And I was just saying just now             |
 | 56:34      | that home kit shortcuts don't have the ability to send a notification because it runs on a              |
 | 56:38      | HomePod. It doesn't know who owns the shortcut. But what it could do is, for example, at sunset        |
@@ -752,7 +752,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 58:13      | phone, but it starts playing music. And it also starts running various automations like it opens        |
 | 58:18      | the blind in my bedroom so that I've got some natural light coming in to help me wake up because        |
 | 58:22      | my alarm's going off. I should probably be getting up and so on. And it also sets another alarm one     |
-| 58:29      | minute into the future because I wear an Apple watch while I sleep. And of course that vibrates         |
+| 58:29      | minute into the future because I wear an [[Apple Watch]] while I sleep. And of course that vibrates         |
 | 58:33      | on your wrist. It doesn't give you an audible alarm. And despite blinds going up, lights flashing at    |
 | 58:39      | me and so on, I've had days where I can still just kind of go back to sleep, which is not good.         |
 | 58:44      | So I found like setting another alarm like one minute into the future of like, no,                      |
@@ -831,9 +831,9 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:05:20   | you would just assume, and sometimes the firmware updates show up in the home app and sometimes         |
 | 01:05:24   | they don't. I do think that there is, is definite room for improvement, not only with the user          |
 | 01:05:30   | interface of the home app, but just the way that it talks to secondary apps. And I think the problem    |
-| 01:05:35   | is, you know, Apple doesn't control those third party apps, you know, and they have to try and          |
+| 01:05:35   | is, you know, [[Apple]] doesn't control those third party apps, you know, and they have to try and          |
 | 01:05:42   | make it work as best as they can. But some companies are going to put a bunch of time and effort into   |
-| 01:05:46   | making good apps. And some are not, you know, but either way, Apple wants their stuff to be able        |
+| 01:05:46   | making good apps. And some are not, you know, but either way, [[Apple]] wants their stuff to be able        |
 | 01:05:53   | to work with [[HomeKit]]. And I don't envy them. I think it's a tough job. Yeah, it is definitely one       |
 | 01:05:59   | of those things where this is pretty much like the problem with [[HomeKit]] and home automation in many     |
 | 01:06:07   | ways. There are too many ways to solve the problem, because you have the Hub app and the Hub. And       |
@@ -845,8 +845,8 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:06:42   | is in charge of everything. Oh, see, I'm a, I used to be, I didn't like the idea of, of hubs,           |
 | 01:06:49   | but man, when you do a network change, a hub is a beautiful thing because everything just moves         |
 | 01:06:54   | with one device. Oh yeah, not having to individually connect things to Wi-Fi. Yeah, no, it's just,      |
-| 01:06:58   | my case, like, because Hue is using the Zigbee protocol, everything's just connected directly to        |
-| 01:07:03   | the Zigbee stick in the [[Home Assistant]] hub. And then [[Home Assistant]] gets a new IP address,              |
+| 01:06:58   | my case, like, because Hue is using the [[Zigbee]] protocol, everything's just connected directly to        |
+| 01:07:03   | the [[Zigbee]] stick in the [[Home Assistant]] hub. And then [[Home Assistant]] gets a new IP address,              |
 | 01:07:07   | and that's it, done. And that works pretty well for me. Hey, at the risk of turning this into           |
 | 01:07:12   | tech support for Alison, you said there's a way to see scenes that aren't favourites in, in the          |
 | 01:07:18   | Home app. In the Home app, yeah. So in general, in the Home app, things that are not favourites          |

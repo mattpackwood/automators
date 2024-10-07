@@ -336,7 +336,7 @@ Stephen Millard, one of our favourite automators, returns to the show with ideas
 | 17:54      | Yeah, another [[Alfred]] plugin you have that I use daily is [[Bypass]].                                        |
 | 18:00      | It's one that can run shortcuts and we want to run shortcuts from [[Alfred]].                               |
 | 18:05      | Why not?                                                                                                |
-| 18:06      | It's so much faster than trying to do it the official ways through Apple.                               |
+| 18:06      | It's so much faster than trying to do it the official ways through [[Apple]].                               |
 | 18:12      | Tell us a little bit about that, how it works and what led you to build it.                             |
 | 18:16      | Sure, yeah.                                                                                             |
 | 18:17      | So, with a lot of the names of my workflows, I kind of base it on something about the app               |
@@ -367,7 +367,7 @@ Stephen Millard, one of our favourite automators, returns to the show with ideas
 | 20:33      | I'm curious how many shortcuts you have because I had the same problem with [[Spotlight]] just              |
 | 20:39      | refusing to index my shortcuts and I think that over about 1500 it definitely goes a                    |
 | 20:45      | bit wonky and I'm wondering if there's a lower number from there that maybe we can actually             |
-| 20:50      | feed back to the Apple folks that hey if you have more than this number of shortcuts, [[Spotlight]]         |
+| 20:50      | feed back to the [[Apple]] folks that hey if you have more than this number of shortcuts, [[Spotlight]]         |
 | 20:54      | just goes yeah.                                                                                         |
 | 20:55      | At that point I probably had about 800-900, I think I'm down to about 500-600 at the                    |
 | 21:03      | moment.                                                                                                 |
@@ -689,7 +689,7 @@ Stephen Millard, one of our favourite automators, returns to the show with ideas
 | 44:40      | So it runs this session and it triggers the [[Whisper]] AI installation to go through and process           |
 | 44:48      | the podcast file.                                                                                       |
 | 44:49      | Because my machine is so old, it usually takes about five or six hours.                                 |
-| 44:53      | I'm sure a lovely nice new Apple Silicon one would probably do it in minutes instead.                   |
+| 44:53      | I'm sure a lovely nice new [[Apple Silicon]] one would probably do it in minutes instead.                   |
 | 44:58      | But it's not an urgent thing, I can just offload it onto that machine and just leave it to              |
 | 45:03      | run.                                                                                                    |
 | 45:04      | And that produces a set of files and one of those is having a VTT file, which is a transcript           |

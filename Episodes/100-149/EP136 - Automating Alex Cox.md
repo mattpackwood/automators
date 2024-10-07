@@ -23,7 +23,7 @@ title: "136: Automating Alex Cox"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-Alex Cox returns to the Automators to share a few new automation tricks and get answers for some more involving NFC Tags, Keyboard Maestro, and Automation Possibilities with Apple's Vision Pro.
+Alex Cox returns to the Automators to share a few new automation tricks and get answers for some more involving NFC Tags, Keyboard Maestro, and Automation Possibilities with [[Apple|Apple's]] Vision Pro.
 
 # Hosts
 - [[David Sparks]]
@@ -145,7 +145,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 07:50      | have peed somewhere or put something somewhere that they shouldn't know that could be causing the       |
 | 07:54      | issue. But yeah, blame the pets. Even if you've got a budgie or something, they are creative            |
 | 08:00      | creatures. You can blame a budgie. I'm sure of it. Listen, if it can fart, then it can break            |
-| 08:06      | an automation. If you're going to blame it. Everything buts can fart, apparently.                       |
+| 08:06      | an automation. If you're going to blame it. Everything but sloths can fart, apparently.                       |
 | 08:11      | Oh, wow. This is a discussion that came up at work the other week. Don't ask me how stand up went       |
 | 08:15      | out of the rails, but it did. This is what happens when the boss is out. Yeah, if it's not a sloth      |
 | 08:22      | that can fart. I just had a little insight though. I was thinking, leak sensors actually could be       |
@@ -156,8 +156,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 08:57      | we call it. The dog at least knows that if there's going to be an accident, he goes over there.         |
 | 09:04      | There's a little motion sensor that works with [[HomeKit]]. Then he's like, my brother's like,              |
 | 09:13      | oh, all right, I guess I got to go home and deal with that, but it prepares.                            |
-| 09:18      | You could go a level deeper. You could get in a car leak sensor. They're about 15 bucks,                |
-| 09:22      | but you'd have to also get in a car hub, by the way. If he got that, when it gets wet,                  |
+| 09:18      | You could go a level deeper. You could get an [[Aqara Water Leak Sensor\|Aqara leak sensor]]. They're about 15 bucks,                |
+| 09:22      | but you'd have to also get an [[Aqara Hub]], by the way. If he got that, when it gets wet,                  |
 | 09:29      | it would, he would get a, but the funny thing is the way it integrates with [[HomeKit]] is it goes off      |
 | 09:34      | like there is actually a leak, like an alarm goes off. Everybody in the house hears it.                 |
 | 09:39      | It comes through as a critical alert. It sings out on the HomePods. I'm using the word sing             |
@@ -168,17 +168,17 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 10:04      | going to the toilet. So yeah. It's like red alert, red alert, rover, let it, let it flow.               |
 | 10:11      | I love that. That's something you may want to look into. Something which you mentioned                  |
 | 10:17      | along those lines. And at some point, when we get to the next feedback show, I want to go into          |
-| 10:21      | this deeper rows, but Aqara has done something cool because there's all these features with the         |
-| 10:26      | Aqara hardware and Rose and I always have this asterisk. Well, Aqara cameras do this or Aqara           |
+| 10:21      | this deeper rows, but [[Aqara]] has done something cool because there's all these features with the         |
+| 10:26      | [[Aqara]] hardware and Rose and I always have this asterisk. Well, [[Aqara]] cameras do this or [[Aqara]]           |
 | 10:30      | sensors do that, but they don't talk to [[HomeKit]]. Well, now they've got a way to share workflows         |
-| 10:35      | from the Aqara app to [[HomeKit]]. Have you seen those rows? It's a nice feature they've added              |
+| 10:35      | from the [[Aqara]] app to [[HomeKit]]. Have you seen those rows? It's a nice feature they've added              |
 | 10:40      | recently with a software update. I don't want to get into it today because I need to do a little        |
-| 10:45      | more prep on it. But if you've got Aqara sensors and you want to get some of those additional           |
+| 10:45      | more prep on it. But if you've got [[Aqara]] sensors and you want to get some of those additional           |
 | 10:50      | features into [[HomeKit]], it's actually easier now than it used to be. So yeah, I've seen that and         |
-| 10:55      | I've also seen the SwitchBot appears to be doing something very similar as well with their              |
+| 10:55      | I've also seen the [[SwitchBot]] appears to be doing something very similar as well with their              |
 | 10:58      | [[Matter]]-based hub. So that's definitely something that we should look into because yeah, I've had       |
 | 11:03      | some questions come in about that recently. Oh, that's so cool. I look forward to that show.            |
-| 11:08      | Alex, you got to find Aqara in your life if you're doing a home automation. It's just so great.         |
+| 11:08      | Alex, you got to find [[Aqara]] in your life if you're doing a home automation. It's just so great.         |
 | 11:13      | But you had said earlier, I'm not going to let you get away with this. You said that you had            |
 | 11:17      | grown as an automator. Tell us a little bit about that. What are the automations and platforms that     |
 | 11:24      | you have found yourself gravitating to in the last two years? I have finally been using a               |
@@ -306,9 +306,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 27:40      | specifically? All right. So setups, you know, the idea of setting your screen up to do your edits       |
 | 27:45      | or whatever it is work project you want to do. You have done the first building block and that's        |
 | 27:51      | setting windows because I feel like for most people, that's the biggest part, like you sit down         |
-| 27:56      | at your computer and [[Safari]] is open to Amazon, but you need to make, you know, write the report,        |
+| 27:56      | at your computer and [[Safari]] is open to [[Amazon]], but you need to make, you know, write the report,        |
 | 28:02      | edit the podcast, whatever it is you do to pay for your shoes. What if you could hit a magical          |
-| 28:06      | button and Amazon went away and the editing software came up and the windows were just the              |
+| 28:06      | button and [[Amazon]] went away and the editing software came up and the windows were just the              |
 | 28:11      | way you like them. So you can feel like you're in the space to do the work.                             |
 | 28:17      | Keyboard maestro is fine for that. And but the thing is, it's additive as you build that,               |
 | 28:23      | now you've got it. So you can duplicate that and say, well, now what about when I want to do email      |
@@ -319,8 +319,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 28:49      | MacSparky Labs challenged me to do them in shortcuts. And honestly, I can do it in shortcuts           |
 | 28:54      | just as easily because shortcuts has got powerful enough. And the window management piece of it         |
 | 29:00      | was always the tricky part. The shortcuts window management can't hold a candle to                      |
-| 29:04      | to [[Keyboard Maestro]]. But what shortcuts can do is run an AppleScript. And there's an app called        |
-| 29:09      | [[Moom]], M-O-O-M. I'm going to give you a labs video where I explain it. [[Moom]] has AppleScript support.    |
+| 29:04      | to [[Keyboard Maestro]]. But what shortcuts can do is run an [[AppleScript]]. And there's an app called        |
+| 29:09      | [[Moom]], M-O-O-M. I'm going to give you a labs video where I explain it. [[Moom]] has [[AppleScript]] support.    |
 | 29:16      | So you can set up the windows exactly as you want with [[Moom]]. And then you can run a one step            |
 | 29:21      | shortcut that says, run my [[Moom]] view for editing podcasts. And they'll say, Oh, great, Alex, no         |
 | 29:29      | problem. Here's logic. Here's your text edit. Here's your notes. Here's your whatever. And              |
@@ -337,7 +337,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 30:28      | at their peak. And they all talk to each other. So whichever one you want to fight you on that,         |
 | 30:35      | David, I don't think we are living in a golden age of Mac automation. That was in, you know, the sort   |
 | 30:42      | of, uh, well, I was going to say that was the cells to go in days, but he's still just killing it       |
-| 30:49      | with especially what he's doing with voiceover. But we are in a golden age of Apple automation,         |
+| 30:49      | with especially what he's doing with voiceover. But we are in a golden age of [[Apple]] automation,         |
 | 30:57      | because so much can finally talk to each other in a way that adds to that contextual computing.         |
 | 31:08      | So for the weirdos like me who want to run everything on iOS, it works now. Like I can                  |
 | 31:15      | trigger keyboard, I guess I can trigger [[Keyboard Maestro]] things from my phone. If I were to a           |
@@ -353,9 +353,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 32:27      | things where it worked. And if it didn't, I could text Brett and say, what am I doing wrong?            |
 | 32:33      | And you'd be like, here, here's the right script that you need to run it.                               |
 | 32:38      | And in fairness, that thing I just described, you could do the entire thing in bunch,                   |
-| 32:42      | because bunch can make shortcuts and it can run AppleScript. So you really get to choose your          |
+| 32:42      | because bunch can make shortcuts and it can run [[AppleScript]]. So you really get to choose your          |
 | 32:48      | weapon. Yeah. And the other thing is, I'm pretty certain the bunch docs are where David found the       |
-| 32:52      | AppleScript for [[Moom]] as well to run [[Moom]] to set the screen. The other thing I want to mention,         |
+| 32:52      | [[AppleScript]] for [[Moom]] as well to run [[Moom]] to set the screen. The other thing I want to mention,         |
 | 32:59      | by the way, about [[Moom]] is what you do with [[Moom]] is you click on the [[Moom]] menu bar icon,                 |
 | 33:06      | and then you just click on save window layout snapshot. So like you put your windows where              |
 | 33:10      | you want them, and then you're just like, just save it. Like, just save what I've got. Like,            |
@@ -381,7 +381,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 35:03      | for [[Moom]]. And guess what? There's an app story that's clean up your windows. And what they              |
 | 35:10      | suggest is, is [[Moom]] and a couple, a couple other tools. And basically, they teach you how to do         |
 | 35:17      | this in, just in the basically, it's not an ad, but, you know, little app, yeah, featurette,            |
-| 35:26      | which is another reason that I am excited about, like Apple just showing off what's essentially         |
+| 35:26      | which is another reason that I am excited about, like [[Apple]] just showing off what's essentially         |
 | 35:33      | an automation. And it's even more accessible. That's wild. I am so stoked about that. Well,             |
 | 35:42      | I'm very excited.                                                                                       |
 | 35:43      | It's another one they mentioned there and better snap tool, which is built into [[BetterTouchTool]].      |
@@ -394,7 +394,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 36:17      | from what I remember that link, even if you don't have a Mac, should open on iOS as well,               |
 | 36:21      | so that you can have a look at that. I have always been curious about the, like, what would happen      |
 | 36:31      | with window management on the Mac when, let's say, a theoretical headset would come out. I'm like,      |
-| 36:41      | okay, Apple's going to care a lot about window management eventually. And obviously, stage              |
+| 36:41      | okay, [[Apple|Apple's]] going to care a lot about window management eventually. And obviously, stage              |
 | 36:49      | manager is what that was. But I'm so glad to see they are embracing the use of third-party apps         |
 | 36:57      | still. And that also makes me excited for the possibilities for visionOS eventually,                    |
 | 37:04      | which I know is later down on the document. Y'all are so organised with this.                           |
@@ -409,7 +409,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 37:46      | and, you know, but I just find it really hard to not recommend [[Moom]] because                             |
 | 37:53      | the combination, it has so many window management features built in. And then                           |
 | 37:57      | the ease of you saving a set up windows like Rose was talking about, and then the ease of               |
-| 38:02      | triggering it via AppleScript. It's just such a killer combination. I just don't know how you          |
+| 38:02      | triggering it via [[AppleScript]]. It's just such a killer combination. I just don't know how you          |
 | 38:07      | not use that. And it, Rose is right. Like setting it up in [[Keyboard Maestro]], as much as I'm a           |
 | 38:13      | fan of [[Keyboard Maestro]], it is a thing where you have to set a percentage or you have to set a pixel    |
 | 38:18      | location. But what if you change your screen display or whatever? And [[Moom]] just kind of solves          |
@@ -481,7 +481,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 44:03      | Okay, vitamins for the Americans. I'm sorry.                                                            |
 | 44:06      | Well, back when I was in university, actually, I was going to say the biggest struggle I have had       |
 | 44:15      | with NFC tags is finding some that don't break. I guess the best luck I've had is with the              |
-| 44:27      | SwitchBot stickers. Those are on Amazon. They're a bit more expensive than the stickers that you        |
+| 44:27      | [[SwitchBot Tag\|SwitchBot stickers]]. Those are on [[Amazon]]. They're a bit more expensive than the stickers that you        |
 | 44:35      | can buy for $3. There's like 80 of these little stickers, but what I use, I guess they're almost        |
 | 44:47      | like cardstock a little bit. They used to be very colourful when I had each of my contexts               |
 | 45:01      | or focus modes. They are based around a certain colour. Let's just say my spouse thought they            |
@@ -489,7 +489,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 45:19      | I don't really need them labeled. Every morning when I am in my bathroom, I just slap my phone          |
 | 45:29      | on the mirror and that triggers my wake up NFC. I know that you can run an automatic shortcut to        |
 | 45:41      | automate something directly in shortcuts to turn on your lights, turn on the music, and                 |
-| 45:47      | do the alarm, all of that stuff. My problem was I would talk to the Apple lady and then fall back       |
+| 45:47      | do the alarm, all of that stuff. My problem was I would talk to the [[Apple]] lady and then fall back       |
 | 45:59      | to sleep even though all of the lights would be on and music was on. That's why I have a sticker.       |
 | 46:06      | Like after my alarm goes off, I need to tap that phone to the NFC tag to it turns all of the            |
 | 46:17      | lights from this garish wake up colour. I do all of this with hue lights and shortcuts with home         |
@@ -627,7 +627,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:01:56   | not that being a giant thing. This isn't do by Friday, this is automated, sorry.                        |
 | 01:02:04   | But at the same time, time tracking is a really valuable tool and being able to automate that           |
 | 01:02:10   | is something that's really, really useful. So I've been automating a bunch of my time tracking.         |
-| 01:02:14   | You know, if I'm taking a ballet class or an acrobatics class, guess what? I run my Apple Watch         |
+| 01:02:14   | You know, if I'm taking a ballet class or an acrobatics class, guess what? I run my [[Apple Watch]]         |
 | 01:02:20   | workout tracking and that starts a timer timer. And then when it stops, it stops the timer timer.       |
 | 01:02:26   | Really simple. I get into my car and start driving. It starts a driving timer. I get out of my car      |
 | 01:02:31   | and therefore I've stopped driving. It stops my driving timer and it allows me to just know where       |
@@ -648,7 +648,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:03:51   | watch film, all the lights dim, I hit pause, the lights come back up. So if I need to go to the         |
 | 01:03:55   | bathroom, like I hit pause, I can immediately see where I'm going, I come back, I hit play,             |
 | 01:03:59   | and it just dims back down into like a cinema mode, stuff like that. It's all automation,               |
-| 01:04:04   | and it's just so much fun. Alex, you mentioned Apple's Vision OS and Vision Pro Glasses earlier         |
+| 01:04:04   | and it's just so much fun. Alex, you mentioned [[Apple|Apple's]] Vision OS and Vision Pro Glasses earlier         |
 | 01:04:13   | in the context of context, like how I did that. So I too am thinking like you, every time I talk        |
 | 01:04:23   | to Alex, I wish you lived closer because you and I, our nerd alignment is so close. I just feel         |
 | 01:04:29   | like we would have so much fun if you lived closer. But the, but either way, what are you               |
@@ -681,7 +681,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:08:17   | Like I want reminders of what I should or could be doing without having to, you know, do something      |
 | 01:08:29   | that, I don't know, it's difficult to explain because so much of it is really,                          |
 | 01:08:34   | it's so different for everyone, their needs, but also their abilities. My biggest, I think,             |
-| 01:08:46   | gripe with all of Apple's OS is how much the accessibility settings are buried within settings          |
+| 01:08:46   | gripe with all of [[Apple|Apple's]] OS is how much the accessibility settings are buried within settings          |
 | 01:08:57   | because, you know, all of us nerds can go off about the UI of every sort of system preferences          |
 | 01:09:07   | UI. It's just a mess everywhere. I know it's difficult. But accessibility,                              |
 | 01:09:17   | it's definitely changing. But for the longest time, it's not that it was stigmatised,                   |
@@ -706,7 +706,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:11:53   | people have heard this a million times, but I kind of, I'm really excited to see what Vision OS         |
 | 01:12:00   | does with accessibility and not even just like site-wise, but whatever, like just different             |
 | 01:12:09   | ways to use your hands. I was very much like, there's not going to be a controller for the              |
-| 01:12:17   | Vision Pro, like there's no way, no, Apple has been literal hands-on since the iPhone, like,            |
+| 01:12:17   | Vision Pro, like there's no way, no, [[Apple]] has been literal hands-on since the iPhone, like,            |
 | 01:12:24   | no, future is, you know, air pokies. And I think being able to blink and move all of my windows,        |
 | 01:12:36   | like, that's what I'm thinking about, I guess, like blinking and completely changing context,           |
 | 01:12:44   | not blinking, but, you know, like blinking, blink three times, and then suddenly you're                 |
@@ -715,8 +715,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:13:11   | but even more so when I'm thinking and talking about Vision OS, since it's so new,                      |
 | 01:13:16   | there's so much imagination to be had. I feel like there's so much more to the interface                |
 | 01:13:23   | that we haven't seen that, like, when the iPhone was new, people were new to a touch screen,            |
-| 01:13:29   | and Apple went really slowly for the first several years, getting you to do more gestures and more      |
-| 01:13:34   | complex things. And I feel like there is a whole library of gestures inside Apple that they're          |
+| 01:13:29   | and [[Apple]] went really slowly for the first several years, getting you to do more gestures and more      |
+| 01:13:34   | complex things. And I feel like there is a whole library of gestures inside [[Apple]] that they're          |
 | 01:13:39   | not going to expose to, like, version three of this product. And some of those will be in accessibility |
 | 01:13:44   | and some of them just won't be visible yet or available, but they'll come at some point.                |
 | 01:13:50   | The other thing that you touch on, Alex, that's interesting to me is the idea of context and            |
@@ -725,11 +725,11 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:14:07   | you know, at Machu Picchu, you know, and the device gets good enough that I feel like that              |
 | 01:14:13   | that's there. And then before, you know, my brain, as soon as I load that up, my brain's like, oh,      |
 | 01:14:17   | writing mode, get to work writing and don't think about, you know, Ahsoka series or whatever.           |
-| 01:14:22   | And so I feel like there's something to that. But the interesting piece of it to me is Apple            |
+| 01:14:22   | And so I feel like there's something to that. But the interesting piece of it to me is [[Apple]]            |
 | 01:14:27   | was so focused on making this an augmented reality product. They really, you know, the                  |
 | 01:14:33   | high is that the windows show up in your living room and that's such a focus of them. But I feel        |
 | 01:14:37   | like for context stuff, sometimes virtual reality could be better if it's done with these high-quality  |
-| 01:14:44   | screens. And Apple's not talking about that, because I feel like they don't really want to              |
+| 01:14:44   | screens. And [[Apple|Apple's]] not talking about that, because I feel like they don't really want to              |
 | 01:14:47   | talk about virtual reality. I feel like they did talk about it. And for anybody who hasn't listened     |
 | 01:14:52   | to that [[Cortex]] episode, all about Vision OS and the new Vision Pro that's going to come out,            |
 | 01:15:00   | because Mike got to actually try one at [[WWDC]]. If you haven't listened to that, folks,                   |
@@ -765,20 +765,20 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:17:46   | I lived in this tiny, tiny apartment in Tokyo. You know, they're famous for these little apartments.    |
 | 01:17:51   | He said, I would have killed for this back then just because I always felt like I was like in this      |
 | 01:17:56   | box. If I could put that on and feel like I was in someplace more spacious, it would have felt          |
-| 01:18:01   | really good once in a while. And I feel like Apple hasn't told that story enough. I get what you        |
+| 01:18:01   | really good once in a while. And I feel like [[Apple]] hasn't told that story enough. I get what you        |
 | 01:18:07   | mean. And Mike did a great job. I actually was in the room when Mike came back from that demo           |
 | 01:18:12   | and he was all glazy-eyed. I think the way he said it to me is if they would have taken my credit       |
 | 01:18:18   | card, I would have bought it right there. And I feel like there's just a lot to this thing for          |
-| 01:18:23   | automators and people looking for contextual computing type applications that Apple hasn't              |
+| 01:18:23   | automators and people looking for contextual computing type applications that [[Apple]] hasn't              |
 | 01:18:30   | really told that story yet, but I think it's there. I think we can say that we know it's there          |
 | 01:18:40   | because so many people from the VR press, like I'm a little bit in the VR world and                     |
 | 01:18:49   | so many people who like the VR press being there made me be like, okay, yeah, this is good to go.       |
-| 01:18:57   | But there's just the way Apple tells stories, obviously, is always really specific. And right           |
+| 01:18:57   | But there's just the way [[Apple]] tells stories, obviously, is always really specific. And right           |
 | 01:19:05   | now, there are two terms that I think make people think certain things, which is artificial             |
-| 01:19:14   | intelligence and virtual reality. And Apple really did kind of talk all about artificial                |
+| 01:19:14   | intelligence and virtual reality. And [[Apple]] really did kind of talk all about artificial                |
 | 01:19:22   | intelligence and virtual reality in the [[WWDC]] keynote. They just didn't use those specifically           |
-| 01:19:30   | because they want the Apple words and not the pre-written narrative that society has made.              |
-| 01:19:40   | And I like that. Apple's afraid of the word [[artificial intelligence]]. They don't want it to,             |
+| 01:19:30   | because they want the [[Apple]] words and not the pre-written narrative that society has made.              |
+| 01:19:40   | And I like that. [[Apple|Apple's]] afraid of the word [[artificial intelligence]]. They don't want it to,             |
 | 01:19:45   | they don't want to get on that train, but they're doing it. Yeah. I had a bet that they would not,      |
 | 01:19:53   | I was my developer friend, I'm like, I bet you a dollar and 50 cents. I don't know why I was 50         |
 | 01:20:01   | cents, but Tim Cook, no one on that stage is going to say virtual reality or artificial                 |
@@ -796,7 +796,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:21:54   | Pro, or they have, I mean, we know this thing can talk to iPhones and stuff already. Like, we,          |
 | 01:22:01   | all of these chips can talk to one another, like the air tags, all of this stuff, all of the world      |
 | 01:22:09   | of spatial computing is so ripe for automation that I want the David Sparks, Rosemary Orchard's,        |
-| 01:22:19   | the Timery Joes of the world. David Smith, I am so, so excited for not just Apple's story,              |
+| 01:22:19   | the Timery Joes of the world. David Smith, I am so, so excited for not just [[Apple|Apple's]] story,              |
 | 01:22:27   | but of the developers, I know and trust their story of what spatial computing can be and our own.       |
 | 01:22:36   | Like, there's still those, sorry, by our own, I mean, people, people like me who aren't necessarily     |
 | 01:22:44   | developers, but build and use shortcuts, how there was those rumors that, like, oh, there's going to    |
@@ -861,8 +861,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:27:59   | bringing that into Shortcuts, like, visionOS is kind of the place to do it because it's                 |
 | 01:28:05   | this whole cool new thing. And at the moment, I can write a script and run a script                     |
 | 01:28:10   | on another machine from Shortcuts. I say another machine, like, macOS Shortcuts has support for         |
-| 01:28:18   | command line scripts, AppleScripts, et cetera. But iOS just doesn't have that. The closest it's        |
-| 01:28:23   | got is being able to run JavaScript on a page, on, like, a web page, which is a bookmarklet,            |
+| 01:28:18   | command line scripts, [[AppleScript\|AppleScripts]], et cetera. But iOS just doesn't have that. The closest it's        |
+| 01:28:23   | got is being able to run [[JavaScript]] on a page, on, like, a web page, which is a bookmarklet,            |
 | 01:28:29   | essentially. But it would be really cool if you could integrate [[Swift Playgrounds]] stuff                 |
 | 01:28:34   | with Shortcuts and then you could just automate all the things. Because [[Swift]] is a really powerful      |
 | 01:28:38   | language. So I feel like you can pretty much do anything when you got those two. So maybe               |
@@ -872,7 +872,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:29:11   | to be people who just have a different set of skills and a different way of thinking that               |
 | 01:29:17   | will be building things that we've literally never seen and that other software developers may          |
 | 01:29:24   | literally never thought of before, just because all of our brains are different. And I really hope      |
-| 01:29:32   | that the Apple gets a, I mean, I know the SDK is there, but I really hope that cheaper hardware         |
+| 01:29:32   | that the [[Apple]] gets a, I mean, I know the SDK is there, but I really hope that cheaper hardware         |
 | 01:29:42   | comes out soon, just so the accessibility of building things is easier. Because I know that             |
 | 01:29:50   | I've played a little bit with the SDK, but it's just not the same. And from using a VR headset,         |
 | 01:30:05   | and I've tried to use the SDK as kind of like, all right, just pretend you're in this environment.      |
@@ -887,7 +887,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:31:06   | in a nice little house. I'm happy. People are generally clean. But still, I would like the              |
 | 01:31:11   | ability to escape once in a while and feel like it's going to be possible. I don't think that's         |
 | 01:31:17   | a bad for the paltry sum of $3,500 to begin with, but yeah. In my case, plus a flight and hotel         |
-| 01:31:26   | stay in the U.S. And I have prescription lenses. Yeah. But I really think that Apple is looking         |
+| 01:31:26   | stay in the U.S. And I have prescription lenses. Yeah. But I really think that [[Apple]] is looking         |
 | 01:31:34   | at this as a minimum viable technology. Like it has to have resolution and it has to have screen        |
 | 01:31:41   | refresh and it has to have all this stuff to a certain minimum level in order for it to work.           |
 | 01:31:46   | And that will get cheaper. And I think they call it vision pro because eventually there's               |
@@ -907,7 +907,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:33:17   | you know, allow something to be a bit blurry, that's a longer distance away and not give you            |
 | 01:33:22   | like that, that massively draining headache that you can get. But then, yeah, the screens in the        |
 | 01:33:27   | vision pro should make it way easier because, you know, you look at stuff and it's like reality.        |
-| 01:33:36   | Which is, you know, I think this is why Apple is so focused on augmented reality, because               |
+| 01:33:36   | Which is, you know, I think this is why [[Apple]] is so focused on augmented reality, because               |
 | 01:33:40   | like you can just overlay text on the top of a thing. So imagine a language learner                     |
 | 01:33:45   | who's put on a vision pro and they open whatever their language learning app of choice is.              |
 | 01:33:49   | And suddenly everything that they see, like if they look at that thing, it gets like the name           |
@@ -927,7 +927,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:35:02   | leaving the fruit and vegetable section, but you did not buy bananas. Go back and pick up bananas.      |
 | 01:35:07   | But, you know, when I was at WWC, I talked to a guy who went over to cafe Max for lunch and said,       |
 | 01:35:12   | two people walked in wearing the headset, got their lunch and left without ever taking them off.        |
-| 01:35:17   | I mean, it will be. I mean, I feel like on Apple campus, that's a bit more normal than,                 |
+| 01:35:17   | I mean, it will be. I mean, I feel like on [[Apple]] campus, that's a bit more normal than,                 |
 | 01:35:21   | you know, the grocery store in my town of 40,000 people here in the UK. I mean,                         |
 | 01:35:27   | everyone in my office mocked me for having my AirPods in all the time. And then it was like             |
 | 01:35:34   | barely six months later, everyone had them in. And I mean, I like on the Vision Pro that it             |
@@ -953,7 +953,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:37:54   | this is like a curtain, like, no, no, I want to communicate with you, not I am ignoring you.            |
 | 01:38:04   | And you both mentioned, obviously, when the hardware gets smaller and easier, we'll get                 |
 | 01:38:09   | to that point. But I do think this is going to connect people more than isolate them. It's a            |
-| 01:38:15   | really strong belief I've had for a while and Apple by presenting it in this way and only               |
+| 01:38:15   | really strong belief I've had for a while and [[Apple]] by presenting it in this way and only               |
 | 01:38:26   | releasing it when the tech was ready, that it wouldn't turn people off like when you're wearing         |
 | 01:38:34   | a VR headset, it makes you sick or whatever. I think no, not I think I know that this is going          |
 | 01:38:43   | to revolutionise computing, even if vision OS is a total failure, because more and more people          |

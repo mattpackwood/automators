@@ -95,7 +95,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 02:37      | And so yeah, in my mind, it's IMDB, but it doesn't suck. But you know, that's the way                    |
 | 02:42      | I think. Yeah.                                                                                           |
 | 02:43      | But yeah, great job and congratulations again on all these apps. Casey is also on the Accidental         |
-| 02:49      | Tech podcast, ATP, which is one of the premier podcasts in the Apple space. And occasionally,            |
+| 02:49      | Tech podcast, ATP, which is one of the premier podcasts in the [[Apple]] space. And occasionally,            |
 | 02:59      | Casey talks about his automation over there and I do feel like we need to give him a forum               |
 | 03:05      | to talk about it. And so I thought we'd start, Casey, tell us, how did you get started in                |
 | 03:10      | automation?                                                                                              |
@@ -266,13 +266,13 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 15:28      | the term for it. But anyways, one of these paddle switches, it's like a dollar, literally                |
 | 15:31      | a dollar. You know, they're not, they're not particularly complicated or fancy things                    |
 | 15:36      | to just for the regular ones, but there were a handful of places that I wanted to put in                 |
-| 15:41      | Caseta switches. And did you know folks, Lutron is so good. It's so freaking good. It is so              |
+| 15:41      | Caseta switches. And did you know folks, [[Lutron]] is so good. It's so freaking good. It is so              |
 | 15:48      | expensive because it's like literally $70 a switch for one of these switches, but it                     |
 | 15:54      | never, ever fails, ever. And I think part of the reason that that's the case is because                  |
 | 16:02      | the Caseta stuff is all in, I guess, David jumping when you're ready here, but the Caseta                |
 | 16:05      | stuff is all on its own, like private proprietary radio network. And there's a bridge to bridge          |
 | 16:11      | you to [[HomeKit]] and the, you know, the IP network. But whenever you do anything with                      |
-| 16:18      | the Lutron stuff, it's communicating between the different devices with RF and it is just                |
+| 16:18      | the [[Lutron]] stuff, it's communicating between the different devices with RF and it is just                |
 | 16:24      | rock solid. And we only put in a handful of these switches, but they're amazing.                         |
 | 16:28      | Yeah. I mean, and that's the trick with them is start small and just slowly grow it. I                   |
 | 16:34      | mean, it took me like two years to fill up my house with them. And there are still plugs                 |
@@ -298,14 +298,14 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 18:17      | think that the reason so many people love it is because it does the thing that it says                   |
 | 18:24      | it does on the can. And so often in home automation, it doesn't do the thing, or at least it doesn't     |
 | 18:29      | do it consistently. Right. It does it. You set it up. It works. And then one day it doesn't              |
-| 18:34      | work. I'm struggling right now. I bought one of these [[Human Presence Sensor\|human presence sensors]] from Aqara.                 |
+| 18:34      | work. I'm struggling right now. I bought one of these [[Human Presence Sensor\|human presence sensors]] from [[Aqara]].                 |
 | 18:40      | And some days it works. And some days it doesn't. And that's the kind of thing that makes you,           |
 | 18:45      | you know, want to throw a brick through a window because it's like, well, what? Absolutely.              |
-| 18:48      | Why is it not working? That never happens with Lutron. You push the button on your phone                 |
+| 18:48      | Why is it not working? That never happens with [[Lutron]]. You push the button on your phone                 |
 | 18:54      | or you put it in your shortcut and it lights up. I have some buttons here on my stream                   |
 | 18:59      | deck and cause I've got a little studio and I push one button in the room rigs itself                    |
 | 19:03      | for work lighting. I push another button, the room rigs itself for video lighting and,                   |
-| 19:08      | and that's all Lutron Casetaa based and it has not failed a single time. And that's                     |
+| 19:08      | and that's all [[Lutron]] Caseta based and it has not failed a single time. And that's                     |
 | 19:13      | why you pay the money for it, Casey. And my advice is just buy some more, but just do                    |
 | 19:17      | it over time. You know, you'll be fine. I bet it's cheaper than your dad's X10 was.                      |
 | 19:22      | Probably yeah. That's probably true. And, you know, the thing with Caseta is not only                    |
@@ -322,7 +322,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 20:13      | a hundred percent right, but I was close. And so in part of that process, that's when                    |
 | 20:17      | I put in the Caseta stuff. And, and I'm so glad I did because even though I only put                     |
 | 20:21      | it in a handful of places, it really has worked out well. And just a final note on this, not             |
-| 20:26      | an ad ad for Lutron. One of the things I love so much about it as compared to like a smart               |
+| 20:26      | an ad ad for [[Lutron]]. One of the things I love so much about it as compared to like a smart               |
 | 20:31      | bulb is that it is still a physical switch. It is both a dumb switch and a smart switch.                 |
 | 20:38      | So asking my family who could not really care less about any of this to roll with my ridiculous          |
 | 20:44      | idea for smart switches is much easier when there's a physical switch that will always                   |
@@ -341,9 +341,9 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 21:49      | and then you have to pull out your phone, but your phone's on charge in the other room.                  |
 | 21:52      | So you have to go back to the other room to get your phone to turn on the light. And yeah,               |
 | 21:56      | that's never going to be a good experience ever. So yeah, this is definitely the way                     |
-| 22:00      | to win. Sadly, as David mentioned, we can't get Lutron Crusader over here in the UK. Lutron              |
+| 22:00      | to win. Sadly, as David mentioned, we can't get [[Lutron]] Crusader over here in the UK. [[Lutron]]              |
 | 22:05      | do have a few options, but there are lots of other options for us, including some that                   |
-| 22:10      | are available in the US. Aqara, A-Q-A-R-A have a bunch of smart switches. And I have                     |
+| 22:10      | are available in the US. [[Aqara]], A-Q-A-R-A have a bunch of smart switches. And I have                     |
 | 22:15      | one in my kitchen and one of the things I love about this is it is a bounce switch.                      |
 | 22:20      | So toggle and rocker switches will show you a state like they'll show you up or down,                    |
 | 22:26      | which means that especially with a smart switch, right? It can get out of sync with                      |
@@ -363,10 +363,10 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 23:26      | it took. Just so I can stop looking at this and getting stressed out every time one of                   |
 | 23:30      | the kids flips one of the switches on and then it forgets to turn it off. And then some                  |
 | 23:34      | other one gets turned on and it just drives me bananas.                                                  |
-| 23:38      | Yeah. Well, I've popped a link to the Aqara ones in the show notes for folks in case anyone              |
+| 23:38      | Yeah. Well, I've popped a link to the [[Aqara]] ones in the show notes for folks in case anyone              |
 | 23:42      | is curious. And I've also shared that with David and Casey as well. So hopefully you                     |
 | 23:47      | might find a solution there.                                                                             |
-| 23:49      | And just to finish the loop on Lutron, the new switches are much more attractive. And                    |
+| 23:49      | And just to finish the loop on [[Lutron]], the new switches are much more attractive. And                    |
 | 23:54      | if you're working with your family where you don't have necessarily buy in on automation                 |
 | 24:00      | of these, the new ones look even more just like your typical switch. Whereas the old                     |
 | 24:04      | ones were kind of a button you had to push, but there is a limit to my madness. I will                   |
@@ -421,7 +421,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 27:56      | doing. So some of this stuff maybe won't make sense to anyone else but my family, but I                  |
 | 28:02      | think maybe talking about it will hopefully give people some ideas. So the initial stuff                 |
 | 28:08      | was like, oh, when it's kiddo bedtime, turn their overhead fans on, which are either                     |
-| 28:12      | on Lutron or Wiimos switches. So whatever time this normal bedtime, turn their overhead                  |
+| 28:12      | on [[Lutron]] or Wiimos switches. So whatever time this normal bedtime, turn their overhead                  |
 | 28:16      | fans on. Not a big deal. But then, I think it was last year, what we fell into for a                     |
 | 28:23      | routine was that Erin would wake up somewhere around six o'clock, give or take a smidge,                 |
 | 28:29      | and go downstairs by herself and have a cup of coffee and get kiddo lunches ready and                    |
@@ -538,7 +538,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 37:34      | I can't, you know, I don't actually know what the problem is. I'm doing some guesswork                   |
 | 37:39      | here. But I've not had it happen to me, but I'm also the only person in my smart home,                   |
 | 37:44      | which makes a bit of a difference with the automations. So yeah, fingers crossed, they're                |
-| 37:49      | changing your location sharing to another device, reboot all the things, reboot Apple TVs                |
+| 37:49      | changing your location sharing to another device, reboot all the things, reboot [[Apple TV\|Apple TVs]]                |
 | 37:54      | and HomePods and stuff like that as well. Yeah, like literally reboot everything and                     |
 | 37:59      | then turn change the location back and then see if it starts working again magically. And                |
 | 38:05      | hopefully it will. But it's kind of tricky to figure this stuff out. So you are not the                  |
@@ -574,10 +574,10 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 40:35      | my Mac is the thing that's sharing my or that's, that's defining my location, which would                |
 | 40:40      | be surprising, especially since find my friend seems to be fine. But you never know, sometimes           |
 | 40:44      | this stuff is a little wonky. Yeah, it could be something simple, like you gave one of                   |
-| 40:48      | your kids a device and they have their own Apple ID, which you added to home kit, and                    |
+| 40:48      | your kids a device and they have their own [[Apple ID]], which you added to home kit, and                    |
 | 40:52      | then that device never leaves home. That's another option to consider, which I just thought              |
 | 40:58      | of because, um, yeah, of course, you have kids and they possibly use iPads or similar                    |
-| 41:04      | to watch things on and play games. So if they have their own Apple ID and you've added that              |
+| 41:04      | to watch things on and play games. So if they have their own [[Apple ID]] and you've added that              |
 | 41:08      | to home kit, and then that device never leaves home, that could also be part of your problem.            |
 | 41:13      | So it's all worth investigating with all of these things.                                                |
 | 41:16      | Yep. And there's, you know, there's easier ways to do this sort of thing. Like I'm, I've                 |
@@ -591,7 +591,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 41:50      | know, don't worry your pretty little head attitude about home kit. They should, they                     |
 | 41:54      | should expose more. Um, and some of it's that this is fairly new technology and they're                  |
 | 41:59      | trying to build it out in a way that incorporates security and, you know, compatibility. I don't         |
-| 42:06      | think it's an easy problem to solve. I don't think we can just tell Apple to throw a switch              |
+| 42:06      | think it's an easy problem to solve. I don't think we can just tell [[Apple]] to throw a switch              |
 | 42:10      | somewhere and suddenly it gets better. But I think more feedback would be useful or some                 |
 | 42:15      | diagnostic mode for us that want it even if you have to, you know, go to the web or click                |
 | 42:20      | some button somewhere. Uh, but I, I find Rose got me into home assistant, which gives you                |
@@ -630,7 +630,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 45:04      | Yeah. What I'll say about home assistant versus Homebridge, you know, Homebridges is, is               |
 | 45:08      | fine. And I used it for a while. The, the problem with Homebridge is you're still relying               |
 | 45:14      | on home kit. And that is for better and for worse. So yes, everything is running, you                    |
-| 45:20      | know, on HomePods and Apple TVs in your home, you don't need anything extra and stuff like              |
+| 45:20      | know, on HomePods and [[Apple TV\|Apple TVs]] in your home, you don't need anything extra and stuff like              |
 | 45:25      | that other than, you know, the device running Homebridge, but you're still reliant on home              |
 | 45:31      | kit. And so you end up doing things like creating a dummy switch that when it turns on, turns            |
 | 45:35      | off automatically after 15 minutes so that you can have an automation turn it on. And                    |
@@ -833,7 +833,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:01:45   | mode to dark mode, it will set my volume all the way down on my phone, it will turn on                   |
 | 01:01:49   | do not disturb for a certain amount of time. But the other thing it does, which I was very               |
 | 01:01:54   | proud of figuring out is it will actually SSH into my Mac, and it will run a one line                    |
-| 01:02:00   | AppleScript command set volume zero. So this way, if I just even though I'm already on                  |
+| 01:02:00   | [[AppleScript]] command set volume zero. So this way, if I just even though I'm already on                  |
 | 01:02:06   | do not disturb and it's all synced up or whatever, just in case what it will do is it will go            |
 | 01:02:11   | ahead and turn the volume on my Mac all the way down because I can hear it from the from                 |
 | 01:02:17   | the bedroom if it's not. And so this way, no matter what's going on, nothing's waking                    |
@@ -964,7 +964,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:12:26   | sharing with shortcuts is set to while using the app with precise location. Because if                   |
 | 01:12:34   | it isn't, [[HomeKit]] actions may actually be doing weird things. And I don't understand                     |
 | 01:12:40   | quite why the precise location thing seems to be needed. And I need to try and figure                    |
-| 01:12:46   | out exactly what's going on and actually file some feedback with Apple on this. Because                  |
+| 01:12:46   | out exactly what's going on and actually file some feedback with [[Apple]] on this. Because                  |
 | 01:12:50   | I found that if I didn't have precise location enable for shortcuts, and I tried to do a                 |
 | 01:12:54   | home connection, it would fail about 50% of the time. And that was very weird. And I don't               |
 | 01:13:00   | know why may have just been coincidence could have been something else happening at the                  |

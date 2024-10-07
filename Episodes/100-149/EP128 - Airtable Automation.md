@@ -67,9 +67,9 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 00:13      | How are you today?                                                                                        |
 | 00:14      | I am great, and always looking forward to talking to some automators.                                     |
 | 00:17      | We've got a lot on deck for today's show, but also we are recording this as [[WWDC]] is getting               |
-| 00:25      | closer, and Apple gives us our annual list of goodies for automation.                                     |
+| 00:25      | closer, and [[Apple]] gives us our annual list of goodies for automation.                                     |
 | 00:30      | We've got some show content planned on that.                                                              |
-| 00:32      | If you've got some big wish, something you'd like to see Apple improve or add to automation,              |
+| 00:32      | If you've got some big wish, something you'd like to see [[Apple]] improve or add to automation,              |
 | 00:38      | let us know.                                                                                              |
 | 00:39      | It may show up in the future show.                                                                        |
 | 00:40      | We'd love to hear about it.                                                                               |
@@ -77,10 +77,10 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 00:44      | That'd be probably the best way to get it to us, and I mean, that's all coming just around                |
 | 00:50      | the corner.                                                                                               |
 | 00:51      | Yeah, it is.                                                                                              |
-| 00:52      | It's always exciting theorising what Apple are going to give us, having those hopes and                   |
+| 00:52      | It's always exciting theorising what [[Apple]] are going to give us, having those hopes and                   |
 | 00:56      | dreams, which may be granted, or maybe... I'm not going to say smashed, deferred by another               |
 | 01:03      | year, but one of the things that I have noticed, and I'm sure you've noticed this as well,                |
-| 01:08      | David, is Apple, they give us the big stuff at [[WWDC]], but they tell us what's their big                    |
+| 01:08      | David, is [[Apple]], they give us the big stuff at [[WWDC]], but they tell us what's their big                    |
 | 01:13      | stuff that's coming.                                                                                      |
 | 01:15      | Not all of that comes out in September or October, but then other stuff will come in                      |
 | 01:19      | throughout the year as well, even though we weren't expecting it, and we'll talk about                    |
@@ -111,7 +111,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 02:59      | accidentally revealed it on a stream more than once, replacing that token was pretty                      |
 | 03:04      | awkward and tricky.                                                                                       |
 | 03:05      | Now they have personal access tokens as well as OAuth for integration so that you can do                  |
-| 03:11      | a sign-in workflow like you would sign in with Apple with things you would sign in with                   |
+| 03:11      | a sign-in workflow like you would sign in with [[Apple]] with things you would sign in with                   |
 | 03:15      | [[Airtable]] to authenticate something, which basically just means you just need to create                    |
 | 03:19      | a new token, stick that in your shortcuts, and be done with it, but that does mean you're                 |
 | 03:24      | going to have to go back and touch all those old [[Airtable]] shortcuts.                                      |
@@ -161,7 +161,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 06:35      | comes in, and then another big use for me with [[Airtable]], in fact, really the biggest                      |
 | 06:41      | use for me with [[Airtable]] is the field guides that I make.                                                 |
 | 06:46      | We try to bunch of different tools to track status of how things are going.                               |
-| 06:51      | We had Google Docs, we had shared Apple documents, and we tried all these different systems.              |
+| 06:51      | We had Google Docs, we had shared [[Apple]] documents, and we tried all these different systems.              |
 | 06:57      | The one, though, that immediately stuck for us was [[Airtable]].                                              |
 | 07:02      | For each new field guide, we have this [[Airtable]], and I can see who's working on it, like if               |
 | 07:07      | there's editing being done by someone else.                                                               |
@@ -515,8 +515,8 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 30:17      | of those curly brackets, which will then filter the thing that comes out of there from a                  |
 | 30:23      | markdown to HTML conversion.                                                                              |
 | 30:25      | You can also uppercase things and lowercase things, URL escape things, HTML escape things,                |
-| 30:31      | or even JavaScript escape things.                                                                         |
-| 30:33      | So if you want to be able to insert some raw JavaScript and have it, you know, escape                     |
+| 30:31      | or even [[JavaScript]] escape things.                                                                         |
+| 30:33      | So if you want to be able to insert some raw [[JavaScript]] and have it, you know, escape                     |
 | 30:36      | so that it doesn't run or something, then you can do that.                                                |
 | 30:40      | And I just think it's a really nice sign of how powerful this stuff has become that not                   |
 | 30:46      | only are people asking for this, people are using it as well, you know, you end up seeing                 |
@@ -757,7 +757,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 45:54      | Agreed.                                                                                                   |
 | 45:55      | I really feel like overall, I guess we could just look at iOS 16 in general.                              |
 | 46:01      | I feel like we had a good year for automation, probably the best year for automation from                 |
-| 46:07      | Apple that we've had yet, frankly, the, you know, it was harder in the years prior.                       |
+| 46:07      | [[Apple]] that we've had yet, frankly, the, you know, it was harder in the years prior.                       |
 | 46:13      | It seems like every year they were expanding, you know, first they had to get shortcuts                   |
 | 46:17      | working, then they had to kind of get the second tier tool set installed, which they                      |
 | 46:22      | didn't have the first year, then they had to get the Mac version running, which I believe                 |
@@ -841,7 +841,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 51:24      | But you are using those.                                                                                  |
 | 51:25      | Could you tell us a little bit how you're using those?                                                    |
 | 51:27      | Because I haven't really found a use for it.                                                              |
-| 51:30      | I have the Apple keyboard and maybe that's why I don't find a use for it because I've                     |
+| 51:30      | I have the [[Apple]] keyboard and maybe that's why I don't find a use for it because I've                     |
 | 51:34      | got the touch ID button.                                                                                  |
 | 51:35      | I just press the button when I walk away and it takes care of it for me.                                  |
 | 51:39      | Yeah.                                                                                                     |
@@ -900,7 +900,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 55:27      | to yellow, I can run a script that takes it out, I can also incorporate it into things                    |
 | 55:33      | like if I'm going to start screencasting, I want to do a screencast setup, I always                       |
 | 55:36      | make a point of turning True Tone off and it's just a nice little trigger, it's not                       |
-| 55:41      | something I need all the time, but Apple gave that to me for free with 16.4 and I find it                 |
+| 55:41      | something I need all the time, but [[Apple]] gave that to me for free with 16.4 and I find it                 |
 | 55:47      | sneaking its way into several of my shortcuts now.                                                        |
 | 55:50      | Yes, and it's just really nice to be able to do things like that, like turning on and                     |
 | 55:55      | off and out notifications or turning on and off [[Stage Manager]] as well, which, you know,                   |
@@ -1056,10 +1056,10 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:04:57   | If you want something scripty, you probably mean [[JavaScript]].                                              |
 | 01:05:02   | If you learn Java, you're going to be doing a lot of typing, long variable names and class                |
 | 01:05:06   | names and function names are common in Java, in fact, that's the style, choice of language.               |
-| 01:05:11   | You may want JavaScript because that can run on your phone and your iPad and a Mac.                       |
+| 01:05:11   | You may want [[JavaScript]] because that can run on your phone and your iPad and a Mac.                       |
 | 01:05:16   | You might want shortcuts because if you don't have any experience with writing automations,               |
 | 01:05:21   | it's quite nice to have blocks that you can drag and drop into place.                                     |
-| 01:05:24   | AppleScript could be a good choice if you're just looking to automate stuff on the Mac.                   |
+| 01:05:24   | [[AppleScript]] could be a good choice if you're just looking to automate stuff on the Mac.                   |
 | 01:05:29   | Keyboard maestro might be a good choice if you want to be able to download lots of Mac                    |
 | 01:05:33   | automations that people have already made and just use them.                                              |
 | 01:05:37   | It really kind of depends.                                                                                |
@@ -1074,7 +1074,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:06:07   | You'll be surprised with an afternoon, how much you can learn and how quickly you can                     |
 | 01:06:13   | bring this into your life and start getting some benefit from it.                                         |
 | 01:06:16   | I think that's a very easy honour app.                                                                     |
-| 01:06:19   | Trying to start with AppleScript is a bad idea because it's a programming language and it's               |
+| 01:06:19   | Trying to start with [[AppleScript]] is a bad idea because it's a programming language and it's               |
 | 01:06:24   | a little bit funky as a programming language.                                                             |
 | 01:06:27   | You could spend months at it before you really get good enough to use it, whereas shortcuts               |
 | 01:06:32   | are going to get immediate payoff.                                                                        |
@@ -1090,24 +1090,24 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:07:17   | The good knowledge of all this, I really think, is that all this stuff at this point builds               |
 | 01:07:21   | on each other.                                                                                            |
 | 01:07:24   | Once you learn shortcuts, maybe you go to [[Keyboard Maestro]], then suddenly things like                     |
-| 01:07:28   | AppleScript, JavaScript, all that stuff becomes additive and you can learn it as you need                 |
+| 01:07:28   | [[AppleScript]], [[JavaScript]], all that stuff becomes additive and you can learn it as you need                 |
 | 01:07:35   | it.                                                                                                       |
 | 01:07:36   | My recommendation if you're getting started with automation, start easy and I can confidently             |
-| 01:07:42   | say no matter which Apple platform you're on, that's shortcuts.                                           |
+| 01:07:42   | say no matter which [[Apple]] platform you're on, that's shortcuts.                                           |
 | 01:07:46   | I would definitely also recommend shortcuts.                                                              |
 | 01:07:49   | If you're a programmer and you've already done some of this stuff before, maybe even                      |
 | 01:07:55   | if it was a while ago and you're like, I'm not sure about drag and drop blocks, I kind                    |
-| 01:07:59   | of really wanted to type something, I'd definitely be recommending JavaScript as the language             |
+| 01:07:59   | of really wanted to type something, I'd definitely be recommending [[JavaScript]] as the language             |
 | 01:08:05   | just because then you can create actions for [[Obsidian]] or extensions for [[Obsidian]].                         |
 | 01:08:10   | You can create actions for [[Drafts]].                                                                        |
 | 01:08:12   | You can create [[Safari]] bookmarklets and all sorts of things.                                               |
 | 01:08:16   | That gives you a lot of options and especially with things like Scriptable and so on, then                |
-| 01:08:23   | JavaScript is just a good place to start for that, but really, you should probably look                   |
+| 01:08:23   | [[JavaScript]] is just a good place to start for that, but really, you should probably look                   |
 | 01:08:30   | at shortcuts first and don't forget if you're there going, okay, but what if I can't do                   |
-| 01:08:34   | something in Shortcuts and I need AppleScript or I need [[Drafts]] or any [[Keyboard Maestro]]?                   |
+| 01:08:34   | something in Shortcuts and I need [[AppleScript]] or I need [[Drafts]] or any [[Keyboard Maestro]]?                   |
 | 01:08:40   | Well, Shortcuts has got great action support for lots of things and more importantly, those               |
 | 01:08:46   | apps have got action support in Shortcuts, so you can run a [[Drafts]] action on a draft                      |
-| 01:08:51   | or on text, you can run AppleScript, you can run a [[Keyboard Maestro]] macro, it's called                    |
+| 01:08:51   | or on text, you can run [[AppleScript]], you can run a [[Keyboard Maestro]] macro, it's called                    |
 | 01:08:55   | Execute Macro, that's the name of the action, but you can do all of these things from the                 |
 | 01:09:00   | other stuff, so if you find that you can just download this bit from here or copy that bit                |
 | 01:09:04   | from there, then you can stick it all together, duct tape, superglue, WD-40, whatever it is               |
@@ -1193,7 +1193,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:14:25   | phone.                                                                                                    |
 | 01:14:26   | So you create another home screen and you show that home screen instead or something                      |
 | 01:14:29   | like that because there are so many things that you can do with this.                                     |
-| 01:14:33   | So it is a case of go, have a little play and check out Apple has a little guide as                       |
+| 01:14:33   | So it is a case of go, have a little play and check out [[Apple]] has a little guide as                       |
 | 01:14:38   | well on focus modes.                                                                                      |
 | 01:14:40   | So we can put a link to that in the show notes so that folks can have a look there.                       |
 | 01:14:45   | But yeah, it is just a case of start simple and then see what happens.                                    |

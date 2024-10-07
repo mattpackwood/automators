@@ -122,7 +122,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 04:25      | I don't really know how I came about it.                                                            |
 | 04:27      | It's one of the bigger ones for do-it-yourself, I think, and that's pretty much what I connect      |
 | 04:32      | everything with.                                                                                    |
-| 04:33      | Well, it's always a challenge because Apple does have some automation built into [[HomeKit]],           |
+| 04:33      | Well, it's always a challenge because [[Apple]] does have some automation built into [[HomeKit]],           |
 | 04:39      | but it's not enough for a lot of folks, and every year they get a little better, like               |
 | 04:45      | now that they've integrated Siri shortcuts with it, and even now if a listener of the               |
 | 04:51      | show tries out push cut, there's so much stuff you can do with push cut with it, but it does        |
@@ -160,7 +160,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 07:08      | and I just made me realise how those things are fighting for your airspace in your apartment        |
 | 07:14      | somehow with all the frequencies intermixing and stuff like that.                                   |
 | 07:19      | That's so tenuous, if you know what's going on.                                                     |
-| 07:23      | That's one of the reasons why I like those Lutron Casetaa switches.                                |
+| 07:23      | That's one of the reasons why I like those [[Lutron]] Caseta switches.                                |
 | 07:27      | Another person, Robert Spivack, who was a guest on MPU a while back and is really connected          |
 | 07:33      | on this home automation stuff, was telling me they have their own bandwidth.                        |
 | 07:37      | They bought their own section of the spectrum for their switches, and I think that's why            |
@@ -195,7 +195,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 09:55      | It's good they work and nothing, series of lovely lady I'm sure, but I was never, maybe             |
 | 10:00      | it's also the German thing, it doesn't feel all too reliable, and it always felt weird              |
 | 10:06      | to me to speak out loud in my apartment, especially when other people are home.                     |
-| 10:12      | And I always really loved the Apple Watch, the complications with quick buttons and that            |
+| 10:12      | And I always really loved the [[Apple Watch]], the complications with quick buttons and that            |
 | 10:19      | sort of thing.                                                                                      |
 | 10:20      | I loved having the one, two taps for the things where you can trigger the things you                |
 | 10:27      | do every day with a tap instead of talking to some lady in the can.                                 |
@@ -259,7 +259,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 14:02      | I want.                                                                                             |
 | 14:03      | No, you're never going to get past the light switch.                                                |
 | 14:07      | You got to design it around people's preferences.                                                   |
-| 14:11      | That's why in my case, buying the Lutron switches solve that problem because, oh yeah, the switch   |
+| 14:11      | That's why in my case, buying the [[Lutron]] switches solve that problem because, oh yeah, the switch   |
 | 14:16      | is still there.                                                                                     |
 | 14:17      | They can turn it off and on, but I can still automate and the light situation is kind of            |
 | 14:21      | handled for me, but triggering them, which is the problem Simon is talking about, is                |
@@ -406,7 +406,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 23:41      | And it's just, it's just not fine grained enough for certain things, I believe.                     |
 | 23:47      | And I beacons, if, if you're willing to play with it a little, you have to set them up              |
 | 23:51      | and it's a bit, you know, it's a bit of a nerdy thing to do, but, but they were pretty              |
-| 23:56      | reliably I felt and that's, it's probably something Apple will never build in, right?               |
+| 23:56      | reliably I felt and that's, it's probably something [[Apple]] will never build in, right?               |
 | 24:01      | Is give you the option to program an I beacon.                                                      |
 | 24:04      | It feels.                                                                                           |
 | 24:05      | Yeah.                                                                                               |
@@ -447,7 +447,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 25:41      | We're going to probably do a show on I beacons at some point.                                       |
 | 25:43      | I think it makes sense on the automators.                                                           |
 | 25:45      | We just got to, got to get to that one on the checklist, you know, in my old job, there             |
-| 25:50      | was this saying, because, you know, GUIDs or UIDs as Apple calls them, they're ugly, right?         |
+| 25:50      | was this saying, because, you know, GUIDs or UIDs as [[Apple]] calls them, they're ugly, right?         |
 | 25:55      | If you see them, you want to, if you're not a developer, you just, you know, want to turn           |
 | 25:59      | around.                                                                                             |
 | 26:00      | It's, it's not something you should ever see.                                                       |
@@ -480,7 +480,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 27:31      | But you can't really, I don't know, define a good condition where you say when this happens         |
 | 27:38      | on that sort of day, and then only then do I want to have this notification.                        |
 | 27:42      | So it was pretty clear to me that the easiest way is the push notification system, which            |
-| 27:48      | Apple has built, but you need a server for this, right?                                             |
+| 27:48      | [[Apple]] has built, but you need a server for this, right?                                             |
 | 27:51      | And there's the only way on your devices through the internet, really, there's no other way.        |
 | 27:56      | So it was pretty clear to me I needed to build some sort of web service with a web hook.            |
 | 28:02      | And what I tried to build was something that's so simple that I always wanted the app to            |
@@ -495,7 +495,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 28:41      | Zapier or all those online services.                                                                |
 | 28:44      | And of course, now, and that's, I think, one of the coolest things ever, you can trigger            |
 | 28:48      | it from [[HomeKit]].                                                                                    |
-| 28:50      | And this makes it very simple to set up for Apple smart home nerds, I think, is you can             |
+| 28:50      | And this makes it very simple to set up for [[Apple]] smart home nerds, I think, is you can             |
 | 28:57      | actually just run it from a [[HomeKit]] automation.                                                     |
 | 29:01      | That is how I got for ultimately 15 notifications when I got home from work today.                  |
 | 29:06      | So do you want to give us a quick overview of how you do this?                                      |
@@ -533,15 +533,15 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 31:21      | and there.                                                                                          |
 | 31:22      | And that's it.                                                                                      |
 | 31:23      | And the blue lights on and it's all instantly like there's almost zero delay because it's           |
-| 31:27      | from your device using the [[HomeKit]], Apple API, that's all fast and works.                           |
+| 31:27      | from your device using the [[HomeKit]], [[Apple]] API, that's all fast and works.                           |
 | 31:34      | And the notification system is pretty much instant too.                                             |
 | 31:38      | So I was quite happy with that, to be honest, I felt like now it has arrived.                       |
 | 31:42      | Now that's what I wanted.                                                                           |
-| 31:44      | And you add in the Apple Watch app in the mix.                                                      |
+| 31:44      | And you add in the [[Apple Watch]] app in the mix.                                                      |
 | 31:47      | And it's truly magical little interactions, I feel like.                                            |
 | 31:50      | That's kind of like that happened recently.                                                         |
 | 31:53      | So a few weeks ago, I felt like now it's what I always wanted it to be in a way.                    |
-| 31:58      | Well, before we dive into the Apple Watch app, I do just want to ask a few more questions           |
+| 31:58      | Well, before we dive into the [[Apple Watch]] app, I do just want to ask a few more questions           |
 | 32:02      | because you mentioned that you can just paste the URL for the notification to the get contents      |
 | 32:07      | of your election.                                                                                   |
 | 32:08      | But I know that that makes a get call, which basically goes, hello, can you give me something?      |
@@ -771,14 +771,14 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 45:37      | Because then it doesn't mean that your mistake is the end of your PushCut experience.               |
 | 45:41      | Now, Simon, you added a feature recently.                                                           |
 | 45:44      | In fact, it's one of the main reasons I want to have you on the show, because I think it's          |
-| 45:47      | just so useful, is the Apple Watch integration.                                                     |
+| 45:47      | just so useful, is the [[Apple Watch]] integration.                                                     |
 | 45:50      | Why don't you talk us through that?                                                                 |
-| 45:52      | You know, I love the Apple Watch.                                                                   |
+| 45:52      | You know, I love the [[Apple Watch]].                                                                   |
 | 45:54      | I have for years.                                                                                   |
 | 45:57      | But for this app, I didn't really feel the originally it ran shortcuts, and it would                |
 | 46:03      | open other apps through the URLs, right?                                                            |
 | 46:05      | That's what you would do.                                                                           |
-| 46:07      | And both of these things don't work on the Apple Watch.                                             |
+| 46:07      | And both of these things don't work on the [[Apple Watch]].                                             |
 | 46:10      | So sadly, I just felt, well, not this time, maybe with the next step I do, I'll make something      |
 | 46:16      | more watch-friendly.                                                                                |
 | 46:18      | But then I started adding online actions where you can trigger Zapier or [[Make\|Integromat]] directly.       |
@@ -943,17 +943,17 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 55:14      | You know, it's funny because I think the whole iBeacon thing was inventid to get places             |
 | 55:19      | or stores or like museums to place them and have their apps pick up on them.                        |
 | 55:25      | I believe, I think that was the original intent.                                                    |
-| 55:28      | It was, I believe it was done by Apple originally to help track the flow of customers in the        |
-| 55:33      | Apple Store.                                                                                        |
+| 55:28      | It was, I believe it was done by [[Apple]] originally to help track the flow of customers in the        |
+| 55:33      | [[Apple Store]].                                                                                        |
 | 55:34      | I'm probably completely wrong on this, so I'll try and find the original information                |
 | 55:37      | for the show notes.                                                                                 |
 | 55:39      | But it's so that they can tell where you are in the store and give you information based            |
 | 55:43      | on that.                                                                                            |
-| 55:44      | Because if you've noticed, if you're like right in front of or inside an Apple store,               |
-| 55:48      | whether or not you're connected to the Wi-Fi, if you have the Apple Store app installed on          |
-| 55:52      | your phone, it pops up and goes, hi, welcome to XYZ Apple Store.                                    |
+| 55:44      | Because if you've noticed, if you're like right in front of or inside an [[Apple Store]],               |
+| 55:48      | whether or not you're connected to the Wi-Fi, if you have the [[Apple Store]] app installed on          |
+| 55:52      | your phone, it pops up and goes, hi, welcome to XYZ [[Apple Store]].                                    |
 | 55:58      | And I'm pretty certain that that is done with iBeacons.                                             |
-| 56:01      | Somebody from Apple, if you know that this is done with iBeacons and you want to write              |
+| 56:01      | Somebody from [[Apple]], if you know that this is done with iBeacons and you want to write              |
 | 56:04      | to me and let me know, I will not tell anybody, but I can just follow up on a future podcast.       |
 | 56:10      | Because I would really like to know that, but I'm pretty certain that that's what it                |
 | 56:13      | was for.                                                                                            |
@@ -973,7 +973,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 56:47      | technology.                                                                                         |
 | 56:48      | Like, it was this big thing and then nobody really cared about it and now it's sitting              |
 | 56:52      | around.                                                                                             |
-| 56:53      | I mean, you can order them on Amazon, but it feels a bit forgotten.                                 |
+| 56:53      | I mean, you can order them on [[Amazon]], but it feels a bit forgotten.                                 |
 | 57:00      | This episode of Automators is brought to you by Flatiron School.                                    |
 | 57:05      | Launch a career in tech with Flatiron School's modern curriculum, paired with one-on-one            |
 | 57:09      | support from dedicated career coaches all in just 15 weeks.                                         |
@@ -1009,7 +1009,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 58:58      | sure what you're supposed to do with it.                                                            |
 | 58:59      | I think you're right.                                                                               |
 | 59:00      | And also, I'm not really a big expert on it.                                                        |
-| 59:03      | What I did, I went to Amazon, I typed in iBeacon, and I just ordered the cheapest one.                |
+| 59:03      | What I did, I went to [[Amazon]], I typed in iBeacon, and I just ordered the cheapest one.                |
 | 59:10      | I think it was a three-pack.                                                                        |
 | 59:11      | And I did this like a year ago, and that's pretty much it.                                          |
 | 59:15      | So that's all I have.                                                                               |
@@ -1071,7 +1071,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 01:02:27   | And I've got a couple sitting around in coffee cups on my desk along with some pens and paper       |
 | 01:02:32   | clips and things like that.                                                                         |
 | 01:02:34   | But I have the Estimote Beacons and they are a little more expensive and they're unfortunately      |
-| 01:02:39   | not available on Amazon right now, which makes them a little harder to get hold of because          |
+| 01:02:39   | not available on [[Amazon]] right now, which makes them a little harder to get hold of because          |
 | 01:02:43   | you have to buy them from Estimote directly and they're more set up for developers.                 |
 | 01:02:48   | But they also have an NFC tag built in, which means that the one on my desk at work recently        |
 | 01:02:52   | got taken out of the coffee cup and put it on my desk.                                              |
@@ -1100,7 +1100,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 01:04:01   | gets near me.                                                                                       |
 | 01:04:02   | And B, it lets me use my hotel room as a location.                                                  |
 | 01:04:07   | And then it prompts me to do stuff like open OmniFocus for the things I intended to do when         |
-| 01:04:12   | I got back to my hotel room, like installing this super large Apple Wi-Fi, for example.             |
+| 01:04:12   | I got back to my hotel room, like installing this super large [[Apple]] Wi-Fi, for example.             |
 | 01:04:17   | Which when you're traveling and you don't have data roaming because you're in the US                |
 | 01:04:19   | and it's horrendously expensive, it's quite useful.                                                 |
 | 01:04:22   | Now that you said that, one thing we didn't really cover, but I feel could be a value               |

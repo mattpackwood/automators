@@ -195,14 +195,14 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 06:06      | it really easy to look at.                                                                              |
 | 06:07      | And that's something that everybody can use.                                                            |
 | 06:10      | So I would argue that one of the challenges with automation on the Mac is that it is really             |
-| 06:16      | not as friendly as automation is on iOS because AppleScript, you know, it's a little bit               |
+| 06:16      | not as friendly as automation is on iOS because [[AppleScript]], you know, it's a little bit               |
 | 06:22      | of an oddball.                                                                                          |
 | 06:23      | And you have to, in trying to make it natural language, sometimes it gets harder for people.            |
 | 06:30      | And it is, it's a skill you have to learn.                                                              |
 | 06:33      | It's not something that you can just start pulling blocks together.                                     |
 | 06:35      | I think that's kind of why a cell wanted to make Automator to begin with.                               |
 | 06:40      | And then when you contrast Automator to workflow, which turned into Siri shortcuts on iOS, I            |
-| 06:48      | don't think Apple gave cell enough resources or support to build out Automator the way                  |
+| 06:48      | don't think [[Apple]] gave cell enough resources or support to build out Automator the way                  |
 | 06:54      | we would have all liked to have seen it, you know, and where it's workflow and Siri shortcuts           |
 | 07:00      | really is much more far reaching for someone like you who just wants to kind of like get                |
 | 07:06      | a little, get a little me and dip their toes in the water a bit with the stuff.                         |
@@ -259,7 +259,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 10:15      | Yeah.                                                                                                   |
 | 10:16      | Right.                                                                                                  |
 | 10:17      | Like all the way back in the day of like downloading, I think like if a [[Brett Terpstra]] or Sean          |
-| 10:21      | Blanc made like a typical Apple product correct spelling corrections set of words,                      |
+| 10:21      | Blanc made like a typical [[Apple]] product correct spelling corrections set of words,                      |
 | 10:28      | like, I've used TextExpander forever, but it is one of those things, you know, everybody               |
 | 10:33      | says this, I know, but I've used it so much that it just feels like part of the system.                 |
 | 10:40      | Like I even have it on my PC now, which is great.                                                       |
@@ -412,11 +412,11 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 18:58      | So we could take it out again.                                                                          |
 | 18:59      | I was at a conference a few years ago and there were several [[Dropbox]] developers there                   |
 | 19:05      | and then we got to know each other and, and I learned that they're actually quite conservative          |
-| 19:10      | about jumping into Apple system technologies.                                                           |
+| 19:10      | about jumping into [[Apple]] system technologies.                                                           |
 | 19:14      | They're nervous about that over there and I'm sure that, that was really a question                     |
 | 19:18      | for a while at [[Dropbox]], whether or not they were going to buy into Siri shortcuts or not.               |
 | 19:22      | And I'm glad they made the right decision at the end.                                                   |
-| 19:24      | But I actually not sure whether that came, I think that this came from Apple.                           |
+| 19:24      | But I actually not sure whether that came, I think that this came from [[Apple]].                           |
 | 19:29      | It wasn't shortcuts.                                                                                    |
 | 19:30      | Cause this was, it was a native action that they had because it's not a [[Dropbox]] action.                 |
 | 19:36      | It's just a write to a specific folder action.                                                          |
@@ -424,8 +424,8 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 19:40      | Well, it's actually through the [[Dropbox]] API, if I remember correctly.                                   |
 | 19:44      | Oh, yeah.                                                                                               |
 | 19:45      | I see.                                                                                                  |
-| 19:46      | But then it's still Apple's call though, right?                                                         |
-| 19:47      | It's Apple's call, but [[Dropbox]] has to approve them accessing the API, because yeah, like                |
+| 19:46      | But then it's still [[Apple|Apple's]] call though, right?                                                         |
+| 19:47      | It's [[Apple|Apple's]] call, but [[Dropbox]] has to approve them accessing the API, because yeah, like                |
 | 19:54      | they don't just let everybody automatically have full access to the API of the folders                  |
 | 20:00      | of anybody that's potentially logged in on the device.                                                  |
 | 20:02      | I can't remember precisely how the authentication flow goes.                                            |
@@ -442,7 +442,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 20:34      | I think that this is something that a lot of people are starting to encounter as they                   |
 | 20:38      | get better at using Siri shortcuts, they start making more of them.                                     |
 | 20:42      | It is a pain in the neck to load the app and there's no folders.                                        |
-| 20:45      | I mean, obviously that's got to be on a whiteboard at Apple somewhere to make that better.              |
+| 20:45      | I mean, obviously that's got to be on a whiteboard at [[Apple]] somewhere to make that better.              |
 | 20:51      | But I've solved the problem the same way largely Myke has and I've put everything in the today          |
 | 20:56      | view widgets and I have these meta shortcuts now that are nothing but launchers for other               |
 | 21:02      | shortcuts and like some of them, like I've been playing with toggle and there's literally               |
@@ -534,7 +534,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 28:57      | that's textexpander.com/podcast our thanks to TextExpander for their support of             |
 | 29:02      | this show and all of Relay FM so mike uh let's uh let's talk about some more of your your favourite      |
 | 29:10      | shortcuts all right so I have one called yoga time which is very simple okay uh I don't wear an         |
-| 29:18      | apple watch uh so I can't track my exercise using the apple watch but shortcuts has some                |
+| 29:18      | [[Apple Watch]] uh so I can't track my exercise using the [[Apple Watch]] but shortcuts has some                |
 | 29:25      | actions built right in for uh the health app so when I hit the yoga time it puts my phone on do         |
 | 29:33      | not disturb for 30 minutes and sets a 30 minute manual workout into the health app um and I haven't     |
 | 29:41      | done this yet but I'm I also like to do my I also like to do yoga at home and I like to do about        |
@@ -553,7 +553,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 30:50      | read the data that's in there out yes it doesn't make any sense because it's like it's between two      |
 | 30:55      | iPhones why can't you just let me have it on the iPad exactly though if this is the reason that I       |
 | 30:59      | actually started this work this shortcut because the app that I use which is called uh it's called      |
-| 31:07      | daily yoga it has a apple health integration but it doesn't work on the iPad yeah right so it it can    |
+| 31:07      | daily yoga it has a [[Apple Health]] integration but it doesn't work on the iPad yeah right so it it can    |
 | 31:14      | write the health data but only if you use it on the iPhone so that was when I was like I wonder         |
 | 31:19      | if shortcuts has the ability to add that and as has been since shortcuts existed typically the          |
 | 31:26      | answer is yes now I'm supposed to know um and yeah there's health actions in there so I can even uh     |
@@ -611,7 +611,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 36:26      | all good podcasts have good preparation and so I have like a couple of things that's going on so        |
 | 36:32      | pretty much every day I'm doing some kind of prep for some show yeah so I and then there's two things   |
 | 36:37      | that's going on here I want to be able to quickly access the documents wherever they are wherever       |
-| 36:42      | they're google docs or sometimes apple notes and I also want to be able to set my toggle timers         |
+| 36:42      | they're google docs or sometimes [[Apple Notes]] and I also want to be able to set my toggle timers         |
 | 36:48      | for time tracking sure so I have a an action that it starts with a menu and it asks me which show       |
 | 36:55      | and it has all of my shows listed um and I tap the show and then what will happen is uh it goes         |
 | 37:02      | it's like a it goes to each show and it takes the name this is kind of this is kind of complicated      |
@@ -687,7 +687,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 43:39      | the lights um and I wanted to um usually remind me to do something i I do use [[Apple Reminders\|Reminders]] for just a      |
 | 43:46      | few things just to have it like tell me and uh it doesn't work then because it hasn't my iPhone         |
 | 43:52      | hasn't yet connected to the wi-fi or the HomePod hasn't yet recognised that the iPhone is              |
-| 43:57      | on the wi-fi and that one's frustrating um so I usually trigger that on my apple watch now which        |
+| 43:57      | on the wi-fi and that one's frustrating um so I usually trigger that on my [[Apple Watch]] now which        |
 | 44:04      | is working quite nicely I have to say yeah that's something that could get better yeah definitely       |
 | 44:11      | but mike you don't just do [[Shortcuts\|Siri Shortcuts]] you also have gone down the rabbit hole of web              |
 | 44:17      | automation mm-hmm yeah I use I use Zapier most pretty much entirely for my web automation now             |
@@ -818,7 +818,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 56:29      | great for the wood floors it pushes around and it picks up a lot of stuff but I don't know I just       |
 | 56:34      | feel like I need to to up my game at some point maybe I'll put that on my nerd uh my nerd uh toy        |
 | 56:40      | list yeah so so mike um what is automation where's automation filling you right now you know if you     |
-| 56:47      | were in charge at apple and what would you do to improve the systems that you have                      |
+| 56:47      | were in charge at [[Apple]] and what would you do to improve the systems that you have                      |
 | 56:53      | um i I really do think that these Siri stuff could be better and I know this is like a                  |
 | 57:04      | such an often used for like complaint at this point but I was so excited with the idea of               |
 | 57:12      | being able to trigger these shortcuts with Siri and it just it just hasn't panned out for me in         |
@@ -836,7 +836,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 58:30      | to see what more stuff the shortcuts team would do more than anything I don't want it to stop and       |
 | 58:35      | I would love to see shortcuts on the Mac as well because if I ever want to build something I would      |
 | 58:40      | like to be able to do that and also I think that they could build a really cool Mac or iPad like        |
-| 58:46      | more advanced editing tool um than than what they have right now with shortcuts you know like stuff     |
+| 58:46      | more advanced editing tool um than than what they have right now with [[Shortcuts]] you know like stuff     |
 | 58:52      | to allow you to like copy and paste actions and move things around in big chunks and you know           |
 | 58:58      | like stuff like that I would really and I think that would be a great use case for the Mac right        |
 | 59:03      | like to be able to let you kind of open it up and play around with it that way kind of more             |
@@ -851,7 +851,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 59:56      | Myke's a great example of someone who hasn't made a career out of automation but yet uses automation     |
 | 01:00:02   | every day to help their career and I think that's the goal of this show if you're listening uh          |
 | 01:00:07   | where you hit those pain points hopefully we're giving you the tools and the knowledge to to            |
-| 01:00:12   | build your own shortcuts or your apple scripts or whatever it is that you need uh to get your work      |
+| 01:00:12   | build your own shortcuts or your [[AppleScript\|AppleScripts]] or whatever it is that you need uh to get your work      |
 | 01:00:17   | done get home a little earlier and enjoy your life more um we're gonna we're gonna get some of this     |
 | 01:00:23   | stuff from Myke or we'll even just build similar versions we'll put out with the show so you can         |
 | 01:00:27   | download or see we'll figure out something once the show releases just just check out the show notes    |

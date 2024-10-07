@@ -96,7 +96,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 00:52      | By the way, DaveTheNerd, is that still a thing?                                                                                                                          |
 | 00:54      | DaveTheNerd.com, that's in fact a fine way to reach me. Absolutely.                                                                                                      |
 | 00:58      | I love that. I love that.                                                                                                                                                |
-| 00:59      | But Dave has done all sorts of work in related to the Apple ecosystem.                                                                                                   |
+| 00:59      | But Dave has done all sorts of work in related to the [[Apple]] ecosystem.                                                                                                   |
 | 01:04      | He makes the very fine podcast.                                                                                                                                          |
 | 01:08      | How long have you guys been doing that now?                                                                                                                              |
 | 01:10      | The Mac Geek Gab?                                                                                                                                                         |
@@ -125,7 +125,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 02:01      | We love it.                                                                                                                                                              |
 | 02:02      | And it gives us new content every week.                                                                                                                                  |
 | 02:05      | Yeah, there's no end of questions.                                                                                                                                       |
-| 02:08      | And Apple just keeps doing weird things                                                                                                                                  |
+| 02:08      | And [[Apple]] just keeps doing weird things                                                                                                                                  |
 | 02:10      | to allow people to have questions.                                                                                                                                       |
 | 02:12      | So there you go.                                                                                                                                                         |
 | 02:13      | Yeah, and right, the questions are troubleshooting for sure.                                                                                                             |
@@ -226,7 +226,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 05:45      | But if it doesn't support chapters,                                                                                                                                      |
 | 05:47      | then maybe you're missing out on some other amazing features, too.                                                                                                       |
 | 05:50      | To be fair, though,                                                                                                                                                      |
-| 05:51      | Apple's Apple's player did not support it                                                                                                                                |
+| 05:51      | [[Apple\|Apple's]] [[Apple\|Apple's]] player did not support it                                                                                                                                |
 | 05:55      | until it became podcasts, right?                                                                                                                                         |
 | 05:57      | Like for MP3s, especially on the Mac, right?                                                                                                                             |
 | 06:00      | It was so it wasn't until we split iTunes on the Mac                                                                                                                     |
@@ -412,10 +412,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 13:08      | One of the most profound uses of smart home technology for me                                                                                                            |
 | 13:16      | was when I got smart outdoor lights                                                                                                                                      |
 | 13:21      | and then was able to automate.                                                                                                                                           |
-| 13:24      | We use the Amazon A lady.                                                                                                                                                |
+| 13:24      | We use the [[Amazon]] A lady.                                                                                                                                                |
 | 13:26      | I don't know what you like to say here on that show about her                                                                                                            |
 | 13:28      | so that you don't trigger everybody's devices,                                                                                                                           |
-| 13:31      | but we use the Amazon A lady as our smart home                                                                                                                           |
+| 13:31      | but we use the [[Amazon]] A lady as our smart home                                                                                                                           |
 | 13:36      | sort of foundation, if you will,                                                                                                                                         |
 | 13:38      | but you could use, you know, [[HomeKit]] in Siri                                                                                                                            |
 | 13:40      | and Google one and all the others.                                                                                                                                       |
@@ -516,10 +516,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 17:12      | So I mean, we, you know, we have ring cameras and various other cameras                                                                                                  |
 | 17:15      | outside.                                                                                                                                                                 |
 | 17:16      | Um, I, you know, I, because I'm a nerd and I do Mac Geek Gab, I've had,                                                                                                    |
-| 17:22      | I started getting into home automation well before Apple ever even began                                                                                                 |
+| 17:22      | I started getting into home automation well before [[Apple]] ever even began                                                                                                 |
 | 17:27      | with home kit and then certainly ever got to a point where home kit                                                                                                      |
 | 17:31      | was actually feasible for most people to use with the devices that they had.                                                                                             |
-| 17:36      | Apple sort of screwed up that entry, but that's fine.                                                                                                                    |
+| 17:36      | [[Apple]] sort of screwed up that entry, but that's fine.                                                                                                                    |
 | 17:39      | So I have devices that work with all different platforms,                                                                                                                |
 | 17:43      | most of which are not home kit.                                                                                                                                          |
 | 17:45      | So I also run.                                                                                                                                                           |
@@ -537,7 +537,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 18:22      | it.                                                                                                                                                                      |
 | 18:23      | So, so that's sort of the, but like I said, art, I don't really have                                                                                                     |
 | 18:28      | home kit doing automations for me simply because we had previously                                                                                                       |
-| 18:32      | standardised on the Amazon a lady and that that's been fine.                                                                                                             |
+| 18:32      | standardised on the [[Amazon]] a lady and that that's been fine.                                                                                                             |
 | 18:36      | I don't have any reason to switch.                                                                                                                                       |
 | 18:38      | You know, I'm despite being a nerd who lives, who's, who often lives by,                                                                                                 |
 | 18:44      | you know, if it ain't broke, fix it till it is with my home kit stuff.                                                                                                   |
@@ -614,9 +614,9 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 22:36      | automation stuff I bring in, making sure there's like an analog method.                                                                                                  |
 | 22:40      | Like I'm really a big fan of the, the switches, you know, where you put the switches in.                                                                                 |
 | 22:45      | I use the, why am I forgetting the new...                                                                                                                                |
-| 22:49      | Lutron Casetaa.                                                                                                                                                         |
-| 22:50      | Yes, Lutron Casetaa.                                                                                                                                                    |
-| 22:51      | I use the Lutron Casetaa switches.                                                                                                                                      |
+| 22:49      | [[Lutron]] Caseta.                                                                                                                                                         |
+| 22:50      | Yes, [[Lutron]] Caseta.                                                                                                                                                    |
+| 22:51      | I use the [[Lutron]] Caseta switches.                                                                                                                                      |
 | 22:53      | So they can still hit the switch on the wall and lights go off and on,                                                                                                   |
 | 22:56      | but I can still control them as well.                                                                                                                                    |
 | 22:58      | And, you know, same thing, we did a front door lock and I got one that has a key in it                                                                                   |
@@ -825,7 +825,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 33:59      | by adding to it with its Scripts menu.                                                                                                                                   |
 | 34:01      | Even templates can have Scripts inside,                                                                                                                                  |
 | 34:03      | and you can set up new documents with data from placeholders                                                                                                             |
-| 34:06      | or insert it by your own AppleScript code.                                                                                                                               |
+| 34:06      | or insert it by your own [[AppleScript]] code.                                                                                                                               |
 | 34:08      | And of course, there's so much more,                                                                                                                                     |
 | 34:10      | from an iOS companion app to email archiving, scanning,                                                                                                                  |
 | 34:12      | or even embedded web server                                                                                                                                              |
@@ -949,7 +949,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 38:50      | that has window and door sensors, which would,                                                                                                                           |
 | 38:53      | which will almost certainly integrate with if this and that,                                                                                                             |
 | 38:56      | which is pretty good.                                                                                                                                                    |
-| 38:57      | I'm using Aqara sensors and so on personally,                                                                                                                            |
+| 38:57      | I'm using [[Aqara]] sensors and so on personally,                                                                                                                            |
 | 39:00      | but I'm using that either with [[Home Assistant]]                                                                                                                            |
 | 39:03      | or directly locally.                                                                                                                                                     |
 | 39:04      | So that's not going to necessarily have if this and that,                                                                                                                |
@@ -1150,7 +1150,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 46:48      | Yeah.                                                                                                                                                                    |
 | 46:49      | Yeah.                                                                                                                                                                    |
 | 46:50      | So what, what are the tools you use to do automation on the Mac?                                                                                                         |
-| 46:53      | I use AppleScript.                                                                                                                                                      |
+| 46:53      | I use [[AppleScript]].                                                                                                                                                      |
 | 46:55      | I use automator, but really for me these days, the present and I believe, well,                                                                                          |
 | 47:01      | maybe not entire future of automation on the Mac has been [[Keyboard Maestro]] shortcuts,                                                                                    |
 | 47:06      | changes that a little bit and which in a good way,                                                                                                                       |
@@ -1158,7 +1158,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 47:11      | But for me, [[Keyboard Maestro]] sort of sits at the core of what I do on the Mac.                                                                                           |
 | 47:17      | It is my default go to when I need to automate something on my Mac.                                                                                                      |
 | 47:22      | Just because it's so flexible and so powerful and it's so well integrated with everything                                                                                |
-| 47:28      | that I would need to do, including automator and AppleScript and the terminal.                                                                                          |
+| 47:28      | that I would need to do, including automator and [[AppleScript]] and the terminal.                                                                                          |
 | 47:33      | And you know, it's, it's so flexible.                                                                                                                                    |
 | 47:36      | I know we started here in the episode talking about my podcast chaptering tool,                                                                                          |
 | 47:40      | which is [[Keyboard Maestro]] and [[Keyboard Maestro]] macros sync to all of my Macs if I want them to,                                                                          |
@@ -1207,7 +1207,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 50:30      | So I'm, I am occasionally disconnecting this computer from the disk array and the,                                                                                       |
 | 50:36      | the screen and everything to take it somewhere else.                                                                                                                     |
 | 50:39      | And you want to properly eject your disks like a gentleman.                                                                                                              |
-| 50:43      | And I wrote like a two line AppleScript that does it, you know, it's very simple,                                                                                       |
+| 50:43      | And I wrote like a two line [[AppleScript]] that does it, you know, it's very simple,                                                                                       |
 | 50:48      | but then I just embed that into [[Keyboard Maestro]].                                                                                                                        |
 | 50:51      | And now it's a thing I can run as part of any automation, like I'm ready to go.                                                                                          |
 | 50:56      | I don't have to go look for some dumb menu bar app or anything.                                                                                                          |
@@ -1568,12 +1568,12 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:10:38   | Our thanks to Hover for their support of the automators and all of Relay FM.                                                                                             |
 | 01:10:44   | Dave, so you were an automator and pro.                                                                                                                                  |
 | 01:10:46   | You've been doing this a long time.                                                                                                                                      |
-| 01:10:47   | I know you do AppleScript, we've just kind of proven your [[Keyboard Maestro]] chops.                                                                                       |
-| 01:10:52   | Let's talk about shortcuts, you know, the democratised automation that Apple's been                                                                                      |
+| 01:10:47   | I know you do [[AppleScript]], we've just kind of proven your [[Keyboard Maestro]] chops.                                                                                       |
+| 01:10:52   | Let's talk about shortcuts, you know, the democratised automation that [[Apple|\Apple's]] been                                                                                      |
 | 01:10:56   | pushing now for a few years.                                                                                                                                             |
 | 01:10:58   | What do you think about it and where are you using it?                                                                                                                   |
 | 01:11:01   | Oh, I love shortcuts.                                                                                                                                                    |
-| 01:11:02   | I loved it when it was workflow before Apple picked it up and I still think the way those                                                                                |
+| 01:11:02   | I loved it when it was workflow before [[Apple]] picked it up and I still think the way those                                                                                |
 | 01:11:07   | guys figured out how to leverage the things that were publicly available in iOS to do the                                                                                |
 | 01:11:13   | magic that they do is like they deserve all the success and credit that they've had.                                                                                     |
 | 01:11:18   | Oh, yeah, totally.                                                                                                                                                       |
@@ -1884,7 +1884,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:26:37   | I'm going to clear the decks.                                                                                                                                            |
 | 01:26:38   | I'm going to start recording the podcast.                                                                                                                                |
 | 01:26:40   | It clears the decks.                                                                                                                                                     |
-| 01:26:41   | I use [[Safari]], sorry, AppleScript to open a new [[Safari]] window.                                                                                                           |
+| 01:26:41   | I use [[Safari]], sorry, [[AppleScript]] to open a new [[Safari]] window.                                                                                                           |
 | 01:26:45   | So I clear the decks.                                                                                                                                                    |
 | 01:26:46   | I hide all the applications that I do want to keep.                                                                                                                      |
 | 01:26:48   | And then I hide all of the other [[Safari]].                                                                                                                                 |

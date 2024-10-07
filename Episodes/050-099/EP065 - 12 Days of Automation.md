@@ -102,11 +102,11 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 02:11      | of them do a very good job of it.                                                                        |
 | 02:13      | So I tried a bunch of tools out.                                                                         |
 | 02:15      | Ultimately, I ended up writing an [[AppleScript]] to do it, and you can write nested folders                |
-| 02:21      | with AppleScript, and you can even write it where you can choose a source folder, or                    |
+| 02:21      | with [[AppleScript]], and you can even write it where you can choose a source folder, or                    |
 | 02:26      | you can have it just automatically create a certain folder.                                              |
 | 02:30      | And then I spent another hour trying to figure out how to do it on an iCloud directory, because          |
 | 02:34      | iCloud directories are a completely different animal.                                                    |
-| 02:37      | But I eventually figured it all out, and I sent it to Sal, the master of AppleScript                    |
+| 02:37      | But I eventually figured it all out, and I sent it to Sal, the master of [[AppleScript]]                    |
 | 02:43      | say, is there any way I could do this better, and he's like, no, you basically got it.                   |
 | 02:48      | That is high praise indeed, because sometimes it's really tricky to figure these things                  |
 | 02:51      | out, and then somebody else looks at it and goes, but why didn't you just press the widget               |
@@ -139,18 +139,18 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 04:05      | light the trees up automatically?                                                                        |
 | 04:07      | Uh-huh.                                                                                                  |
 | 04:08      | And so we've done this a couple different ways in the Sparks House over the years.                       |
-| 04:14      | I had some old Wemo plugs that just stopped working this year, so instead I went on Amazon.             |
-| 04:23      | I found some plugs on Amazon that were just $15 for a plug, and if you bought two of them,               |
+| 04:14      | I had some old Wemo plugs that just stopped working this year, so instead I went on [[Amazon]].             |
+| 04:23      | I found some plugs on [[Amazon]] that were just $15 for a plug, and if you bought two of them,               |
 | 04:30      | at least I think it might have been a sale, but it was like two of them was like 22 or                   |
 | 04:33      | something.                                                                                               |
 | 04:34      | It wasn't that expensive to buy.                                                                         |
 | 04:36      | We actually have two Christmas trees in our house because that's how we do it, I guess.                  |
 | 04:41      | One is like the real tree and one is a tiny one, but I wanted them both to be able to                    |
 | 04:46      | turn on automatically.                                                                                   |
-| 04:47      | So I found these plugs on Amazon.                                                                        |
+| 04:47      | So I found these plugs on [[Amazon]].                                                                        |
 | 04:50      | It was a third-party vendor that I'd never heard of before, but they were so cheap, and                  |
-| 04:56      | I know with Amazon it's easy enough to send them back if they don't work.                                |
-| 04:59      | So I went ahead and took a shot on them, and I'm quickly scrolling through my Amazon                     |
+| 04:56      | I know with [[Amazon]] it's easy enough to send them back if they don't work.                                |
+| 04:59      | So I went ahead and took a shot on them, and I'm quickly scrolling through my [[Amazon]]                     |
 | 05:05      | history right now to try and find these damn things.                                                     |
 | 05:08      | Oh, there we go.                                                                                         |
 | 05:09      | Me, Ross, M-E-R-O-S-S.                                                                                   |
@@ -209,7 +209,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 08:19      | savvy with this stuff.                                                                                   |
 | 08:21      | There's a big button there, it says turn trees on, and she taps it, and the trees go on.                 |
 | 08:26      | And interestingly, historically, I've done these where I would attach it to a switch,                    |
-| 08:30      | like I would use one of our Lutron cassettes, because Lutron makes the thing you can plug                |
+| 08:30      | like I would use one of our [[Lutron]] Caseta, because [[Lutron]] makes the thing you can plug                |
 | 08:36      | into the wall and plug lights into it.                                                                   |
 | 08:39      | I'm not doing that this year.                                                                            |
 | 08:40      | Just for giggles, I decided, what if I did it this year, where there was no physical                     |
@@ -393,7 +393,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 17:40      | I know Wemo do some, but of course they are understandably a bit more pricey.                            |
 | 17:44      | But I'm finding that there are a lot of newcomers in the home kit market actually right now,             |
 | 17:48      | which are producing things at more affordable prices.                                                    |
-| 17:51      | I think Apple's requirement of secure self-wear rather than a specific chip in their devices             |
+| 17:51      | I think [[Apple|Apple's]] requirement of secure self-wear rather than a specific chip in their devices             |
 | 17:57      | is definitely making more manufacturers jump on board.                                                   |
 | 18:00      | And the way I'm doing this one is actually I run the cord for the lights from the garage                 |
 | 18:06      | to just under the garage door.                                                                           |
@@ -503,7 +503,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 24:15      | that it's a 1970s disco, so it can be quite nice to have that.                                           |
 | 24:20      | And you can add in some funky remote system as well.                                                     |
 | 24:22      | Nanoleaf have one, I think it's a dodecahedron, no, that's incorrect, it's a nine-sided shape.           |
-| 24:29      | But Aqara also have a six-sided cube, and you could just have these set up to trigger                   |
+| 24:29      | But [[Aqara Cube\|Aqara also have a six-sided cube]], and you could just have these set up to trigger                   |
 | 24:35      | different scenes and then kind of roll them like dice and just see where they land.                      |
 | 24:39      | I would suggest rolling them on a soft surface rather than, you know, smashing them around               |
 | 24:42      | on something hard.                                                                                       |
@@ -919,14 +919,14 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 46:58      | So first you're grabbing the name of the person and then you're, then you type in what it                |
 | 47:04      | is you just bought.                                                                                      |
 | 47:05      | And so, you know, Rosemary, you know, new home kit, you know, switches and, and then                     |
-| 47:13      | you hit enter and then it saves it with an append to note and Apple notes and a shared                   |
+| 47:13      | you hit enter and then it saves it with an append to note and [[Apple Notes]] and a shared                   |
 | 47:18      | note.                                                                                                    |
 | 47:19      | We have a shared note between us for the gifts we bought and it just appends to that note                |
 | 47:23      | that append is important there.                                                                          |
 | 47:24      | You don't want to rewrite the note.                                                                      |
 | 47:26      | You wanted to just add to the note and it does a great job and it, and I format it.                      |
 | 47:30      | So it says Rosemary dash new, you know, home kit switches.                                               |
-| 47:35      | And so then that updates automatically and because of the magic of note, Apple notes                     |
+| 47:35      | And so then that updates automatically and because of the magic of note, [[Apple Notes]]                     |
 | 47:40      | sharing, it updates automatically on both phones.                                                        |
 | 47:43      | So when either one of us goes to buy something, all she has to do is check the Apple note.               |
 | 47:47      | And then after she done buying something, just run this, the little shortcut script.                     |
@@ -949,7 +949,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 48:23      | I have six rooms to put HomePods in and I've got, I nearly have a HomePod for each                     |
 | 48:27      | room.                                                                                                    |
 | 48:28      | I'm currently missing the hallway in the bathroom, the bedroom, I believe is being dispatched            |
-| 48:32      | at the moment because shortly before we started recording, Apple billed me so that HomePod              |
+| 48:32      | at the moment because shortly before we started recording, [[Apple]] billed me so that HomePod              |
 | 48:37      | mini is on the way.                                                                                      |
 | 48:38      | All right.                                                                                               |
 | 48:39      | Good.                                                                                                    |
@@ -961,12 +961,12 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 48:45      | Yeah.                                                                                                    |
 | 48:46      | I'm pleased with that.                                                                                   |
 | 48:47      | I'm used to the, to the big one, but you know, but you know, it really is a thing.                       |
-| 48:50      | If you're into the Apple ecosystem, that's the one you want.                                             |
+| 48:50      | If you're into the [[Apple]] ecosystem, that's the one you want.                                             |
 | 48:53      | If you want to, you don't need something with a super great speaker, but you know, you want              |
 | 48:57      | to spend a hundred bucks.                                                                                |
 | 48:58      | I mean, all these people are like putting themselves in knots over, do I get the, you                    |
-| 49:03      | know, do I get the one from Amazon?                                                                      |
-| 49:04      | Do I get the one from Apple?                                                                             |
+| 49:03      | know, do I get the one from [[Amazon]]?                                                                      |
+| 49:04      | Do I get the one from [[Apple]]?                                                                             |
 | 49:05      | It just depends on what ecosystem you're in.                                                             |
 | 49:07      | That's all.                                                                                              |
 | 49:08      | Yeah.                                                                                                    |
@@ -977,7 +977,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 49:14      | Next year, like I had thought about different ways of doing this, not well, maybe I could                |
 | 49:17      | make an error table and like my wife is never going to work with an error table.                         |
 | 49:21      | That is like just not going to happen.                                                                   |
-| 49:23      | And so Apple notes seem like the obvious choice.                                                         |
+| 49:23      | And so [[Apple Notes]] seem like the obvious choice.                                                         |
 | 49:27      | I think what I would do next year, and this really isn't automator is like, we also often                |
 | 49:34      | sit down and talk about gift ideas is for that destination note where we do the append                   |
 | 49:39      | stuff.                                                                                                   |
@@ -991,12 +991,12 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 50:07      | And so speaking of purchasing items for people and things like that, I have been working                 |
 | 50:14      | this year on automatically handling my email specifically in response to things that I've                |
 | 50:20      | ordered, things that have been dispatched and things that have been delivered.                           |
-| 50:24      | Now I know that Amazon sends me a lot of email on this.                                                  |
+| 50:24      | Now I know that [[Amazon]] sends me a lot of email on this.                                                  |
 | 50:27      | And of course I can just filter this out at the server level, but especially when it comes               |
 | 50:31      | to dispatch and delivery emails, I don't want them gone immediately.                                     |
 | 50:35      | I want them gone about 24 hours after they appear in my mailbox.                                         |
 | 50:41      | So I'm using [[Apple Mail]] for this.                                                                        |
-| 50:45      | And what I'm doing is I've written a series of rules, which you can do in Apple Mail.                    |
+| 50:45      | And what I'm doing is I've written a series of rules, which you can do in [[Apple Mail]].                    |
 | 50:50      | And then I have [[Keyboard Maestro]] activate itself at one o'clock in the morning.                          |
 | 50:54      | It opens mail.                                                                                           |
 | 50:55      | Mail is pretty much always in the inbox for me.                                                          |
@@ -1022,21 +1022,21 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 52:17      | And then, and then they get a colour to show that they've been handled and that they are                  |
 | 52:22      | in deliveries.                                                                                           |
 | 52:23      | Yeah.                                                                                                    |
-| 52:24      | Apple Mail rules have so much promise, but so often they break your heart, like something                |
+| 52:24      | [[Apple Mail]] rules have so much promise, but so often they break your heart, like something                |
 | 52:28      | silly happens and they just don't run when you, you look at it and it looks like it should               |
 | 52:33      | run.                                                                                                     |
 | 52:34      | And what you find out is there's all these conditions that you don't even know exist.                    |
 | 52:38      | I related up mail, was it a, was it called a small cube is the name, oh, mail act on                     |
 | 52:46      | and mail tags.                                                                                           |
 | 52:48      | They just released their update for the M1 Max and for Big Sur.                                          |
-| 52:51      | So if you want to like power up Apple Mail, that's what I would recommend using.                         |
+| 52:51      | So if you want to like power up [[Apple Mail]], that's what I would recommend using.                         |
 | 52:57      | Mail act on in particular allows you to do some more stuff with mail rules that you wouldn't             |
 | 53:02      | otherwise be able to do, like apply to outgoing and doing some other stuff.                              |
-| 53:05      | But yeah, I, I get where you're coming from, part of me wishes Apple would just put those,               |
+| 53:05      | But yeah, I, I get where you're coming from, part of me wishes [[Apple]] would just put those,               |
 | 53:10      | all those powerful rules in the cloud, but also part of me acknowledges that they will                   |
 | 53:15      | just never do that.                                                                                      |
 | 53:16      | I just don't think that's ever going to happen.                                                          |
-| 53:18      | I mean, it's also great because I don't necessarily have to use Apple Mail as my primary mail            |
+| 53:18      | I mean, it's also great because I don't necessarily have to use [[Apple Mail]] as my primary mail            |
 | 53:21      | client in order to use these rules because I can just have it running in the background.                 |
 | 53:26      | And that's pretty much what I do.                                                                        |
 | 53:28      | It's just there and it's running in the background, it automatically handles stuff for me.               |
@@ -1295,10 +1295,10 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:07:46   | So there's a button in every room, then it puts up the blinds in the other two rooms                     |
 | 01:07:50   | for them as well.                                                                                        |
 | 01:07:51   | So that they only need to open one blind.                                                                |
-| 01:07:53   | And they're really happy and my mom was super excited because they're Apple TV for some                  |
+| 01:07:53   | And they're really happy and my mom was super excited because they're [[Apple TV]] for some                  |
 | 01:07:57   | reason hadn't been functioning as a home cat hub.                                                        |
 | 01:07:59   | And now it does because I actually installed the updates pro tip folks, if, if something's               |
-| 01:08:04   | not working and you're using an Apple TV as a home hub, install the updates.                             |
+| 01:08:04   | not working and you're using an [[Apple TV]] as a home hub, install the updates.                             |
 | 01:08:07   | It makes a difference.                                                                                   |
 | 01:08:08   | But yeah.                                                                                                |
 | 01:08:09   | And so, you know, she, she, she went out and disconnected from the Wi-Fi network while                   |
@@ -1323,11 +1323,11 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:09:06   | of all, the motors are huge.                                                                             |
 | 01:09:07   | Secondly, they're really loud.                                                                           |
 | 01:09:08   | Thirdly, they don't work very well.                                                                      |
-| 01:09:10   | So guess what I'm returning to Amazon because I was just very disappointed.                              |
+| 01:09:10   | So guess what I'm returning to [[Amazon]] because I was just very disappointed.                              |
 | 01:09:15   | So if I want smart blinds in my living room, I'm going to have to come up with something                 |
 | 01:09:17   | else.                                                                                                    |
 | 01:09:18   | And I should probably try some fee or, or whatever the, the, the brand is, um, that, that makes          |
-| 01:09:24   | those, um, the, the good ones, cause these were just Tuya ones that I found on Amazon.                   |
+| 01:09:24   | those, um, the, the good ones, cause these were just Tuya ones that I found on [[Amazon]].                   |
 | 01:09:30   | They were on sale.                                                                                       |
 | 01:09:31   | So I decided to, to jump in and give it a go for, for the sake of the show.                              |
 | 01:09:35   | And, uh, I was horrendously disappointed.                                                                |
@@ -1365,7 +1365,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:11:32   | Yeah.                                                                                                    |
 | 01:11:33   | No, at no point do I get stuck in opening the browser and saying, Oh, there's something                  |
 | 01:11:37   | shiny.                                                                                                   |
-| 01:11:38   | Oh, look, there's something on cell at Amazon.                                                           |
+| 01:11:38   | Oh, look, there's something on cell at [[Amazon]].                                                           |
 | 01:11:40   | That Rose told me about that.                                                                            |
 | 01:11:41   | Now I need to buy.                                                                                       |
 | 01:11:42   | I just go straight from the idea to doing the work.                                                      |
@@ -1481,7 +1481,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:17:40   | Once again, go to setup.com to see how it fits with your workflow.                                       |
 | 01:17:43   | Now thanks to Setup for their support of the show and all of Relay FM.                                  |
 | 01:17:47   | All right.                                                                                               |
-| 01:17:49   | So Apple has now made a new Mac based on Apple Silicon as opposed to Intel chips.                        |
+| 01:17:49   | So [[Apple]] has now made a new Mac based on [[Apple Silicon]] as opposed to Intel chips.                        |
 | 01:17:55   | And Rose is the smart one.                                                                               |
 | 01:17:57   | She didn't buy one.                                                                                      |
 | 01:17:58   | She's waiting for next year's version.                                                                   |
@@ -1505,7 +1505,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:18:44   | And my machine is working really well.                                                                   |
 | 01:18:46   | I definitely want that shiny new silicon machine.                                                        |
 | 01:18:49   | If it ran shortcuts, I would, there wouldn't have been a moment's hesitation.                            |
-| 01:18:55   | I would have been, you know, on the Apple store website buying, buying, buying, no doubt                 |
+| 01:18:55   | I would have been, you know, on the [[Apple Store]] website buying, buying, buying, no doubt                 |
 | 01:18:59   | at all.                                                                                                  |
 | 01:19:00   | But as it is, I do have working Macs and I'm pretty happy with what I've got right now.                  |
 | 01:19:07   | So I'm going to wait and see if there's an M1X or an M2 sometime next year.                              |
@@ -1513,14 +1513,14 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:19:16   | gung-ho about it, or they'll be willing to upgrade again and I could get a great deal.                   |
 | 01:19:20   | Yeah.                                                                                                    |
 | 01:19:21   | Well, it is, I mean, this is the entry level and it's crazy.                                             |
-| 01:19:25   | And every time I talk about it on a podcast, I sound like an Apple fanboy, but I mean,                   |
+| 01:19:25   | And every time I talk about it on a podcast, I sound like an [[Apple]] fanboy, but I mean,                   |
 | 01:19:30   | it's just so rare to see a computer improve so drastically, so quickly, and it is, it's                  |
 | 01:19:36   | remarkable.                                                                                              |
 | 01:19:37   | But we've had a lot of questions from automators listeners about, you know, what does that               |
 | 01:19:41   | mean for Mac automation, and how does it affect your Mac automation?                                     |
 | 01:19:45   | And I thought it'd be interesting to talk about, you know, my experiences.                               |
 | 01:19:50   | For the, a lot of the automation type work I do, which is largely, I mean, the deepest                   |
-| 01:19:56   | I go down the stack really is AppleScript and some Java scripting.                                      |
+| 01:19:56   | I go down the stack really is [[AppleScript]] and some Java scripting.                                      |
 | 01:20:01   | It's fine.                                                                                               |
 | 01:20:02   | I mean, [[Keyboard Maestro]] works.                                                                          |
 | 01:20:03   | I have not had any of my [[Keyboard Maestro]] scripts that, you know, used to work on Intel                  |
@@ -1536,7 +1536,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:20:37   | I mean, it rocks solid.                                                                                  |
 | 01:20:39   | All of my typical automation tools work fine.                                                            |
 | 01:20:42   | My automator scripts work.                                                                               |
-| 01:20:44   | All the AppleScripts I've written still work.                                                           |
+| 01:20:44   | All the [[AppleScript\|AppleScripts]] I've written still work.                                                           |
 | 01:20:47   | I understand if I were to go deeper down the stack into some of the terminal tools, some                 |
 | 01:20:52   | of those don't work yet, but like, I believe, what is it, Homebridge, is Homebridge not working          |
 | 01:20:58   | on M1 yet?                                                                                               |
@@ -1556,7 +1556,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:21:42   | So I was disappointed here.                                                                              |
 | 01:21:43   | It wasn't going to work.                                                                                 |
 | 01:21:44   | And then [[SwiftBar]] is out, which solves that problem.                                                     |
-| 01:21:49   | And some of this is, you know, thanks to changes that Apple have made with Big Sur.                      |
+| 01:21:49   | And some of this is, you know, thanks to changes that [[Apple]] have made with Big Sur.                      |
 | 01:21:53   | So for example, [[Hazel]] needed a new version because it can't be a preference pane anymore.                |
 | 01:21:57   | It needs to be a standalone application.                                                                 |
 | 01:22:01   | And there's a whole bunch of different things in there.                                                  |
@@ -1588,7 +1588,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:23:03   | because, you know, it would be nice to have that.                                                        |
 | 01:23:05   | But at the same time, I'm doing all right with what I've got.                                            |
 | 01:23:07   | And so I'm going to hold off for a little bit and wait and see.                                          |
-| 01:23:10   | We had an Apple executive Mac Power users and one of the things he talked about is like,                 |
+| 01:23:10   | We had an [[Apple]] executive Mac Power users and one of the things he talked about is like,                 |
 | 01:23:13   | they have the ability to walk down the hall to the hardware team and say like, there's                   |
 | 01:23:18   | this thing we do with our app that would could really use hardware acceleration.                         |
 | 01:23:24   | And they can write it onto the chip because guess what?                                                  |
@@ -1664,7 +1664,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:27:39   | for iPhone and iPad apps over on the M1 Mac, but kind of getting back to the point of this               |
 | 01:27:45   | segment, all of the, the garden variety automation tools, I have had no problems at all.                 |
 | 01:27:52   | And I, I even wrote like the [[Keyboard Maestro]] developer to ask if he's seen any issues and               |
-| 01:27:57   | he said he hasn't, and he was right on top of it for the Apple Silicon.                                  |
+| 01:27:57   | he said he hasn't, and he was right on top of it for the [[Apple Silicon]].                                  |
 | 01:28:01   | So you know, [[Keyboard Maestro]] is the one that I do the most kind of complex work with and                |
 | 01:28:06   | that one works.                                                                                          |
 | 01:28:07   | So I think you're probably going to be fine.                                                             |
@@ -1675,7 +1675,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:28:17   | day job or whatever it is that you do on the Mac, then of course you're going to have to                 |
 | 01:28:20   | check those out.                                                                                         |
 | 01:28:21   | I think for most people, you know, for people who are doing, you know, I would say less                  |
-| 01:28:27   | non-Apple development work than they'll probably be fine, but it of course depends, you know,            |
+| 01:28:27   | non-[[Apple]] development work than they'll probably be fine, but it of course depends, you know,            |
 | 01:28:32   | you have to take that with a pinch of salt and do your own research, but I'm very excited                |
 | 01:28:36   | to see what comes out of this.                                                                           |
 | 01:28:38   | Me too.                                                                                                  |

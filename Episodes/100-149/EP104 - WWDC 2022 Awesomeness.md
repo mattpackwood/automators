@@ -76,7 +76,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:16      | in.                                                                                                       |
 | 01:17      | Granted, this is the first beta and things will change over the course of the beta.                       |
 | 01:21      | Some of the features we talk about may disappear or others may get added, but I think in general          |
-| 01:26      | we've got a pretty good idea about what Apple is up to this year.                                         |
+| 01:26      | we've got a pretty good idea about what [[Apple]] is up to this year.                                         |
 | 01:31      | But before we get started, I just wanted to note that the very last few days of the introductory          |
 | 01:35      | pricing for the shortcuts for Mac Field Guide is coming up.                                               |
 | 01:39      | As this show publishes on a Friday, it's ending the following Sunday, so just two days later.             |
@@ -92,7 +92,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 02:23      | In researching today's show, I was looking at the initial comments on the web and read                    |
 | 02:27      | it and whatnot.                                                                                           |
 | 02:28      | A lot of people seem upset.                                                                               |
-| 02:30      | They feel like that Apple should have re-did a whole bunch of stuff in shortcuts.                         |
+| 02:30      | They feel like that [[Apple]] should have re-did a whole bunch of stuff in shortcuts.                         |
 | 02:34      | And to me, that's really been the problem the last couple of years is we've had three                     |
 | 02:37      | or four revolutionary years in the row.                                                                   |
 | 02:40      | They added it to the Mac or they re-did the UI and they added [[SwiftUI]].                                   |
@@ -107,10 +107,10 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 03:01      | that people have been creating with shortcuts are now part of the operating system.                       |
 | 03:06      | And I know that some of this is not necessarily directly within the shortcuts team's hands                |
 | 03:11      | or maybe they didn't have anything to do with it.                                                         |
-| 03:15      | But I do really appreciate the fact that it seems like Apple is listening.                                |
+| 03:15      | But I do really appreciate the fact that it seems like [[Apple]] is listening.                                |
 | 03:20      | Things like changing your watch face are now built into the changing of the focus mode                    |
 | 03:25      | because that's what a lot of people did.                                                                  |
-| 03:27      | And I think that that just shows that Apple is listening.                                                 |
+| 03:27      | And I think that that just shows that [[Apple]] is listening.                                                 |
 | 03:30      | They are trying to do the things that we have been asking for, we've been begging for.                    |
 | 03:34      | And I think that that's really great.                                                                     |
 | 03:36      | Yeah.                                                                                                     |
@@ -147,7 +147,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 05:08      | Yes.                                                                                                      |
 | 05:09      | And I think some of this we're just benefiting from the fact that throughout the year with                |
 | 05:13      | the point updates that we get, I guess there's a little bit of attention splitting within                 |
-| 05:17      | Apple of what are the things that we put into the new version that's coming, which of course              |
+| 05:17      | [[Apple]] of what are the things that we put into the new version that's coming, which of course              |
 | 05:22      | now is iOS 16 versus what do we put in a point release?                                                   |
 | 05:26      | What if we already got fixed or what is actually not our system, but it's somebody else's system          |
 | 05:31      | when we know that's going to be changed?                                                                  |
@@ -215,10 +215,10 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 08:38      | getting to me and personal things have an easier time.                                                    |
 | 08:42      | But we're going to go through, I want to go through the changes of focus mode because                     |
 | 08:46      | when this released last year, the fear that a lot of us had was, is this one of those                     |
-| 08:51      | things where Apple is going to like give us this thing and then move the team to some                     |
+| 08:51      | things where [[Apple]] is going to like give us this thing and then move the team to some                     |
 | 08:56      | other project and that's as much as we're ever going to get on this because clearly                       |
 | 09:00      | there was more we wanted last year.                                                                       |
-| 09:03      | And I suspect this feature must be getting used inside Apple too, because I think they                    |
+| 09:03      | And I suspect this feature must be getting used inside [[Apple]] too, because I think they                    |
 | 09:08      | saw the shortcomings in this year, they addressed them primarily.                                         |
 | 09:11      | Now you can set your focus modes either as an inclusive list or an exclusive list.                        |
 | 09:17      | Yes.                                                                                                      |
@@ -305,12 +305,12 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 13:32      | I'm really excited by, you know, there's got so many things.                                              |
 | 13:38      | But first of all, the feature that I used all the time was shortcuts, personal automation,                |
 | 13:44      | X focus mode turns on, or X focus mode turns off.                                                         |
-| 13:48      | And that is what I use to change my Apple Watch face.                                                     |
-| 13:51      | Goodbye, automations, to change my Apple Watch face.                                                      |
+| 13:48      | And that is what I use to change my [[Apple Watch]] face.                                                     |
+| 13:51      | Goodbye, automations, to change my [[Apple Watch]] face.                                                      |
 | 13:53      | You are no longer needed, because this has been built into the focus modes.                               |
 | 13:57      | And you know what, David, I am 100% confident in saying this, and I don't care if I'm wrong.              |
 | 14:02      | I think that this feature exists purely because people did this with shortcuts, automations,              |
-| 14:08      | and Apple saw people doing this with shortcuts, automations, and went, we should put this                 |
+| 14:08      | and [[Apple]] saw people doing this with shortcuts, automations, and went, we should put this                 |
 | 14:12      | into the operating system, because it is such a good feature.                                             |
 | 14:17      | And it's a lot easier to do in the operating system than it was to do in the focus in shortcuts,          |
 | 14:23      | because you can actually see which faces to choose from.                                                  |
@@ -334,8 +334,8 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 15:14      | So I didn't know if that was a bug.                                                                       |
 | 15:16      | Yeah, I've found the watch has been a little tricky to get working like this.                             |
 | 15:21      | The other thing that tripped me up, which I don't think is the problem for you, but                       |
-| 15:24      | just for anybody listening, if you have two Apple watches and you've only updated one                     |
-| 15:28      | of them, then if you have the wrong Apple watch connected to your phone at that point                     |
+| 15:24      | just for anybody listening, if you have two [[Apple Watch\|Apple Watches]] and you've only updated one                     |
+| 15:28      | of them, then if you have the wrong [[Apple]] watch connected to your phone at that point                     |
 | 15:34      | in time when you're selecting the watch face, then the entire thing just doesn't work.                    |
 | 15:39      | And I need file feedback on that, actually.                                                               |
 | 15:41      | Because I suspect that for people with multiple watches, it will be quite common that one                 |
@@ -414,7 +414,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 19:55      | I wish I could.                                                                                           |
 | 19:56      | I could flip it around and say, no, most of the time I don't want any notifications from                  |
 | 19:59      | this app, but in this particular case, I'm going to allow it.                                             |
-| 20:02      | And I don't know what Apple would recommend for something like that because I can't imagine               |
+| 20:02      | And I don't know what [[Apple]] would recommend for something like that because I can't imagine               |
 | 20:08      | Microsoft Teams out of the gate on iOS 16 supporting the focus filters.                                   |
 | 20:13      | And quite frankly, I don't want to have any focus on Microsoft Teams outside of my working                |
 | 20:17      | day.                                                                                                      |
@@ -486,11 +486,11 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 24:17      | as a whole. We're still at the beta one here.                                                             |
 | 24:21      | One of the headline features of the new year is the improvements to [[Apple Mail]]. I guess                   |
 | 24:26      | before we get into the shortcuts improvements, Rose, isn't it great how a lot of the stuff                |
-| 24:31      | Apple is doing now ships simultaneously to all three platforms?                                           |
+| 24:31      | [[Apple]] is doing now ships simultaneously to all three platforms?                                           |
 | 24:36      | It is so great. I also love the fact that, as I mentioned before, they're clearly listening               |
 | 24:41      | to feedback and requests because not only did we get cool new features on all the platforms,              |
 | 24:47      | but we got cool new features that people have genuinely been asking for, like sending later               |
-| 24:51      | in mail. That's a feature now. That's all stuff that we wouldn't be getting if Apple                      |
+| 24:51      | in mail. That's a feature now. That's all stuff that we wouldn't be getting if [[Apple]]                      |
 | 24:57      | weren't listening to us. It's not that I feel like they definitely weren't listening before               |
 | 25:01      | it, but I feel like they kind of just ignored some of the things that people wanted like                  |
 | 25:05      | schedule send so that you can send an email at 9 a.m. on Monday and not before whenever                   |
@@ -562,9 +562,9 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 30:55      | they've made an improvement there. And fingers crossed, it will soon be rolling out to all                |
 | 31:01      | of the other apps as well.                                                                                |
 | 31:03      | Yeah. And the Mac thing I had solved a long time ago with the shortcut, I'm sorry, with                   |
-| 31:08      | the AppleScript embedded in a shortcut step, but now it's a little more complicated because              |
+| 31:08      | the [[AppleScript]] embedded in a shortcut step, but now it's a little more complicated because              |
 | 31:12      | now if I want to put it on a single shortcut, it needs to know a platform I am on whether                 |
-| 31:18      | or not it runs an action or an AppleScript. But also, it's definitely the right direction.               |
+| 31:18      | or not it runs an action or an [[AppleScript]]. But also, it's definitely the right direction.               |
 | 31:25      | And this whole thing with a new API, it looks to me like it's going to make it a lot easier               |
 | 31:31      | for people to add shortcuts. I was talking to Marco Arment about this up at [[WWDC]] and                      |
 | 31:37      | he had done some preliminary look at the new API and he said, it took away a lot of the                   |
@@ -584,7 +584,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 32:42      | I'll use that. I haven't really thought of a good use for it for me.                                      |
 | 32:46      | Well, for me, it's a sort of replacement for smart mailboxes on iOS, right? So where you                  |
 | 32:52      | might frequently want to search for mail from your boss or a partner or from a particular                 |
-| 32:59      | place where you make reservations online or it's all of your Amazon orders are similar,                   |
+| 32:59      | place where you make reservations online or it's all of your [[Amazon]] orders are similar,                   |
 | 33:04      | then you can, you can have a search for that, which I think is, is a nice feature. Because,               |
 | 33:11      | you know, that, that, that to me makes sense. I have actually just thought of a use case                  |
 | 33:14      | for the changing your mail focus mode filters with a shortcut. Imagine that you, when you,                |
@@ -622,7 +622,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 35:56      | put at the plasterboard, they're skimming the walls type thing, because we got shortcut                   |
 | 36:00      | support for tab groups in [[Safari]], David. Tab groups in [[Safari]] have shortcut support.                      |
 | 36:05      | I am unbelievably ridiculously excited by this. Because again, this is something that                     |
-| 36:11      | we always get asked by people, how do I access a tab group in shortcuts and AppleScript                  |
+| 36:11      | we always get asked by people, how do I access a tab group in shortcuts and [[AppleScript]]                  |
 | 36:16      | and through [[Keyboard Maestro]] and [[Hazel]] and things like that. And the answer was, sorry,                   |
 | 36:21      | not. And the answer now is you can use shortcuts for that, which is great. So you can open                |
 | 36:28      | a tab group, and you can add a tab to a tab group, and you can create a tab group. And                    |
@@ -670,39 +670,39 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 40:04      | tab group, but we also got open new tab, which will just fall into whatever your current                  |
 | 40:08      | tab group is, which is great. So yay, thank you.                                                          |
 | 40:13      | Agreed.                                                                                                   |
-| 40:14      | This episode of Automators is brought to you by [[DEVONthink]], the flagship product from                  |
-| 40:19      | DEVONtechnologies. [[DEVONthink]] is the most professional document and information                     |
+| 40:14      | This episode of Automators is brought to you by DEVONthink, the flagship product from                  |
+| 40:19      | DEVONtechnologies. DEVONthink is the most professional document and information                     |
 | 40:23      | management application for the Mac. It's the one place for storing all your documents,                    |
 | 40:27      | snippets, or bookmarks and working with them. The integrated AI assists you with filing                   |
 | 40:32      | and searching while the extensive search language with advanced breathing and search                      |
-| 40:35      | operators means that you're never not going to find something. [[DEVONthink]] features                     |
+| 40:35      | operators means that you're never not going to find something. DEVONthink features                     |
 | 40:40      | a flexible sync system, which supports many cloud services or lets you synchronise over                   |
 | 40:44      | the local network with everything securely encrypted. This gives you the choice for however               |
 | 40:48      | for syncing what is best and most securely for you. It has smart rules and flexible reminders             |
 | 40:53      | that let you automate all parts of your workflow and delegate boring repeating tasks. Let Dev             |
 | 40:58      | and Think automate that you organise your data with rules you define.                                     |
-| 41:02      | [[DEVONthink]]'s AppleScript dictionary is one of the largest on the Mac. There's no                       |
-| 41:05      | part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality with                  |
+| 41:02      | DEVONthink's AppleScript dictionary is one of the largest on the Mac. There's no                       |
+| 41:05      | part of DEVONthink that can't be automated. Extend [[DEVONthink's functionality with                  |
 | 41:09      | your own commands by adding them to its Scripts menu. Even templates can have Scripts inside              |
 | 41:14      | and you can set up new documents with days from placeholders or insert it by your own                     |
 | 41:18      | AppleScript code. And of course, there's so much more, from an iOS companion app to                       |
 | 41:22      | email archiving, scanning, or even an embedded web server for sharing your data securely                  |
 | 41:27      | with your team. For me, honestly, the search stands out as useful. And this is a very silly               |
 | 41:32      | example, but the other day I needed to clean the detergent drawer on my washing machine                   |
-| 41:35      | and I wasn't even thinking I just typed detergent drawer into [[DEVONthink]]. Well,                        |
+| 41:35      | and I wasn't even thinking I just typed detergent drawer into DEVONthink. Well,                        |
 | 41:40      | because I've got the PDF of my washing machine manual in there, even though I wasn't in                   |
 | 41:45      | the washing machine manual, it found the right page inside of the PDF for me and brought                  |
-| 41:49      | it up. And the best part of it is, is I have a tickler system inside of [[DEVONthink]] so                  |
+| 41:49      | it up. And the best part of it is, is I have a tickler system inside of DEVONthink so                  |
 | 41:54      | that I can be tickled in GTD terms, reminded by in regular human terms of that washing                    |
 | 42:01      | machine manual. Even, you know, if I wanted to be more specific, I can go script and                     |
-| 42:06      | make really awesome reminders in the future with the [[DEVONthink]]'s reminder functionality,              |
+| 42:06      | make really awesome reminders in the future with the DEVONthink's reminder functionality,              |
 | 42:11      | giving me a complete custom system that's digital that doesn't require me to remember                     |
-| 42:15      | to go check a paper folder. You can get 10% off [[DEVONthink]] 3 or upgrade to it right                    |
-| 42:20      | now. Just go to devontechnologies.com./automators. That's devontechnologies.com./automators for             |
+| 42:15      | to go check a paper folder. You can get 10% off DEVONthink 3 or upgrade to it right                    |
+| 42:20      | now. Just go to devontechnologies.com./automators. That's devontechnologies.com/automators for             |
 | 42:25      | 10% off. Our thanks to DEVONtechnologies for their support of this show and all of                     |
 | 42:30      | Relay FM.                                                                                                |
 | 42:31      | Just to go through some more applications that got updates, new maps, actions. Now they've                |
-| 42:36      | got a whole set of them. Apparently people at Apple have been missing their parked cars                   |
+| 42:36      | got a whole set of them. Apparently people at [[Apple]] have been missing their parked cars                   |
 | 42:40      | because we got three actions. Yeah. I think this is somewhat related to what Michael was                  |
 | 42:46      | saying on iOS today, where his partner doesn't like to use the Bluetooth in his car. He doesn't           |
 | 42:52      | have CarPlay. The Bluetooth in his car, he just doesn't like using it, but he still wants                 |
@@ -881,7 +881,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 56:48      | of some unexpected actions, you know, we didn't expect Voice Memos to show up. Did you expect             |
 | 56:52      | background sounds from the settings to show up?                                                           |
 | 56:55      | No.                                                                                                       |
-| 56:56      | So, you know, this is one of those features. It's not quite the like, hey, Apple lady play                |
+| 56:56      | So, you know, this is one of those features. It's not quite the like, hey, [[Apple]] lady play                |
 | 57:05      | rain sounds or ocean sounds or whatever it is that you might use, but there is a settings                 |
 | 57:12      | feature. It's an accessibility feature in iOS for background sounds to allow you to,                      |
 | 57:17      | you know, have a background sound playing, which may help drown out other things. And                     |
@@ -925,7 +925,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:00:33   | So yeah, but I'm sure all these developers who are working really hard on this are going                  |
 | 01:00:37   | to appreciate the fact that, you know, there's precedent for all of these things as well.                 |
 | 01:00:41   | So they're not rolling a dice to say, well, what will be allowed as a shortcut section?                   |
-| 01:00:46   | They've got something from Apple that they can point to and say, well, the clock app                      |
+| 01:00:46   | They've got something from [[Apple]] that they can point to and say, well, the clock app                      |
 | 01:00:50   | does it. Mail app does it. Why can't I do it?                                                             |
 | 01:00:53   | Yeah, I really think this is an example of that new simplified API and the way that you're                |
 | 01:00:59   | going to get shortcut actions into shortcuts a lot faster and a good sign of things to                    |
@@ -1006,7 +1006,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:07:21   | more than 26 notes previously, if it found more than 26, it would just stop at 26. But                    |
 | 01:07:26   | I'm just very excited by the fact that we have these apps everywhere. Because, like,                      |
 | 01:07:32   | for example, the clock actions, okay, you still can't set multiple timers on anything                     |
-| 01:07:36   | but an Apple Watch and a HomePod. But you can, you know, open the clock app on the Mac                    |
+| 01:07:36   | but an [[Apple Watch]] and a HomePod. But you can, you know, open the clock app on the Mac                    |
 | 01:07:41   | so that you can see whatever timer is running. Which, for all those people who just want                  |
 | 01:07:46   | a simple timer on their Mac, they can do that. And just like a spotlight on iOS could open                |
 | 01:07:52   | a Shortcut to run it, well, a spotlight on macOS can run Shortcuts now, which is great                    |
@@ -1016,7 +1016,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:08:11   | I mean, it really felt broken when you could do something on one platform that seemed like                |
 | 01:08:16   | it should work on another platform and it didn't. Yes, yeah, exactly. And I think it's                    |
 | 01:08:21   | just one of those things where they're trying to bring things more into alignment, like                   |
-| 01:08:28   | the torch or flashlight, as the Americans call it, on your Apple Watch. That didn't                       |
+| 01:08:28   | the torch or flashlight, as the Americans call it, on your [[Apple Watch]]. That didn't                       |
 | 01:08:33   | used to work with the Set Flashlight function. But now that does work. And I do think that,               |
 | 01:08:40   | you know, they're making things just always work and work more consistently is very useful.               |
 | 01:08:46   | So if you had a lot, if you've got lots of photos, and I'm sure many of our listeners                     |
@@ -1191,22 +1191,22 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:22:49   | It's interesting to me, like, it's just an intellectual exercise is like, are these actions               |
 | 01:22:54   | getting added by the teams? Like, is there somebody on the [[Apple Reminders\|Reminders]] team that loves                      |
 | 01:22:57   | shortcuts and is making sure these actions get added? Or is it someone on the shortcuts                   |
-| 01:23:04   | team? Like in my head, there's like a, a shortcuts loan ranger. And just, just hang                       |
-| 01:23:10   | him with me. Like he's, he or she has like a cowboy hat and like a segue that's painted                   |
-| 01:23:16   | like a segue. Yeah. That sounds so dangerous. It's all gloss, David. It doesn't matter. It's              |
+| 01:23:04   | team? Like in my head, there's like a, a shortcuts lone ranger. And just, just hang                       |
+| 01:23:10   | him with me. Like he's, he or she has like a cowboy hat and like a Segway that's painted                   |
+| 01:23:16   | like a Seqway. Yeah. That sounds so dangerous. It's all gloss, David. It doesn't matter. It's              |
 | 01:23:24   | a loan. Don't injure our shortcuts team. Don't injure our shortcuts team. I'm gonna go wrap               |
 | 01:23:28   | them in bubble wrap. This person just like roaming through the loop and just like busting                 |
 | 01:23:33   | into the nose team and like getting the code in. I don't know how it happens, but, but                    |
 | 01:23:38   | they definitely, I think it's a combination of what API's shortcuts has available to those                |
 | 01:23:44   | apps. So for example, the new intense API is obviously available to, you know, every                      |
 | 01:23:50   | app from yellow season [[Obsidian]] to [[Drafts]] and, and Scriptable, but it's also available                    |
-| 01:23:55   | to Mail and sSfari. But also if those teams want something specific to be available, then                 |
+| 01:23:55   | to [[Apple Mail]] and [[Safari]]. But also if those teams want something specific to be available, then                 |
 | 01:24:01   | they can put it into their API, um, which makes it in turn available back to the shortcuts                |
 | 01:24:06   | app because that's how shortcuts did a lot of stuff before, you know, it was using a                      |
 | 01:24:10   | combination of API's that were available. And like that's how workflow did calendar.                      |
 | 01:24:15   | Um, it used the calendar API or the event kit API. Um, and so I suspect it's six of one                   |
-| 01:24:21   | and a half a dozen of another, but I still love the idea of the shortcuts loan ranger.                    |
-| 01:24:25   | Just folks do us a favor. And if you're using a segue in apple park, please wrap yourself                 |
+| 01:24:21   | and a half a dozen of another, but I still love the idea of the shortcuts lone ranger.                    |
+| 01:24:25   | Just folks do us a favour. And if you're using a Segway in Apple Park, please wrap yourself                 |
 | 01:24:29   | in bubble, uh, bubble wrap first and, or one of those like giant, like hamster bowls, inflatable          |
 | 01:24:34   | hamster bowl type thing. Um, that, that sounds safe. Um, we don't want you to get injured.                |
 | 01:24:38   | Yeah. I agree with you. It's probably the API and the fact that they're on [[SwiftUI]] and                   |

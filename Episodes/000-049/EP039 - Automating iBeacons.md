@@ -118,7 +118,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 02:35      | So Rose and I have been burying ourselves in iBeacon apps and hardware the last two                   |
 | 02:42      | or three weeks in preparation, and today we're going to talk about automation with iBeacon.           |
 | 02:48      | Yeah.                                                                                                 |
-| 02:49      | So this is a really fun technology because it was developed by Apple, and it was announced            |
+| 02:49      | So this is a really fun technology because it was developed by [[Apple]], and it was announced            |
 | 02:52      | in 2013.                                                                                              |
 | 02:53      | So it's not something that's hot off the process.                                                     |
 | 02:56      | It's been around for a while, but it is one of those things that's more used by developers            |
@@ -129,8 +129,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 03:16      | So this is one of Bluetooth low energy, and like Rose said, it's been around for a while.             |
 | 03:21      | The original pitch for this was the idea of you going to a museum, and your iPhone can                |
 | 03:26      | know exactly where in the museum you are, so it can give you information about the display            |
-| 03:32      | you're standing in front of, or if you go into an Apple store today, and it says, hey,                |
-| 03:38      | welcome to the Apple store.                                                                           |
+| 03:32      | you're standing in front of, or if you go into an [[Apple Store]] today, and it says, hey,                |
+| 03:38      | welcome to the [[Apple Store]].                                                                           |
 | 03:39      | How did that happen?                                                                                  |
 | 03:40      | I'm pretty sure they're using iBeacons inside the store to do that.                                   |
 | 03:45      | And I was told after the last episode that they are indeed using iBeacons.                            |
@@ -201,7 +201,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 08:11      | And one of the things we discovered this week or over the last few weeks that we've been              |
 | 08:16      | testing these is that not all iBeacons are created equal.                                             |
 | 08:21      | Oh, no, there is a wide choice out of there.                                                          |
-| 08:25      | There is also, in my case, the invisible and missing iBeacon because Amazon failed to deliver         |
+| 08:25      | There is also, in my case, the invisible and missing iBeacon because [[Amazon]] failed to deliver         |
 | 08:29      | the extra test ones I ordered, unfortunately.                                                         |
 | 08:33      | So the one that both Rose and I bought, I bought this over a year ago, was the ST-                    |
 | 08:39      | Yeah, I think I actually recommended it to you.                                                       |
@@ -211,7 +211,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 08:51      | No, they're still available as a developer package.                                                   |
 | 08:54      | I'll make sure the link is in the show notes.                                                         |
 | 08:57      | And it's advertised as a developer package, but there's nothing to say that you actually              |
-| 09:01      | need to be a developer with an Apple developer account or anything like that to use these.            |
+| 09:01      | need to be a developer with an [[Apple]] developer account or anything like that to use these.            |
 | 09:08      | They're just intending them to be sold to somebody who's going to program something                   |
 | 09:12      | with them.                                                                                            |
 | 09:13      | But if you're going to use one of the apps that we're going to talk about in today's                  |
@@ -223,7 +223,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 09:35      | Yeah.                                                                                                 |
 | 09:36      | I like the ST-Modes also, they have a nice app in the App Store that allows you to make               |
 | 09:42      | those changes that we're going to kind of go through.                                                 |
-| 09:45      | And overall, having bought about two different third-party beacons, iBeacons, from Amazon,            |
+| 09:45      | And overall, having bought about two different third-party beacons, iBeacons, from [[Amazon]],            |
 | 09:53      | one of them was the most recommended, the Blue Charm beacon, and the app they recommend               |
 | 10:00      | you use to tune it is not been updated for the most recent iPhones.                                   |
 | 10:05      | It is very cryptic how to use it.                                                                     |
@@ -237,11 +237,11 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 10:36      | Now, if you have time to play around with something like this, as this episode releases               |
 | 10:41      | were right before the holiday season, depending on where you are, you may have a good couple          |
 | 10:46      | of holiday days.                                                                                      |
-| 10:47      | With Amazon Prime shipping, you may be able to order, say, five or so different kinds                 |
+| 10:47      | With [[Amazon Prime]] shipping, you may be able to order, say, five or so different kinds                 |
 | 10:51      | of iBeacons and play with them during some of that miraculous free-down time that we                  |
 | 10:55      | have and give them a go.                                                                              |
-| 10:59      | Unfortunately, the ones I ordered, I ordered the Gigaset ones, which on Amazon Germany                |
-| 11:03      | had really great reviews, but mine had a slight issue with the Amazon Korea not being able            |
+| 10:59      | Unfortunately, the ones I ordered, I ordered the Gigaset ones, which on [[Amazon]] Germany                |
+| 11:03      | had really great reviews, but mine had a slight issue with the [[Amazon]] Korea not being able            |
 | 11:09      | to locate the door to my building and saying that there was no entrance.                              |
 | 11:13      | So I unfortunately can't recommend those, but I can't say that they're bad either because             |
 | 11:17      | I haven't got a chance to test them yet.                                                              |
@@ -588,7 +588,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 30:47      | Yeah.                                                                                                 |
 | 30:48      | I mean, the other thing that you can do, and this is something I really wanted to experiment          |
 | 30:51      | with this, but unfortunately I've been really busy this week, so I didn't get a chance to             |
-| 30:55      | make it to the Apple Store for testing purposes.                                                      |
+| 30:55      | make it to the [[Apple Store]] for testing purposes.                                                      |
 | 30:57      | Yeah.                                                                                                 |
 | 30:58      | Yeah.                                                                                                 |
 | 30:59      | There are apps out there.                                                                             |
@@ -596,7 +596,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 31:05      | And this can scan and show you a list of iBeacons around you.                                         |
 | 31:11      | And you might be surprised to find that there are already iBeacons in a lot of places.                |
 | 31:15      | A lot of home automation devices are actually iBeacons.                                               |
-| 31:19      | Apple stores are full of iBeacons.                                                                    |
+| 31:19      | [[Apple Store\|Apple stores]] are full of iBeacons.                                                                    |
 | 31:22      | And there are iBeacons in many, many places.                                                          |
 | 31:25      | So you could use these, you know, instead of attaching one to something or someone.                   |
 | 31:34      | You could just use their signal.                                                                      |
@@ -669,7 +669,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 34:42      | in general, you can pretty much just set them up and run with them and just copy the                  |
 | 34:45      | UID and go, and you don't need to tweak anything.                                                     |
 | 34:48      | The only thing that you may want to change there is the advertising frequency.                        |
-| 34:53      | Apple recommends setting this to 100 milliseconds.                                                    |
+| 34:53      | [[Apple]] recommends setting this to 100 milliseconds.                                                    |
 | 34:56      | This is going to be a little harder on the battery life than the default 300 milliseconds             |
 | 35:01      | that mine came set to, but the batteries are replaceable in the estimates.                            |
 | 35:06      | So that's going to work pretty well.                                                                  |
@@ -681,7 +681,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 35:22      | that is as reliable, and maybe we'll update.                                                          |
 | 35:27      | Maybe I can get this blue charm to work better and I'll report back, and I know Rose has              |
 | 35:31      | a couple that she's ordered as well.                                                                  |
-| 35:34      | But if the Amazon Courier decides that my building has an entrance before this episode                |
+| 35:34      | But if the [[Amazon]] Courier decides that my building has an entrance before this episode                |
 | 35:38      | releases, then I promise I will write up my experience with the Gigaset iBeacons.                     |
 | 35:42      | But I just, I'm not getting a lot of confidence because you need an app that makes it easy            |
 | 35:49      | to go in and edit this data that we're talking about, and Estimote just is the gold standard          |
@@ -693,12 +693,12 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 36:10      | If you're an automator, you should definitely give it a try.                                          |
 | 36:14      | I don't think this is something that's earth-shattering.                                              |
 | 36:17      | I think it is fiddly, it's not going to work necessarily always the way you want it.                  |
-| 36:23      | Because Apple has done such a good job of increasing the other triggers and shortcuts                 |
+| 36:23      | Because [[Apple]] has done such a good job of increasing the other triggers and shortcuts                 |
 | 36:29      | and location and Wi-Fi or two that really stand out to me, but Bluetooth connection                   |
 | 36:34      | is another one.                                                                                       |
 | 36:36      | They do overlap some existing features, so it's not necessarily that something you                    |
 | 36:40      | must do, but it's definitely worth trying.                                                            |
-| 36:43      | Also, if you want to send feedback to Apple and say, hey, why don't we have iBeacons as               |
+| 36:43      | Also, if you want to send feedback to [[Apple]] and say, hey, why don't we have iBeacons as               |
 | 36:48      | triggers and shortcuts?                                                                               |
 | 36:49      | I know they read that feedback.                                                                       |
 | 36:51      | Oh, yeah.                                                                                             |
@@ -922,9 +922,9 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 50:10      | And if you tap that, then you can select different colour devices.                                     |
 | 50:14      | And if you tap the settings icon, then you can choose from different devices.                         |
 | 50:17      | So you could say that you have an iPhone 11 Pro in the fantastic midnight green, or you               |
-| 50:25      | have an iPhone 8 Plus, an iPad Pro, or an Apple Watch Series 4.                                       |
-| 50:30      | And you can actually frame an iPhone screenshot in an Apple Watch Series 4 because it will            |
-| 50:37      | stretch the Apple Watch frame to fit the content, which looks kind of crazy, but that may be          |
+| 50:25      | have an iPhone 8 Plus, an iPad Pro, or an [[Apple Watch]] Series 4.                                       |
+| 50:30      | And you can actually frame an iPhone screenshot in an [[Apple Watch]] Series 4 because it will            |
+| 50:37      | stretch the [[Apple Watch]] frame to fit the content, which looks kind of crazy, but that may be          |
 | 50:45      | the artwork of this chapter.                                                                          |
 | 50:48      | So double check.                                                                                      |
 | 50:49      | Yeah, I do, because I just do a shortcut with an embedded frame, and then I update it whenever        |
@@ -1020,7 +1020,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 55:03      | your link there.                                                                                      |
 | 55:04      | And you're doing that with a [[Drafts]] action.                                                           |
 | 55:06      | Yeah.                                                                                                 |
-| 55:07      | JavaScript action that I wrote.                                                                       |
+| 55:07      | [[JavaScript]] action that I wrote.                                                                       |
 | 55:08      | Yeah.                                                                                                 |
 | 55:09      | You could also do that with [[Keyboard Maestro]] if you wanted.                                           |
 | 55:11      | Yeah, you could.                                                                                      |
@@ -1036,7 +1036,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 55:27      | Yeah.                                                                                                 |
 | 55:28      | I mean, maybe, maybe that's your hard work for this week.                                             |
 | 55:31      | I don't know.                                                                                         |
-| 55:32      | It's a thing you could do in [[Keyboard Maestro]] without running JavaScript.                             |
+| 55:32      | It's a thing you could do in [[Keyboard Maestro]] without running [[JavaScript]].                             |
 | 55:34      | You could, you could just make it an easy search and replace and a, a variable for the, and           |
 | 55:39      | a, and a pace, or you could even just grab the clipboard contents and automatically insert            |
 | 55:43      | it.                                                                                                   |
@@ -1065,7 +1065,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 57:00      | That's kensington.com/automators to learn more.                                                        |
 | 57:04      | Our thanks to Kensington for their support of this show and all of Relay FM.                         |
 | 57:09      | So David, I'm not the only person who's been solving automation problems, am I?                       |
-| 57:13      | Yeah, but I haven't been writing any JavaScript.                                                      |
+| 57:13      | Yeah, but I haven't been writing any [[JavaScript]].                                                      |
 | 57:15      | Mine is a little more basic, but I took a real hard look at my legal setup automation                 |
 | 57:23      | in the last few weeks.                                                                                |
 | 57:24      | You know, I've got this [[Stream Deck]] that I love, and I'm working on an update to the                  |
@@ -1221,8 +1221,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:06:44   | But you want to buy yourself something fun in the new year, [[Stream Deck]] may be on your                |
 | 01:06:49   | list.                                                                                                 |
 | 01:06:50   | Yes.                                                                                                  |
-| 01:06:51   | I got mine on Amazon.                                                                                 |
-| 01:06:53   | It said that it was, so it was one of the Amazon warehouse deals.                                     |
+| 01:06:51   | I got mine on [[Amazon]].                                                                                 |
+| 01:06:53   | It said that it was, so it was one of the [[Amazon]] warehouse deals.                                     |
 | 01:06:58   | And it said it had some minor scratches on the front and or rear side and it's mint condition.        |
 | 01:07:04   | I'm really happy with it and it works perfectly.                                                      |
 | 01:07:07   | It's a really lovely little device and it's nice, it's fun to sit down and literally press            |

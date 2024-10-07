@@ -114,12 +114,12 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 02:17      | And you know, you helped me generate that when we used a race for it.                              |
 | 02:20      | It's more complicated than a very simple text list, but I'm really happy with it.                  |
 | 02:26      | Either way, today we wanted to talk about [[Safari]] automation and I know this is a very              |
-| 02:32      | narrow topic, but [[Safari]] is Apple's browser.                                                       |
+| 02:32      | narrow topic, but [[Safari]] is [[Apple|Apple's]] browser.                                                       |
 | 02:36      | They use it across all their devices.                                                              |
 | 02:39      | The reason I use [[Safari]] more than any other is because it's so respectful of battery life          |
 | 02:45      | compared to its competitors.                                                                       |
 | 02:47      | And I do a lot of stuff on mobile, you know, when you're in your laptop, your iPad, your           |
-| 02:50      | iPhone, you don't watch your browser killing your battery and Apple does a good job of             |
+| 02:50      | iPhone, you don't watch your browser killing your battery and [[Apple]] does a good job of             |
 | 02:54      | that.                                                                                              |
 | 02:55      | I'm also pretty invested in iCloud and I like the way it shares tabs and does things.              |
 | 02:59      | But there are limitations and we're going to talk about that today.                                |
@@ -181,7 +181,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 06:19      | But I do think you kind of have a great point that the first step of automating [[Safari]] is          |
 | 06:25      | in the setup of the application.                                                                   |
 | 06:28      | I think a lot of people just go with the default setups and those are okay, but those are made     |
-| 06:34      | by Apple for all consumers.                                                                        |
+| 06:34      | by [[Apple]] for all consumers.                                                                        |
 | 06:35      | But if you're an automator, you may need to take it up a much.                                     |
 | 06:39      | Yeah.                                                                                              |
 | 06:40      | Yeah.                                                                                              |
@@ -379,7 +379,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 19:02      | them to the search result.                                                                         |
 | 19:05      | If I copy the link from [[DuckDuckGo]], I get the link that is the real link.                          |
 | 19:09      | It's the end result.                                                                               |
-| 19:10      | So if I was searching for Apple, then the Google link would be Google blah blah blah               |
+| 19:10      | So if I was searching for [[Apple]], then the Google link would be Google blah blah blah               |
 | 19:14      | blah blah blah blah blah blah blah blah, you know, something very decipherable.                    |
 | 19:18      | And then if I copy it from..go, it'll be apple.com, or HTTPS colon, www.apple.com.                 |
 | 19:26      | And that is just something that I really like, because it can give somebody the real link.         |
@@ -398,7 +398,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 20:15      | currently there,..go has 13,563 bangs.                                                             |
 | 20:20      | And what that is, is it's an exclamation point plus a code that allows you to do searches          |
 | 20:26      | directly on other search platforms.                                                                |
-| 20:30      | Like if you wanted to do an Amazon search in..go, you just type exclamation point A                |
+| 20:30      | Like if you wanted to do an [[Amazon]] search in..go, you just type exclamation point A                |
 | 20:37      | and then space and then the search, and you just do that in your search bar.                       |
 | 20:40      | You can also put that exclamation mark at the end, because every so often I'll do this.            |
 | 20:44      | If I, and I haven't needed to do this in a long time, but every so often I'd search for            |
@@ -409,9 +409,9 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 21:00      | I didn't know that.                                                                                |
 | 21:01      | There we go.                                                                                       |
 | 21:02      | Well, there we go.                                                                                 |
-| 21:03      | We both learned something today, because I didn't realise that an Amazon search was                |
+| 21:03      | We both learned something today, because I didn't realise that an [[Amazon]] search was                |
 | 21:05      | part of this.                                                                                      |
-| 21:06      | I usually use [[Alfred]] to search Amazon, but that's one of those things where you don't              |
+| 21:06      | I usually use [[Alfred]] to search [[Amazon]], but that's one of those things where you don't              |
 | 21:10      | necessarily want to do that.                                                                       |
 | 21:12      | And maybe if you're listening, you're saying, but Dave, Rose, I really love Google search.         |
 | 21:16      | I think the results are good, and I want to use those sometimes.                                   |
@@ -603,7 +603,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 32:56      | And for over the years, I had got the habit of going into the URL bar, you know, and just          |
 | 33:02      | grabbing that text and saving it to OmniFocus with that built-in shortcut.                         |
 | 33:06      | But OmSave is so much better.                                                                      |
-| 33:10      | I mean, this is one that almost needs to be Sherlocked by the Omni Group.                           |
+| 33:10      | I mean, this is one that almost needs to be [[Sherlocking\|Sherlocked]] by the Omni Group.                           |
 | 33:14      | But it's a great little feature, and I'm with you 100% on that.                                    |
 | 33:19      | But there are more.                                                                                |
 | 33:20      | There are definitely more.                                                                         |
@@ -806,7 +806,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 45:37      | Is that automation?                                                                                |
 | 45:38      | I don't know, but it does make your writing better.                                                |
 | 45:41      | And then the Readwise apps, I'm a big fan of Readwise and it's a space repetition system           |
-| 45:47      | for the stuff I read in Amazon and on the web.                                                     |
+| 45:47      | for the stuff I read in [[Amazon]] and on the web.                                                     |
 | 45:50      | And they now have a reader app, it's still in beta, but they've got plug-ins for that              |
 | 45:54      | too.                                                                                               |
 | 45:55      | So saving stuff to Readwise, accessing Readwise and saving to their reader is very useful to       |
@@ -887,16 +887,16 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 50:30      | like that.                                                                                         |
 | 50:31      | And that works very well for me.                                                                   |
 | 50:33      | And I've emptied this up a little bit with some [[AppleScript]].                                       |
-| 50:39      | So what I do with the AppleScript is I have AppleScript open a new web page or a new window,       |
+| 50:39      | So what I do with the [[AppleScript]] is I have [[AppleScript]] open a new web page or a new window,       |
 | 50:48      | sorry, brand new window in [[Safari]].                                                                 |
 | 50:51      | So it's just a new empty window.                                                                   |
 | 50:53      | And then it'll open up one particular web page that I use all the time whenever I am               |
 | 50:58      | podcasting, and that is [[DuckDuckGo]].                                                                |
-| 51:01      | And so this is just a little AppleScript that opens a new window with [[DuckDuckGo]].                  |
+| 51:01      | And so this is just a little [[AppleScript]] that opens a new window with [[DuckDuckGo]].                  |
 | 51:05      | And so that gets run before any of my tab group sets.                                              |
 | 51:09      | And I say tab group sets, I'm not talking [[Safari]] tab groups, I'm just talking about sets           |
 | 51:13      | of tabs that I need to open for, you know, automation purposes in bunch.                           |
-| 51:19      | So it will first run that AppleScript and then it will open the pages I need.                      |
+| 51:19      | So it will first run that [[AppleScript]] and then it will open the pages I need.                      |
 | 51:25      | So for automators, I'll be, you know, the thanks for our sponsors and the really CMS               |
 | 51:29      | so we can save all those good links and our automators base, which works very well for             |
 | 51:34      | me.                                                                                                |
@@ -954,7 +954,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 55:33      | Um, and, you know, hopefully at some point, if we get better tab group support and other           |
 | 55:37      | automation things, then, um, you know, just like a bunch can open different [[Google Chrome\|Chrome]] profiles,       |
 | 55:43      | maybe, you know, it can also open things in particular [[Safari]] tab groups that will be              |
-| 55:47      | really cool, assuming that, you know, Apple give, you know, the support, uh, for this              |
+| 55:47      | really cool, assuming that, you know, [[Apple]] give, you know, the support, uh, for this              |
 | 55:55      | because right now that's kind of missing, but, uh, yeah, just to, just to continue on              |
 | 55:59      | obviously, um, you know, [[Keyboard Maestro]] also has some great integration options.                 |
 | 56:04      | Um, and one of the things that I do, um, which, you know, maybe, maybe this is over the top        |
@@ -973,20 +973,20 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 57:02      | window or wait for [[Safari]] to finish loading and focus this field, um, or, you know, set            |
 | 57:10      | this field to this text or set this checkbox and submit the form, you know, like it's,             |
 | 57:16      | it's kind of crazy, like in a very good way just to be clear, um, but yeah, and it can             |
-| 57:20      | even execute JavaScript in [[Safari]], which if you're going, wait, what?                              |
-| 57:25      | Bookmarklet just like, you know, um, shortcuts can run, um, JavaScript on a web page in [[Safari]].     |
+| 57:20      | even execute [[JavaScript]] in [[Safari]], which if you're going, wait, what?                              |
+| 57:25      | Bookmarklet just like, you know, um, shortcuts can run, um, [[JavaScript]] on a web page in [[Safari]].     |
 | 57:31      | That's a bookmarklet and [[Keyboard Maestro]] can do the same thing.                                   |
 | 57:35      | Yeah.                                                                                              |
 | 57:36      | And, and that is, you know, where you go next level with it.                                       |
 | 57:39      | I mean, starting is opening a group of tabs and then beyond that is having it operate              |
 | 57:44      | on those tabs.                                                                                     |
-| 57:45      | And that's where I think a tool like [[Keyboard Maestro]] and AppleScript become kind of essential    |
+| 57:45      | And that's where I think a tool like [[Keyboard Maestro]] and [[AppleScript]] become kind of essential    |
 | 57:50      | because that, that's what you need to like go to that next level.                                  |
 | 57:53      | Um, and I do want to talk about tab groups, let's, let's hold off on that because I think          |
 | 57:58      | for a lot of people, especially right now as things stand, um, opening them through traditional    |
 | 58:05      | automation means like a bunch shortcut or [[Keyboard Maestro]] is frankly the best way, but there's    |
 | 58:10      | pieces of this.                                                                                    |
-| 58:11      | Like one of the things Rose did that I thought was really smart is she runs an AppleScript        |
+| 58:11      | Like one of the things Rose did that I thought was really smart is she runs an [[AppleScript]]        |
 | 58:15      | to open essentially a new window and that way this tab group you open has a distinct               |
 | 58:21      | place that exists in, um, another way you could do that is you could close your [[Safari]]             |
 | 58:27      | window via automation, which you can do in shortcuts and, and [[Keyboard Maestro]], I'm not,           |
@@ -1003,7 +1003,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 59:02      | Yeah.                                                                                              |
 | 59:03      | Um, and then I open a new one and I just open the tabs that I need and that's it.                  |
 | 59:07      | Um, and by the way, when you open a new [[Safari]] window, it has to have a tab, which is why,         |
-| 59:12      | you know, for me, it'll be the start page, but that's why I will use AppleScript specifically     |
+| 59:12      | you know, for me, it'll be the start page, but that's why I will use [[AppleScript]] specifically     |
 | 59:17      | to open it with the URL for Dr. Go because that way it's not opening my start page.                |
 | 59:22      | And then, you know, if I want to get rid of that, because I activate it using command              |
 | 59:25      | one, um, which you can, you can execute through anything, um, then, um, yeah, then I can,          |
@@ -1022,7 +1022,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:00:14   | You know, there are points where shortcuts does good and other points where it falls               |
 | 01:00:18   | down.                                                                                              |
 | 01:00:19   | There's one huge gaping problem, which we're going to talk about when we get to talking            |
-| 01:00:23   | about tab groups, um, but the, uh, in general, I feel like the Apple's done a pretty good          |
+| 01:00:23   | about tab groups, um, but the, uh, in general, I feel like the [[Apple|Apple's]] done a pretty good          |
 | 01:00:28   | job of giving us a nice set of tools to, uh, to automate [[Safari]] with other than opening            |
 | 01:00:34   | tabs.                                                                                              |
 | 01:00:35   | What other things do you do with shortcuts in [[Safari]]?                                              |
@@ -1117,7 +1117,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:06:13   | So you actually know that it does do what you think it does.                                       |
 | 01:06:16   | Um, you know, the downside is you are running code in your browser, um, but the upside is,         |
 | 01:06:21   | you know, then this, this can work in any browser, including on iOS, um, because I recently        |
-| 01:06:26   | had, uh, too many saved items or safe for later items in my Amazon basket.                         |
+| 01:06:26   | had, uh, too many saved items or safe for later items in my [[Amazon]] basket.                         |
 | 01:06:30   | Um, and it was just one of those things where I was like, I'm running into the problem of          |
 | 01:06:33   | I can't find the things that I've definitely wanting to get later because I had too many           |
 | 01:06:36   | things safe for later.                                                                             |
@@ -1125,7 +1125,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:06:43   | actively say for later into my, move them back to my regular basket and then used a                |
 | 01:06:47   | little, uh, bookmarklet to get rid of all of the things from my safe for later section.            |
 | 01:06:52   | And that solved that problem very nicely.                                                          |
-| 01:06:54   | And we talk about the find and click on image feature and keyboard master every two or three       |
+| 01:06:54   | And we talk about the find and click on image feature and [[Keyboard Maestro}] every two or three       |
 | 01:06:59   | shows here because it's just such a, an excellent automation tool, but it really is the tool       |
 | 01:07:05   | of last resort because when you're asking the computer to find an image on the screen              |
 | 01:07:11   | and click it automatically, there, there's always things that can go wrong.                        |
@@ -1186,7 +1186,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:10:14   | We can.                                                                                            |
 | 01:10:15   | I do love TAB groups.                                                                              |
 | 01:10:19   | They're pretty awesome.                                                                            |
-| 01:10:20   | TAB groups are a feature Apple added, I believe two years ago now, where it solves the problem     |
+| 01:10:20   | TAB groups are a feature [[Apple]] added, I believe two years ago now, where it solves the problem     |
 | 01:10:27   | we were talking about in the last segment of opening up a group of tabs to do a specific           |
 | 01:10:30   | task and then you can have them and you can just jump between them with a click of the             |
 | 01:10:36   | mouse on the Mac or a selection on the iPhone and iPad.                                            |
@@ -1203,7 +1203,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:11:18   | Any time I want, I click on one of those and it just opens them up for me, gives me exactly        |
 | 01:11:22   | what I want.                                                                                       |
 | 01:11:24   | I love them, but then there is a but.                                                              |
-| 01:11:29   | Apple hasn't got its Automation Act together fully with this stuff yet.                            |
+| 01:11:29   | [[Apple]] hasn't got its Automation Act together fully with this stuff yet.                            |
 | 01:11:33   | No, the thing that for me is missing straight off the bat is reset my TAB group.                   |
 | 01:11:38   | I want to be able to reset my TAB group back to just those tabs that I had when I started,         |
 | 01:11:45   | because my TAB group is actually something that this is the basis and then I'm going               |
@@ -1268,7 +1268,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:15:12   | Yeah.                                                                                              |
 | 01:15:13   | I mean, that's not just what we want, that's what we need, because we shouldn't have to            |
 | 01:15:18   | be going through, oh, so if this is a Mac, then I want to run a [[Keyboard Maestro]] macro.            |
-| 01:15:24   | If this is an iPhone or an iPad, then I want to do this, and if this is an Apple Watch,            |
+| 01:15:24   | If this is an iPhone or an iPad, then I want to do this, and if this is an [[Apple Watch]],            |
 | 01:15:28   | how on earth did this start running in the first place?                                            |
 | 01:15:30   | I just want to exit, and it gets very frustrating when you're trying to deal with all that.        |
 | 01:15:35   | Honestly, if they get it sorted out, I mean, we're recording this just a little bit before         |
@@ -1304,7 +1304,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:17:35   | a nice solution, and then it'd be very easy to see the kind of junk tabs that get added            |
 | 01:17:41   | as you're doing the project and make it really easy to clear those out, and then kind of reset     |
 | 01:17:45   | it, like you were saying.                                                                          |
-| 01:17:49   | Apple just give me and Rose a day up there to talk to a couple of engineers, but we'll             |
+| 01:17:49   | [[Apple]] just give me and Rose a day up there to talk to a couple of engineers, but we'll             |
 | 01:17:52   | sort it out for you, no problem.                                                                   |
 | 01:17:54   | I think, David, you've just made me realise I've had a [[Safari]] bug every once in a while            |
 | 01:17:58   | where a tab can't be moved to another window, like it kind of duplicates itself into the           |

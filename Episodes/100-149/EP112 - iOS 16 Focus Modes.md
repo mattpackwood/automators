@@ -59,7 +59,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 00:28      | Yeah.                                                                                                   |
 | 00:29      | Yeah, we are.                                                                                           |
 | 00:30      | But I thought, before we dive into that, I mean, it's focus mode adjacent, but I decided                |
-| 00:36      | that I was going to go strap an iPad Pro to my wrist, or, well, it's an Apple Watch Ultra,              |
+| 00:36      | that I was going to go strap an iPad Pro to my wrist, or, well, it's an [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]],              |
 | 00:43      | but for me, it certainly feels like it's an iPad Pro, but I'm really liking it.                         |
 | 00:48      | Did you get one, David?                                                                                 |
 | 00:49      | Yeah, I did.                                                                                            |
@@ -80,12 +80,12 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:39      | My wrist is pretty much the size of the old 38-mil watch, which is slowly over the years                |
 | 01:45      | grown to 42-mil, but they have managed to, more or less, without increasing the casing                  |
 | 01:50      | size that much.                                                                                         |
-| 01:52      | So the Apple Watch Ultra is a look on me.                                                               |
+| 01:52      | So the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] is a look on me.                                                               |
 | 01:55      | It is a big chunky watch, but you know what, I actually really like it.                                 |
 | 02:01      | It is pretty big, but it's not too big.                                                                 |
 | 02:07      | It's not too crazy, and it certainly just, you know, it feels chunky, but I think the                   |
 | 02:14      | trade-off in extra battery life is going to be great, speaking of which, I really need                  |
-| 02:17      | to set it up so that when I go into my podcasting focus mode, it checks my Apple Watch battery          |
+| 02:17      | to set it up so that when I go into my podcasting focus mode, it checks my [[Apple Watch]] battery          |
 | 02:21      | level and then tells me to charge it if it needs to, because with this new battery, I                   |
 | 02:25      | keep forgetting to charge the darn thing.                                                               |
 | 02:27      | It's great.                                                                                             |
@@ -100,7 +100,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 02:52      | 100%.                                                                                                   |
 | 02:53      | If they had offered the smaller one, this would have been a no-brainer instead of me slowly             |
 | 02:57      | trying to talk myself into it for a couple of weeks and then managing to get an appointment             |
-| 03:02      | at the Apple Store to pick one up on launch day, which they still had them in stock when                |
+| 03:02      | at the [[Apple Store]] to pick one up on launch day, which they still had them in stock when                |
 | 03:07      | I left, which was good to know.                                                                         |
 | 03:10      | But yeah, it's one of those things, especially coming from the smaller watch.                           |
 | 03:14      | That means that none of my previous straps fit, which is just a little bit sad, but you                 |
@@ -113,7 +113,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 03:48      | But I like the band that came with it, it's already dirty.                                              |
 | 03:51      | The orange one got dirty pretty fast, but overall I just think it's great and super                     |
 | 03:57      | happy with it.                                                                                          |
-| 03:58      | But I have a little bit of an automation crisis related to the Apple Watch Ultra, and that              |
+| 03:58      | But I have a little bit of an automation crisis related to the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]], and that              |
 | 04:04      | is there's an extra button Rose, and the button can be used to program a shortcut.                      |
 | 04:10      | And it's like, what do you do?                                                                          |
 | 04:13      | You have one button that can program.                                                                   |
@@ -150,7 +150,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 06:14      | So what I'm doing is I'm just saying, hey, if it's this, do the thing and stop the shortcut             |
 | 06:18      | and that's it, the end of story.                                                                        |
 | 06:21      | So yeah, and then the final thing that it does, if none of the things apply, I get a                    |
-| 06:25      | list of my Apple watch faces, I get a random item from that list, because you can get use               |
+| 06:25      | list of my [[Apple Watch]] faces, I get a random item from that list, because you can get use               |
 | 06:31      | the get from list action with a random parameter.                                                       |
 | 06:34      | And it gives you the random item.                                                                       |
 | 06:36      | And then you can set your active watch face to the outcome of the list.                                 |
@@ -167,7 +167,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 07:14      | So I've got it set up to be, you know, it's covered the vast majority of cases.                         |
 | 07:20      | It's just if I press this and I'm not in any focus mode, I think what it should probably                |
 | 07:24      | do is start timer for me, like start, or prompt me to start some kind of timer, because that            |
-| 07:30      | is one of the frequent things I do on the Apple watch, but I've not gone around to that                 |
+| 07:30      | is one of the frequent things I do on the [[Apple Watch]], but I've not gone around to that                 |
 | 07:34      | yet.                                                                                                    |
 | 07:35      | I'd like to go back to something.                                                                       |
 | 07:37      | Just to make sure everybody caught that is there is a problem with shortcuts in the sense               |
@@ -203,7 +203,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 09:20      | list to see if you're in driving mode or whatever.                                                      |
 | 09:24      | And it's very ingenious throws.                                                                         |
 | 09:26      | As always, you come up with great ideas to make this stuff easier for us.                               |
-| 09:30      | I would like to see Apple come up with ways to do this better.                                          |
+| 09:30      | I would like to see [[Apple]] come up with ways to do this better.                                          |
 | 09:34      | So we don't have to make these, so, you know, these funny hacks, but it works.                          |
 | 09:40      | And I strongly recommend everybody that's got one of these ultra watches, take a look                   |
 | 09:44      | at Rosa's script, because I think this is the way you do it.                                            |
@@ -234,8 +234,8 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 11:14      | That is the default setting.                                                                            |
 | 11:16      | And that is a fun experience to discover in a crowded mall.                                             |
 | 11:21      | I was not the person who discovered this, I would like to point out, I was the person                   |
-| 11:25      | who was still setting up my Apple Watch, sitting there eating some sushi, and the person next           |
-| 11:29      | to me was setting up their Apple Watch and they were playing with it and they pressed                   |
+| 11:25      | who was still setting up my [[Apple Watch]], sitting there eating some sushi, and the person next           |
+| 11:29      | to me was setting up their [[Apple Watch]] and they were playing with it and they pressed                   |
 | 11:32      | and held the button.                                                                                    |
 | 11:33      | And we all regretted that.                                                                              |
 | 11:35      | We all regretted that decision.                                                                         |
@@ -263,7 +263,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 12:53      | I think this was here for recreational diving.                                                          |
 | 12:57      | I mean, it only goes to basically a hundred feet and people, those are pretty safe dives.               |
 | 13:03      | You can do those regularly.                                                                             |
-| 13:06      | I do wonder, like I just want to see in a year how many divers are using the Apple Watch                |
+| 13:06      | I do wonder, like I just want to see in a year how many divers are using the [[Apple Watch]]                |
 | 13:11      | as opposed to a dedicated dive computer, but you know, I could see that a lot of recreational           |
 | 13:16      | divers may do it.                                                                                       |
 | 13:17      | I mean, it seems like the software is good.                                                             |
@@ -284,17 +284,17 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 14:19      | two really big tricks.                                                                                  |
 | 14:21      | Give me a shortcut section that lets me configure this and tie it into those focus modes.               |
 | 14:27      | Let me have like my default action button mode here in the watch app, and then let me                   |
-| 14:33      | change it in a focus mode setting, because they've already brought the Apple Watch faces                |
+| 14:33      | change it in a focus mode setting, because they've already brought the [[Apple Watch]] faces                |
 | 14:38      | into focus modes.                                                                                       |
 | 14:40      | And so this to me seems like an obvious natural extension, but I mean, you can't even configure         |
 | 14:45      | the action button per watch face, which to me would be the other way that I would want                  |
 | 14:52      | to configure it or think that I could configure it.                                                     |
 | 14:55      | But that said, you know, I'm able to work around this pretty nicely with a shortcut.                    |
 | 15:00      | It turns off if you turn off the show when run action for the setting your watch face                   |
-| 15:07      | in the Apple Watch, in the shortcut that you're going to use with your Ultra button, it significantly   |
+| 15:07      | in the [[Apple Watch]], in the shortcut that you're going to use with your Ultra button, it significantly   |
 | 15:12      | speeds things up.                                                                                       |
 | 15:13      | That caught me out for the first error or so when I was playing with it.                                |
-| 15:16      | So I was like, shortcuts shouldn't be this slow on my Apple Watch, you know, like it's,                 |
+| 15:16      | So I was like, shortcuts shouldn't be this slow on my [[Apple Watch]], you know, like it's,                 |
 | 15:21      | I'm aware it's no, it's not exactly, you know, my Mac Studio, but it's still a pretty                   |
 | 15:27      | good device.                                                                                            |
 | 15:29      | What's happening here?                                                                                  |
@@ -306,7 +306,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 15:45      | having this option.                                                                                     |
 | 15:46      | I think I need to do more with like getting my calendar and tying things into what's                    |
 | 15:51      | in my calendar and so on so that I know more context for all of this.                                   |
-| 15:56      | Well, I do think that, you know, Apple's trying to keep it simple.                                      |
+| 15:56      | Well, I do think that, you know, [[Apple|Apple's]] trying to keep it simple.                                      |
 | 16:00      | And they're like, if you're a runner and you want to do your splits with the action                     |
 | 16:04      | button, I can see the arguments being saying, no, if the, if the user picked this action,               |
 | 16:10      | then we want it to run no matter what focus mode they're in, no matter what watch face                  |
@@ -329,7 +329,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 17:04      | But if you choose a watch face for your focus mode, but then still you can, you can change              |
 | 17:11      | watch faces while you're in a focus mode.                                                               |
 | 17:13      | I feel like maybe skip the watch face preference.                                                       |
-| 17:15      | There we go, Apple, we've just solved your crisis for you because obviously you were                    |
+| 17:15      | There we go, [[Apple]], we've just solved your crisis for you because obviously you were                    |
 | 17:19      | having a crisis, not better.                                                                            |
 | 17:21      | Yeah.                                                                                                   |
 | 17:22      | Fingers crossed, there'll be options to improve this a little bit further, which will be pretty         |
@@ -366,8 +366,8 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 19:04      | it is.                                                                                                  |
 | 19:05      | You can have multiple shortcuts and run multiple shortcuts within this, which is how I do it.           |
 | 19:11      | Because then I can also reuse those shortcuts whenever I like, because a lot of those shortcuts,        |
-| 19:16      | especially things like setting my watch face, those are on my Apple Watch as well, so that              |
-| 19:20      | I can run them from the Apple Watch.                                                                    |
+| 19:16      | especially things like setting my watch face, those are on my [[Apple Watch]] as well, so that              |
+| 19:20      | I can run them from the [[Apple Watch]].                                                                    |
 | 19:21      | I think a good rule of thumb with shortcuts is always, if you can break it down to a smaller            |
 | 19:26      | unit, then do that.                                                                                     |
 | 19:28      | Because it costs you nothing to make a shortcut that says run these two shortcuts.                      |
@@ -412,7 +412,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 21:54      | better than that.                                                                                       |
 | 21:56      | Switch to Amazon Pharmacy and save time, save money, and stay healthy.                                  |
 | 22:00      | Learn more at amazon.com/automators.                                                              |
-| 22:03      | That's AMAZON.com/automators.                                                                     |
+| 22:03      | That's amazon.com/automators.                                                                     |
 | 22:07      | Those average savings are based on usage and inside RX data as compared to cash prices.                 |
 | 22:13      | Average savings for all generics are 78%, 37% for selected brand medications, and restrictions          |
 | 22:20      | do apply.                                                                                               |
@@ -423,9 +423,9 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 22:36      | I mentioned this briefly on the show during [[WWDC]], but I feel like now that it's shipped                 |
 | 22:41      | we've got a much better idea of all the improvements to focus modes with iOS 16.                        |
 | 22:48      | Where do you want to start?                                                                             |
-| 22:50      | I want to start with the Sherlock Shortcuts Actions, which, to be clear, are still present              |
-| 22:54      | in shortcuts.                                                                                           |
-| 22:55      | But I feel like the fact that Apple have taken what a lot of people were doing with shortcuts           |
+| 22:50      | I want to start with the [[Sehrlocking\|Sherlocked]] [[Shortcuts]] Actions, which, to be clear, are still present              |
+| 22:54      | in [[Shortcuts]].                                                                                           |
+| 22:55      | But I feel like the fact that [[Apple]] have taken what a lot of people were doing with shortcuts           |
 | 23:02      | related to the focus modes and brought that into the focus modes itself is, A, fabulous.                |
 | 23:09      | I'm really pleased to see that they're clearly making the use of this anonymous feedback                |
 | 23:13      | and data tracking that they get to see what people are doing, and B, it's just really                   |
@@ -1037,7 +1037,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 59:58      | Hey, hey, hey, how are you today?                                                                       |
 | 59:59      | You know, quite understated.                                                                            |
 | 01:00:00   | I found that I'm being a bit more selective about my wallpapers now, which is possibly                  |
-| 01:00:05   | not the effect that Apple intended with the whole, you know, fancy new lock screen with                 |
+| 01:00:05   | not the effect that [[Apple]] intended with the whole, you know, fancy new lock screen with                 |
 | 01:00:10   | the, the portrait mode.                                                                                 |
 | 01:00:13   | So, you know, we'll have to see how that goes.                                                          |
 | 01:00:17   | But for me, I found the, you know, darker wallpapers with, with pops of colour on them                   |
@@ -1150,7 +1150,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:07:09   | And I know the [[Rogue Amoeba]] apps are working now, but they, they always say, you know,                  |
 | 01:07:16   | like stay off the betas because, you know, we're not going to support them day one.                     |
 | 01:07:21   | It will probably crash or do something because the audio drivers get monkey with every year             |
-| 01:07:26   | thanks to Apple.                                                                                        |
+| 01:07:26   | thanks to [[Apple]].                                                                                        |
 | 01:07:27   | And so they have to go deal with that.                                                                  |
 | 01:07:30   | And in general, it's just a case of, it's a bit more difficult to river a Mac back                      |
 | 01:07:35   | if there's a big problem with something, you know, like restoring a backup on iOS.                      |
@@ -1174,7 +1174,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:08:26   | They just don't update until the thing releases and that may not even be immediate, but they're         |
 | 01:08:34   | very clear.                                                                                             |
 | 01:08:35   | They're not going to have an open public beta.                                                          |
-| 01:08:38   | They're just going to deal with it when Apple's done.                                                   |
+| 01:08:38   | They're just going to deal with it when [[Apple|Apple's]] done.                                                   |
 | 01:08:44   | So that's a problem because I do a lot of screen casting related to personal is one                     |
 | 01:08:49   | that I have that's even more focused.                                                                   |
 | 01:08:51   | It's the Disneyland one.                                                                                |
@@ -1330,7 +1330,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:18:24   | So it's going to look for the watch and try, but there's only so much it can do when it,                |
 | 01:18:29   | when it tries to do that.                                                                               |
 | 01:18:30   | So yeah, I'm, I'm, I'm really impressed with how much this has improved to the point that               |
-| 01:18:35   | Apple of, you know, borrowed from the shortcut team and pulled it into the focus modes itself           |
+| 01:18:35   | [[Apple]] of, you know, borrowed from the shortcut team and pulled it into the focus modes itself           |
 | 01:18:40   | because they've, they've been able to, to set that up to be a bit more consistent and                   |
 | 01:18:44   | that is just great.                                                                                     |
 | 01:18:46   | And I'm really enjoying the fact that all of this has, you know, really pulled together                 |
@@ -1370,7 +1370,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:21:28   | this.                                                                                                   |
 | 01:21:29   | Yeah.                                                                                                   |
 | 01:21:30   | Yeah.                                                                                                   |
-| 01:21:31   | I'd also really like to see more of the Apple apps hop on this bandwagon, you know, [[Apple Reminders\|Reminders]]           |
+| 01:21:31   | I'd also really like to see more of the [[Apple]] apps hop on this bandwagon, you know, [[Apple Reminders\|Reminders]]           |
 | 01:21:35   | is an obvious candidate with the lists.                                                                 |
 | 01:21:38   | And you know, the artwork one, actually, it would be quite nice to say like, hey, like                  |
 | 01:21:42   | folders, like these folders are the folders that I like want to be like the default folders             |
@@ -1390,7 +1390,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:22:44   | for things like that.                                                                                   |
 | 01:22:46   | So I guess we're going to see what happens with all of this, but you know, there's certainly            |
 | 01:22:53   | a lot that's already been done, which is great.                                                         |
-| 01:22:55   | Yeah, and like, I could see future apps like Apple, why not bring notes into the game?                  |
+| 01:22:55   | Yeah, and like, I could see future apps like [[Apple]], why not bring notes into the game?                  |
 | 01:23:01   | You know, just like graph seed, you could have a display folder or I can move a tag                     |
 | 01:23:06   | filter.                                                                                                 |
 | 01:23:07   | There's a several ways you could do it.                                                                 |
@@ -1434,7 +1434,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:25:19   | So when I start podcasting and it goes into focus mode, but I keep coming back to the                   |
 | 01:25:24   | manual process.                                                                                         |
 | 01:25:25   | This is one for, for whatever reason, I don't think I want to automate it.                              |
-| 01:25:30   | I think the process of triggering the focus modes and Apple makes it trivially easy.                    |
+| 01:25:30   | I think the process of triggering the focus modes and [[Apple]] makes it trivially easy.                    |
 | 01:25:35   | Like you can swipe up on the watch and there it is.                                                     |
 | 01:25:38   | You push a button or up in the menu bar in the Mac or down in the tool control centre                   |
 | 01:25:43   | on the iPhone and iPad, but they make it really easy to set, to set them.                               |
@@ -1703,7 +1703,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:42:14   | my wife and kids at that point.                                                                         |
 | 01:42:15   | But that that's the advantage of these focus modes is you can create custom ones.                       |
 | 01:42:20   | And my recommendation, anybody listening, use all 10 slots, you know, they're free,                     |
-| 01:42:25   | you know, and, yeah, maybe everybody uses all 10 Apple will add another 10.                             |
+| 01:42:25   | you know, and, yeah, maybe everybody uses all 10 [[Apple]] will add another 10.                             |
 | 01:42:30   | That would make me happy.                                                                               |
 | 01:42:31   | Yes.                                                                                                    |
 | 01:42:32   | Because there was something for a while where if you added focus mode, so to be clear, those            |
@@ -1723,7 +1723,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:43:32   | option.                                                                                                 |
 | 01:43:33   | Yeah.                                                                                                   |
 | 01:43:34   | Well, we'll have to see what enhancements come.                                                         |
-| 01:43:37   | Fingers crossed, there'll be shortcuts control for that action button on the Apple Watch                |
+| 01:43:37   | Fingers crossed, there'll be shortcuts control for that action button on the [[Apple Watch]]                |
 | 01:43:40   | sometime soon.                                                                                          |
 | 01:43:42   | And you know, maybe we'll get to see some other things sneaking in there too, like [[Apple Reminders\|Reminders]],           |
 | 01:43:48   | getting focus mode filter support.                                                                      |

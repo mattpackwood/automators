@@ -190,8 +190,8 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 07:54      | You touch, you touch on something else though that I want to mention, and that is your keyboard        |
 | 07:58      | itself.                                                                                                |
 | 07:59      | Like, you know, there are different keyboards out there.                                               |
-| 08:01      | Let's talk about the world of Apple keyboards before we get into some of the others.                   |
-| 08:06      | But the, you know, Apple has some great keyboards they're making these days and they've done           |
+| 08:01      | Let's talk about the world of [[Apple]] keyboards before we get into some of the others.                   |
+| 08:06      | But the, you know, [[Apple]] has some great keyboards they're making these days and they've done           |
 | 08:11      | a good job of remapping the function row to common features that you would want, you know,             |
 | 08:18      | starting and stopping music and turning up and down brightness, things like that.                      |
 | 08:22      | But you can also toggle those to be function keys if you want.                                         |
@@ -273,7 +273,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 13:21      | palette ones, which have got blank key caps.                                                           |
 | 13:23      | So there's there's nothing written on the keys.                                                        |
 | 13:26      | And yeah, like I would say that if folks are interested in the idea, you can pick these                |
-| 13:31      | up for less than 10 bucks on Amazon.                                                                   |
+| 13:31      | up for less than 10 bucks on [[Amazon]].                                                                   |
 | 13:33      | So folks should definitely consider this as something to try out and see.                              |
 | 13:39      | And yeah, you know, it might be a really useful pro power tool for you.                                |
 | 13:45      | Or it may not work, but at less than 10 bucks, I would say it's worth a try if you're interested       |
@@ -520,19 +520,19 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 28:16      | Yeah.                                                                                                  |
 | 28:17      | Like, oh, I'm going to have to go buy a soldering iron first type thing.                               |
 | 28:20      | So yeah, a little piece of buyer beware there, but you can definitely have some fun.                        |
-| 28:27      | And as I mentioned before, you could just pick up a number pad off of Amazon or somewhere              |
+| 28:27      | And as I mentioned before, you could just pick up a number pad off of [[Amazon]] or somewhere              |
 | 28:31      | and give that a try to start with and see if that does something because you've got                    |
 | 28:37      | a cheap way to try something out and then you can get nerdy with the other options in                  |
 | 28:43      | a bit.                                                                                                 |
 | 28:44      | All right, let's talk about my sing track pads real quick.                                             |
 | 28:48      | I guess there's there's additional control services game we're going to get there.                     |
 | 28:52      | But let's just talk about what you already have on your desk.                                          |
-| 28:54      | And if you're using an apple magic mouse, there's actually quite a bit you can do with                 |
+| 28:54      | And if you're using an [[Apple Magic Mouse]], there's actually quite a bit you can do with                 |
 | 28:59      | it.                                                                                                    |
 | 29:00      | If you go to the mouse settings, they've got some additional settings where you can                    |
-| 29:03      | do scrolling and swiping with that surface of the apple magic mouse.                                   |
+| 29:03      | do scrolling and swiping with that surface of the [[Apple Magic Mouse]].                                   |
 | 29:08      | But this is another one where [[BetterTouchTool]] really comes to the rescue.                            |
-| 29:13      | The [[BetterTouchTool]], the tool set for the apple magic mouse is I think that's the reason             |
+| 29:13      | The [[BetterTouchTool]], the tool set for the [[Apple Magic Mouse]] is I think that's the reason             |
 | 29:19      | I think that's the original reason better touch will exist was either the mouse of the                 |
 | 29:24      | track that I'm not sure which one came first, but there are so many gestures that they add             |
 | 29:29      | like, you know, one finger tap to the left, you know, scroll up with a modifier key, you               |
@@ -723,7 +723,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 40:35      | But those are two companies that make good stuff.                                                      |
 | 40:38      | The Contour design stuff is plastic, well-made plastic.                                                |
 | 40:44      | The Loop Deck stuff is the build quality is better.                                                    |
-| 40:47      | It almost feels like if Apple made something like this and it's priced appropriately, you              |
+| 40:47      | It almost feels like if [[Apple]] made something like this and it's priced appropriately, you              |
 | 40:51      | know, they're more expensive, but they're very nice.                                                   |
 | 40:55      | But it really requires that you need those types of controls and, you know, you know                   |
 | 41:01      | who you are.                                                                                           |
@@ -805,13 +805,13 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 45:34      | how it works.                                                                                          |
 | 45:35      | Now, does it require, I see they have a dongle, you have to buy the dongle in order to get             |
 | 45:39      | the wireless function or is it?                                                                        |
-| 45:42      | So I bought mine in a little bundle of Amazon that came with the dongle and a little case              |
+| 45:42      | So I bought mine in a little bundle of [[Amazon]] that came with the dongle and a little case              |
 | 45:48      | for it as well, which is really nice.                                                                  |
 | 45:50      | So I can, you know, like take it places without worrying about damaging it.                            |
 | 45:54      | And yeah, so I got a bundle.                                                                           |
 | 45:57      | I don't know, I suspect based on the fact that their product page has the dongle separately,           |
 | 46:02      | that the, the regular, like just buying that on their website wouldn't include it.                     |
-| 46:09      | But yeah, check, check Amazon as well.                                                                 |
+| 46:09      | But yeah, check, check [[Amazon]] as well.                                                                 |
 | 46:12      | I know that I got mine there and it came with the dongle for sure.                                     |
 | 46:17      | And you can also, if you're interested in things like a trackpad, get it with a trackpad               |
 | 46:20      | bundle.                                                                                                |
@@ -1320,7 +1320,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:14:46   | I have one of these.                                                                                   |
 | 01:14:47   | It's not an Elgato one, but it's the same sort of thing where it's in like a tube with                 |
 | 01:14:51   | a pole and then you pop it up and you kind of click to the top of the pole.                            |
-| 01:14:55   | And I picked one of those up from Amazon during the pandemic and I have to say it's a really           |
+| 01:14:55   | And I picked one of those up from [[Amazon]] during the pandemic and I have to say it's a really           |
 | 01:14:58   | useful thing when I need it.                                                                           |
 | 01:14:59   | I don't need it super often, but when I do, it's there.                                                |
 | 01:15:03   | And yeah, it's great because it doesn't take up much space.                                            |

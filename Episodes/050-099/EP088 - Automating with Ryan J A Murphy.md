@@ -202,10 +202,10 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 05:59      | No.                                                                                                    |
 | 06:00      | When I was like a five year old and my parents brought in the first Windows desktop, you               |
 | 06:04      | know, taupe machine into the home office, one of the games was the incredible machine.                 |
-| 06:11      | And it's this old DOS game that is basically a bunch of puzzles that are made up of Rube               |
-| 06:17      | Goldberg machines, right?                                                                              |
+| 06:11      | And it's this old DOS game that is basically a bunch of puzzles that are made up of               |
+| 06:17      | [[Rube Goldberg\|Rube Goldberg Machines]], right?                                                                              |
 | 06:19      | And so when you asked me this question, I was thinking about what my start was.                        |
-| 06:23      | And since so many automations really are Rube Goldberg machines, you know, these contraptions          |
+| 06:23      | And since so many automations really are [[Rube Goldberg\|Rube Goldberg Machines]], you know, these contraptions          |
 | 06:27      | where you stitch together a thousand different little pieces that really probably shouldn't            |
 | 06:31      | work together, but because you're able to fill in the gaps and because so many developers              |
 | 06:35      | have made some brilliant kind of magic glues that fit everything together, you can make                |
@@ -250,7 +250,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 09:00      | And I think with [[Obsidian]], they've really built this app that is so well engineered                    |
 | 09:06      | and well designed on sort of fundamental levels.                                                       |
 | 09:09      | It's like, it's got an API all the way down.                                                           |
-| 09:11      | And if you can play with a little bit of JavaScript, we've actually using that complicated.            |
+| 09:11      | And if you can play with a little bit of [[JavaScript]], we've actually using that complicated.            |
 | 09:16      | I know I say that as somebody with a degree in computer science, but we're actually running            |
 | 09:21      | an event.                                                                                              |
 | 09:22      | Oh, this is the perfect time to talk about an event in this month, we're running [[Obsidian]]              |
@@ -267,7 +267,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 09:57      | whatever way they want.                                                                                |
 | 09:58      | A lot of people are building themes for the first time and getting their hands dirty with              |
 | 10:01      | CSS.                                                                                                   |
-| 10:02      | Some people are building plugins if they are comfortable with JavaScript and TypeScript.               |
+| 10:02      | Some people are building plugins if they are comfortable with [[JavaScript]] and TypeScript.               |
 | 10:06      | And then other people are just like writing documents that help other people with the                  |
 | 10:10      | use of the app or writing workflows or whatever, right?                                                |
 | 10:13      | And it's just a really nice, I mean, I think that represents those principles that I was               |
@@ -309,7 +309,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 12:20      | And yet everybody wants to help each other and build tools that really change what people              |
 | 12:26      | are able to do.                                                                                        |
 | 12:27      | No, I was bragging about the NPU forums earlier.                                                       |
-| 12:30      | I feel like [[Obsidian]]'s the same way.                                                                   |
+| 12:30      | I feel like [[Obsidian\|Obsidian's]] the same way.                                                                   |
 | 12:32      | It's a very supportive environment.                                                                    |
 | 12:34      | Whatever your problem is, somebody will try and help you.                                              |
 | 12:36      | And for any of our listeners that look at the forum, by the way, and think, huh, this                  |
@@ -333,13 +333,13 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 13:23      | modern computer.                                                                                       |
 | 13:24      | So now that everybody wants to go back to dark, I guess it's almost like a fashion thing,              |
 | 13:28      | but it's just not for me.                                                                              |
-| 13:30      | But what I wanted to ask you, you had said earlier, you know, JavaScript is not that                   |
+| 13:30      | But what I wanted to ask you, you had said earlier, you know, [[JavaScript]] is not that                   |
 | 13:35      | difficult and I would agree because I did grow up a nerd and I have played with programming            |
-| 13:41      | over the years, but I am not a computer scientist and I think JavaScript is something anybody          |
+| 13:41      | over the years, but I am not a computer scientist and I think [[JavaScript]] is something anybody          |
 | 13:46      | can learn.                                                                                             |
-| 13:47      | Do you have any places you would recommend folks go to if they want to play with JavaScript            |
+| 13:47      | Do you have any places you would recommend folks go to if they want to play with [[JavaScript]]            |
 | 13:52      | or kind of pick up the basics?                                                                         |
-| 13:54      | Well, I think worrying about learning JavaScript is probably the wrong way to start if you're          |
+| 13:54      | Well, I think worrying about learning [[JavaScript]] is probably the wrong way to start if you're          |
 | 13:58      | just looking to, if you're using [[Obsidian]] and you want to play around with plugin development          |
 | 14:02      | or theme development, it's probably best to just think of that.                                        |
 | 14:06      | That's the main thing that I, the main piece of advice that I would give anybody interested            |
@@ -348,7 +348,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 14:17      | the problem.                                                                                           |
 | 14:18      | But there are a lot of, so actually a little bit of important information, [[Obsidian]] is actually        |
 | 14:25      | written most of the time using, and it's plugins, written most of the time using TypeScript,           |
-| 14:29      | which is a layer on top of JavaScript and Rose, you probably know way more about this                  |
+| 14:29      | which is a layer on top of [[JavaScript]] and Rose, you probably know way more about this                  |
 | 14:32      | than me.                                                                                               |
 | 14:33      | Honestly, I shouldn't have been allowed to graduate with my degree, I did okay, I was                  |
 | 14:39      | an honour student, but only in the books, not in the development skills.                                |
@@ -378,13 +378,13 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 16:13      | And I've had one of those days today, in case you can't tell, but no, no, it's one of those            |
 | 16:19      | things.                                                                                                |
 | 16:20      | I'm beginning to use React, which I'm kind of familiar with, but it's a whole other                   |
-| 16:24      | thing in JavaScript.                                                                                   |
+| 16:24      | thing in [[JavaScript]].                                                                                   |
 | 16:26      | But TypeScript definitely is, it does help make things easier.                                         |
 | 16:30      | What happens for people who are interested in a little bit more of the technical size,                 |
-| 16:33      | that should then be transpiled to JavaScript, which then is what actually gets used inside             |
+| 16:33      | that should then be transpiled to [[JavaScript]], which then is what actually gets used inside             |
 | 16:40      | of the plugin.                                                                                         |
 | 16:41      | But it means that you can say, for example, this thing has to be a Boolean or something,               |
-| 16:46      | which you can't usually do in JavaScript, but because you can do that in TypeScript,                   |
+| 16:46      | which you can't usually do in [[JavaScript]], but because you can do that in TypeScript,                   |
 | 16:50      | it does make programming a little easier.                                                              |
 | 16:52      | So I've got some links to what TypeScript is generically, as well as [[Visual Studio Code]]                |
 | 16:56      | and a link in the forums to the [[Obsidian]] forums to how to start developing a plugin.                   |
@@ -596,7 +596,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 28:35      | It's the ability to add a [[Kanban]] plugin and build your own personal project management                 |
 | 28:41      | system into the app.                                                                                   |
 | 28:42      | It's just like, it's the way that the thing morphs into whatever you need it to be.                    |
-| 28:47      | And if you want to spend a weekend getting comfortable with JavaScript, the fact that                  |
+| 28:47      | And if you want to spend a weekend getting comfortable with [[JavaScript]], the fact that                  |
 | 28:52      | you can build your own features into it, I mean, that is crazy.                                        |
 | 28:55      | And then they brought it to the iPad and iPhone.                                                       |
 | 28:59      | And I never expected this, but they brought the entire plugin architecture with it.                    |
@@ -1015,9 +1015,9 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 53:55      | come with a notification of my dad just added 50,000 photos, go check it out.                          |
 | 54:00      | Fortunately, he's not adding so many anymore.                                                          |
 | 54:03      | Although I would say those shared libraries are, I realise it's not really automation,                 |
-| 54:07      | but that is a really good solution for this problem if you have a family in the Apple                  |
+| 54:07      | but that is a really good solution for this problem if you have a family in the [[Apple]]                  |
 | 54:12      | ecosystem, and that kind of just solves the problem, you save it to the shared library                 |
-| 54:17      | and then everybody gets it, even the rudimentary commenting system Apple has put in place is           |
+| 54:17      | and then everybody gets it, even the rudimentary commenting system [[Apple]] has put in place is           |
 | 54:22      | iPhone good enough.                                                                                    |
 | 54:25      | Yeah, it's on my to-do list to figure it out, because we're going to be doing this for a               |
 | 54:30      | long time.                                                                                             |
@@ -1050,7 +1050,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 55:42      | Yeah.                                                                                                  |
 | 55:43      | No, that's a great question.                                                                           |
 | 55:45      | I mean, I'm curious about other people's solutions to the photo sharing thing because                  |
-| 55:49      | not everybody in our family is on Apple devices.                                                       |
+| 55:49      | not everybody in our family is on [[Apple]] devices.                                                       |
 | 55:53      | I mean, I did just look at that actually, Ryan, because I was curious, and it does say                 |
 | 55:57      | actually here, you can even share albums with friends and family who don't use iCloud.                 |
 | 56:02      | Just open the shared album you created, go to the people tab, and turn on public website.              |
@@ -1239,7 +1239,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:05:54   | This comes from the word or the phrase augmented intelligence comes from, I think it was Doug          |
 | 01:05:58   | Engelbart, one of the founding people of computing.                                                 |
 | 01:06:03   | He sat at Xerox park.                                                                                |
-| 01:06:04   | He came up with a lot of the ideas that Apple ended up adopting into its early operating               |
+| 01:06:04   | He came up with a lot of the ideas that [[Apple]] ended up adopting into its early operating               |
 | 01:06:07   | systems and made the computer what it is today.                                                        |
 | 01:06:11   | So Doug was really excited about this idea of augmented intelligence.                                  |
 | 01:06:14   | How computers shouldn't just be these like rote convenience tools, but they should help                |
@@ -1478,7 +1478,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:19:36   | Absolutely.                                                                                            |
 | 01:19:37   | Well, that was, that was definitely hippie.                                                            |
 | 01:19:39   | But I think I hope I got through, if I got through to one person, that's worth it because              |
-| 01:19:43   | this stuff is so, so useful and I do think like it doesn't require JavaScript programming              |
+| 01:19:43   | this stuff is so, so useful and I do think like it doesn't require [[JavaScript]] programming              |
 | 01:19:51   | to take advantage of automation this way and really, you know, make an improvement on the              |
 | 01:19:55   | way you get through your day and enjoy your life.                                                      |
 | 01:19:59   | I mean, I was thinking when you were telling me about this augmented intelligence and the              |

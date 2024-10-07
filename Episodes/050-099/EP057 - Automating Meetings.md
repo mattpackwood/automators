@@ -116,13 +116,13 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 04:20      | Well, I think you could do that again with an [[Apple Mail]] rule because Fantastical tags                    |
 | 04:25      | those males. So yeah, I just have to see what I think the subject line has the same text                  |
 | 04:30      | all the time.                                                                                             |
-| 04:31      | Except for the fact that I don't use Apple Mail on my personal side of things. I'm currently              |
+| 04:31      | Except for the fact that I don't use [[Apple Mail]] on my personal side of things. I'm currently              |
 | 04:35      | using [[Airmail]] and I like to make sure that everything works. So I tend to do things like                  |
 | 04:39      | that on the server side. But yeah, there are plenty of options and Fantastical's.                          |
-| 04:44      | Kind of digression for a second. You're using Airmail and Apple Mail at the same time. Airmail            |
-| 04:50      | when you try to save a link to a mail uses an Airmail link. Yes. And Apple Mail does                      |
+| 04:44      | Kind of digression for a second. You're using Airmail and [[Apple Mail]] at the same time. Airmail            |
+| 04:50      | when you try to save a link to a mail uses an Airmail link. Yes. And [[Apple Mail]] does                      |
 | 04:56      | not. Doesn't that drive you crazy having two separate sources for those links?                            |
-| 05:01      | No, because my work mail is done with Apple Mail and then my personal stuff is done with                  |
+| 05:01      | No, because my work mail is done with [[Apple Mail]] and then my personal stuff is done with                  |
 | 05:07      | Airmail. So it works perfectly segregated.                                                                |
 | 05:10      | The only thing is is in mail on my iOS device. I also have one of my personal accounts enabled            |
 | 05:17      | because whenever you try to send a bug report in an app, it defaults to the mail app at                   |
@@ -141,8 +141,8 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 06:19      | me, Hey, do you think we should get together on Tuesday at 10? And I can actually just                    |
 | 06:24      | add it to my calendar for Tuesday at 10, that email. And then I have that reference back                  |
 | 06:28      | when I get to that meeting time Tuesday at 10, which is really handy for me.                              |
-| 06:34      | Yeah, you can do the same thing with Apple Mail, but it requires a drag. You can drag                     |
-| 06:38      | from the, like on iOS, you can drag from the Apple Mail to the, to the calendar event,                    |
+| 06:34      | Yeah, you can do the same thing with [[Apple Mail]], but it requires a drag. You can drag                     |
+| 06:38      | from the, like on iOS, you can drag from the [[Apple Mail]] to the, to the calendar event,                    |
 | 06:44      | whether it's in Fantastical or the standard [[Apple Calendar|calendar]] app, the, the email links can come                      |
 | 06:49      | over on the Mac. It's even easier. But you know, what we didn't talk about is what happens                |
 | 06:54      | if you want to get together more than two or three people? What if you want to put six                    |
@@ -656,7 +656,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 47:53      | inline script inside of shortcuts. So you can stick inside of shortcuts, you'll just                      |
 | 47:56      | need to have the Scriptable app installed as well.                                                        |
 | 47:59      | Yeah, I think the other problem with Michael's question is the trigger problem, like he wants             |
-| 48:03      | to run it at 1150pm. Now, in a couple months when Apple releases iOS 14, this problem is                  |
+| 48:03      | to run it at 1150pm. Now, in a couple months when [[Apple]] releases iOS 14, this problem is                  |
 | 48:09      | solved because we have a time based trigger that doesn't require confirmation. So in a                    |
 | 48:15      | couple months, this will be really easy. Now, however, it's possible, but a little complicated.           |
 | 48:21      | How would you solve it before we have time based triggers, Rose?                                          |
@@ -741,7 +741,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 54:39      | time. There's always the IKEA dot com link in the note. And there's always face dash                      |
 | 54:44      | base IKEA at the end of the task. And lots of stores do the same sort of thing where                      |
 | 54:49      | maybe they've got a pipe before their shop name or something like that. And I actually                    |
-| 54:54      | got this idea from [[Joe Buhlig]]. And he had an [[AppleScript\|AppleScript]] still has an AppleScript, where                 |
+| 54:54      | got this idea from [[Joe Buhlig]]. And he had an [[AppleScript\|AppleScript]] still has an [[AppleScript]], where                 |
 | 55:01      | it could automatically parse tasks in your inbox using a format called transport text.                    |
 | 55:07      | Now transport text predates Taskpaper. And it's not quite as flexible. But it's great                    |
 | 55:14      | for adding things by an automated system where you can get it into OmniFocus via the                      |
@@ -769,7 +769,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 57:13      | because they were on the wrong list.                                                                      |
 | 57:15      | Yeah, I mean, that makes makes a lot of sense. You know, I would have, you know, when was                 |
 | 57:20      | it when you're a carpenter, when you have a hammer, everything's a nail. So, so I would                   |
-| 57:26      | have done this with the rather than trying to JavaScript it, I would have just used a                     |
+| 57:26      | have done this with the rather than trying to [[JavaScript]] it, I would have just used a                     |
 | 57:31      | choose from menu selection. Like if I, because I would, I do all shopping on iOS anyway.                  |
 | 57:37      | So if I was on iOS and I hit the share button on a website, what I would do is have a choose              |
 | 57:43      | from menu list and then I would have all of my typical locations because with OmniFocus                   |
@@ -782,21 +782,21 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 58:18      | I add a new store. And also the last store on the list had, it adds both my supermarket                   |
 | 58:23      | tag as well as the store name tag. And so that helps because, you know, you can see                       |
 | 58:32      | how to do that.                                                                                           |
-| 58:33      | And I just like the idea of doing it in JavaScript because then I can just add tons of things.            |
+| 58:33      | And I just like the idea of doing it in [[JavaScript]] because then I can just add tons of things.            |
 | 58:38      | I usually go through an open 10, 15 pages inside of, you know, [[Safari]] or [[Firefox]] on                       |
 | 58:45      | my work machine. If I'm taking a quick break from work, usually like three pages there.                   |
 | 58:49      | But then I just add them all. And then when I get to it later on whatever platform I'm                    |
-| 58:53      | on, that's why I went with the OmniFocus automation here with the JavaScript scripting. Then I            |
+| 58:53      | on, that's why I went with the OmniFocus automation here with the [[JavaScript]] scripting. Then I            |
 | 58:59      | can just run this and it will just clean up my inbox for me. And it's only if I'm doing                   |
 | 59:05      | the create a task with transport text. So that's the things that start with dash dash                     |
 | 59:10      | that it will go ahead and actually, you know, potentially put it in a project. Most of the                |
 | 59:15      | time it's just adding tags. And I've set my OmniFocus to only clean up my inbox if items                  |
 | 59:21      | have a project. So that's how that works for me.                                                          |
-| 59:26      | And honestly, this is a very easy to read JavaScript. So if you want to like get better                   |
+| 59:26      | And honestly, this is a very easy to read [[JavaScript]]. So if you want to like get better                   |
 | 59:32      | at it with OmniFocus, and Rose, you're going to make this available.                                      |
 | 59:36      | Yeah, the link is already in the show notes, prepped for everybody.                                       |
 | 59:39      | So this is an excellent one to download. Because it's so obvious when you look at it, even                |
-| 59:44      | if you're not a JavaScript programmer, you can see how it's very easy. Like, and I love                   |
+| 59:44      | if you're not a [[JavaScript]] programmer, you can see how it's very easy. Like, and I love                   |
 | 59:48      | the the step of removing the tag text. So you're essentially using names as tags, and                     |
 | 59:53      | you remove the tag. Yeah, yeah. Because it's very easy to spot a pattern                                  |
 | 59:59      | with things. And the last thing I want to have inside of my my list. Now, I'm not using                   |
@@ -835,7 +835,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:02:47   | say January 1, 2020, it says January 1, 2020. And so I need to put ordinals and dates and                 |
 | 01:02:56   | I want to do that automatically with TextExpander. So I can not only like call up a specific             |
 | 01:03:01   | date, but I can put in a code and it'll pick the date two weeks ago, or two weeks from now,               |
-| 01:03:06   | and add ordinals. And I know there's a way to do with JavaScript, but I'm not like Rose,                  |
+| 01:03:06   | and add ordinals. And I know there's a way to do with [[JavaScript]], but I'm not like Rose,                  |
 | 01:03:11   | I can't just write it off the top of my head, I actually have to research that one. And it's              |
 | 01:03:15   | on my list of things to do, but I haven't got there yet. Another thing I'm automating                     |
 | 01:03:21   | is getting texts out of Roam Research. So I talked about how they've got extensions on                    |
@@ -892,27 +892,27 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:07:39   | mention briefly is I have talked many times on Mac power users in this show about my dislike              |
 | 01:07:45   | for the tagging system and iOS, you know, when you go to add tags to an item, it is very                  |
 | 01:07:53   | difficult because if you have more than 10, you've got to scroll through a massive list                   |
-| 01:07:57   | and hope you don't accidentally hit a tag as you're scrolling. And it's just Apple has                    |
+| 01:07:57   | and hope you don't accidentally hit a tag as you're scrolling. And it's just [[Apple]] has                    |
 | 01:08:02   | not figured out that we need a search bar when you're applying tags. I don't know. It's                   |
 | 01:08:09   | it's it's stunning to me that after like four or five releases of iOS with this problem,                  |
 | 01:08:14   | it hasn't been fixed. But there's a solution I discovered recently, I think it's been around              |
 | 01:08:19   | for almost a year. And I just didn't know about it. [[Toolbox Pro]] [[Alex Hay]], that guy man,                  |
 | 01:08:25   | we had him on the show, David. Yeah, I know. But I just didn't it didn't sink in how easy                 |
-| 01:08:30   | it is. And so toolbox pro, you can apply tags very easily. Again, like on iOS, a choose                   |
+| 01:08:30   | it is. And so [[Toolbox Pro]], you can apply tags very easily. Again, like on iOS, a choose                   |
 | 01:08:35   | from menu shortcut would be a good idea. I did a whole video on this in the paperless                     |
 | 01:08:41   | field guide that's not out yet, but it will be soon. But it's just, you know, good job.                   |
 | 01:08:46   | So if you're trying to apply tags on iOS, and you're like me and hadn't sunk through                      |
-| 01:08:51   | your thick skull yet, just get yourself toolbox pro, get the pay for the additional features.             |
+| 01:08:51   | your thick skull yet, just get yourself [[Toolbox Pro]], get the pay for the additional features.             |
 | 01:08:57   | That's one of the additional features. And you can absolutely tag with with search and                    |
-| 01:09:03   | T and speed on the iPhone and iPad. Yeah, that's I love toolbox pro. I've been doing                      |
+| 01:09:03   | T and speed on the iPhone and iPad. Yeah, that's I love [[Toolbox Pro]]. I've been doing                      |
 | 01:09:09   | some playing extra playing with it recently, because I'm doing a little screencast night                  |
 | 01:09:13   | over a screencast online, hopefully in the not too distant future. And, you know, it's                    |
 | 01:09:19   | great to see, you know, what things can be made available by a developer who just clearly                 |
-| 01:09:23   | wants shortcuts to be better. And so, I mean, if Apple tried to hire him, I wouldn't be                   |
+| 01:09:23   | wants [[Shortcuts]] to be better. And so, I mean, if [[Apple]] tried to hire him, I wouldn't be                   |
 | 01:09:28   | that upset if all of the features made it over. Maybe. Yeah, I would actually not want                    |
 | 01:09:33   | them to hire him because I feel like he's going to come up with even more that will                       |
-| 01:09:36   | take too long. Yeah, this is true. This is true. Very true. Sorry, [[Alex]], we do love you,                  |
-| 01:09:42   | but we won't let you be hired by Apple. If Alex needs good benefits and retirement                        |
+| 01:09:36   | take too long. Yeah, this is true. This is true. Very true. Sorry, [[Alex Hay\|Alex]], we do love you,                  |
+| 01:09:42   | but we won't let you be hired by [[Apple]]. If [[Alex Hay\|Alex]] needs good benefits and retirement                        |
 | 01:09:47   | and stock options, I would not begrudge him. Well, this is very true. Yeah. All right.                    |
 | 01:09:53   | Well, that was a lot of automation, Rosemary. Oh, it was, but it's great. And now we're                   |
 | 01:09:57   | going to have some fun guests on in the not too distant future. And so we're going to                     |

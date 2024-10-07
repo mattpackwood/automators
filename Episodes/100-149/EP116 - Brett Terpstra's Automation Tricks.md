@@ -138,22 +138,22 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 06:33      | you can integrate that and anywhere that isn't like automatically available. The ecosystem                |
 | 06:40      | is far better for having that kind of cross talk as possible. I feel like it's the best                   |
 | 06:48      | we've ever had on the Mac in terms of automation. Oh, it's, it's insanely good. I mean, now               |
-| 06:55      | granted, AppleScript has always been super powerful, you know, but it's also a bit cryptic.              |
+| 06:55      | granted, [[AppleScript]] has always been super powerful, you know, but it's also a bit cryptic.              |
 | 07:01      | And even, you know, I mean, to me at least I always have to go explore every time I start                 |
-| 07:06      | playing with that. That's the problem with AppleScript is that every app was required                    |
+| 07:06      | playing with that. That's the problem with [[AppleScript]] is that every app was required                    |
 | 07:13      | to define their own dictionary. Yeah. And there was no real standard set that this is                     |
 | 07:20      | how you're going to refer to an element in your app. Yeah. So every app has different                     |
 | 07:26      | language, like even a different syntax for creating a new item or, or adding an item.                     |
 | 07:33      | And there's very little that is portable from one app to another. So really anytime you're                |
-| 07:40      | sitting down where an AppleScript, you're, you're opening up the dictionary, you're probably             |
+| 07:40      | sitting down where an [[AppleScript]], you're, you're opening up the dictionary, you're probably             |
 | 07:44      | Googling, yeah, examples. And yeah, it's, it's, it's powerful, but not an ideal programming               |
 | 07:53      | language. And it's not gone. It's still there, you know, and like all that work. And I think              |
 | 07:58      | it, I think it will continue to be. Yeah. Well, I think my theory is it would be so much effort           |
-| 08:04      | to remove it. It's so baked into the operating system at this point that Apple would never                |
+| 08:04      | to remove it. It's so baked into the operating system at this point that [[Apple]] would never                |
 | 08:09      | pay to remove it. You know what I mean? I think if they could throw a switch and turn                     |
 | 08:14      | it off, they might be tempted to do that. But, you know, I say that, I don't think they'd                 |
-| 08:17      | even do that. I hear from birdies that, you know, a bunch of the background stuff at Apple                |
-| 08:23      | is run on AppleScript and who wants to have to rebuild all that stuff when you've got                    |
+| 08:17      | even do that. I hear from birdies that, you know, a bunch of the background stuff at [[Apple]]                |
+| 08:23      | is run on [[AppleScript]] and who wants to have to rebuild all that stuff when you've got                    |
 | 08:29      | it working. So I think they're just going to quietly leave it there.                                      |
 | 08:33      | It would cause some serious waves if they were to discontinue that.                                       |
 | 08:36      | Yeah. But the overall, I mean, for people who want to start automating, this is like                      |
@@ -167,8 +167,8 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 09:08      | Bunch's Brett's app that is kind of boy, how do you describe it? It's a window manager.                   |
 | 09:14      | It's kind of like a setup tool.                                                                           |
 | 09:16      | No, it's, it's everything but a window manager, actually, all right. It's, it's plain text                |
-| 09:22      | automation. It's like AppleScript, but with way simpler syntax. And it can't do everything               |
-| 09:27      | AppleScript can do with its default syntax. But the idea is that it builds contexts where                |
+| 09:22      | automation. It's like [[AppleScript]], but with way simpler syntax. And it can't do everything               |
+| 09:27      | [[AppleScript]] can do with its default syntax. But the idea is that it builds contexts where                |
 | 09:36      | you have like your work context and you want this browser open and this task manager open                 |
 | 09:42      | and you want your, your certain URLs loaded up and you want, do not disturb, turn on or                   |
 | 09:49      | off or whatever. And you just write all of that out in a text file. Just like, if you                     |
@@ -179,7 +179,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 10:19      | to keep the syntax as simple as possible. So really, it feels just like writing out                       |
 | 10:25      | a very basic script. And I like it because like I originally built it because I wanted                    |
 | 10:33      | to launch a bunch of apps at once. And I wanted like one click to launch five different apps.             |
-| 10:40      | And you can do that pretty easily with AppleScript, but the syntax was annoying. And I                   |
+| 10:40      | And you can do that pretty easily with [[AppleScript]], but the syntax was annoying. And I                   |
 | 10:46      | wanted to just be able to write down the name of five apps in a text file and have it launch              |
 | 10:49      | that. And that turned into a much more complex application in the end, but that was kind                  |
 | 10:57      | of the, the idea was just to have a, a, one file that defined a quote unquote bunch of                    |
@@ -200,14 +200,14 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 12:20      | then run the moon keyboard shortcut to put them on the screen. Yeah. Like so moon,                        |
 | 12:25      | moon allows you to save snapshots. So you get all your windows that you want open, open,                  |
 | 12:31      | and you put them exactly where you want them. And then you save a moon snapshot of the windows.           |
-| 12:35      | And then you can run that with one line of AppleScript that you just tag into a bunch.                   |
-| 12:41      | So after it's launched, all of the appropriate apps, you just call that AppleScript and moon             |
+| 12:35      | And then you can run that with one line of [[AppleScript]] that you just tag into a bunch.                   |
+| 12:41      | So after it's launched, all of the appropriate apps, you just call that [[AppleScript]] and moon             |
 | 12:46      | does all of the window positioning. And that's how I do pretty much all of my bunches and with            |
 | 12:51      | a moon call. Are you in touch with the moon guys is, have you talked to them about this?                  |
 | 12:57      | Or is this just no, I haven't, I haven't talked to you. I haven't talked to, is it many tricks?           |
 | 13:02      | I haven't talked to them since, since before I developed a bunch. So yeah, no.                            |
 | 13:08      | Yeah, it really is a way to go. In fact, I'm not doing it the way you're doing it. Now I'm                |
-| 13:12      | then listening to you like, yes, I got to switch over to the AppleScript call because                    |
+| 13:12      | then listening to you like, yes, I got to switch over to the [[AppleScript]] call because                    |
 | 13:16      | by individually setting windows, sometimes things can go a little haywire. But yeah,                      |
 | 13:21      | this is all depends because every app shows its windows at a different speed. Yes. So if you try          |
 | 13:28      | to automate like a keyboard shortcut that's going to move a window to the right half of your screen,      |
@@ -215,7 +215,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 13:39      | the snapshots, I put the snapshots because you can delay anything in bunch by putting                     |
 | 13:45      | tilde and a number at the end of it. So like tilde five at the end would wait five                        |
 | 13:50      | seconds before it triggers it. Yeah. So I just, I add a bunch call at the end with like a five            |
-| 13:57      | second delay to wait for everything, an AppleScript call to moon with a five second delay.               |
+| 13:57      | second delay to wait for everything, an [[AppleScript]] call to moon with a five second delay.               |
 | 14:04      | Yeah. So just, and I use these for like, when I want to record podcast ads, I have one that just          |
 | 14:10      | gives me those tools, you know, or yeah, recording the show is different. And the thing I really          |
 | 14:17      | like about bunch is just the simplicity of it. Like, historically, I built these in keyboard              |
@@ -312,7 +312,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 23:50      | Yeah. I met the developers of [[Day One]]. I think at the time, it was just the one guy,                      |
 | 23:55      | and I've forgotten his name. Yeah, me too. I met him on a dance floor.                                    |
 | 24:00      | Yeah. I met him the year... [[Day One]], I saw the potential in it and I believe that was the year            |
-| 24:08      | that they won an Apple Design Award, if I'm remembering correctly. And from that point on,                |
+| 24:08      | that they won an [[Apple Design Award]], if I'm remembering correctly. And from that point on,                |
 | 24:14      | [[Day One]] became kind of like everyone knew [[Day One]]. They built a really good app and it deserves           |
 | 24:22      | the success it's gotten. Yeah. Yeah, I agree. Well... Oh my God. You know... Sorry. My brain              |
 | 24:29      | just jumped. You know what? The app on Mac that I just constantly admire is these days?                   |
@@ -431,7 +431,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 36:36      | then you could use system event scripting to tell when someone had clicked something that                 |
 | 36:43      | is no longer available. And like, what's system settings it's called now, which is annoying               |
 | 36:49      | because my launcher, my muscle memory is for SP for system preferences. So I had to manually override     |
-| 36:58      | that. But system settings has an AppleScript dictionary that is completely empty. There's                |
+| 36:58      | that. But system settings has an [[AppleScript]] dictionary that is completely empty. There's                |
 | 37:05      | no way to focus a specific pain. And little things like that that I worry they're not                     |
 | 37:13      | interested in providing that level of automation anymore. But maybe it's just                             |
 | 37:20      | something that was a back burner thing. We'll see. I feel like they, to answer your question,             |
@@ -454,7 +454,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 39:20      | app, yeah, to do things in a different way. And that those choices have been taken away from us.          |
 | 39:26      | Yeah. And I don't think that's going to change, you know, I mean, hopefully shortcuts gets powerful       |
 | 39:33      | enough to catch up with some of this stuff. But it's never going to get as powerful as those under        |
-| 39:37      | the hood tools. Well, I think it's very telling that Apple stopped distributing Python, Ruby,             |
+| 39:37      | the hood tools. Well, I think it's very telling that [[Apple]] stopped distributing Python, Ruby,             |
 | 39:45      | Perl, PHP, like all of these processors that used to be built into the operating system.                 |
 | 39:52      | And like you could rely, if I was going to share a Python script, I could rely on any Mac user            |
 | 40:00      | having Python available to run that script. Yeah. That isn't that is no longer the case. Now you          |
@@ -482,7 +482,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 42:01      | Brett, we were talking before the break about the kind of evolution of macOS and removal Python.          |
 | 42:08      | There's another kind of story going on with this. I'd love to hear your take on it with                   |
 | 42:13      | programming languages and underlying code. Like now we have a lot of people going to Electron.            |
-| 42:19      | We've got [[SwiftUI]]. We've got all these options to make apps on the Mac now. And Apple is, I think,        |
+| 42:19      | We've got [[SwiftUI]]. We've got all these options to make apps on the Mac now. And [[Apple]] is, I think,        |
 | 42:26      | finally really being clear that [[SwiftUI]] is the future. But where do you see the state of that             |
 | 42:31      | stuff as someone who is developing apps? I feel like I am way behind the ball on modern technologies.     |
 | 42:40      | Like I haven't like I've played with [[SwiftUI]]. I have not developed anything like using cross              |
@@ -684,7 +684,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:03:36   | So what do you think about home automation these days, Brett? I know that you've always                   |
 | 01:03:41   | been somebody kind of ahead of the curve on this stuff.                                                   |
 | 01:03:46   | Except I feel like since [[HomeKit]], I have fallen behind the curve. I used to be back in the days           |
-| 01:03:55   | when you had Insteon and Zigbee. I had systems that allowed me to integrate all kinds of stuff.           |
+| 01:03:55   | when you had Insteon and [[Zigbee]]. I had systems that allowed me to integrate all kinds of stuff.           |
 | 01:04:06   | I programmed them through Indigo on a Mac Mini in my basement that ran my whole house.                    |
 | 01:04:15   | But Indigo doesn't work with [[HomeKit]] or Alexa devices. And so then I have to run Homebridge               |
 | 01:04:23   | to try to bring everything together and things get messy. And buying [[HomeKit]] devices means                |
@@ -695,11 +695,11 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:05:01   | you were good at it. And as it got simpler, it got harder for you.                                        |
 | 01:05:05   | Yeah, that's about right. That's about right. But I got your most recent newsletter this morning          |
 | 01:05:14   | and you talked about a protocol called [[Matter]][^1], which could be the future. I'm really intrigued            |
-| 01:05:23   | by this. Well, I mean, what happened was when Apple, Google and Amazon first started this                 |
+| 01:05:23   | by this. Well, I mean, what happened was when [[Apple]], Google and [[Amazon]] first started this                 |
 | 01:05:30   | 10 years ago or so, they all wanted to become the platform, right? Everybody wanted it like,              |
-| 01:05:37   | oh, you have to get a Google thing because everything works with Google or Apple wanted                   |
-| 01:05:42   | the same thing. Apple had more of a security focus. They wanted hardware encryption on their              |
-| 01:05:47   | stuff. So Apple wanted it so somebody on the other side of the world couldn't turn on your                |
+| 01:05:37   | oh, you have to get a Google thing because everything works with Google or [[Apple]] wanted                   |
+| 01:05:42   | the same thing. [[Apple]] had more of a security focus. They wanted hardware encryption on their              |
+| 01:05:47   | stuff. So [[Apple]] wanted it so somebody on the other side of the world couldn't turn on your                |
 | 01:05:51   | air conditioner. And over the years, those positions have evolved, but they've also                       |
 | 01:05:56   | realised that there's no clear winner. It is like, what was that TV show again? Highlander,               |
 | 01:06:03   | or remember Highlander where that can only be one? Yeah, it can be only one. Yeah. Well,                  |
@@ -708,19 +708,19 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:06:20   | they all spoke the same language and it's called [[Matter]]. And it took them years. They just released       |
 | 01:06:24   | it publicly, I think, earlier this month. So now we're going to start seeing the devices come out         |
 | 01:06:31   | and a lot of the big peripheral kind of sensor, light switch, all those people                            |
-| 01:06:38   | are signing on because Apple, Google, and Amazon are on it. It's going to become the only thing.          |
+| 01:06:38   | are signing on because [[Apple]], Google, and [[Amazon]] are on it. It's going to become the only thing.          |
 | 01:06:45   | So when you go to buy something, you don't have to look at the box with a microscope to                   |
 | 01:06:50   | figure out if it's going to work or not. I just had that happen. I added a room onto my house             |
 | 01:06:56   | because I'm trying to do a better job with the MacSparky stuff. I needed a space and I went to           |
 | 01:07:02   | Home Depot and I bought a Kwikset automation lock because I had already got one on my front door.         |
 | 01:07:07   | I thought, well, I'll put one there. And it looked like the one on my front door and I just picked        |
-| 01:07:12   | it up and drove home and I got home and I looked at it and it had Amazon and Google but no home           |
+| 01:07:12   | it up and drove home and I got home and I looked at it and it had [[Amazon]] and Google but no home           |
 | 01:07:17   | kit. So I took it back and they didn't have the home kit when they were out of stock so I had to          |
 | 01:07:23   | order it. But I mean, it's just like that stuff is going to go away and we're going to get a common       |
 | 01:07:29   | platform. But that doesn't change the underlying technology. There's still a bunch of these that          |
-| 01:07:34   | run on Wi-Fi and some that run on Zigbee and you've got all these different ways for them to              |
+| 01:07:34   | run on Wi-Fi and some that run on [[Zigbee]] and you've got all these different ways for them to              |
 | 01:07:39   | communicate. And I think that's probably the bigger problem that you're up against,                       |
-| 01:07:45   | just determining the technology stack for it. Right. My Mac Mini in my basement has a Zigbee              |
+| 01:07:45   | just determining the technology stack for it. Right. My Mac Mini in my basement has a [[Zigbee]]              |
 | 01:07:54   | and an Insteon external controllers attached to it. And between the two of those using Indigo,            |
 | 01:08:03   | I can automate anything in my house except for hue light bulbs and home kit devices.                      |
 | 01:08:11   | And what I would love is to have, with a minimal amount of hardware to be able to... Have you ever        |
@@ -761,14 +761,14 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:12:04   | and the stuff that's coming out of that. I feel like we're getting a lot more of it and it's              |
 | 01:12:08   | getting cheaper and all that stuff can be hooked into [[Home Assistant]]. But I mean, that stuff can          |
 | 01:12:12   | also be hooked into [[HomeKit]], but it's just not as powerful. Yeah. Like I have, I don't know if            |
-| 01:12:17   | you're familiar with this company, Aqara, A-Q-A-R-A. I followed a link in your newsletter and I           |
+| 01:12:17   | you're familiar with this company, [[Aqara]], A-Q-A-R-A. I followed a link in your newsletter and I           |
 | 01:12:23   | checked out their hardware that looked intriguing. Rose turned me on to that too, but I am like           |
 | 01:12:29   | all in because they've got their own base unit. So they're on their own frequency                         |
 | 01:12:37   | but you can put like 150 items on it or something. And the peripherals are relatively cheap like,         |
 | 01:12:45   | you know, $15 water sensor or something. So like I've got the sensors under all the sinks                 |
 | 01:12:50   | and the toilets and the water heater. So if things leak, I find out about it. I'm putting                 |
 | 01:12:55   | vibration sensors and kind of building my own home automation. And the hub, the hub has 360 degree        |
-| 01:13:02   | IR blasting. So you can automate anything with an infrared remote. Yeah. That was intriguing too,         |
+| 01:13:02   | [[IR Blaster\|IR blasting]]. So you can automate anything with an [[IR\|infrared]] remote. Yeah. That was intriguing too,         |
 | 01:13:10   | if you want to use it as an alarm system. They've just got a lot of good stuff and                        |
 | 01:13:16   | they just released, it's only available at this point in Asia. I ordered one off of Ali Express,          |
 | 01:13:21   | but I haven't received it yet, but they have what they call it. I've ordered from Ali and                 |
@@ -788,10 +788,10 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:14:41   | this for a fact, but I think they've already even announced with the latest Mac Ventura update that     |
 | 01:14:46   | has [[Matter]] support now. It's like they're putting it in stuff and products are starting to ship now       |
 | 01:14:52   | with [[Matter]] in it. And I don't think that means your existing home kit stuff is going to stop             |
-| 01:14:57   | working. I don't think Apple's ever going to not support home kit. But going forward, you don't           |
+| 01:14:57   | working. I don't think [[Apple\|Apple's]] ever going to not support home kit. But going forward, you don't           |
 | 01:15:03   | have to, that's no longer the gating issue for you. Yeah. Anything that's [[Matter]] will work.               |
 | 01:15:08   | Well, that'll make it way easier for third party developers. Like when I see an automation hardware       |
-| 01:15:15   | item like on Amazon or whatever, they always have to list works with, works with, works with.             |
+| 01:15:15   | item like on [[Amazon]] or whatever, they always have to list works with, works with, works with.             |
 | 01:15:22   | Exactly. And if there was one protocol that they could just say [[Matter]] supported, and I think it          |
 | 01:15:28   | would ease their development time and make devices even cheaper. Yeah. Agreed. I totally agree. And       |
 | 01:15:35   | like some of the stuff with home kit just stops working after a while. We're setting up the Christmas     |
@@ -804,7 +804,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:16:19   | want to do that too. Because if we have one protocol, you know, then there's only one,                    |
 | 01:16:25   | it's like the United Nations of home automation, right? Every only one language is being spoken.          |
 | 01:16:29   | And then all of a sudden we get, you know, anything can possibly work. Yeah. But when I                   |
-| 01:16:36   | talked to you, it was like you had this Rube Goldberg thing going on, you know, where I                   |
+| 01:16:36   | talked to you, it was like you had this [[Rube Goldberg]] thing going on, you know, where I                   |
 | 01:16:40   | think it was buttering your toast or something. I forget you were doing so much with it. I'm              |
 | 01:16:44   | surprised that you're a little behind on it now. Yeah. I keep exploring different like avenues            |
 | 01:16:54   | for the future because I don't see a future for like my legacy setup. Yeah. So I'm constantly             |

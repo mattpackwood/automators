@@ -166,7 +166,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 10:19      | back down into, into like a COVID lock down. And having systems in place where I just                    |
 | 10:27      | don't need to think is so, so great. I mean, gosh, I am preaching to the choir,                         |
 | 10:33      | to the folks who are listening to this. But I actually would like to encourage folks to                 |
-| 10:39      | kind of look at all of their systems they have in place now, which I think in like our Apple            |
+| 10:39      | kind of look at all of their systems they have in place now, which I think in like our [[Apple]]            |
 | 10:45      | communities, everyone kind of is doing, especially with like note taking. But I mean, we're in a        |
 | 10:52      | different worlds right now. And I think every time there's a big milestone in your life,                |
 | 10:57      | whether it's moving or having kids or spending your entire time in your apartment, being able           |
@@ -175,7 +175,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 11:17      | stuck in automation is when I've just used something for so long that I don't even know how it works    |
 | 11:24      | anymore. So it's like, okay, I'm going to just keep on using this. It's fine. It's fine. But then       |
 | 11:31      | eventually it ends up being like, all right, me writing down my to-do list is way easier than,          |
-| 11:38      | you know, transferring this JavaScript automation into the new version of OmniFocus. And I don't        |
+| 11:38      | you know, transferring this [[JavaScript]] automation into the new version of OmniFocus. And I don't        |
 | 11:47      | know if it's the beta or if it's me or you know what, I'm just going to write it down. Stuff like       |
 | 11:52      | that. No, it can become a rabbit hole of its own. Lately, I've been really interested in what I         |
 | 11:59      | call contextual computing, where, you know, you use a combination of automation and smarts to           |
@@ -268,7 +268,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 20:22      | kitchen light is officially in there. It's it was on Kickstarter, they even have like a curtain         |
 | 20:27      | track thing. But unfortunately, that looks like it's not available yet in Europe, which is a shame,     |
 | 20:31      | because I would like to automate my curtains, but I was not interested in buying the specific curtain   |
-| 20:36      | rails and everything from Aqara, or Xiaomi, which, yeah, sell all of that stuff. But it's              |
+| 20:36      | rails and everything from [[Aqara]], or Xiaomi, which, yeah, sell all of that stuff. But it's              |
 | 20:44      | good fun. And home automation is definitely something that I have been spending a reasonable            |
 | 20:50      | amount of time with. Let's put it that way. This episode of The Automators is brought to you by         |
 | 20:55      | PDFpen from our friends at Smile. Go to smilesoftware.com/podcast and let them know you heard     |
@@ -316,7 +316,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 25:48      | for [[Drafts]] that they introduced in, I believe, at the end of September, but they also have              |
 | 25:55      | a ton of shortcuts if you want to make the most of your experiences on mobile as well.                  |
 | 26:04      | That's kind of what I am looking for is something that will work both always on my Mac and always       |
-| 26:12      | on my iOS devices, and maybe Apple Silicon will make that easier. But right now, [[Drafts]] is kind         |
+| 26:12      | on my iOS devices, and maybe [[Apple Silicon]] will make that easier. But right now, [[Drafts]] is kind         |
 | 26:21      | of the only thing that I can rely on to be on both operating systems and work the way I want it to.     |
 | 26:31      | Yeah, I mean, getting [[Drafts]] on both the Mac and iOS and iPad and having all that automation            |
 | 26:38      | transfer over the way Greg did it makes the app, it's like one of these things like 1 plus 1 equals     |
@@ -371,7 +371,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 32:09      | and brackets. It is essentially a find and replace. And, you know, how the, the one like                |
 | 32:18      | forever bug in markdown, where if you do a Wikipedia link, where anything is parenthesised,             |
 | 32:24      | it's just, sometimes it'll work. Sometimes it doesn't. It looks for those two and                       |
-| 32:30      | also anything that in the, like, the markdown links, if it's, it finds Amazon colon space               |
+| 32:30      | also anything that in the, like, the markdown links, if it's, it finds [[Amazon]] colon space               |
 | 32:41      | and just gets rid of that. And then in order to send, how I'm opening [[Drafts]] right now to               |
 | 32:48      | figure out how I send it to simple cast. Oh yeah, that just ends up being a Zapier automation,          |
 | 32:56      | actually, to get it into simple cast. It creates, it's, it creates a draft of an episode. And then      |
@@ -388,7 +388,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 34:10      | these changes to it. And there are apps out there like [[TextSoap]] that can help you. But if it's a        |
 | 34:16      | very particular kind of modification, doing it in [[Drafts]] makes a lot of sense. And I'm guessing         |
 | 34:23      | it took you a while to kind of tune that to get exactly what you wanted in terms of removing            |
-| 34:28      | parentheses and removing the Amazon colon. It didn't work the first time, right? Yeah, I mean,          |
+| 34:28      | parentheses and removing the [[Amazon]] colon. It didn't work the first time, right? Yeah, I mean,          |
 | 34:34      | actually now it only breaks. And by break, I mean, I have to just go in and adjust one or two           |
 | 34:42      | links or something like that every like three months or so. But I'd say it took like a couple           |
 | 34:48      | weeks of tuning it exactly to like our show notes needs. And I actually have another action for         |
@@ -405,7 +405,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 36:06      | you do, let's say you go to a meeting every Monday and you want to just open a draft and have it put    |
 | 36:13      | all the template in for your meeting. You just do that once and you save it as an insert text           |
 | 36:18      | action. And you can download any of many from the [[Drafts]] action directory, or this is when you          |
-| 36:23      | create yourself. And then once you've created it, that's all you do. There's no magic JavaScript        |
+| 36:23      | create yourself. And then once you've created it, that's all you do. There's no magic [[JavaScript]]        |
 | 36:29      | programming going on. It's just dropping text into your draft for you. So you can have a starting       |
 | 36:34      | point, you know, you can have like going to the meeting example, because I have one like that,          |
 | 36:38      | that puts the date and time, it puts the people who are in attendance, because it's always the same     |
@@ -479,14 +479,14 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 44:27      | I'm like, you know what? I'm just going to sleep on this one before I send this one off to email.       |
 | 44:32      | And quite often I wake up the next day, I'm like, oh, I need to rewrite this. This is not,              |
 | 44:36      | this is not me. This is a crazy person. One of the things about [[Drafts]] that I would,                    |
-| 44:43      | and it's not on the developer, it's really on Apple, but, you know, because we're talking about         |
+| 44:43      | and it's not on the developer, it's really on [[Apple]], but, you know, because we're talking about         |
 | 44:47      | all these text things we make, like I, like Alex, I open [[Drafts]] constantly. Every time I have a         |
 | 44:53      | phone call of any substance with a client, I take notes and [[Drafts]] and I save all these little          |
 | 44:57      | markdown files. So I've got records. And the problem is you have two choices. You either save           |
 | 45:03      | it to [[Dropbox]] and [[Dropbox]] is its own kind of like hive of villainy, right? But you also,                |
 | 45:10      | or you can save it to iCloud. But iCloud only will save it to the [[Drafts]] folder, right? Because of      |
 | 45:17      | the iCloud system, they won't let you save outside of the app folder. And I guess this is a security    |
-| 45:22      | measure that Apple has. But man, it makes me crazy. And I've got all these [[Hazel]] rules back on my       |
+| 45:22      | measure that [[Apple]] has. But man, it makes me crazy. And I've got all these [[Hazel]] rules back on my       |
 | 45:27      | Mac that do nothing all day, but sort out iCloud folders and move files for me. And I don't really      |
 | 45:34      | know what the answer to it is. I guess if you, you could just use [[Dropbox]] and then you would have more  |
 | 45:39      | granular access or you have to deal with this second step. How do you deal with that, Rose?             |
@@ -534,10 +534,10 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 49:46      | need is pretty small, but then it becomes staggering when I look at all of my folders,                  |
 | 49:50      | which I mean, I never really had a need for folders until the new widget came to iOS 14.                |
 | 49:59      | So being able to run shortcuts from my home screen has been absolutely wild. So the thing that          |
-| 50:08      | really got me into shortcuts was health stuff, actually, once Apple acquired                            |
+| 50:08      | really got me into shortcuts was health stuff, actually, once [[Apple]] acquired                            |
 | 50:13      | shortcuts, you know, formally workflow, because I never wanted to get into it because I really          |
-| 50:21      | thought, oh, there's no way Apple is going to continue to allow this. Like there's no way Apple         |
-| 50:27      | is going to continue to let me log all of my health data and stuff that, you know, Apple thinks that    |
+| 50:21      | thought, oh, there's no way [[Apple]] is going to continue to allow this. Like there's no way [[Apple]]         |
+| 50:27      | is going to continue to let me log all of my health data and stuff that, you know, [[Apple]] thinks that    |
 | 50:36      | it's data that they shouldn't have, but it's data that I want to have. But now, you know,               |
 | 50:42      | I have a widget just completely dedicated to health stuff. And a lot of it is really, again,            |
 | 50:49      | easy, simple, single actions, like working with one of my favourite apps, WaterMinder,                   |
@@ -647,7 +647,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:03:10   | and the other one is just a random list. And I think [[Matthew Cassinelli]] taught me how to make           |
 | 01:03:18   | those from actually a shortcut he made that was pull a random episode of the office up for me,          |
 | 01:03:28   | because he had watched the office so many times. And so now I have the same thing with the Simpsons,    |
-| 01:03:33   | but unfortunately, there's nothing you can do to have, like, I gosh, I wish that Apple or TVOS          |
+| 01:03:33   | but unfortunately, there's nothing you can do to have, like, I gosh, I wish that [[Apple]] or TVOS          |
 | 01:03:43   | or whatever it's called, would get its stuff together and work with shortcuts more because I            |
 | 01:03:48   | want to push a button and then just have what I'm watching pop up on the screen. Like, yep,             |
 | 01:03:55   | all right. Soak over me, Sideshow Bob. Let's just, let's just get into this and then fall asleep.       |
@@ -673,7 +673,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:05:49   | So you can do fancy stuff with that. And I love the fact that I can pick, like, I can use my phone,     |
 | 01:05:55   | the Plex app on my phone as basically a remote for my television and then say, hey, play this thing.    |
 | 01:06:01   | And so with the addition of a couple of shortcuts, which are, I've got a shortcut,                      |
-| 01:06:06   | which literally just turns on my Apple TV and tells it to open the Plex app. And then it opens          |
+| 01:06:06   | which literally just turns on my [[Apple TV]] and tells it to open the Plex app. And then it opens          |
 | 01:06:12   | the Plex app on my phone so I can pick something and then it just goes over. And that is beautiful.     |
 | 01:06:19   | And it works. And it's also fairly other people friendly if you have, you know,                         |
 | 01:06:23   | other people in your household, which I know both of you do.                                            |
@@ -700,14 +700,14 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:08:05   | media to need re-encoding. So if it needs re-encoding, then you need a much more powerful               |
 | 01:08:09   | machine. But all of my stuff, when I ripped it, I formatted it so that I could play it.                 |
 | 01:08:13   | Like it was originally in iTunes so that I could use iTunes home sharing. I think it was called         |
-| 01:08:21   | back in the day where you would have your Mac on and then you could play it on the Apple TV             |
+| 01:08:21   | back in the day where you would have your Mac on and then you could play it on the [[Apple TV]]             |
 | 01:08:26   | or your iPad or something. And then after, for a while, I switched over to [[Infuse]] and just shared       |
 | 01:08:31   | the drive on my network, which worked pretty well. And then I decided that actually I wanted            |
 | 01:08:36   | it to be available outside of my network and for my parents to also be able to access it.               |
 | 01:08:40   | So I switched over to Plex. That's actually really interesting that you use a Raspberry Pi              |
 | 01:08:46   | because I have a very, I have a very old TV. So I have like ripped a bunch of Blu-rays, but I don't,    |
 | 01:08:53   | I don't need them at a super high quality. And I have a ton of files that were ripped from DVDs         |
-| 01:08:59   | from Handbrake. And I had some, I think I had an AppleScript. It's lost to time, but it would,         |
+| 01:08:59   | from Handbrake. And I had some, I think I had an [[AppleScript]]. It's lost to time, but it would,         |
 | 01:09:07   | you know, rip things from Handbrake and then put it into iTunes and then form, what was it called?      |
 | 01:09:12   | Like Front Row, which is like a little movie theatre in your Mac. And that's such a good idea           |
 | 01:09:19   | because it's definitely on an old, like an archived media drive somewhere. I just don't want            |
@@ -766,8 +766,8 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:15:20   | at home a lot of the time, I think the Homebridge ecosystem has really started expanding and            |
 | 01:15:26   | people are using Pushcut more and we're kind of in this like overall dark place in the world,         |
 | 01:15:34   | but we're all getting into home automation since we're here all the darn time.                          |
-| 01:15:41   | Yeah, I have also been diving into this a lot, and I don't have a Roomba, I have a eufy robot         |
-| 01:15:49   | vacuum, her name's Buttercup from the Princess Bride, but she, but unfortunately to get your eufy    |
+| 01:15:41   | Yeah, I have also been diving into this a lot, and I don't have a Roomba, I have a [[eufy]] robot         |
+| 01:15:49   | vacuum, her name's Buttercup from the Princess Bride, but she, but unfortunately to get your [[eufy]]    |
 | 01:15:56   | into Homebridge, the person who wrote the plug-in, you need to get the device ID and                    |
 | 01:16:03   | something else and unfortunately to do this, I had to set up an Android emulator and do like            |
 | 01:16:10   | network tracing and stuff like that, I actually have an Android phone and so to start with,             |
@@ -813,7 +813,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:20:04   | who started the [[Stream Deck]] trend. But wow, the [[Stream Deck]] is so cool. And I still don't really        |
 | 01:20:13   | know what to do with it. But I know I want to do a lot of things with it. But I'm also cautious         |
 | 01:20:19   | about going down these rabbit holes, because, you know, I don't know when this is coming out,           |
-| 01:20:24   | but the Apple Silicon event is or well, there's some Apple event next week. And I have a feeling        |
+| 01:20:24   | but the [[Apple Silicon]] event is or well, there's some [[Apple]] event next week. And I have a feeling        |
 | 01:20:30   | that I might be purchasing a personal computer after that. And I don't know what's gonna happen.        |
 | 01:20:37   | Like when I really hope that shortcuts is coming to the Mac, I bet it's not. I mean, I'm sure it's      |
 | 01:20:44   | not going to be for like another year or so. But since I'm at a point in my life now, where I           |
@@ -832,7 +832,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:22:20   | to use in the real world. Does that sort of make make sense? Yeah, it does. And I think if you're       |
 | 01:22:27   | since you're already fluent in shortcuts, I think you're going to find keyboard my show very easy.      |
 | 01:22:31   | It's a, I think keyboard my show is a little nerdier, but it's also a little more powerful too,         |
-| 01:22:36   | because you can like run AppleScripts to virtually do anything on your Mac that                        |
+| 01:22:36   | because you can like run [[AppleScript\|AppleScripts]] to virtually do anything on your Mac that                        |
 | 01:22:41   | that you're going to go crazy. Once you get into keyboard my show, you're going to have a bunch         |
 | 01:22:45   | of, you know, you're going to have a bunch of scripts. Just that'll be great. That's what I             |
 | 01:22:49   | actually found with with these, I don't want to call them legacy Mac apps, because that makes           |
@@ -843,7 +843,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:23:23   | think, which is another one of those apps that I really, really love. And it's kind of becoming my      |
 | 01:23:29   | main archival tool. But I don't like that I have to have it running in the background on my at          |
 | 01:23:36   | iMac to make sure that it's always up to date on my phone. It's worked great so far. But, you know,     |
-| 01:23:43   | you never know what Apple will do in the next version of Mac OS.                                        |
+| 01:23:43   | you never know what [[Apple]] will do in the next version of Mac OS.                                        |
 | 01:23:48   | Yeah. Yeah, but that's, and that's where automation comes in, you could run a script to like just       |
 | 01:23:53   | open it up at 2am every day. And that's what I do actually. Yeah, I stole that from you. Yeah.          |
 | 01:23:58   | And it is, but I mean, you are so far down the road on automation, I just can't wait to hear            |

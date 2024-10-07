@@ -173,7 +173,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 07:42      | That was an automation that didn't really work for me, even though it should have, right?          |
 | 07:47      | In terms of getting me to do the comms, I've tried all these different techniques and what         |
 | 07:51      | I've settled on the last three or four months is, and this is where I'm not sure if it's           |
-| 07:56      | automation, but every day at four o'clock there's a standing alarm on my Apple Watch               |
+| 07:56      | automation, but every day at four o'clock there's a standing alarm on my [[Apple Watch]]               |
 | 08:02      | and my wrist taps.                                                                                 |
 | 08:03      | So no matter where I am, it just taps and it does say, hey, column's time, you know,               |
 | 08:09      | whatever.                                                                                          |
@@ -216,7 +216,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 10:17      | And the thing that you wanted to do at that time could be pushed back by 15, 20 minutes.           |
 | 10:21      | Then yeah, I think using the just open an app at this time automations can be a little             |
 | 10:27      | bit tricky.                                                                                        |
-| 10:29      | So yeah, it's one of those things where I, it almost makes me wonder, Apple, we're kind            |
+| 10:29      | So yeah, it's one of those things where I, it almost makes me wonder, [[Apple]], we're kind            |
 | 10:33      | of slow to implement, you know, automation, like proper automation for all of the other            |
 | 10:38      | triggers, but they were really gung-ho happy of, yeah, sure, at this specific time, your           |
 | 10:42      | phone could just go off and do this thing for you.                                                 |
@@ -356,11 +356,11 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 18:14      | appropriate and like if you stop moving, then they would turn the lights off while you're          |
 | 18:19      | still in the room.                                                                                 |
 | 18:20      | And [[Human Presence Sensor\|human presence sensors]] are supposed to solve that problem.                                     |
-| 18:23      | That was one of the big things of 2023 is the arrival of these Aqara sensors.                      |
+| 18:23      | That was one of the big things of 2023 is the arrival of these [[Aqara]] sensors.                      |
 | 18:28      | But I think it must have got itself a hardware, like a firmware update or something without        |
 | 18:34      | me realising it, or maybe when [[HomeKit\|Apple HomeKit]] switched architecture, which it did about             |
 | 18:39      | two months ago, maybe that's when it got better.                                                   |
-| 18:42      | But either way, suddenly, my Aqara [[HomeKit]] enabled, [[Human Presence Sensor\|human presence sensor]] just started             |
+| 18:42      | But either way, suddenly, my [[Aqara]] [[HomeKit]] enabled, [[Human Presence Sensor\|human presence sensor]] just started             |
 | 18:48      | working and now when I walk in the room, lights turn on, walk out of the room, lights turn         |
 | 18:52      | off, very useful, except when I want to use the room as a studio where I need lighting             |
 | 18:57      | at a certain level and then I just turn that automation off and I have different automations.      |
@@ -383,9 +383,9 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 20:13      | I had been messing in my office.                                                                   |
 | 20:15      | My office is the room that I'm allowed to mess with things with, as long as I also leave           |
 | 20:18      | a working solution in place.                                                                       |
-| 20:21      | I've been messing with some of the Aqara motion sensors.                                           |
+| 20:21      | I've been messing with some of the [[Aqara Presence Sensor\|Aqara motion sensors]].                                           |
 | 20:24      | And so I have replaced my battery powered motion sensor in my hallway with a USB powered           |
-| 20:28      | Aqara motion sensor, which is the FP1 [[Human Presence Sensor\|human presence sensor]].                                       |
+| 20:28      | [[Aqara Presence Sensor\|Aqara motion sensors]], which is the [[Aqara Presence Sensor#FP1\|FP1]] [[Human Presence Sensor\|human presence sensor]].                                       |
 | 20:32      | And I am liking that in my hallway.                                                                |
 | 20:35      | And I really like the fact that it's not battery powered.                                          |
 | 20:38      | So I don't have to worry about replacing the battery at any point.                                 |

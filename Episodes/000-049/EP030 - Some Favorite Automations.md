@@ -89,22 +89,22 @@ Rose and David share some of their favourite recently created automations rangin
 | 02:38      | I don't know, but I just... I'm a little nervous. I don't want to be against you, whatever.          |
 | 02:43      | I'm a lover, not a fighter. But anyway, so we're going to be up there. And we're going               |
 | 02:47      | to be up there with a friend of ours, [[Sal Soghoian]] and his lovely wife, Naomi. And who                |
-| 02:54      | is... Sal is the guy. He's the one who was at Apple for all those years behind Apple                 |
-| 02:58      | Script and Automator. And now he's outside the company doing other stuff. And we thought,            |
+| 02:54      | is... [[Sal Soghoian\|Sal]] is the guy. He's the one who was at [[Apple]] for all those years behind [[AppleScript]]  |
+| 02:58      | and [[Automator]]. And now he's outside the company doing other stuff. And we thought,            |
 | 03:03      | let's do something with Sal for this bonus episode. And let's do something fun. And                  |
 | 03:08      | so we decided a board game, but it had to be a board game that involved automation.                  |
-| 03:13      | So guys, we are going to play Mousetrap with [[Sal Soghoian]].                                            |
+| 03:13      | So guys, we are going to play [Mousetrap](https://en.wikipedia.org/wiki/Mouse_Trap_(board_game)) with [[Sal Soghoian]].                                            |
 | 03:18      | Yeah. It's going to be so much fun. And just to make it even more fun, we're going to do             |
 | 03:23      | our best. No complete promises, but we're going to try to also do it as a video episode              |
 | 03:29      | so that you can watch me lose so terribly, because the only time I've ever played this               |
 | 03:35      | game, I lost really badly.                                                                           |
 | 03:37      | Well, when I was a kid, I didn't have it. A friend of mine had it, but all he would                  |
 | 03:40      | do is go in his room and set up the Mousetrap. I've never actually played the game. I have           |
-| 03:45      | no ideas what the rules are. Sal had never heard the game at all. So I don't know what's             |
+| 03:45      | no ideas what the rules are. [[Sal Soghoian\|Sal]] had never heard the game at all. So I don't know what's             |
 | 03:52      | going to happen, but it's going to be fun. So that's something to look forward to if                 |
 | 03:54      | you're a member. So make sure you don't miss out. Head to relay.fm/automators to               |
-| 04:02      | become a member of the automators. And if you'd like to learn more and support more                  |
-| 04:07      | shows, go to relay.fm slash membership. That URL one more time is relay.fm/automators.         |
+| 04:02      | become a member of the Automators. And if you'd like to learn more and support more                  |
+| 04:07      | shows, go to relay.fm/membership. That URL one more time is relay.fm/automators.         |
 | 04:17      | And thank you for your support of the automators.                                                    |
 | 04:19      | Yes. Well, we're going to have some fun, but we've had some fun recently, right?                     |
 | 04:24      | Yeah. Well, we've been automating some problems. And so we have a little bit of a grab bag           |
@@ -116,8 +116,8 @@ Rose and David share some of their favourite recently created automations rangin
 | 04:57      | to me as a person ends up going there. And I recently decided that I was going to consolidate        |
 | 05:01      | all of this and put it all in one place. But I'll have it die hard and especially typing             |
 | 05:07      | memory apparently is for me impossible to change. So I decided that I was going to change            |
-| 05:11      | my TextExpander snippets that expanded to these email addresses to one email address                |
-| 05:17      | that I'm now using. So even if I type the TextExpander snippet for the old one, I now               |
+| 05:11      | my [[TextExpander]] snippets that expanded to these email addresses to one email address                |
+| 05:17      | that I'm now using. So even if I type the [[TextExpander]] snippet for the old one, I now               |
 | 05:21      | get the new email address, which is super helpful. Because also then when I can't look               |
 | 05:26      | into a website, I realise what the problem is and I look and I change my email address               |
 | 05:30      | and I'm done.                                                                                        |
@@ -217,11 +217,11 @@ Rose and David share some of their favourite recently created automations rangin
 | 13:37      | I don't have to go through that process over and over again.                                         |
 | 13:40      | That makes sense. Yeah, I really like that.                                                          |
 | 13:44      | I haven't really thought it through a little bit for, I think the next step of automation            |
-| 13:47      | for this would be for me to perhaps use an Apple Mail rule to look at subject lines                  |
+| 13:47      | for this would be for me to perhaps use an [[Apple Mail]] rule to look at subject lines                  |
 | 13:54      | and senders to say like if an email comes in from this particular person who's maybe                 |
 | 14:00      | counsel on the other side of a contract we're negotiating, I'm only going to get emails              |
 | 14:05      | from that guy on the Acme contract. So if I get an email from him, just go ahead and                 |
-| 14:10      | forward it to the Magic Basecamp email address. I could do that with an Apple Mail rule.             |
+| 14:10      | forward it to the Magic Basecamp email address. I could do that with an [[Apple Mail]] rule.             |
 | 14:15      | You could. I would be a little cautious of doing that purely because of the legal standpoint.        |
 | 14:21      | That person then ends up emailing you about something else six months in the future and              |
 | 14:25      | it accidentally gets put in the old person's, in the old projects base camp. Yeah, you would         |
@@ -245,8 +245,8 @@ Rose and David share some of their favourite recently created automations rangin
 | 16:00      | this is one I believe I've shared on the show. And it's a TextExpander snippet that just            |
 | 16:05      | grabs the message URL for the active email or the currently selected email. And I tied               |
 | 16:13      | it to a TextExpander command E-Link, E-L-I-N-K. So if I type E-L-I-N-K, no matter what app          |
-| 16:20      | I'm in, it looks at my Apple Mail program and says, oh, this is the message he has selected.         |
-| 16:25      | And so if I'm taking some notes and Apple notes about something I'm working on, and                  |
+| 16:20      | I'm in, it looks at my [[Apple Mail]] program and says, oh, this is the message he has selected.         |
+| 16:25      | And so if I'm taking some notes and [[Apple Notes]] about something I'm working on, and                  |
 | 16:31      | I'll say source email, and then I have a [[Keyboard Maestro]] script that selects that, creates          |
 | 16:39      | hyperlink and then types E-Link. And so I'm combining [[Keyboard Maestro]] and TextExpander.            |
 | 16:46      | It's like chocolate and peanut butter. But the idea at the end is that I've got a link               |
@@ -349,9 +349,9 @@ Rose and David share some of their favourite recently created automations rangin
 | 24:50      | in there and have calls come in or something. And I call it meeting mode. And then I just            |
 | 24:57      | run a couple of things. The first, I'm collecting data then at this point. So the idea of the        |
 | 25:02      | script is to run and then get a kick off point for writing down notes during the meeting.            |
-| 25:09      | And I've been using Apple notes for it. With iOS 13 beta, I've been using Apple notes                |
+| 25:09      | And I've been using [[Apple Notes]] for it. With iOS 13 beta, I've been using [[Apple Notes]]                |
 | 25:14      | a lot more. You know, now that you have nested folders and you can create them on the iOS            |
-| 25:18      | device, I feel like I'm going to be doing more on Apple notes than I used to. So anyway,             |
+| 25:18      | device, I feel like I'm going to be doing more on [[Apple Notes]] than I used to. So anyway,             |
 | 25:24      | so the first thing it does is it turns on do not disturb. And I turn it on just until                |
 | 25:28      | I leave, you know, because you can do that, which is kind of nice. And then the next thing           |
 | 25:33      | I do is I grab the current date. And, you know, that's going to be used in the minutes.              |
@@ -367,7 +367,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 26:22      | date from that date call. And it inserts the subject from the subject call. And then it              |
 | 26:27      | puts down a list of attendees, you know, from the, the choose from list. And then it types           |
 | 26:33      | in, you know, items discussed and action items. And it drops that into an Apple note and it          |
-| 26:39      | opens into Apple notes. So that's all it does. I mean, it just grabs some information and            |
+| 26:39      | opens into [[Apple Notes]]. So that's all it does. I mean, it just grabs some information and            |
 | 26:44      | creates the note with all the basics in it. And then I type in the note as we're talking             |
 | 26:48      | to the meeting and at the end of the meeting, I summarise the action items and who's going           |
 | 26:54      | to do them. And I type them into this document. So that's the first script. And then the second      |
@@ -429,7 +429,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 31:04      | if you're interested in automation, it opens up the world. I mean, there's just so much more         |
 | 31:10      | you can do with it. I mean, I've played with the NAS drives in the past and, you know,               |
 | 31:16      | and I thought about all these solutions. But at the end of the day, having a Mac running 24 seven    |
-| 31:21      | with all the cool things like [[Keyboard Maestro]], Apple Mail rules, [[Hazel]], having that running 24      |
+| 31:21      | with all the cool things like [[Keyboard Maestro]], [[Apple Mail]] rules, [[Hazel]], having that running 24      |
 | 31:28      | seven really can change your game for automation. So I totally understand why you got one.           |
 | 31:32      | Yeah, absolutely. And also as a note, if you're on the fence about whether or not it's a good        |
 | 31:37      | idea, you could try say a month of Mac stadium, I think it's $40 or $50 for a month. So it's not     |
@@ -478,7 +478,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 35:13      | running 24-7, but Calibre has a built-in ebook server, which I use with Marvin on my iPad mini       |
 | 35:19      | so that I can just grab ebooks and read them. And so it's really nice if all the ebooks are just     |
 | 35:25      | there. And if Calibre's running all the time, why not have it watch a folder in [[Dropbox]] and          |
-| 35:29      | just do some more magic for me? Yeah, I've bought so many books through Amazon that if they ever     |
+| 35:29      | just do some more magic for me? Yeah, I've bought so many books through [[Amazon]] that if they ever     |
 | 35:34      | like shut down or lock me out, I'm screwed. Oh, yeah. I have it download all of my Kindle books      |
 | 35:40      | as well and store those in Calibre as well, just so that I have everything there. Thanks,            |
 | 35:46      | my love. It's a little easier. But the magic that I am particularly proud of, which was the most     |
@@ -506,7 +506,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 37:48      | Usually a non-alcoholic one, just because adding any alcohol to a trip involving four                |
 | 37:53      | flights is a recipe for disaster. Yeah, I could see that. You can pretend that it's got alcohol      |
 | 37:59      | and a few onto. There. Yes. So whenever this file gets added to the folder, [[Hazel]] pops up and goes,  |
-| 38:07      | oh, I should run this AppleScript. And I've just put this in as an embedded AppleScript in the     |
+| 38:07      | oh, I should run this [[AppleScript]]. And I've just put this in as an embedded [[AppleScript]] in the     |
 | 38:11      | rule. And then it moves that file off to the trash. And then it's done. And this is great because    |
 | 38:16      | it means that I don't have the script running 24-7 in the background because most of the tasks I     |
 | 38:21      | add to OmniFocus, quite frankly, don't need this. But when I add those tasks with that formatting    |
@@ -561,7 +561,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 42:40      | ending up in my OmniFocus. And that, of course, was a significant failing on my side because I       |
 | 42:46      | wasn't automating adding the tasks, which is why I switched back to using mail drop because then     |
 | 42:49      | the very least the tasks were there. But it still wasn't perfect. And now it's getting pretty close  |
-| 42:54      | to perfect with this. Yeah. Well, whenever you get around to the OmniFocus JavaScript version of     |
+| 42:54      | to perfect with this. Yeah. Well, whenever you get around to the OmniFocus [[JavaScript]] version of     |
 | 42:59      | this, let me know, I'll be your beta tester. But I well, I think there'll be a couple of people      |
 | 43:03      | who want to I may actually modify it so that just handles Taskpaper instead. Yeah. Because that's   |
 | 43:09      | a format that everybody's familiar with instead of the format that Joe created this before OmniFocus |
@@ -589,8 +589,8 @@ Rose and David share some of their favourite recently created automations rangin
 | 45:16      | else yet. I'm thinking I'm going to end up with a combination of server side rules and mail rules,   |
 | 45:21      | but I don't know. I really need to get a handle on this because there's just so much in my inbox     |
 | 45:25      | right now and it's crazy. Maybe we need to go back and do this show on that because I feel like      |
-| 45:30      | I've got that problem pretty solved between my same box subscription and a lot of AppleScripts I    |
-| 45:36      | use with Apple Mail on the Mac. I've talked about this on MPU, but I'm just getting where I don't    |
+| 45:30      | I've got that problem pretty solved between my same box subscription and a lot of [[AppleScript\|AppleScripts]] I    |
+| 45:36      | use with [[Apple Mail]] on the Mac. I've talked about this on MPU, but I'm just getting where I don't    |
 | 45:42      | do hardly any email on my iPhone and the stuff that gets too complicated on my iPad, I just tag      |
 | 45:50      | an archive and then I just manage the tags on the Mac. I've got some ideas on that. We should        |
 | 45:55      | probably do future content on that. Definitely. Let's do that. Is there anything else that you're    |

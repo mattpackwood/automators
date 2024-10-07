@@ -108,14 +108,14 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 02:40      | we haven't heard Rose's home automation story, which I am eager to hear. It's also something,            |
 | 02:47      | you know, this is an ongoing story really that, you know, right now we're in this weird                  |
 | 02:52      | period where there is the battle of the automation systems. Google has one, you know, Samsung            |
-| 03:00      | has one. It was smart things. They got purchased by Samsung. Apple has home kit. There's all             |
+| 03:00      | has one. It was smart things. They got purchased by Samsung. [[Apple]] has home kit. There's all             |
 | 03:05      | these different ecosystems and it's frustrating as users because we just want everything to              |
 | 03:11      | work with everything and not have to deal with these battles. But at the same time,                      |
 | 03:15      | there are different platform makers that have different visions and ideas. And us as consumers,          |
 | 03:20      | we've been kind of victims of that. I mean, the latest one is the Nest cams, you know,                   |
-| 03:26      | which is something that people bought thinking that they would be useful with the Amazon.                |
-| 03:33      | It's Amazon, right? Everybody's using their Nest cams with Amazon, but then Google has                   |
-| 03:38      | now, who now owns Nest, is not making them as compatible with Amazon. And I know they're                 |
+| 03:26      | which is something that people bought thinking that they would be useful with the [[Amazon]].                |
+| 03:33      | It's [[Amazon]], right? Everybody's using their Nest cams with [[Amazon]], but then Google has                   |
+| 03:38      | now, who now owns Nest, is not making them as compatible with [[Amazon]]. And I know they're                 |
 | 03:44      | still kind of a battle rageing over that may be able to get better, but it's like, you                    |
 | 03:48      | know, we want to buy stuff. We just want it to work, right?                                              |
 | 03:51      | Exactly. And it's very frustrating when you're there trying to set these things up. Usually              |
@@ -124,8 +124,8 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 04:04      | in the dark and that's not fun.                                                                          |
 | 04:06      | Yeah. So what I would say is that for years, I was hesitant to recommend any of this stuff               |
 | 04:11      | because I felt like I didn't want to turn somebody into buying something that later                      |
-| 04:16      | became a brick on them. We're going to talk today about Apple's [[HomeKit]]. That's because                  |
-| 04:22      | we're both [[HomeKit]] users. We did not want this podcast just to be all Apple stuff,                       |
+| 04:16      | became a brick on them. We're going to talk today about [[Apple|Apple's]] [[HomeKit]]. That's because                  |
+| 04:22      | we're both [[HomeKit]] users. We did not want this podcast just to be all [[Apple]] stuff,                       |
 | 04:26      | but this is the ecosystem that we both have the most experience with and we're going to                  |
 | 04:30      | just share it. And if you are using a different ecosystem successfully, please sound off in              |
 | 04:36      | the forums so folks can see your story. I think we'd love to hear from you.                              |
@@ -147,7 +147,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 05:52      | just moving the switch away from the door and into a device that can potentially run                     |
 | 05:55      | out of battery. So that's not necessarily the point of it.                                               |
 | 06:00      | Yeah, agreed. And I just wanted to say before we get into that, the reason I chose [[HomeKit]]               |
-| 06:05      | is because I'm invested in Apple. And honestly, I like Apple's general take on home automation.          |
+| 06:05      | is because I'm invested in [[Apple]]. And honestly, I like [[Apple|Apple's]] general take on home automation.          |
 | 06:12      | They've had a security emphasis for some time, which is one of the reasons why it hasn't grown           |
 | 06:17      | as fast as some of the competing platforms. But I do like the idea of a company that's                   |
 | 06:22      | taking security and privacy pretty seriously when it comes to this stuff. And honestly,                  |
@@ -175,7 +175,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 08:06      | the temperature to that and turns on the television or something.                                        |
 | 08:09      | Yeah, so combination. So rather than the five or six individual switches, you can throw                  |
 | 08:15      | one switch and make a whole series of things happen. And that remote control extends outside             |
-| 08:20      | the front door with the Apple [[HomeKit]]. If you have an Apple TV or even an enabled iPad                   |
+| 08:20      | the front door with the Apple [[HomeKit]]. If you have an [[Apple TV]] or even an enabled iPad                   |
 | 08:27      | at the house, you can control those devices remotely and just to go back to the air conditioning         |
 | 08:32      | example, it gets really hot here in Southern California. So if the whole family's been                   |
 | 08:37      | out of the house and we're heading back in the afternoon and we're going to know we're                   |
@@ -183,9 +183,9 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 08:46      | we can turn on the air conditioning so we can home the house is a little cooler.                         |
 | 08:51      | Yes. And I should also point out you don't have to make these available on the wider                     |
 | 08:57      | internet, but the advantage with [[HomeKit]] is it is available just for you. And as well                    |
-| 09:01      | as an iPad or an Apple TV, you can actually use a HomePod as well. So if you've been on                  |
+| 09:01      | as an iPad or an [[Apple TV]], you can actually use a HomePod as well. So if you've been on                  |
 | 09:07      | the fence about getting a smart speaker and you haven't picked one yet, but you don't                    |
-| 09:12      | have an Apple TV or an iPad that lives at home to control [[HomeKit]] things, then maybe                     |
+| 09:12      | have an [[Apple TV]] or an iPad that lives at home to control [[HomeKit]] things, then maybe                     |
 | 09:17      | a HomePod is the right solution for you because it will also work as an automation hub.                  |
 | 09:21      | Yeah, another another car automation that we do is I have a series of buttons that turn                  |
 | 09:26      | on the porch light, the interior light and some of the lights that we would want when                    |
@@ -255,10 +255,10 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 14:04      | this to the internet and they just don't go far enough with the security protections.                    |
 | 14:08      | Yeah. They don't realise that these are potentially an issue for them at all.                            |
 | 14:13      | And that's why we really rely on getting back to the beginning of the show, these platform               |
-| 14:19      | vendors. We need Google and Apple and Amazon and whoever else is Samsung to really look                  |
+| 14:19      | vendors. We need Google and [[Apple]] and [[Amazon]] and whoever else is Samsung to really look                  |
 | 14:26      | out for us and try and build security into the system, even with not necessarily secure                  |
 | 14:33      | devices connected to it. I don't have all the answers to it. I'm just smart enough to                    |
-| 14:37      | ask the question, what are they doing on that behalf? But like Apple for the longest time                |
+| 14:37      | ask the question, what are they doing on that behalf? But like [[Apple]] for the longest time                |
 | 14:42      | required hardware encryption on anything that was going to be connected to [[HomeKit]].                      |
 | 14:47      | It actually had to have a physical chip in it. That's the reason some of us that had                     |
 | 14:50      | Hue lights had to buy the upgraded hub that had the hardware security in it. And I know                  |
@@ -359,11 +359,11 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 22:39      | things about the Sonos system, but I wanted [[AirPlay]]. Okay. I was not willing to try something            |
 | 22:44      | that didn't have [[AirPlay]] because I like it. I really like that feature where you can just                |
 | 22:49      | send whatever it is you're playing to headphones, to your AirPods, or to a speaker. So I got             |
-| 22:53      | a Sonos One. And then HomePods is not actually available from Apple in Austria, but some stores          |
+| 22:53      | a Sonos One. And then HomePods is not actually available from [[Apple]] in Austria, but some stores          |
 | 23:01      | somewhere had a refurbished one or a returned one or something. And they said it was in                  |
 | 23:07      | like excellent condition. And I got it and the cellophane on the box didn't even appear                  |
 | 23:10      | to have been touched. So I now have a HomePod and a Sonos, which means that my HomePod could             |
-| 23:17      | act as an automation hub. I also have an Apple TV and iPads galore, it seems like. So I have             |
+| 23:17      | act as an automation hub. I also have an [[Apple TV]] and iPads galore, it seems like. So I have             |
 | 23:24      | plenty of options there as my [[HomeKit]] hub. So those are the two speakers that I've got.                  |
 | 23:30      | And then as far as lighting goes, it's predominantly Philips Hue lights. We replaced our bedroom         |
 | 23:36      | light with a light that's got a fan above it last year. And one of the requirements                      |
@@ -395,9 +395,9 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 25:45      | Logitech pop buttons again, if I was replacing them, but I'm not sure what I would replace               |
 | 25:50      | them with. But they're pretty good. So there's one by the front door that you just press                 |
 | 25:55      | it once on your way out and everything turns off even the Sonos, which is really good.                   |
-| 26:00      | And then aside from that, we've got a Logitech Harmony Hub, which means that you can switch              |
-| 26:05      | between the media PC attached to our television, the Apple TV or my [[Nintendo Switch]] very quickly         |
-| 26:11      | and it controls the lights as well. Yeah, I want to talk about that Harmony Hub. I've                    |
+| 26:00      | And then aside from that, we've got a [[Logitech Harmony\|Logitech Harmony Hub]], which means that you can switch              |
+| 26:05      | between the media PC attached to our television, the [[Apple TV]] or my [[Nintendo Switch]] very quickly         |
+| 26:11      | and it controls the lights as well. Yeah, I want to talk about that [[Logitech Harmony\|Harmony Hub]]. I've                    |
 | 26:17      | not used one in years. I played with one once, actually sent it back because it wasn't working           |
 | 26:22      | that well for me. But what's the primary goal of it?                                                     |
 | 26:26      | The primary goal was actually for me to not have to cycle through all of the different                   |
@@ -406,24 +406,24 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 26:39      | as well. Because one thing I've noticed my boyfriend really likes dealing with physical                  |
 | 26:44      | things when controlling stuff. So he's much more of this kind of person who would happily                |
 | 26:51      | pick up the remote control versus talk to the television, which of course can be done                    |
-| 26:55      | now because we've got the Harmony Hub. But this way, we have the remote control and with                 |
-| 27:01      | one press, you can either use the media PC or switch to the Apple TV and turn on the                     |
+| 26:55      | now because we've got the [[Logitech Harmony\|Harmony Hub]]. But this way, we have the remote control and with                 |
+| 27:01      | one press, you can either use the media PC or switch to the [[Apple TV]] and turn on the                     |
 | 27:08      | gaming, the gaming mode, which is my [[Nintendo Switch]], but it also controls the lighting                  |
 | 27:13      | as well. And so it will dim the lights when you start doing something and then it will                   |
 | 27:19      | brighten the lights up afterwards, which is really nice.                                                 |
 | 27:22      | Does that device work with home cameras? It just happened to also work with your hues?                   |
 | 27:27      | It happens to work with the hues. So unfortunately, it doesn't control my Nanoleaf light panels,         |
 | 27:31      | but they're also not right next to the television. So that's not too much of a problem.                  |
-| 27:36      | Since we cut our cable, I mean, we really only use the Apple TV. So we just have the                     |
-| 27:41      | one... We have the Apple TV remote that everybody hates, but I did put it in a little case as            |
+| 27:36      | Since we cut our cable, I mean, we really only use the [[Apple TV]]. So we just have the                     |
+| 27:41      | one... We have the [[Apple TV]] remote that everybody hates, but I did put it in a little case as            |
 | 27:49      | a magnet in it, so we just stick it to the TV. And my TV has that ability to... There's                  |
 | 27:55      | a setting for it, and somebody listening knows and they're banging their head against the                |
 | 27:59      | dashboard, but there's a setting in a lot of the more modern TVs where you can say get                   |
-| 28:04      | your power from the device connected to you. So the TV turns on when I press the Apple                   |
-| 28:10      | TV remote. So I don't even have to... I just have the one remote. It's very convenient.                  |
+| 28:04      | your power from the device connected to you. So the TV turns on when I press the [[Apple TV]]                   |
+| 28:10      | remote. So I don't even have to... I just have the one remote. It's very convenient.                  |
 | 28:14      | But I don't think I'm really a candidate. I think it's HDMI CEC. That's protocol. It's                   |
-| 28:19      | easy. Our Apple TV did that as well, and you could control it with the television remote,                |
-| 28:24      | but it's switching between my [[Nintendo Switch]] and back to the Apple TV or over to the media              |
+| 28:19      | easy. Our [[Apple TV]] did that as well, and you could control it with the television remote,                |
+| 28:24      | but it's switching between my [[Nintendo Switch]] and back to the [[Apple TV]] or over to the media              |
 | 28:29      | PC because we don't have regular cable or even watch over-the-air stuff either. That                     |
 | 28:36      | was barking me enough that I was willing to get that and pay the money for it. And my                    |
 | 28:40      | boyfriend is actually very happy with it. So that was a very good investment slash birthday              |
@@ -461,7 +461,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 30:32      | Yes, please.                                                                                             |
 | 30:33      | After you Googled it anyway, because I told you not to. But yeah, so try and pick something              |
 | 30:37      | sort of neutral.                                                                                         |
-| 30:38      | Yeah, I just used the Apple Watch, the Apple Watch one, because I get up pretty early and                |
+| 30:38      | Yeah, I just used the [[Apple Watch]], the [[Apple Watch]] one, because I get up pretty early and                |
 | 30:42      | I don't want to wake my wife up, and it just vibrates on my wrist.                                       |
 | 30:45      | Yeah, I often use that, but apparently the way I sleep, I sort of smash my wrist into                    |
 | 30:49      | the mattress and it does wake up my boyfriend because it vibrates the mattress enough. Who               |
@@ -499,7 +499,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 32:32      | I just went and sat on the sofa and told it, go clean my desk. So that was a very good                   |
 | 32:38      | investment.                                                                                              |
 | 32:39      | Yeah. I'll talk about, I have one too. I'll talk about it a little bit.                                  |
-| 32:42      | Yeah. Yeah. And then in the evening, so the, as I mentioned before the Harmony Hub, when                 |
+| 32:42      | Yeah. Yeah. And then in the evening, so the, as I mentioned before the [[Logitech Harmony\|Harmony Hub]], when                 |
 | 32:48      | you start and end different activities, it can do different things with the lighting.                    |
 | 32:54      | But then half an hour or so before sunset, I play with how long before sunset at different               |
 | 32:59      | times of the year because sometimes in the winter, you know, it's more like to be 45                     |
@@ -519,7 +519,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 33:59      | You've been through a lot, man. I mean, you broke your ankle.                                            |
 | 34:04      | Yeah, exactly. But yeah, if I'm not in bed by, if I'm not already in bed by then, then                   |
 | 34:11      | it will do that. And I should actually mention, so there's another app on the app store called           |
-| 34:16      | Home, but it's not the one made by Apple. It's made by, and I'm going to get the name                    |
+| 34:16      | Home, but it's not the one made by [[Apple]]. It's made by, and I'm going to get the name                    |
 | 34:22      | wrong. I want to say it's made by Mathias Gangkwya. Mathias surname, beginning with a G.                   |
 | 34:30      | And it's a little hard to find because it's just called Home. But I will add a link in                   |
 | 34:34      | the show notes. And this app is great because it allows you to do better control of home                 |
@@ -545,14 +545,14 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 35:53      | Well, I've gone in deep. Let's just put it that way. Yeah, we talked about, like we                      |
 | 35:57      | talked about it on MPU occasionally. I feel like there's been a substantial upgrade since                |
 | 36:02      | the last year or two that I talked about the last time. And, you know, I explained the                   |
-| 36:07      | last time, but okay, I'm going to go in with Home Kit. That's the Apple thing. I have Apple              |
+| 36:07      | last time, but okay, I'm going to go in with Home Kit. That's the [[Apple]] thing. I have [[Apple]]              |
 | 36:10      | devices. And I wanted to be able to talk about it on shows like this, but I also just                    |
 | 36:15      | wanted to make better automation. So I talk about the Hue lights and I still have a few                  |
 | 36:21      | of those in lamps, you know, where we have lamps that are connected to walls. They still                 |
 | 36:26      | are the best solution for that. But I also had some of the ceiling ones. I sold those                    |
-| 36:31      | to a friend and I started replacing the wall switches with the Lutron Casetaa wall switches.            |
+| 36:31      | to a friend and I started replacing the wall switches with the [[Lutron]] Caseta wall switches.            |
 | 36:39      | And I was talking to a friend of mine, Robert Spivack, who was a guest on MPU, I don't know,              |
-| 36:46      | over a year ago, I guess he's a home automation guy. And he was explaining to me that Lutron             |
+| 36:46      | over a year ago, I guess he's a home automation guy. And he was explaining to me that [[Lutron]]             |
 | 36:51      | has purchased its own space in the broadcast spectrum. You know, one of the big issues                   |
 | 36:58      | with all this home automation stuff, just another related conversation I had last week                   |
 | 37:03      | in San Jose when we were at [[WWDC]] was I talked to someone on one of the platforms, not Home               |
@@ -562,7 +562,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 37:22      | on. And while one may work, once you have five, they're all conflicting with each other                  |
 | 37:27      | in that same spectrum. And that makes communication difficult. And that's one of the primary challenges  |
 | 37:34      | that people that make this stuff face.                                                                   |
-| 37:35      | Definitely, yes. So Lutron, for me, has always been the exception. They just work. I mean,               |
+| 37:35      | Definitely, yes. So [[Lutron]], for me, has always been the exception. They just work. I mean,               |
 | 37:41      | they do, they do have a base unit that you get when you buy your first one. And I think                  |
 | 37:45      | that's a key component. But I've got these things now in almost every, every major switch                |
 | 37:52      | in the house. And, you know, I keep adding them every time I have money to burn and I                    |
@@ -573,14 +573,14 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 38:16      | just not cutting the power off to the smart device like you do with a Hue light. The other               |
 | 38:21      | thing is nice is there's different kinds of switches. You had talked about how you have                  |
 | 38:25      | the button at your door that you can turn everything off with. I have one as well. And                   |
-| 38:30      | it's a Lutron switch that can, if you press the top button, it lights up almost the entire               |
+| 38:30      | it's a [[Lutron]] switch that can, if you press the top button, it lights up almost the entire               |
 | 38:37      | house. And if you press the bottom one, it turns off every light in the house. So if                     |
 | 38:42      | you're showing up late at night and you're uncomfortable or you hear a noise, whatever,                  |
 | 38:46      | you press that button in the house, lights up like a Christmas tree. It just goes up                     |
 | 38:50      | everywhere. But at the same time, as you're walking out the door, if you're like, oh,                    |
 | 38:53      | I'm not sure if I turned off the light, you just press the bottom button and all the lights              |
 | 38:57      | get turned off when you leave. And it's great, right?                                                    |
-| 39:00      | I love that. If there were Lutron cassettes, which is available in Europe, then I would                  |
+| 39:00      | I love that. If there were [[Lutron]] Casetas, which is available in Europe, then I would                  |
 | 39:05      | have actually probably got those instead of the Phillips Hue because they are much more                  |
 | 39:11      | friendly to other people. And you do have the advantage of the ability to just turn                      |
 | 39:18      | it off with a button without replacing your light bulbs.                                                 |
@@ -589,7 +589,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 39:33      | ability to replace switches where you live and you want a reliable lighting control,                     |
 | 39:38      | it's the Casetas switches. I am so happy with them. I've got one now on the porch light.                |
 | 39:43      | So I talked earlier about how we'll turn on lights as we're coming home. It's the home                   |
-| 39:48      | kit driving the Casetass to turn on those lights. And it's great.                                       |
+| 39:48      | kit driving the Casetas to turn on those lights. And it's great.                                       |
 | 39:53      | Yes. Yeah, it is. I can confirm it because I tested it in person.                                        |
 | 39:57      | Now, also in addition with the Hue lights, I just on a whim, I was at Home Depot. It                     |
 | 40:04      | was like a home improvement superstore that's in a lot of communities here in the US. And                |
@@ -703,10 +703,10 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 48:42      | cameras. The outdoor ones on the wireless connection is nice because I didn't want to                    |
 | 48:45      | have to run a bunch of wires. I'm not sure they're entirely responsive. I feel like                      |
 | 48:49      | if someone just kind of runs up to the door and then leaves real quick, I'm not sure it's                |
-| 48:53      | going to capture them. I don't think it's a complete solution. And honestly, when Apple                  |
+| 48:53      | going to capture them. I don't think it's a complete solution. And honestly, when [[Apple]]                  |
 | 48:58      | was talking at [[WWDC]] saying we're making this new system for cameras to make it ultimate,                 |
 | 49:04      | you know, ultra secure and really protect the video of your home, I was really hoping                    |
-| 49:09      | Apple would say, and we have a camera that we're making that you can trust, you know,                    |
+| 49:09      | [[Apple]] would say, and we have a camera that we're making that you can trust, you know,                    |
 | 49:14      | but they didn't. Instead, they're going to third party vendors. And honestly, it's a                     |
 | 49:19      | lot of money to upgrade the cameras. But at some point I am going to, I want to get those                |
 | 49:25      | into the home kit web as well.                                                                           |
@@ -720,7 +720,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 49:59      | Yeah. Yeah, I think that's, for me, something I'm interested in. Robert Spivack, who I mentioned         |
 | 50:06      | earlier, had some really great solutions that are frankly much cheaper than the home kit                 |
 | 50:11      | stuff where you can run software on your Mac that records audio, the video locally basically             |
-| 50:16      | solves all the problems Apple's talking about without having to spend more money. And I probably         |
+| 50:16      | solves all the problems [[Apple|Apple's]] talking about without having to spend more money. And I probably         |
 | 50:21      | need to look at that as well. But if I do it, I feel like I may just have an electrician                 |
 | 50:28      | run wires for me, which is, you know, to the key points and just do it properly. But that's              |
 | 50:35      | on my radar, but I'm not super anxious to get started on it. You know, I'm just kind of                  |
@@ -763,9 +763,9 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 53:22      | Yeah, it is. But, you know, there's a lot you can do with this stuff. And                                |
 | 53:26      | Oh, so much. And in addition to the automation, the manual control is also very useful.                  |
 | 53:33      | I think the more people you have in your house, the more you rely on the manual control.                 |
-| 53:37      | Potentially, yes. I find a lot of the time I pull out my phone or my Apple watch and I                   |
+| 53:37      | Potentially, yes. I find a lot of the time I pull out my phone or my [[Apple Watch]] and I                   |
 | 53:42      | trigger a scene manually. Just because, you know, I've decided that we're going to sit                   |
-| 53:46      | down and watch film or something. And the Logitech Harmony Hub is great, but it can't                    |
+| 53:46      | down and watch film or something. And the [[Logitech Harmony\|Logitech Harmony Hub]] is great, but it can't                    |
 | 53:51      | differentiate between us watching TV and us watching a film.                                             |
 | 53:55      | Before we continue, I want to talk about timing, the automatic time tracking app for Mac OS.             |
 | 54:01      | Use the link in the show notes to get 10% off your purchase.                                             |
@@ -805,7 +805,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 56:55      | beta, it is coming. It will be out in September. At some point, we'll try their best to push it          |
 | 57:03      | onto everybody's iPhone and iPad that's capable of this, or rather iPad OS will get pushed onto          |
 | 57:08      | everybody's iPad that's capable of this. And we're going to see some differences there just              |
-| 57:15      | because Apple like to try and improve the stuff every year. So why not?                                  |
+| 57:15      | because [[Apple]] like to try and improve the stuff every year. So why not?                                  |
 | 57:22      | Yeah. We talked about it in the [[WWDC]] show, but let's just talk about this in terms of home               |
 | 57:28      | automation. But with the new version of Siri shortcuts, they have effectively included                   |
 | 57:35      | all of the home automation routines with Siri shortcuts. And you combine that with all these             |
@@ -849,7 +849,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 01:00:55   | the week. Yeah. And then have all the days of the week in a dictionary and have different songs          |
 | 01:01:00   | connected to them. Yes. Or different playlists. What I what I need is a is a Wi-Fi enabled mood          |
 | 01:01:07   | ring. Right. Oh, yeah. So I think there is actually like a health tracking fitness ring,                 |
-| 01:01:13   | but I don't know if it actually connects into Apple health. Yeah. If I could read my mood,               |
+| 01:01:13   | but I don't know if it actually connects into [[Apple Health]]. Yeah. If I could read my mood,               |
 | 01:01:17   | then it could play like maybe it plays some Miles Davis, if I'm kind of down and it plays,               |
 | 01:01:22   | you know, Star Wars, if I'm really up. I don't know. This story is not finished yet.                     |
 | 01:01:27   | Let's just put it that way. No, we'll put this way. We're going to come back into a follow-up            |
@@ -905,7 +905,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 01:05:35   | into [[HomeKit]] as well. And my Neatobot back is connected. And my Sonos is also connected to [[HomeKit]].       |
 | 01:05:42   | I will say that for some reason, it's not hugely reliable. I'm pretty certain that I did something       |
 | 01:05:47   | wrong in the setup. And that is why because I've not heard this from other people, but it also           |
-| 01:05:51   | means that everything that's available in [[HomeKit]] is also available via my Amazon Echo Lady inside       |
+| 01:05:51   | means that everything that's available in [[HomeKit]] is also available via my [[Amazon Echo]] Lady inside       |
 | 01:05:57   | of the Sonos. So it works in two ways, which does make life a lot easier for me. Until I had that,       |
 | 01:06:03   | I was struggling a little bit with some things. Well, one challenge I'm facing right now is my           |
 | 01:06:07   | in my backyard, I have these string lights, you know, that lights up and they pull too much              |
@@ -932,7 +932,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 01:08:03   | I mean, I'm sure there must be something for Homebridge and Android, where I can do that,                |
 | 01:08:06   | I just haven't looked enough for it yet. And it's just like the iPhone and the Android couple.           |
 | 01:08:14   | Do you guys argue about that? So the thing? No, no, we've had discussions about it, but not              |
-| 01:08:19   | arguments. In his case, he just doesn't really like the Apple stuff he thinks is overpriced.             |
+| 01:08:19   | arguments. In his case, he just doesn't really like the [[Apple]] stuff he thinks is overpriced.             |
 | 01:08:24   | I personally disagree and find the software integration to be a major selling point.                     |
 | 01:08:29   | Yeah. The old story. We agree to disagree. The old story. It's like Romeo and Juliet for nerds.          |
 | 01:08:38   | Yeah, a little bit, but less desk involved.                                                              |
@@ -949,8 +949,8 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 01:09:31   | wrong and you need to reset up your home, then they're all in one place, which is very useful.           |
 | 01:09:37   | And Home Run is the one with the complications changing that I use on my watch.                          |
 | 01:09:41   | And Home Dash is the one that I've been playing with. But right now, I'm kind of focused on the          |
-| 01:09:46   | Apple app because betas, right? Yes, exactly. But at the same time, I have to say I've not               |
-| 01:09:52   | had any problems with any of this stuff on the iOS 13 beta. I will grant you my Apple Watch and my       |
+| 01:09:46   | [[Apple]] app because betas, right? Yes, exactly. But at the same time, I have to say I've not               |
+| 01:09:52   | had any problems with any of this stuff on the iOS 13 beta. I will grant you my [[Apple Watch]] and my       |
 | 01:09:57   | iPhone are actually not on the on the betas right now, because I'm waiting for the public                |
 | 01:10:03   | betas on those because always first developer beta is a little wonky. But                                |
 | 01:10:08   | Yeah, I guess one point we didn't make about the iOS 13 beta is the controls are better.                 |

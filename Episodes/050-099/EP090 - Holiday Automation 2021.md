@@ -203,7 +203,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 07:54      | But by filtering it down, by deleting the file at the end.                                           |
 | 07:58      | You're removing it from the pool.                                                                    |
 | 07:59      | You're taking it out of the pool and that way you've not got true random, which is just              |
-| 08:03      | like iTunes, now [[Apple Music|Apple Music's]] random is not true random.                                            |
+| 08:03      | like iTunes, now [[Apple Music\|Apple Music's]] random is not true random.                                            |
 | 08:07      | They try to make sure that you hear everything before it starts over.                                |
 | 08:11      | This will work the same way.                                                                         |
 | 08:12      | And what I would also do is before I would not make that folder, the only place I keep               |
@@ -240,7 +240,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 09:36      | People are much more open to talking about these things and being excited by possibilities           |
 | 09:41      | and going from there to actually creating things for others can also be great fun.                   |
 | 09:47      | After that one, I have a very simple one, but this is one that I absolutely rely on.                 |
-| 09:53      | I got on Amazon for, I think, all of about $15 or $20 a few years ago, a [[HomeKit]] enabled             |
+| 09:53      | I got on [[Amazon]] for, I think, all of about $15 or $20 a few years ago, a [[HomeKit]] enabled             |
 | 10:00      | plug.                                                                                                |
 | 10:02      | And so they've got a little QR code on it.                                                           |
 | 10:05      | You hold it up to your phone and it pairs with [[HomeKit]] nicely.                                       |
@@ -354,7 +354,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 17:04      | Yeah.                                                                                                |
 | 17:05      | And this is new since the last time we covered this, these smart power strips, for lack of           |
 | 17:12      | a better term.                                                                                       |
-| 17:13      | And I'm just looking at Amazon now and there's a whole bunch of them.                                |
+| 17:13      | And I'm just looking at [[Amazon]] now and there's a whole bunch of them.                                |
 | 17:17      | I know you've been pretty happy with the Meross stuff.                                                |
 | 17:20      | The little power plug I have for the outdoor light is one as well that I bought last year            |
 | 17:24      | on your recommendation.                                                                              |
@@ -635,10 +635,10 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 35:10      | 250 lights are £99 here in the UK from Argus, where they are currently on sale.                      |
 | 35:17      | If you look on the Twinkly website, then they list all the partners for the different kinds          |
 | 35:24      | of things in different countries.                                                                    |
-| 35:27      | So in the US, you can get them apparently on Amazon, and I am just looking right now                 |
+| 35:27      | So in the US, you can get them apparently on [[Amazon]], and I am just looking right now                 |
 | 35:33      | to see.                                                                                              |
 | 35:34      | Yeah.                                                                                                |
-| 35:35      | So on Amazon, you can get a 400 light pack, which is 19 linear feet of lights for $160               |
+| 35:35      | So on [[Amazon]], you can get a 400 light pack, which is 19 linear feet of lights for $160               |
 | 35:45      | as we record.                                                                                        |
 | 35:46      | I don't know if that's a sale or not, and then you can get a two-pack for $320, and                  |
 | 35:54      | I haven't bought these, and I probably won't, to be honest, but it's such a game changer             |
@@ -660,7 +660,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 36:50      | There are the sort of things that you would see at events or permanent outdoor areas that            |
 | 36:55      | maybe you go to a restaurant or a cafe that has that sort of thing hung up outside, and              |
 | 37:01      | you can control those as well, which is quite nice.                                                  |
-| 37:05      | I think those are currently sold out on Amazon in the US, but I've seen them in a couple             |
+| 37:05      | I think those are currently sold out on [[Amazon]] in the US, but I've seen them in a couple             |
 | 37:10      | of places, and they're really nice.                                                                  |
 | 37:12      | If you want to go crazy with this stuff, then have a look at the sales for this or maybe             |
 | 37:18      | wait until January for those, but I've certainly got a lot of enjoyment out of my twinkly lights.    |
@@ -726,7 +726,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 40:19      | And you can extend DEVONthink's functionality with your own commands by adding them to its           |
 | 40:22      | scripts menu.                                                                                        |
 | 40:23      | Even templates can have scripts inside them and you can set up new documents with data               |
-| 40:27      | from placeholders or inserted by your own AppleScript code.                                          |
+| 40:27      | from placeholders or inserted by your own [[AppleScript]] code.                                          |
 | 40:30      | And of course, it's got smart rules and flexible reminders that let you automate all parts           |
 | 40:35      | of your workflow and delegate boring and repeating tasks.                                            |
 | 40:38      | Let DEVONthink automatically organise your data with rules you define.                               |
@@ -899,9 +899,9 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 49:40      | And recently he calculated he has three years of labels left in the box of labels that he            |
 | 49:49      | bought over 20 years ago.                                                                            |
 | 49:51      | So if you do want a cheap option, then you can just buy a box of labels.                             |
-| 49:55      | And then I think you use this, David, there's an option to print mailing labels in Apple             |
-| 50:02      | Contacts where it will then lay them all out on a sheet and you can customise that from              |
-| 50:11      | Contacts only on the Mac.                                                                            |
+| 49:55      | And then I think you use this, David, there's an option to print mailing labels in [[Apple Contacts]]            |
+| 50:02      | where it will then lay them all out on a sheet and you can customise that from              |
+| 50:11      | [[Apple Contacts\|Contacts]] only on the Mac.                                                                            |
 | 50:13      | You can't do this from iOS, which is a bit of a shame, but it is pretty great to be                  |
 | 50:18      | able to do that.                                                                                     |
 | 50:19      | And one of the ways that I have made this much easier for myself is I've created a group             |
@@ -923,7 +923,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 51:14      | And that works, but I have come to the conclusion that Contacts really isn't made for this,          |
 | 51:20      | and I do occasionally run into problems, and there are various problems.                             |
 | 51:24      | Sometimes it just doesn't work, and I'm not really sure why.                                         |
-| 51:27      | And I don't think the Contacts app gets a ton of love and attention from Apple.                      |
+| 51:27      | And I don't think the Contacts app gets a ton of love and attention from [[Apple]].                      |
 | 51:32      | So I don't know when they're going to get around updating it.                                        |
 | 51:35      | So I just manually create these groups.                                                              |
 | 51:38      | It is not that hard.                                                                                 |
@@ -936,7 +936,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 51:58      | I like CodeHop on iOS for this because you can tap and hold on a contact and just select             |
 | 52:01      | the groups right there, which is really easy when you've added a contact or if you're thinking       |
 | 52:05      | about things to do that.                                                                             |
-| 52:08      | And I want to give full props to Apple's Contacts here because when you print labels from Contacts,  |
+| 52:08      | And I want to give full props to [[Apple Contacts\|Apple's Contacts]] here because when you print labels from Contacts,  |
 | 52:14      | you can say that you want to print, for example, the company, that's a checkbox, but the country     |
 | 52:20      | or region is an option, but underneath that you can say, except my country or region.                |
 | 52:26      | So for example, I can include the country on all of the addresses except for those people            |
@@ -954,9 +954,9 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 53:28      | you can even define a custom label size as well in mail, which is really good.                       |
 | 53:33      | And I don't know now if I'm going to use Contacts print or the Brother P-Touch software,               |
 | 53:39      | which has, of course, a mail merge option to create labels with.                                     |
-| 53:44      | Yeah, and this is all, we're sourcing this from an Apple article for this purpose, we'll             |
+| 53:44      | Yeah, and this is all, we're sourcing this from an [[Apple]] article for this purpose, we'll             |
 | 53:48      | put links in the show notes.                                                                         |
-| 53:50      | The Apple Context app formats it automatically for Avery standard, Avery's a vendor here in          |
+| 53:50      | The [[Apple Contacts]] app formats it automatically for Avery standard, Avery's a vendor here in          |
 | 53:56      | the United States that makes basically labels that you can run through a printer and then            |
 | 54:01      | unstick them.                                                                                        |
 | 54:02      | But I believe, looking at the article, it also supports A4, which is probably what you               |
@@ -984,7 +984,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 55:44      | I didn't know that.                                                                                  |
 | 55:45      | Yeah, that's weird.                                                                                  |
 | 55:46      | Yes, we buy our fuel in liters, which is just a whole other thing.                                   |
-| 55:50      | But yes, we are getting sidetracked, but yes, fortunately, Apple contacts can print on A4            |
+| 55:50      | But yes, we are getting sidetracked, but yes, fortunately, [[Apple Contacts]] can print on A4            |
 | 55:57      | or anything else, and you can define custom as well, which is quite important for those              |
 | 56:02      | people who have maybe got labels, which aren't quite the same size as something else.                |
 | 56:09      | The package that my dad has, I believe they were Avery, but that box of labels is over               |
@@ -1048,8 +1048,8 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 59:56      | No, no, I did look at trying to hook something up.                                                   |
 | 59:59      | I do use Parcel to track all of my incoming deliveries.                                              |
 | 01:00:03   | I previously used a great app called Deliveries.                                                     |
-| 01:00:06   | I end up switching to Parcel because they have native Amazon integration, which is brilliant         |
-| 01:00:11   | when you buy quite a few things from Amazon and they explicitly say set up mail rules                |
+| 01:00:06   | I end up switching to Parcel because they have native [[Amazon]] integration, which is brilliant         |
+| 01:00:11   | when you buy quite a few things from [[Amazon]] and they explicitly say set up mail rules                |
 | 01:00:16   | to send us the delivery emails or batch emails and things like that, which is really good.           |
 | 01:00:25   | So I use Parcel for that, but they don't have an API to get data out.                                |
 | 01:00:29   | I consider building something where when I forward an email to Parcel, I also forward                |
@@ -1087,12 +1087,12 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:02:20   | She just fills them out by hand.                                                                     |
 | 01:02:21   | And then, like I said, with gift tracking, we really just keep it simple, just a shared              |
 | 01:02:27   | note.                                                                                                |
-| 01:02:28   | And Apple Notes has got so much better at stuff like this.                                           |
+| 01:02:28   | And [[Apple Notes]] has got so much better at stuff like this.                                           |
 | 01:02:30   | So I mean, in the years past, we had done databases and other solutions.                             |
-| 01:02:36   | But now that Apple Notes is pretty reliable and shared notes are really easy, Daisy and              |
+| 01:02:36   | But now that [[Apple Notes]] is pretty reliable and shared notes are really easy, Daisy and              |
 | 01:02:41   | I actually just have a shared folder.                                                                |
 | 01:02:44   | Now that's a new thing you can do as of, I think, last year.                                         |
-| 01:02:47   | So in Apple Notes, we have a shared folder.                                                          |
+| 01:02:47   | So in [[Apple Notes]], we have a shared folder.                                                          |
 | 01:02:49   | And then I can add any document to that shared folder.                                               |
 | 01:02:52   | And we don't have to go through the process of hooking up a sync for each new note.                  |
 | 01:02:57   | It's just part of that folder.                                                                       |
@@ -1226,15 +1226,15 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:10:26   | I used last year for my tree and lights and the remote for it.                                       |
 | 01:10:30   | So now their tree and lights will also be smart controlled, but they've got a little                 |
 | 01:10:37   | button that they can use on that to turn that on and off manually if they want to.                   |
-| 01:10:41   | Or it turns out my parents love talking to their Apple Watches, so that's what they                  |
+| 01:10:41   | Or it turns out my parents love talking to their [[Apple Watch\|Apple Watches]], so that's what they                  |
 | 01:10:45   | do most of the time.                                                                                 |
 | 01:10:46   | Yeah, I think that lights are a great kind of entry point because it's just so obvious,              |
 | 01:10:53   | they turn off and on.                                                                                |
 | 01:10:55   | And the trick is just finding a solution for them.                                                   |
 | 01:10:59   | And I really think one of the best ways to do it, if you have the ability and if they                |
-| 01:11:03   | live in circumstances where you can, is getting someone like a switch, get a Lutron Casetaa         |
+| 01:11:03   | live in circumstances where you can, is getting someone like a switch, get a [[Lutron]] Caseta         |
 | 01:11:12   | switch and maybe like a door trigger.                                                                |
-| 01:11:16   | I feel like, so you're in for under a hundred bucks to have one Lutron switch and a door             |
+| 01:11:16   | I feel like, so you're in for under a hundred bucks to have one [[Lutron]] switch and a door             |
 | 01:11:22   | trigger.                                                                                             |
 | 01:11:23   | And that way they've got the ability to turn the light off and on as they always did.                |
 | 01:11:29   | So you're not taking away anything.                                                                  |
@@ -1245,7 +1245,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:11:46   | And I think, you know, if you can do something like that, I think you're good.                       |
 | 01:11:50   | And but it seems to me like lights are kind of the entry point for this stuff.                       |
 | 01:11:55   | Yeah.                                                                                                |
-| 01:11:56   | The only thing I'll say about something like the Lutron Casetaa is that's kind of light             |
+| 01:11:56   | The only thing I'll say about something like the [[Lutron]] Caseta is that's kind of light             |
 | 01:11:59   | switch that you install in a wall.                                                                   |
 | 01:12:02   | And so if you're going to do that, you probably want to install it yourself.                         |
 | 01:12:05   | Oh yeah.                                                                                             |
@@ -1293,7 +1293,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:13:50   | It's USB.                                                                                            |
 | 01:13:51   | So it's operating over Wi-Fi, which, you know, has pros and cons.                                    |
 | 01:13:56   | But I'm planning on setting this stuff up in my parents' living room.                                |
-| 01:14:00   | So I'm getting them an Aqara hub, an E1 hub, a motion sensor, and a light sensor, a luminance        |
+| 01:14:00   | So I'm getting them an [[Aqara Hub]], an [[Aqara Hub#E1\|E1 hub]], a motion sensor, and a light sensor, a luminance        |
 | 01:14:07   | sensor.                                                                                              |
 | 01:14:08   | Yeah.                                                                                                |
 | 01:14:09   | Because this way, if they're at home and there's movement in the living room and it's                |
@@ -1315,7 +1315,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:15:13   | of mutterings.                                                                                       |
 | 01:15:14   | It was an interesting conversation, trying to explain that actually Ethernet is better               |
 | 01:15:18   | than the Wi-Fi sometimes.                                                                            |
-| 01:15:20   | So I've gone with the Aqara E1 hub because you just need to plug it into USB somewhere               |
+| 01:15:20   | So I've gone with the [[Aqara Hub#E1\|Aqara E1 hub]] because you just need to plug it into USB somewhere               |
 | 01:15:24   | for power and that's it.                                                                             |
 | 01:15:27   | And yeah, and this means that of course, then I can get them and I have got them some temperature    |
 | 01:15:32   | and humidity sensors.                                                                                |
@@ -1328,20 +1328,20 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:15:50   | So I'll be giving them the ability to determine this with very, very tiny sensors, which is          |
 | 01:15:57   | hopefully something that will benefit them.                                                          |
 | 01:15:59   | Yeah, that's nice.                                                                                   |
-| 01:16:00   | And the E1 hub is just 30 bucks on Amazon in the United States.                                      |
+| 01:16:00   | And the [[Aqara Hub#E1\|E1 hub]] is just 30 bucks on [[Amazon]] in the United States.                                      |
 | 01:16:04   | It's a very easy way, like low barrier of entry.                                                     |
 | 01:16:08   | Yes.                                                                                                 |
-| 01:16:09   | The only thing I'll say is when they first released the E1 hub, it was only available                |
-| 01:16:15   | on the Chinese Aqara server or in [[HomeKit]] only mode, I believe.                                      |
+| 01:16:09   | The only thing I'll say is when they first released the [[Aqara Hub#E1\|E1 hub]], it was only available                |
+| 01:16:15   | on the Chinese [[Aqara]] server or in [[HomeKit]] only mode, I believe.                                      |
 | 01:16:21   | And now it should be available in [[HomeKit]] mode everywhere because they are advertising               |
 | 01:16:24   | it with [[HomeKit]] mode.                                                                                |
-| 01:16:25   | So just double check the Aqara website first to make sure that it is in [[HomeKit]] mode.                |
+| 01:16:25   | So just double check the [[Aqara]] website first to make sure that it is in [[HomeKit]] mode.                |
 | 01:16:30   | But I'm 99% certain it is available for [[HomeKit]] on the UK, EU and US servers.                        |
 | 01:16:39   | So yeah, but it's pretty great.                                                                      |
-| 01:16:41   | And the Aqara stuff is very affordable as well, which makes it a really good gift because            |
+| 01:16:41   | And the [[Aqara]] stuff is very affordable as well, which makes it a really good gift because            |
 | 01:16:46   | then if they decide that they want some more temperature sensors, it's going to be easy              |
 | 01:16:49   | to get them.                                                                                         |
-| 01:16:50   | Yeah, door sensors are $15.                                                                          |
+| 01:16:50   | Yeah, [[Aqara Door and Window Sensor\|door sensors]] are $15.                                                                          |
 | 01:16:54   | Temperature sensors.                                                                                 |
 | 01:16:55   | And they're really small.                                                                            |
 | 01:16:56   | They are really small.                                                                               |
@@ -1353,7 +1353,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:17:12   | of automation.                                                                                       |
 | 01:17:13   | So if you're looking for some ideas of some things that people could get you, things like            |
 | 01:17:17   | the door sensor and window sensor are really good.                                                   |
-| 01:17:20   | Aqara also sell a vibration sensor, which I have stuck to the back of my office chair.               |
+| 01:17:20   | [[Aqara]] also sell a vibration sensor, which I have stuck to the back of my office chair.               |
 | 01:17:25   | And this is one of the ways that I tell whether or not my office is occupied because the motion      |
 | 01:17:31   | sensor on my chair is much more likely to pick up some movement while I'm sitting here               |
 | 01:17:34   | recording a podcast than the other motion sensors, which are traditional motion sensors              |
@@ -1362,11 +1362,11 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:17:47   | And I'm hoping that the motion sensor, we may have to play a little bit with positioning             |
 | 01:17:51   | to find a good spot to put it in where it can always see people, but my parents don't                |
 | 01:17:56   | feel like it's obtrusive.                                                                            |
-| 01:17:59   | But the Aqara things are very small, which makes it much easier to stow a motion sensor              |
+| 01:17:59   | But the [[Aqara]] things are very small, which makes it much easier to stow a motion sensor              |
 | 01:18:06   | somewhere.                                                                                           |
 | 01:18:07   | And the light sensor I'll be putting on the windowsill to get an appropriate and accurate            |
 | 01:18:11   | light reading.                                                                                       |
-| 01:18:12   | Yeah, another really affordable Aqara sensor is a water leak detector for $18.                       |
+| 01:18:12   | Yeah, another really affordable [[Aqara Water Leak Sensor\|Aqara sensor is a water leak detector for $18]].                       |
 | 01:18:16   | I mean, if you've got something that could leak water, you're washing machine, your dishwasher,      |
 | 01:18:24   | things like that.                                                                                    |
 | 01:18:25   | I've got one.                                                                                        |
@@ -1384,11 +1384,11 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:19:07   | See, now the fact that I know this exists for $18, it's like, and if someday I do have               |
 | 01:19:13   | a water problem, I'm going to be really upset that I didn't do this.                                 |
 | 01:19:16   | Yes.                                                                                                 |
-| 01:19:17   | The only thing I'll say is if you're looking at getting an Aqara hub for yourself, check             |
+| 01:19:17   | The only thing I'll say is if you're looking at getting an [[Aqara Hub]] for yourself, check             |
 | 01:19:21   | the number of devices that can be paired with the hub, the E1 has got a lower number of              |
 | 01:19:25   | devices that can be paired with it compared to the other hubs.                                       |
-| 01:19:28   | The M2 can pair 128 sensors.                                                                         |
-| 01:19:31   | I started out with the M1S, which has a limit of 32, and you probably go 32, that's so               |
+| 01:19:28   | The [[Aqara Hub#M2|M2]] can pair 128 sensors.                                                                         |
+| 01:19:31   | I started out with the [[Aqara Hub#M1S (Gen 1)|M1S]], which has a limit of 32, and you probably go 32, that's so               |
 | 01:19:36   | many sensors.                                                                                        |
 | 01:19:37   | Once you add door sensors to most of your doors and your windows, and then you add a                 |
 | 01:19:42   | vibration sensor to the back of your office chair and so on and so forth, you very quickly           |
@@ -1396,10 +1396,10 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:19:48   | So I would recommend potentially looking at one of their hubs.                                       |
 | 01:19:53   | They do some cameras, which are also hubs as well.                                                   |
 | 01:19:57   | So if you're looking for a home kit camera, then you can get a home kit camera that is               |
-| 01:20:02   | also in Aqara hub and do a 2-in-1, and those compare 64 devices with them.                           |
+| 01:20:02   | also in[[ Aqara Hub]] and do a 2-in-1, and those compare 64 devices with them.                           |
 | 01:20:07   | So that's quite nice.                                                                                |
 | 01:20:08   | Yeah.                                                                                                |
-| 01:20:09   | And the other thing is, all the Aqara stuff is home kit compatible, which means all of               |
+| 01:20:09   | And the other thing is, all the [[Aqara]] stuff is home kit compatible, which means all of               |
 | 01:20:14   | these sensors become triggers in a home kit without having to go to any other third party            |
 | 01:20:18   | options.                                                                                             |
 | 01:20:19   | So that's nice.                                                                                      |
@@ -1448,7 +1448,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:22:51   | of OmniFocus 4, and that's in [[SwiftUI]], and they've been running into issues with [[SwiftUI]],            |
 | 01:22:57   | which are things crash, and it's not because Omni Group have necessarily programmed things            |
 | 01:23:02   | wrong, it's because of [[SwiftUI]], and they've said this several times over the beta, you               |
-| 01:23:08   | know, like, there's a [[SwiftUI]] bug here, we're working on trying to get it fixed with Apple,          |
+| 01:23:08   | know, like, there's a [[SwiftUI]] bug here, we're working on trying to get it fixed with [[Apple]],          |
 | 01:23:13   | but they're having to write some things in AppKit to go around that, or UIKit, and so                |
 | 01:23:21   | on, which is just, you know, it's less than ideal, and I wonder if the Shortcuts team have           |
 | 01:23:25   | run into the same issue, or let's face it, they've got an inside line, right, to the                 |
@@ -1501,7 +1501,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:26:50   | there isn't one on the Mac, and that was something that drove me a little bit crazy, but somebody    |
 | 01:26:55   | of course has written their own app, which its entire purpose is to be the Automation                |
 | 01:27:02   | tab of Shortcuts on the Mac.                                                                         |
-| 01:27:04   | So I both love this, and I think they're going to get Sherlocked next year.                         |
+| 01:27:04   | So I both love this, and I think they're going to get [[Sherlocking\|Sherlocked]] next year.                         |
 | 01:27:09   | Oh, definitely.                                                                                      |
 | 01:27:10   | I think this will be built in.                                                                       |
 | 01:27:11   | But at the same time, it is fabulous that somebody out there has done this, and so I'll              |

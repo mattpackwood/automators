@@ -68,8 +68,8 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 00:17      | Hello. Thank you for having me.                                                                                                                                                    |
 | 00:19      | Matthew was one of the guys over on the [[Workflow]] team. That's when I first met you. You were                                                                                   |
 | 00:24      | working for a [[Workflow]]. In fact, I've got some stickers that you gave me that are on                                                                                           |
-| 00:28      | my luggage. When Apple bought [[Workflow]], Matthew went into Apple with the rest of the team.                                                                                     |
-| 00:34      | Now he's left Apple, and he's out, but he knows a ton about iOS automation. So we're                                                                                               |
+| 00:28      | my luggage. When [[Apple]] bought [[Workflow]], Matthew went into [[Apple]] with the rest of the team.                                                                                     |
+| 00:34      | Now he's left [[Apple]], and he's out, but he knows a ton about iOS automation. So we're                                                                                               |
 | 00:40      | going to get some knowledge from Matthew today. Currently, he writes for several websites,                                                                                         |
 | 00:49      | [The Sweet Setup](https://thesweetsetup.com), [TechCrunch](https://techcrunch.com). He's got his own blog over at [matthewcassinelli.com](https://matthewcassinelli.com). And best |
 | 00:55      | of all, he's got a new podcast with our pal [[Alex Cox]] at [supercomputer.fm](https://supercomputer.fm), where they talk                                                          |
@@ -130,7 +130,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 05:08      | So, so Matt, how did you just briefly, I mean, why is this iOS automation stuff so important                                                                                       |
 | 05:15      | to you?                                                                                                                                                                            |
 | 05:16      | So, I mean, some of my history from it was this is a little sappy story, but David, you                                                                                            |
-| 05:22      | were probably one of the people that got me interested in the Apple community. So I talked                                                                                         |
+| 05:22      | were probably one of the people that got me interested in the [[Apple]] community. So I talked                                                                                         |
 | 05:27      | about this on my podcast, but when I first moved to the Bay Area, I would be commuting                                                                                             |
 | 05:32      | on the train and have no service. And I realised I needed something to listen to. And so I                                                                                         |
 | 05:37      | found something that was called podcasts and a little show called [[Mac Power Users]] and downloaded                                                                                   |
@@ -170,7 +170,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 09:04      | The system suggesting them will be super approachable because most of the time you won't have to                                                                                   |
 | 09:10      | go in and set it up. That was always one of the big issues with workflow is just taking                                                                                            |
 | 09:15      | the time and then, oh, you have to go run it. But using something like [[Siri]] or just                                                                                                |
-| 09:19      | having it pop up on your spotlight search or your Apple Watch is going to be amazing.                                                                                              |
+| 09:19      | having it pop up on your spotlight search or your [[Apple Watch]] is going to be amazing.                                                                                              |
 | 09:24      | So it really is like a full circle from [[Mac Power Users]] all the way to Automators.                                                                                                 |
 | 09:30      | Well, I really, well, first of all, thanks. I mean, I'm glad that played a small role                                                                                              |
 | 09:35      | in it, but it's on you, man. You really did something amazing. I mean, Matt shared with                                                                                            |
@@ -197,7 +197,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 11:39      | shortcuts with us, Matt? Totally. I have a couple here for you today. I have one that                                                                                              |
 | 11:46      | I use to open my Twitter lists, which might be handy if you're suffering from a lack of                                                                                            |
 | 11:52      | tweet bot in your life lately. And then I also have a fun one that I use to create master                                                                                          |
-| 11:59      | versions of all of my Apple music playlists, which I then use this shortcut to update,                                                                                             |
+| 11:59      | versions of all of my [[Apple Music]] playlists, which I then use this shortcut to update,                                                                                             |
 | 12:05      | run, open, then do multiple tasks on. And then assuming we have enough time because I've                                                                                           |
 | 12:12      | got lots of material. I have another one that's called when is golden hour? And it looks at                                                                                        |
 | 12:17      | [[Dark Sky]] and calls their API. And then from the [[JSON]] response that they give back, which                                                                                           |
@@ -647,7 +647,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 52:35      | you still wouldn't hit that limit. It's meant for people like, for example, the developer                                                                                          |
 | 52:39      | making carrot, he also uses Dark Sky as one of his weather sources. And so he obviously                                                                                            |
 | 52:44      | will need to pay for to provide the weather to everybody, which is why there's an optional                                                                                         |
-| 52:48      | extra subscription in carrot for the Apple Watch, because that obviously increases the                                                                                             |
+| 52:48      | extra subscription in carrot for the [[Apple Watch]], because that obviously increases the                                                                                             |
 | 52:53      | number of calls that needs to be made. And so basically, we're going to post this at                                                                                               |
 | 53:00      | some point. And whether it's my key or Rose's key or Matt's key, you need to get your own                                                                                          |
 | 53:05      | key. Yeah, the key will not be in the shortcut, but it's free to sign up for. So don't worry                                                                                       |
@@ -852,7 +852,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 01:13:28   | the [[Shortcuts]] file there is the [[XML]] inside. So that's the alternative to [[JSON]] I was talking                                                                                        |
 | 01:13:33   | about earlier. And it is possible to go through and decode it. It's not the most fun thing to                                                                                      |
 | 01:13:39   | go through and decode speaking from experience. So I would highly recommend sticking with the                                                                                      |
-| 01:13:43   | lovely user interface provided for us by Apple. Yeah, it's like getting a little intense there.                                                                                    |
+| 01:13:43   | lovely user interface provided for us by [[Apple]]. Yeah, it's like getting a little intense there.                                                                                    |
 | 01:13:51   | Yeah, well, they either way, I mean, it is a little bit of a chewing gum thing, but it works.                                                                                      |
 | 01:13:56   | You've done some date math to get the UTC to, to Pacific time. And obviously, if you're doing                                                                                      |
 | 01:14:05   | this on the East Coast or some other country, you'd have to change those numbers, but you can                                                                                      |
@@ -898,7 +898,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 01:18:04   | you're just suddenly you have your information. And what looks like this whole fancy script is                                                                                     |
 | 01:18:10   | just information. And when I add this to [[Siri]], and put my custom phrase of when is golden hour,                                                                                    |
 | 01:18:18   | she just says back to me, it's at 5am, you have until 6am to take photos. And it's, I'm like,                                                                                      |
-| 01:18:25   | this is amazing, like I got my, I was walking out with using my Apple Watch and my [[AirPods]],                                                                                        |
+| 01:18:25   | this is amazing, like I got my, I was walking out with using my [[Apple Watch]] and my [[AirPods]],                                                                                        |
 | 01:18:33   | and I like tapped on my [[AirPods]] and ran the golden hour shortcut from my ears. And then it made an                                                                                 |
 | 01:18:43   | API request and spoke the information back to me in my ear. And I was like, Oh my God, like,                                                                                       |
 | 01:18:49   | I've never done that before. And yeah, at the time, I was like, I might have been the first person                                                                                 |
@@ -946,12 +946,12 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 01:22:28   | What are you most excited about as someone who's spent a lot of time working in [[Workflow]]                                                                                           |
 | 01:22:32   | and now going into [[Shortcuts\|Siri Shortcuts]]?                                                                                                                                  |
 | 01:22:35   | I think one of the things that's most interesting to me, and we haven't been able to test much on                                                                                  |
-| 01:22:40   | the betas, is the Apple Watch and the [[HomePod]] uses of this, of just being able to talk to                                                                                          |
+| 01:22:40   | the betas, is the [[Apple Watch]] and the [[HomePod]] uses of this, of just being able to talk to                                                                                          |
 | 01:22:48   | those devices and have it answer you back. Because so far, it has been a lot of                                                                                                    |
 | 01:22:53   | shortcut or workflow 2.0 with, I mean, there's nine new actions and 280 in [[Workflow]].                                                                                               |
 | 01:23:03   | And so most of what's changed has been the interface and the ability to add it to series.                                                                                          |
 | 01:23:08   | But in the betas, we haven't even been able to test that on those other devices.                                                                                                   |
-| 01:23:12   | And so I want to be able to leave my phone at home and take my Apple Watch and run a shortcut                                                                                      |
+| 01:23:12   | And so I want to be able to leave my phone at home and take my [[Apple Watch]] and run a shortcut                                                                                      |
 | 01:23:19   | from there that doesn't, we'll see how that works. Because I still haven't tested it,                                                                                              |
 | 01:23:24   | and I don't actually know how much will work. But because it's cellular, in theory,                                                                                                |
 | 01:23:29   | it can provide the same data payload back to your phone. And that would make a huge difference                                                                                     |

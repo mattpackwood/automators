@@ -91,7 +91,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:04      | and I love that name by the way, I love the name.                     |
 | 01:06      | So good.                                                              |
 | 01:07      | So you think we should change the name to Automator's Ultra?          |
-| 01:10      | Now that Apple has announced                                          |
+| 01:10      | Now that [[Apple]] has announced                                          |
 | 01:11      | that there's an even more powerful Mac with an Ultra chip.            |
 | 01:14      | I mean, my studio is not gonna have an Ultra                          |
 | 01:15      | and it's just gonna have whatever the almost-based model is.          |
@@ -118,7 +118,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 02:17      | And so I was very tempted.                                            |
 | 02:18      | I was like, maybe I get a new laptop,                                 |
 | 02:20      | maybe I get a new laptop.                                             |
-| 02:21      | Let's see what Apple do.                                              |
+| 02:21      | Let's see what [[Apple]] do.                                              |
 | 02:23      | And then they did the Mac Studio.                                     |
 | 02:26      | So yeah, maybe it should be Automators Studio.                        |
 | 02:29      | I never know.                                                         |
@@ -187,8 +187,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 05:06      | Because I've got this theory,                                         |
 | 05:08      | and maybe you and I are exceptions                                    |
 | 05:10      | because it's hard for us to hold on                                   |
-| 05:11      | to Apple hardware, it seems.                                          |
-| 05:12      | But I really think that these Apple Silicon chips                     |
+| 05:11      | to [[Apple]] hardware, it seems.                                          |
+| 05:12      | But I really think that these [[Apple Silicon]] chips                     |
 | 05:17      | are going to be very reliable.                                        |
 | 05:20      | And I've said this on the Mac Power user,                             |
 | 05:21      | so this might not be a surprise to listeners.                         |
@@ -518,8 +518,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 18:24      | for this field guide six months ago,                                  |
 | 18:26      | it's crazy that this one has taken so long.                           |
 | 18:29      | But they were like looking at my notes.                               |
-| 18:30      | There's all these videos where it's like hold for Apple bug,           |
-| 18:34      | hold for Apple bug.                                                    |
+| 18:30      | There's all these videos where it's like hold for [[Apple]] bug,           |
+| 18:34      | hold for [[Apple]] bug.                                                    |
 | 18:35      | That was like a category.                                             |
 | 18:37      | And so many of the videos I couldn't record at the beginning          |
 | 18:40      | because there was some problem.                                       |
@@ -534,7 +534,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 19:02      | I know they worked really hard on it.                                 |
 | 19:04      | Kind of behind the scenes stuff you've seen                           |
 | 19:07      | just through social media and whatnot.                                |
-| 19:10      | Some of the old [[AppleScript]] [[Automator]] gang at Apple,                 |
+| 19:10      | Some of the old [[AppleScript]] [[Automator]] gang at [[Apple]],                 |
 | 19:14      | the people who were there with [[Sal Soghoian\|Sal]]                                    |
 | 19:15      | at the beginning showing up on the shortcuts team now.                |
 | 19:18      | And I think that's a really good sign                                 |
@@ -639,7 +639,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 23:19      | I mean, I think this is really coming along                           |
 | 23:21      | and the promise is here, you know,                                    |
 | 23:24      | we're gonna get good automation tools                                 |
-| 23:25      | that we can use across all of Apple platforms.                        |
+| 23:25      | that we can use across all of [[Apple]] platforms.                        |
 | 23:28      | I do think that in the future,                                        |
 | 23:30      | we'll look back on this year as the rough one, you know,              |
 | 23:33      | when they were getting it onto the Mac                                |
@@ -648,7 +648,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 23:42      | and I'm happy it exists                                               |
 | 23:43      | because it's allowing me to do some automations                       |
 | 23:45      | that were quite difficult before                                      |
-| 23:48      | without really digging deep on AppleScript.                          |
+| 23:48      | without really digging deep on [[AppleScript]].                          |
 | 23:50      | Yes.                                                                  |
 | 23:51      | But one of the things on the Mac that has come up                     |
 | 23:55      | and has kind of made the rounds is                                    |
@@ -703,7 +703,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 26:07      | which essentially just open applications in sequence                  |
 | 26:09      | and then open, it creates a new sticky                                |
 | 26:13      | and it puts the information in sticky.                                |
-| 26:15      | I had to farm out to Apple Skip for that bit.                         |
+| 26:15      | I had to farm out to [[AppleScript]] for that bit.                         |
 | 26:18      | But what I've done for him is I used the add shortcuts                |
 | 26:22      | to doc option, which is only available                                |
 | 26:24      | from the main shortcuts window.                                       |
@@ -937,7 +937,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 36:10      | but I suspect most people probably aren't using that.                 |
 | 36:12      | Yeah, that's another one I just don't find much use for.              |
 | 36:15      | If I'm going to run it through a script call,                         |
-| 36:17      | I'll just do it through AppleScript                                  |
+| 36:17      | I'll just do it through [[AppleScript]]                                  |
 | 36:19      | because I'm rarely in the terminal.                                   |
 | 36:22      | Yeah, it makes sense.                                                 |
 | 36:23      | There is more though.                                                 |
@@ -954,7 +954,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 36:56      | and it does just do all the things,                                   |
 | 36:59      | which makes me pretty darn happy.                                     |
 | 37:01      | Yeah, and this is one that I really hope gets                         |
-| 37:03      | Sherlocked at some point, but until then, for three bucks,            |
+| 37:03      | [[Sherlocking\|Sherlocked]] at some point, but until then, for three bucks,            |
 | 37:07      | it's worth it.                                                        |
 | 37:08      | Yes, exactly, there could be workarounds                              |
 | 37:12      | with a bunch of other things,                                         |
@@ -1019,7 +1019,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 40:01      | they're right there.                                                  |
 | 40:03      | So that makes it even better.                                         |
 | 40:06      | Yeah, I agree.                                                        |
-| 40:07      | It's just crazy how much the kind of the Apple ecosystem              |
+| 40:07      | It's just crazy how much the kind of the [[Apple]] ecosystem              |
 | 40:12      | has shown up to find ways to make this easy.                          |
 | 40:15      | Yeah.                                                                 |
 | 40:16      | There's also a [[Stream Deck]] button.                                    |
@@ -1106,12 +1106,12 @@ Rose and David have several automation topics on the table in this episode inclu
 | 43:38      | which I really appreciate.                                            |
 | 43:40      | Yeah, I haven't tried this yet,                                       |
 | 43:41      | but like one of my common [[Hazel]] plug-ins                              |
-| 43:44      | is I have an AppleScript that adds a task to OmniFocus               |
+| 43:44      | is I have an [[AppleScript]] that adds a task to OmniFocus               |
 | 43:47      | based on the type of document that I'm processing.                    |
 | 43:50      | Like if I get the water bill,                                         |
 | 43:53      | then it adds a task, pay water bill to OmniFocus                      |
-| 43:56      | using an AppleScript.                                                |
-| 43:56      | Well, AppleScript is kind of creaky.                                 |
+| 43:56      | using an [[AppleScript]].                                                |
+| 43:56      | Well, [[AppleScript]] is kind of creaky.                                 |
 | 43:59      | I'm assuming I could make a really simple shortcut                    |
 | 44:02      | that would add that OmniFocus task                                    |
 | 44:04      | and just run it out of [[Hazel]]                                          |
@@ -1200,9 +1200,9 @@ Rose and David have several automation topics on the table in this episode inclu
 | 47:35      | and recently got an update with a fantastic new design.               |
 | 47:39      | With brand new HD video tutorials shot from multiple angles           |
 | 47:42      | to make sure that learning each exercise is a breeze.                 |
-| 47:46      | And it also integrates with your Apple Watch,                         |
+| 47:46      | And it also integrates with your [[Apple Watch]],                         |
 | 47:48      | Wear OS, SmartWatch and apps like Strava, Fitbit                      |
-| 47:51      | and Apple Health.                                                     |
+| 47:51      | and [[Apple Health]].                                                     |
 | 47:53      | Personalised training of this quality can be expensive,               |
 | 47:56      | but Fitbod is just $12.99 a month or $79.99 a year.                   |
 | 48:00      | But you can get 25% off your membership                               |
@@ -1323,12 +1323,12 @@ Rose and David have several automation topics on the table in this episode inclu
 | 53:01      | where with some apps, when I trigger an app,                          |
 | 53:05      | it jumps to their profile.                                            |
 | 53:07      | I find that useful for a couple things like for [[Apple Mail]]            |
-| 53:11      | because I've got a very complicated set of AppleScripts              |
-| 53:14      | running to kind of add features to Apple Mail.                        |
+| 53:11      | because I've got a very complicated set of [[AppleScript\|AppleScripts]]              |
+| 53:14      | running to kind of add features to [[Apple Mail]].                        |
 | 53:17      | And I get a whole list of buttons                                     |
 | 53:19      | whenever I go to that page.                                           |
 | 53:20      | And I just like that they just automatically pop up                   |
-| 53:23      | whenever I go in Apple Mail so I can process mail                     |
+| 53:23      | whenever I go in [[Apple Mail]] so I can process mail                     |
 | 53:25      | without having to like navigate to it on the [[Stream Deck]].             |
 | 53:30      | The other one I do that for,                                          |
 | 53:31      | which I may turn off as an [[Obsidian]]                                   |
@@ -1555,10 +1555,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:02:08   | So I can just, you know, sit here and press a button                  |
 | 01:02:12   | and it's gone and it's inserted the timestamp.                        |
 | 01:02:15   | And that's it.                                                        |
-| 01:02:16   | I mean, hypothetically, if I push a button on Amazon,                 |
+| 01:02:16   | I mean, hypothetically, if I push a button on [[Amazon]],                 |
 | 01:02:18   | I could have a second one tomorrow, I'm just saying.                  |
 | 01:02:21   | I mean, it's a very hypothetical theory,                              |
-| 01:02:24   | but I'm sure Amazon would be capable                                  |
+| 01:02:24   | but I'm sure [[Amazon]] would be capable                                  |
 | 01:02:26   | of delivering another one tomorrow for you, David.                    |
 | 01:02:29   | Who do you think as listeners,                                        |
 | 01:02:31   | we can, if you want to say in the form,                               |
@@ -2000,8 +2000,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:22:19   | and you've got it everywhere.                                         |
 | 01:22:20   | And what you can do is even if you...                                 |
 | 01:22:23   | So the template or plug-in in [[Obsidian]]                                |
-| 01:22:26   | will allow you to just run JavaScript.                                |
-| 01:22:28   | So you could write your own JavaScript automations                    |
+| 01:22:26   | will allow you to just run [[JavaScript]].                                |
+| 01:22:28   | So you could write your own [[JavaScript]] automations                    |
 | 01:22:30   | that will ask you questions and pop up fields                         |
 | 01:22:33   | and prompts and let you input stuff.                                  |
 | 01:22:35   | But what you could also do is just input placeholders.                |
@@ -2074,7 +2074,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:25:29   | But you can go and look at stuff                                      |
 | 01:25:32   | and find how do they do this.                                         |
 | 01:25:35   | I want something that's almost the same.                              |
-| 01:25:37   | Well, if you've been learning JavaScript                              |
+| 01:25:37   | Well, if you've been learning [[JavaScript]]                              |
 | 01:25:39   | to do automation with [[Drafts]] or Scriptable                            |
 | 01:25:42   | or Omni applications or similar,                                      |
 | 01:25:44   | then you could modify these.                                          |
@@ -2084,7 +2084,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:25:54   | I'm not a coder, I couldn't do it.                                    |
 | 01:25:56   | I'm 100% confident that if you wanted to,                             |
 | 01:25:59   | you could or you would find the help to do it                         |
-| 01:26:02   | because it's JavaScript at the end of the day                         |
+| 01:26:02   | because it's [[JavaScript]] at the end of the day                         |
 | 01:26:05   | and it's automation and you could write your own automations          |
 | 01:26:08   | for this if you wanted to.                                            |
 | 01:26:10   | It's not necessarily the right solution.                              |

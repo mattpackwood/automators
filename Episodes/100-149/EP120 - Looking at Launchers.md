@@ -74,7 +74,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:06      | doing some complicated interaction.                                                                   |
 | 01:10      | They're just awesome.                                                                                 |
 | 01:11      | And the other thing we're going to talk about today, of course, is the updates to [[Spotlight]],          |
-| 01:15      | which is Apple's version of a launcher, and we've got a lot to cover today.                           |
+| 01:15      | which is [[Apple\|Apple's]] version of a launcher, and we've got a lot to cover today.                           |
 | 01:18      | But before we get started on Automator's Macs today, which is the special edition of the              |
 | 01:25      | show, which has extended content and no ads, which you can sign up for on the website at              |
 | 01:30      | relay.fm/automators.                                                                            |
@@ -123,7 +123,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 03:53      | But when they first released it, there was indexing problems, and it was really slow.                 |
 | 03:58      | So it's one of those things where the first impression was not particularly good.                     |
 | 04:03      | But over the years, [[Spotlight]] has really evolved, and I feel like the last couple of years in         |
-| 04:06      | particular, Apple has been putting some wood behind the arrow on [[Spotlight]].                           |
+| 04:06      | particular, [[Apple]] has been putting some wood behind the arrow on [[Spotlight]].                           |
 | 04:14      | Let's start with some of the positives.                                                               |
 | 04:16      | If I do a search in [[Spotlight]] for Rosemary Orchard, the results now are really good.                  |
 | 04:24      | Just putting your name in, it's going to get a bunch of mail and messages that references             |
@@ -133,7 +133,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 04:41      | The advantage of [[Spotlight]], of course, is it's so integrated to Mac OS, it gets access                |
 | 04:45      | to files and data that the other ones don't get.                                                      |
 | 04:49      | Then if I hit Return on Rosemary for the version of your contact card, it's even better.              |
-| 04:55      | It's like I've got Apple Notes showing up that you're in reminders that we have together              |
+| 04:55      | It's like I've got [[Apple Notes]] showing up that you're in reminders that we have together              |
 | 05:02      | and mail messages.                                                                                    |
 | 05:05      | Then at the top, they've got a button you can press to send a message, do a [[FaceTime]]                  |
 | 05:08      | call, send an email.                                                                                  |
@@ -218,7 +218,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 10:47      | Yeah.                                                                                                 |
 | 10:48      | Whereas when I search these out in [[Raycast]], it just finds the right one.                              |
 | 10:51      | I don't deal with that.                                                                               |
-| 10:53      | When I search them in [[Alfred]], in fact, I kind of prefer [[Alfred]]'s method where you actually            |
+| 10:53      | When I search them in [[Alfred]], in fact, I kind of prefer [[Alfred\|Alfred]], in fact, I kind of prefer [[Alfred's]] method where you actually            |
 | 10:59      | use a modifier, so then you're only searching shortcuts, and that's why you don't get those           |
 | 11:05      | extra search results.                                                                                 |
 | 11:06      | Yeah, it feels to me like it's okay, and they are continuing to improve upon it, but                  |
@@ -264,15 +264,15 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 14:05      | But every time I try to use it, it's just not there.                                                  |
 | 14:09      | When you hear about the stuff we're doing with [[Alfred]] and even [[Raycast]] later, you're                  |
 | 14:14      | going to understand that this thing is, it's like a pedestrian version.                               |
-| 14:20      | This app walks so the rest of them could run, I guess, and I don't know if really Apple               |
+| 14:20      | This app walks so the rest of them could run, I guess, and I don't know if really [[Apple]]               |
 | 14:24      | has any interest in it.                                                                               |
-| 14:26      | There's this emerging thing going on with Apple and Steve and I have been talking about               |
-| 14:30      | a lot of Mac power users where it seems like Apple decided a couple of years ago that they'd          |
+| 14:26      | There's this emerging thing going on with [[Apple]] and Steve and I have been talking about               |
+| 14:30      | a lot of Mac power users where it seems like [[Apple]] decided a couple of years ago that they'd          |
 | 14:35      | make their productivity apps good and like you look at the emergence of [[Apple Reminders\|Reminders]] and                 |
 | 14:43      | notes and now they've got a mind capture idea with free form and I don't know what else               |
 | 14:51      | is out there coming down the road, but the productivity apps are actually getting really              |
 | 14:55      | good but they're not getting best in class, right?                                                    |
-| 15:01      | And they never will because Apple's making these apps for people who just buy Mac and                 |
+| 15:01      | And they never will because [[Apple\|Apple's]] making these apps for people who just buy Mac and                 |
 | 15:06      | they know that if you want a best in class task manager, you're going to go up to something           |
 | 15:11      | like Romney Focus or things or something like that.                                                   |
 | 15:15      | But they're really doing a good job in that middle area and I almost feel like the spotlight          |
@@ -344,7 +344,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 19:07      | never sat behind your MacBook Pro and done anything.                                                  |
 | 19:10      | So why would I need to be worried about it?                                                           |
 | 19:14      | But I know that's another piece of it for people.                                                     |
-| 19:16      | And what I will say is that Apple continues to make it better.                                        |
+| 19:16      | And what I will say is that [[Apple]] continues to make it better.                                        |
 | 19:19      | Well, let's call it a four or a five, but the spotlight is useful and there's a lot                   |
 | 19:25      | to it.                                                                                                |
 | 19:26      | But both Rose and I, I think, were frustrated in trying to use it, getting ready for today's          |
@@ -524,16 +524,16 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 31:08      | So I started creating one using the template, and then I gave me the instructions which were          |
 | 31:13      | to run NPM install and then build it, and that was the point where I went, ah, I can                  |
 | 31:21      | do this.                                                                                              |
-| 31:22      | I'm an expert developer, I use Node and JavaScript as part of my day job.                             |
+| 31:22      | I'm an expert developer, I use Node and [[JavaScript]] as part of my day job.                             |
 | 31:27      | If when I said NPM install, you went, wait, what's that?                                              |
 | 31:33      | Then you're probably not going to be writing a [[Raycast]] extension anytime soon, basically.             |
 | 31:38      | And that's kind of the thing that I feel is a bit of a shame.                                         |
 | 31:41      | Not only that, but once you've actually written a [[Raycast]] extension, if you want to share             |
 | 31:44      | it with other people, you actually have to make a pull request back to the [[Raycast]] folks.             |
-| 31:50      | And I get why, this is why Apple has App Store review, right, and there is the App Store,             |
-| 31:55      | and you go to the App Store to look for an app, like Apple's approved it, you can download            |
+| 31:50      | And I get why, this is why [[Apple]] has App Store review, right, and there is the App Store,             |
+| 31:55      | and you go to the App Store to look for an app, like [[Apple\|Apple's]] approved it, you can download            |
 | 31:59      | it and install it.                                                                                    |
-| 32:00      | But the other side of that is Apple's the gatekeeper, right?                                          |
+| 32:00      | But the other side of that is [[Apple\|Apple's]] the gatekeeper, right?                                          |
 | 32:05      | And I feel like for [[Raycast]], this is one of those things that's a blessing and a curse,               |
 | 32:09      | where you, you know, it seems to me, you know, I haven't done a huge amount of digging, like          |
 | 32:14      | I know that I can add like a directory of scripts, so I presume I can download stuff                  |
@@ -651,7 +651,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 39:05      | I mean, I was surprised when I heard about this app because I'm like, is there room for               |
 | 39:10      | another keyboard launcher?                                                                            |
 | 39:11      | I mean, we've already got, you know, several really good ones, including a free one from              |
-| 39:17      | Apple and these guys have found a way and it's worth checking out.                                    |
+| 39:17      | [[Apple]] and these guys have found a way and it's worth checking out.                                    |
 | 39:25      | This episode of Automators is brought to you by Electric.                                             |
 | 39:28      | When leading a small business, it's not all glamour.                                                  |
 | 39:30      | In fact, sometimes it's a matter of spending hours trying to find a laptop lost in the                |
@@ -866,7 +866,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 52:12      | to admit, I don't really use that much.                                                               |
 | 52:14      | The contacts, we talked about contacts earlier in the episode and we were talking about how           |
 | 52:19      | they work in spotlight and how they're great, but they're slow and they take a lot of mousing         |
-| 52:23      | or arrow pressing to get to the right one and [[Raycast]]'s contacts, you can search the                  |
+| 52:23      | or arrow pressing to get to the right one and [[Raycast\|Raycast's]] contacts, you can search the                  |
 | 52:30      | contacts database, you can surface them, but you can't really navigate them well.                     |
 | 52:34      | I feel like that's something [[Raycast]] needs to work on, frankly, but in [[Alfred]], contacts               |
 | 52:40      | are awesome and they're awesome and ugly all at once because if I type Rosemary Orchard,              |
@@ -919,7 +919,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 56:13      | right because that's what we're doing with automation, right?                                         |
 | 56:16      | We're doing automation to make sure that we get the right results consistently rather                 |
 | 56:21      | than just fast and inaccurate.                                                                        |
-| 56:25      | So yeah, for me, just being able to navigate around and don't forget folks, [[Alfred]]'s got              |
+| 56:25      | So yeah, for me, just being able to navigate around and don't forget folks, [[Alfred\|Alfred's]] got              |
 | 56:29      | themes as well.                                                                                       |
 | 56:30      | So if you've looked at [[Alfred]] before and gone, I don't really like how it looks.                      |
 | 56:33      | First of all, make sure you've checked out the modern themes, which were introduced                   |
@@ -1004,7 +1004,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:01:35   | I vary between two.                                                                                   |
 | 01:01:37   | I like the Nord colour set, and if you're familiar with it, there's a kind of a colour scheme           |
 | 01:01:41   | called Nord and David Zhang, Z-H-A-N-G built a Nord view for [[Alfred]], which I use.                  |
-| 01:01:49   | I also like [[Alfred]]'s modern dark view, and I switch between those two kind of depending               |
+| 01:01:49   | I also like [[Alfred\|Alfred's]] modern dark view, and I switch between those two kind of depending               |
 | 01:01:55   | on my mood, but currently I'm using the [[Alfred]] Nord.                                                  |
 | 01:01:59   | Yeah.                                                                                                 |
 | 01:02:00   | That makes sense.                                                                                     |
@@ -1146,7 +1146,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:11:37   | help and then there's a plus.                                                                         |
 | 01:11:39   | There are templates, so you can have web and URLs, there's follows and apps show [[Alfred]]               |
 | 01:11:46   | with specific text, there's some essentials like taking a keyword and passing it into                 |
-| 01:11:50   | [[AppleScript]] or a script filter going into AppleScript or keyword goes to a terminal                   |
+| 01:11:50   | [[AppleScript]] or a script filter going into [[AppleScript]] or keyword goes to a terminal                   |
 | 01:11:54   | command, things like that, but there's also clipboard, pasting text from a hotkey, pasting            |
 | 01:12:01   | this plain text from a hotkey, controlling music and things like that as great examples.              |
 | 01:12:06   | And then there's also getting started, so you can use other ones there, but I mean I                  |
@@ -1160,7 +1160,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:12:38   | Really simple, really effective and it works.                                                         |
 | 01:12:42   | And I did this as a test for myself just to see how easily can I create an [[Alfred]] workflow            |
 | 01:12:52   | using somebody who's been playing with shortcuts and things like that for a while but doesn't         |
-| 01:12:57   | necessarily know how to write a full-blown search filter in AppleScript or how to write               |
+| 01:12:57   | necessarily know how to write a full-blown search filter in [[AppleScript]] or how to write               |
 | 01:13:04   | a Python script to do something could do this and I was like, okay, well, [[URL Schemes]],                |
 | 01:13:08   | there's plenty of examples of those out there.                                                        |
 | 01:13:09   | The OmniFocus website shows a number of [[URL Schemes]].                                                  |
@@ -1170,11 +1170,11 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:13:30   | So yeah, it's not crazy hard to create some [[Alfred]] workflows, which is a really nice feature          |
 | 01:13:38   | that I think people will appreciate.                                                                  |
 | 01:13:40   | Yeah, there was a really good OmniFocus [[Alfred]] plug-in called Search OmniFocus that worked            |
-| 01:13:48   | with version, I think with the Mac OS update it broke and that's because Apple stopped                |
+| 01:13:48   | with version, I think with the Mac OS update it broke and that's because [[Apple]] stopped                |
 | 01:13:54   | shipping a bunch of the stuff in the terminal or in the, you know, you're going to, I don't           |
 | 01:13:58   | know the term of art to say, but basically you didn't have the pieces underneath that                 |
 | 01:14:02   | it was using to run.                                                                                  |
-| 01:14:04   | I think it was the JavaScript element that is not there anymore.                                      |
+| 01:14:04   | I think it was the [[JavaScript]] element that is not there anymore.                                      |
 | 01:14:08   | And they have a new version out, but you need to install Node and actually I discovered               |
 | 01:14:13   | it like 30 minutes before we start recording today and I didn't want to start messing around          |
 | 01:14:18   | with that before we record a show.                                                                    |
@@ -1261,7 +1261,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:19:49   | And if [[Amphetamine]] is running, well, [[Amphetamine]] is just told to turn off regardless of whether       |
 | 01:19:55   | or not it's running, and then it runs a sleep command, and that's it.                                 |
 | 01:20:01   | But it's really nice to be able to do that, and it didn't take me long to find all of                 |
-| 01:20:07   | the places where I could just copy and paste these tiny little bits of AppleScript from.             |
+| 01:20:07   | the places where I could just copy and paste these tiny little bits of [[AppleScript]] from.             |
 | 01:20:12   | If application music is running, then tell application music if player state is playing,              |
 | 01:20:18   | and pause, and tell, and if that was it.                                                              |
 | 01:20:22   | And that's the longest part of the script.                                                            |

@@ -146,7 +146,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 04:48      | And the other thing is, you know, there are so many different services it directly integrates                                                  |
 | 04:52      | with as well, which makes it super easy.                                                                                                       |
 | 04:55      | Yeah.                                                                                                                                          |
-| 04:56      | And they're on all the devices, you know, Apple, all the devices in the Apple ecosystem.                                                       |
+| 04:56      | And they're on all the devices, you know, [[Apple]], all the devices in the [[Apple]] ecosystem.                                                       |
 | 05:00      | So if it's stable, I think that would be a great option.                                                                                       |
 | 05:03      | So explain to me how you do templates in [[Airmail]].                                                                                          |
 | 05:06      | Well, in [[Airmail]], what you do is you open up a new email and you start typing.                                                             |
@@ -289,7 +289,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 13:08      | that [[TextExpander]] snippet goes with me.                                                                                                    |
 | 13:11      | So that's all that is upside for [[TextExpander]] downside is it's not as easy on iPhone and                                                   |
 | 13:17      | iPad as I'd like it to be.                                                                                                                     |
-| 13:19      | And, you know, Apple just doesn't make it possible for somebody like [[Smile Software\|Smile]] to insert                                       |
+| 13:19      | And, you know, [[Apple]] just doesn't make it possible for somebody like [[Smile Software\|Smile]] to insert                                       |
 | 13:26      | text insertion in any old app they want to, it's part of the security model.                                                                   |
 | 13:31      | But using the [[TextExpander]] app on iPhone and iPad, which a lot of people don't realise,                                                    |
 | 13:37      | you can run those a lot of more complicated snippets there and then you just block and                                                         |
@@ -484,7 +484,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 25:06      | absolutely is because it means that next time I take a break from work, I won't come back                                                      |
 | 25:09      | to 600 unread emails in my inbox.                                                                                                              |
 | 25:11      | I think the overall strategy for email filters, no matter what system you're using, whether                                                    |
-| 25:16      | you're in Gmail, Apple Mail, or whatever, is to make them as you need them.                                                                    |
+| 25:16      | you're in Gmail, [[Apple Mail]], or whatever, is to make them as you need them.                                                                    |
 | 25:21      | I wouldn't recommend spending three days creating email filters, but what I would do is like                                                   |
 | 25:27      | an email comes in and just be aware of, hey, I can make this so this doesn't happen again                                                      |
 | 25:32      | and just smack the flies as they show up, and I think that's a much more saving way                                                            |
@@ -591,7 +591,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 31:25      | So this means that it's caught up to date on all the accounts.                                                                                 |
 | 31:28      | And then it selects all the emails in my inbox and then it runs my rules on them.                                                              |
 | 31:33      | And these rules are designed for emails that have been read.                                                                                   |
-| 31:37      | So for example, if I've read an Amazon dispatch notice, it'll delete it.                                                                       |
+| 31:37      | So for example, if I've read an [[Amazon]] dispatch notice, it'll delete it.                                                                       |
 | 31:43      | Or if I've read a newsletter, it will archive it.                                                                                              |
 | 31:48      | Things like that.                                                                                                                              |
 | 31:49      | And basically it means that if I don't do a great job of cleaning up my inbox as I go                                                          |
@@ -606,16 +606,16 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 32:22      | I go through and process my inbox after I've started my workday, just to make sure that                                                        |
 | 32:27      | I'm on top of things.                                                                                                                          |
 | 32:29      | But that works super well for me.                                                                                                              |
-| 32:31      | I feel like there's nothing more indicative of the differences between Apple and Google                                                        |
+| 32:31      | I feel like there's nothing more indicative of the differences between [[Apple]] and Google                                                        |
 | 32:36      | than the pluses and minuses in the way they handle mail.                                                                                       |
-| 32:39      | Like Google has amazing online rule support and I mean, it's not even that Apple doesn't                                                       |
+| 32:39      | Like Google has amazing online rule support and I mean, it's not even that [[Apple]] doesn't                                                       |
 | 32:47      | hold a candle to it.                                                                                                                           |
-| 32:48      | Apple's not even in the game for online.                                                                                                       |
+| 32:48      | [[Apple|Apple's]] not even in the game for online.                                                                                                       |
 | 32:51      | They have like three rules you can apply online.                                                                                               |
 | 32:53      | It's crazy how little you can do, whereas Google has an amazing rule set.                                                                      |
 | 32:58      | So Rose can add those rules to her [[Gmail]] account and they apply everywhere and it happens on                                               |
 | 33:03      | the server before she sees the email.                                                                                                          |
-| 33:06      | Whereas Apple, the [[Apple Mail]] has almost no cloud support, but it has a very secure mail                                                   |
+| 33:06      | Whereas [[Apple]], the [[Apple Mail]] has almost no cloud support, but it has a very secure mail                                                   |
 | 33:13      | application and it has an insane amount of automation on device.                                                                               |
 | 33:19      | Like that those [[Apple Mail]] rules, if you've never looked at them, I recommend you go into                                                  |
 | 33:24      | [[Apple Mail]] on a Mac, even if you don't use [[Apple Mail]], just go in and look at all of                                                   |
@@ -640,7 +640,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 34:27      | are blue.                                                                                                                                      |
 | 34:28      | That means that they're from somebody who's very important, and I should make sure I reply                                                     |
 | 34:31      | to that fast.                                                                                                                                  |
-| 34:35      | And that, you know, there's an example, news from Apple rule, which is shipped for free                                                        |
+| 34:35      | And that, you know, there's an example, news from [[Apple]] rule, which is shipped for free                                                        |
 | 34:39      | on every Mac.                                                                                                                                  |
 | 34:41      | But as you go through and add the rules, it is very Hazel-like in all the different things.                                                    |
 | 34:47      | I mean, I think [[Hazel]] was probably based on the Mac Mail rules originally at some point                                                    |
@@ -674,8 +674,8 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 36:32      | So [[Google G-Suite\|G Suite]] forward some to me, forward some to [[Zapier]] for me.                                                          |
 | 36:36      | And therefore I did two specific email addresses at [[Zapier]].                                                                                |
 | 36:40      | And what [[Zapier]] can do is it can parse certain things out.                                                                                 |
-| 36:44      | So say, for example, one of them that I have it do is it parses out all of my Amazon orders.                                                   |
-| 36:49      | So whenever I order something from Amazon, then I have it bounced, which is [[Zapier]] for                                                     |
+| 36:44      | So say, for example, one of them that I have it do is it parses out all of my [[Amazon]] orders.                                                   |
+| 36:49      | So whenever I order something from [[Amazon]], then I have it bounced, which is [[Zapier]] for                                                     |
 | 36:54      | me.                                                                                                                                            |
 | 36:55      | Bouncing is the wrong word.                                                                                                                    |
 | 36:56      | That's a specific email term.                                                                                                                  |
@@ -685,13 +685,13 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 37:09      | Because that, you know, that means I have one easy place and then I'm working on adding                                                        |
 | 37:14      | a few more.                                                                                                                                    |
 | 37:15      | Because it can go through and it can parse out using regular expressions, that email,                                                          |
-| 37:19      | then it can tell me, you know, that I've spent this much money on Amazon, and then I can                                                       |
+| 37:19      | then it can tell me, you know, that I've spent this much money on [[Amazon]], and then I can                                                       |
 | 37:24      | match that up with my credit card statement to make sure everything matches and I'm all                                                        |
 | 37:27      | good.                                                                                                                                          |
-| 37:28      | And that really is great because it means that when Amazon charged me the wrong price                                                          |
+| 37:28      | And that really is great because it means that when [[Amazon]] charged me the wrong price                                                          |
 | 37:31      | or something, because they hadn't applied a voucher for some reason, I think maybe the                                                         |
 | 37:36      | vouchers terms weren't quite met.                                                                                                              |
-| 37:38      | But the way it was written implied that they were, I contacted Amazon customer support and                                                     |
+| 37:38      | But the way it was written implied that they were, I contacted [[Amazon]] customer support and                                                     |
 | 37:42      | I got my 20% refunded, so that was good.                                                                                                       |
 | 37:45      | You know, there's another platform for email that came out last year called [hey.com](https://hey.com) from                                    |
 | 37:51      | the [[Basecamp]] people.                                                                                                                       |
@@ -715,10 +715,10 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 38:55      | I'm not a big fan of that, but anyway, the name at least.                                                                                      |
 | 39:00      | And then they've got one called the feed, which is kind of like newsletter advertisement                                                       |
 | 39:05      | stuff that you want to see and one called paper trail, which is the place you would                                                            |
-| 39:09      | put like Amazon orders and receipts for things you buy and whatnot, and you just keep them                                                     |
+| 39:09      | put like [[Amazon]] orders and receipts for things you buy and whatnot, and you just keep them                                                     |
 | 39:14      | in there.                                                                                                                                      |
 | 39:15      | So that's an automation.                                                                                                                       |
-| 39:16      | Once you tell it, things that come from Amazon go into the paper trail, then you just don't                                                    |
+| 39:16      | Once you tell it, things that come from [[Amazon]] go into the paper trail, then you just don't                                                    |
 | 39:21      | see them anymore and they, you can go look them up if you ever need them, which is a                                                           |
 | 39:25      | form of automation.                                                                                                                            |
 | 39:27      | Another thing they do that's kind of automation friendly is they have what they call labels,                                                   |
@@ -887,7 +887,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 50:18      | video calls because there may be somebody in my family walking behind if I'm not careful,                                                      |
 | 50:24      | so yeah, but that's not really an automation tool, but it is pretty quick.                                                                     |
 | 50:28      | I actually did have a screen like that, David, but my problem with it is it didn't fold flat,                                                  |
-| 50:34      | so the way it was shown on Amazon, there were nice folds in it, so I thought, oh, great,                                                       |
+| 50:34      | so the way it was shown on [[Amazon]], there were nice folds in it, so I thought, oh, great,                                                       |
 | 50:40      | this is wonderful, I'm just going to be able to fold this flat and lean it against the                                                         |
 | 50:43      | wall when I'm not using it and then pull it out when I am using it.                                                                            |
 | 50:46      | That thing does not fold flat and it takes up about 80% of my office and if you straighten                                                     |

@@ -79,7 +79,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 01:44      | which was pretty good.                                                                                  |
 | 01:46      | So yeah, I've been solar-powered for a week.                                                            |
 | 01:48      | What was the brand on it?                                                                               |
-| 01:50      | I will find a link, if I can, from Amazon and pop it in the show notes.                                 |
+| 01:50      | I will find a link, if I can, from [[Amazon]] and pop it in the show notes.                                 |
 | 01:56      | It's just one I picked up that I spotted.                                                               |
 | 02:00      | It's not anything particularly amazing.                                                                 |
 | 02:04      | It is a kind of like leave it out in front of your tent all day to repower this 75% of                  |
@@ -137,12 +137,12 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 05:07      | What's your take on Anker?                                                                              |
 | 05:09      | I mean, personally, I find Anker stuff is great.                                                        |
 | 05:14      | It works, it's reliable if there is a problem with it for some reason.                                  |
-| 05:20      | They're pretty good about sorting it out, and you can get it through Amazon.                            |
+| 05:20      | They're pretty good about sorting it out, and you can get it through [[Amazon]].                            |
 | 05:25      | They tend not necessarily to have the best in class of things, but they're also pretty                  |
 | 05:29      | quick onto the market.                                                                                  |
 | 05:31      | So whenever, for example, the [[MagSafe]] stuff came out, they came out with their MagGo line               |
 | 05:37      | very quickly after [[MagSafe]] launched.                                                                    |
-| 05:40      | So you didn't have to buy Apple's [[MagSafe]] battery pack, you could buy the Anker MagGo,                  |
+| 05:40      | So you didn't have to buy [[Apple|Apple's]] [[MagSafe]] battery pack, you could buy the Anker MagGo,                  |
 | 05:44      | which is something like three times the capacity and only slightly larger.                              |
 | 05:50      | And so, yeah, I personally think the Anker is great.                                                    |
 | 05:53      | I also like the fact that they do different colour options and so on, which is just nice                 |
@@ -158,7 +158,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 06:41      | So we did get down a little rabbit hole there, but sorry for that, my fault.                            |
 | 06:45      | But let's talk about these betas.                                                                       |
 | 06:47      | What have you got installed where?                                                                      |
-| 06:49      | Okay, so I have the beta installed on my iPhone and my iPad Pro, my Apple Watch, and a Spare            |
+| 06:49      | Okay, so I have the beta installed on my iPhone and my iPad Pro, my [[Apple Watch]], and a Spare            |
 | 06:59      | at MacBook Pro.                                                                                         |
 | 07:00      | Now I've barely been at home in the last two weeks, so I was able to install Sonoma on                  |
 | 07:06      | my MacBook Pro and go, cool, that boots, that works, hey, shortcuts are here, my shortcuts              |
@@ -169,7 +169,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 07:32      | and potentially battery life is always a concern when you're running a developer beta, so having        |
 | 07:38      | something that would stay connected to the internet because it didn't just overheat itself              |
 | 07:43      | and run out of battery was definitely a priority there.                                                 |
-| 07:46      | But I'm pleased to say that my Apple Watch Ultra has been working really well on the                    |
+| 07:46      | But I'm pleased to say that my [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] has been working really well on the                    |
 | 07:51      | beta and that battery life has not been terrible on it.                                                 |
 | 07:55      | So I've tried Loot Power Mode and having the Always On Display off and things like that                 |
 | 08:02      | as well to test that out, and everything seems to be working pretty well.                               |
@@ -196,7 +196,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 09:40      | in the battery stuff for the final release, and suddenly the battery gets so much better                |
 | 09:45      | and everything.                                                                                         |
 | 09:46      | It's like there's just a dial they can turn when they want, but right now I suspect the                 |
-| 09:51      | phone's doing a lot of reporting to Apple as it's getting crashes or whatever, and that                 |
+| 09:51      | phone's doing a lot of reporting to [[Apple]] as it's getting crashes or whatever, and that                 |
 | 09:56      | really sucks down the battery.                                                                          |
 | 09:58      | Yeah, it does, and just like things are sucking down the battery, the devices are also heating          |
 | 10:03      | up as well.                                                                                             |
@@ -208,7 +208,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 10:30      | So yeah, it's definitely been quite warm and the battery hasn't been the best, but that                 |
 | 10:36      | is to be expected.                                                                                      |
 | 10:37      | This is the price you pay on a developer beta, all of the diagnostics and reporting back                |
-| 10:41      | to Apple are completely necessary so that they actually know what's going wrong.                        |
+| 10:41      | to [[Apple]] are completely necessary so that they actually know what's going wrong.                        |
 | 10:45      | But that said, I've had very few crashes so far.                                                        |
 | 10:50      | I have had crashes, I have a weird bug in messages where I'll type a message to somebody                |
 | 10:57      | or I'll try and start replying to a message to somebody and I'll get a keyboard, but then               |
@@ -220,7 +220,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 11:19      | just something they haven't sorted out yet, but it's easily fixable.                                    |
 | 11:24      | Just close the app and reopen and you're good.                                                          |
 | 11:26      | I do think that this has been a pretty stable year.                                                     |
-| 11:30      | I can't help but feel like Apple has done so much work over the years on the underlying                 |
+| 11:30      | I can't help but feel like [[Apple]] has done so much work over the years on the underlying                 |
 | 11:36      | stuff that now it seems like they're not doing as much of that and as a result, things are              |
 | 11:41      | more stable.                                                                                            |
 | 11:42      | Now they're doing more close to the surface changes with these betas and that makes it                  |
@@ -236,7 +236,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 12:20      | what has the dongle and so it'll work even when the mech has been asleep because as most                |
 | 12:26      | folks will know, Bluetooth devices won't work when your mech has actually been powered                  |
 | 12:33      | off to input a password or something.                                                                   |
-| 12:37      | You'll have to use either an Apple magic keyboard or a physically USB connected keyboard                |
+| 12:37      | You'll have to use either an [[Apple]] magic keyboard or a physically USB connected keyboard                |
 | 12:44      | or a keyboard or mouse connected by a dongle.                                                           |
 | 12:49      | The dongle Razer Basilisk mouse is great for that, but I was looking at that and then                   |
 | 12:56      | I think I needed free shipping or I was looking to get free shipping because I found their              |
@@ -356,7 +356,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 20:28      | But then the next question is, well, how can I take advantage of the new toys?                          |
 | 20:31      | You know, right?                                                                                        |
 | 20:32      | Because we're Automators.                                                                               |
-| 20:33      | We want to automate more to the extent Apple gives us more rope, we are going to use it.                |
+| 20:33      | We want to automate more to the extent [[Apple]] gives us more rope, we are going to use it.                |
 | 20:38      | Rose, what are you doing differently with the new beta toys?                                            |
 | 20:43      | Well, specifically, the thing that I've definitely been doing the most is when you create an            |
 | 20:49      | automation instead of just, you know, creating an automation, having sort of a shortcuts                |
@@ -388,8 +388,8 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 22:25      | I've been trying to roll my own version of that by turning it on and then having [[Moom]]                   |
 | 22:33      | window setup saved that I can run.                                                                      |
 | 22:36      | There is an [[AppleScript]] command to run a [[Moom]] setup.                                                    |
-| 22:43      | To run it out of shortcuts, you use the on-run shortcut AppleScript.                                    |
-| 22:48      | There's an AppleScript action that has an on-run command in it.                                         |
+| 22:43      | To run it out of shortcuts, you use the on-run shortcut [[AppleScript]].                                    |
+| 22:48      | There's an [[AppleScript]] action that has an on-run command in it.                                         |
 | 22:52      | But the actual shortcut is tell application, open quote, [[Moom]], close quote, to arrange                  |
 | 22:59      | windows according to the snapshot, and then you put in the name of the snapshot, like                   |
 | 23:04      | mail processing, or podcasting, or whatever it is you do, and that has to be in quotes,                 |
@@ -399,14 +399,14 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 23:16      | I will put something in the show notes.                                                                 |
 | 23:19      | What I can do is I'll put a link to the bunch docs in here because Bunch actually has this              |
 | 23:25      | exact one listed in their [[Moom]] documentation section.                                                   |
-| 23:30      | I'll pop that into the show notes and just note that that's the AppleScript to run [[Moom]].                |
+| 23:30      | I'll pop that into the show notes and just note that that's the [[AppleScript]] to run [[Moom]].                |
 | 23:37      | Yes.                                                                                                    |
 | 23:38      | What I'm doing is I'm activating the [[Stage Manager]], I'm arranging, and then I'm opening                 |
 | 23:44      | the apps that I want, and then I'm hitting a button in [[Moom]] that does it, and I can                     |
 | 23:49      | open the apps also via automation.                                                                      |
 | 23:52      | I've been trying to figure out a way to do this with shortcuts only.                                    |
 | 23:55      | This would be a lot easier using [[Keyboard Maestro]] because it gives you more granular                    |
-| 23:59      | control, but the combination of open app plus that [[Moom]] AppleScript that you can embed in               |
+| 23:59      | control, but the combination of open app plus that [[Moom]] [[AppleScript]] that you can embed in               |
 | 24:08      | a shortcut gives me a way to assemble setups the way I want them, and then they're just                 |
 | 24:14      | shown on the left side of the screen.                                                                   |
 | 24:16      | The idea of this is to allow you to focus on just what you're working on.                               |
@@ -464,7 +464,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 28:03      | Lovely idea, 10 out of 10 in favor of that.                                                             |
 | 28:06      | This is in addition to tab groups, so I'm there going, brilliant, love it, and yeah,                    |
 | 28:14      | you guessed it, folks.                                                                                  |
-| 28:16      | There's no shortcut sections for this, this is an AppleScript, this is nothing, and it's               |
+| 28:16      | There's no shortcut sections for this, this is an [[AppleScript]], this is nothing, and it's               |
 | 28:20      | just one of those things of like, I just wanted the support for that because [[Safari]] on Mac              |
 | 28:28      | is unfortunately liking behind [[Safari]] on iOS and iPadOS with regards to shortcut sections,              |
 | 28:34      | and it's just one of those things of, you know, if they brought out the shortcut sections               |
@@ -549,14 +549,14 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 33:52      | this lack of parity between platforms, you're like, well, wait a second, I could make a                 |
 | 33:56      | shortcut for that on my phone, how come I can't do that on my Mac?                                      |
 | 34:00      | It's just one more way you lose them along the way.                                                     |
-| 34:04      | And I just would like to somewhere at Apple, there should be a list of everything on the                |
+| 34:04      | And I just would like to somewhere at [[Apple]], there should be a list of everything on the                |
 | 34:09      | iPhone that's not on the Mac and somebody should, you know, get a big whiteboard and                    |
 | 34:14      | just start checking those off for us.                                                                   |
 | 34:15      | That would be great.                                                                                    |
 | 34:17      | That's all.                                                                                             |
 | 34:18      | I'm just going to give you some work.                                                                   |
-| 34:20      | Let's talk about the Apple watch.                                                                       |
-| 34:21      | There are some nice changes with this Apple watch.                                                      |
+| 34:20      | Let's talk about the [[Apple Watch]].                                                                       |
+| 34:21      | There are some nice changes with this [[Apple Watch]].                                                      |
 | 34:24      | I'm just going to go out right in front of this one.                                                    |
 | 34:26      | I've been using the beta watch.                                                                         |
 | 34:28      | I think this is the best improvement to the watch OS that has happened yet.                             |
@@ -615,19 +615,19 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 37:42      | kind of like it is just showing up.                                                                     |
 | 37:43      | So I don't know what magic these developers have done, but congratulations to you.                      |
 | 37:47      | If you are one of the developers that's done this and you've, you know, you followed the                |
-| 37:53      | Apple guidelines of when they were talking, they did this years ago, they were talking                  |
+| 37:53      | [[Apple]] guidelines of when they were talking, they did this years ago, they were talking                  |
 | 37:57      | about Auto Layout.                                                                                      |
 | 37:58      | And they were like, yeah, Auto Layout's great.                                                          |
 | 38:00      | Like if you use Auto Layout, then when, you know, when stuff changes, then it just all                  |
 | 38:04      | kind of like magically snaps into place, and some developers were like, yeah, great, I'm                |
 | 38:08      | hopping on this Auto Layout bandwagon, and other developers know I'm, I'm gonna stick                   |
 | 38:13      | with what I'm doing, you know, it works, it's fine.                                                     |
-| 38:16      | And then the next year Apple introduces split screen for iPadOS, which by the way, if you're            |
+| 38:16      | And then the next year [[Apple]] introduces split screen for iPadOS, which by the way, if you're            |
 | 38:21      | running Auto Layout, it's going to be pretty simple to, to just update this and, and you'll             |
 | 38:26      | be good to go.                                                                                          |
 | 38:27      | And all the developers who'd hard coded everything went, ah, it feels like, yeah, it feels like         |
 | 38:32      | that where, you know, whoever was using the latest widget kit stuff and, and complication               |
-| 38:36      | stuff for the Apple watch, maybe got a bit of a freebie here.                                           |
+| 38:36      | stuff for the [[Apple Watch]], maybe got a bit of a freebie here.                                           |
 | 38:39      | Hope fingers crossed for you developers that it is indeed a freebie, but it's, it's pretty              |
 | 38:43      | nice to see that there's apps already in, in my watch with these, these fancy widgets.                  |
 | 38:49      | And there is a limit you can, so you can add apps to the scrolling list, but I think it's               |
@@ -646,7 +646,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 39:44      | centre that people had to swipe up for before.                                                          |
 | 39:47      | And I'm kind of, I understand where Rose is coming from on that because if you're a power               |
 | 39:51      | user you've known for years that you just swipe up from the bottom to get to that control               |
-| 39:55      | centre, I think a lot of people didn't know that though, you know, and I feel like Apple                |
+| 39:55      | centre, I think a lot of people didn't know that though, you know, and I feel like [[Apple]]                |
 | 40:00      | wanted to make it more deliberate and now you push that button.                                         |
 | 40:03      | But because I'm jumping between focus modes all day, I find it just fine on the button.                 |
 | 40:09      | That's cool.                                                                                            |
@@ -701,9 +701,9 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 42:59      | Okay.                                                                                                   |
 | 43:00      | So now that you've been using the betas for a while, what's missing for you?                            |
 | 43:05      | That is a loaded question because I already have an answer.                                             |
-| 43:07      | I want more out of the Apple basic productivity apps.                                                   |
+| 43:07      | I want more out of the [[Apple]] basic productivity apps.                                                   |
 | 43:11      | I feel like this year was a bit of a letdown and the last several years they've made nice               |
-| 43:16      | improvements to [[Apple Notes\|Notes]], [[Apple Reminders\|Reminders]], [[Apple Mail]], you know, Apple's just really, I think, been              |
+| 43:16      | improvements to [[Apple Notes\|Notes]], [[Apple Reminders\|Reminders]], [[Apple Mail]], you know, [[Apple|Apple's]] just really, I think, been              |
 | 43:21      | on a good trajectory with that stuff.                                                                   |
 | 43:23      | And this year it sounds, it feels like they lost a bit of their momentum, both in terms                 |
 | 43:28      | of features to those applications and automation support.                                               |
@@ -726,7 +726,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 44:39      | here and there's, there's columns, but they're empty because I didn't put anything in them.             |
 | 44:42      | Do I have to put something in them?                                                                     |
 | 44:44      | Things like that, it gets overwhelming fast.                                                            |
-| 44:48      | I will say the cross linking inside Apple Notes is great.                                               |
+| 44:48      | I will say the cross linking inside [[Apple Notes]] is great.                                               |
 | 44:53      | I'm really excited by that.                                                                             |
 | 44:54      | And also the PDF annotation there too.                                                                  |
 | 44:56      | I think that that is really nice.                                                                       |
@@ -754,7 +754,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 46:10      | needing a super powerful task manager, but they do want some of the power features.                     |
 | 46:16      | And so many of them are just on the cusp of using [[Apple Reminders\|Reminders]], like they're using things.                 |
 | 46:21      | But if just [[Apple Reminders\|Reminders]] gets a little bit better, they want to switch.                                    |
-| 46:25      | And I feel like Apple is so close with it.                                                              |
+| 46:25      | And I feel like [[Apple]] is so close with it.                                                              |
 | 46:28      | I just want to push them another 10%, you know, like you said, defer dates.                             |
 | 46:34      | And there's just a couple of little features they need to add to really make that an app                |
 | 46:38      | that can scale up for people that want it.                                                              |
@@ -764,7 +764,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 46:51      | I haven't really had a chance to know.                                                                  |
 | 46:52      | I tend to only use [[Apple Reminders\|Reminders]].                                                                           |
 | 46:55      | Well, I actually use [[Apple Reminders\|Reminders]] fairly heavily because it's great when you're driving to                 |
-| 46:59      | be able to say, hey, Apple lady, add this or remind me of this and so on.                               |
+| 46:59      | be able to say, hey, [[Apple]] lady, add this or remind me of this and so on.                               |
 | 47:04      | And then, you know, I have shortcuts and my push cut automation server just go off and                  |
 | 47:09      | magically sort that stuff so it all ends up in the right places.                                        |
 | 47:12      | So a chunk of it ends up in OmniFocus and so on.                                                        |
@@ -789,10 +789,10 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 48:40      | But it's free and it's already on your device.                                                          |
 | 48:43      | And I really think the magic sauce of this is the sharing.                                              |
 | 48:47      | I mean, they, [[Apple Reminders\|Reminders]] is one of the best in class for sharing task lists.                             |
-| 48:52      | You know, if you're, everybody's on an Apple platform, it's just so easy to push one button.            |
+| 48:52      | You know, if you're, everybody's on an [[Apple]] platform, it's just so easy to push one button.            |
 | 48:57      | There's no subscription or anything.                                                                    |
 | 48:58      | You just have sharing.                                                                                  |
-| 49:00      | And I feel like for project planning, this can be really beneficial with small Apple based              |
+| 49:00      | And I feel like for project planning, this can be really beneficial with small [[Apple]] based              |
 | 49:06      | teams.                                                                                                  |
 | 49:07      | And that's like an advanced feature to me.                                                              |
 | 49:10      | And so I feel like the fact that they put this in means that there's still some gas                     |
@@ -819,7 +819,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 50:19      | was trying to use this at like kind of like second level complexity, it would be obvious                |
 | 50:25      | that the stuff needs work and it's just not, not really getting it.                                     |
 | 50:28      | And as far as I can tell, there was nothing new really added this year.                                 |
-| 50:33      | And I do feel like the automation story for the Apple apps is, is a let down.                           |
+| 50:33      | And I do feel like the automation story for the [[Apple]] apps is, is a let down.                           |
 | 50:39      | Yeah.                                                                                                   |
 | 50:40      | I think it's one of those things where, um, it's they didn't necessarily think that people              |
 | 50:47      | would be wanting to automate this in the sense of like recreating projects or having like               |
@@ -873,8 +873,8 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 53:55      | I feel like there's just little bits they're missing and the automation piece of it to me               |
 | 53:59      | is, um, is the worst of it.                                                                             |
 | 54:01      | I mean, they, they just need to do more.                                                                |
-| 54:03      | I feel like Notes is probably the best, uh, Apple app with automation in terms of the                   |
-| 54:08      | productivity spear, but like, uh, Apple Mail and [[Apple Reminders\|Reminders]] and some of their other, like                |
+| 54:03      | I feel like Notes is probably the best, uh, [[Apple]] app with automation in terms of the                   |
+| 54:08      | productivity spear, but like, uh, [[Apple Mail]] and [[Apple Reminders\|Reminders]] and some of their other, like                |
 | 54:14      | we talked earlier about [[Safari]].                                                                         |
 | 54:16      | I just feel like there, there's, there's more work to be done there.                                    |
 | 54:20      | Yes.                                                                                                    |
@@ -911,11 +911,11 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 56:26      | an option.                                                                                              |
 | 56:27      | So that's pretty good to see.                                                                           |
 | 56:28      | Well, I have to say overall that I am very happy with the progress shortcuts has made                   |
-| 56:35      | in the years has been in the Apple platform, particularly on the Mac.                                   |
+| 56:35      | in the years has been in the [[Apple]] platform, particularly on the Mac.                                   |
 | 56:39      | Like when it came on the Mac, there was a part of me that thought I would never really                  |
 | 56:43      | use it much because I am a power automator.                                                             |
 | 56:46      | I, I wrote a book on [[Keyboard Maestro]].                                                                  |
-| 56:49      | I know my way around AppleScript there.                                                                |
+| 56:49      | I know my way around [[AppleScript]] there.                                                                |
 | 56:52      | There's a lot of great options on the Mac.                                                              |
 | 56:53      | You know, what do I need this, you know, pedestrian themed shortcuts for?                               |
 | 56:58      | But the fact is shortcuts is the best tool in the belt, occasionally for automation and                 |

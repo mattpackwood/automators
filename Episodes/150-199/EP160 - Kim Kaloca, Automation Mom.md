@@ -327,7 +327,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 10:40      | Yeah.                                                                          |
 | 10:41      | Yeah.                                                                          |
 | 10:42      | Oh wow.                                                                        |
-| 10:43      | I believe it's only iPhones and Apple Watches                                  |
+| 10:43      | I believe it's only iPhones and [[Apple Watch\|Apple Watches]]                                  |
 | 10:46      | that it will go to as well.                                                    |
 | 10:49      | But yeah, there's the option,                                                  |
 | 10:52      | I believe it is under in the Home app.                                         |
@@ -472,7 +472,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 16:36      | and turning on all the lights                                                  |
 | 16:37      | and things like that works pretty well as a basis for me.                      |
 | 16:40      | Yeah, there's another one.                                                     |
-| 16:41      | I think it's still on Amazon, I'll have to look for it.                        |
+| 16:41      | I think it's still on [[Amazon]], I'll have to look for it.                        |
 | 16:43      | It has a propeller on it.                                                      |
 | 16:44      | And when the alarm goes off, it winds up the propeller                         |
 | 16:47      | and it flies off into the room somewhere                                       |
@@ -826,7 +826,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 31:12      | instead of just being it on the automation.                                    |
 | 31:16      | And so I was thinking that for next year,                                      |
 | 31:18      | we could have it say, and I borrow this from you,                              |
-| 31:20      | hey, Apple lady, Merry Christmas.                                              |
+| 31:20      | hey, [[Apple]] lady, Merry Christmas.                                              |
 | 31:23      | And that way the [[HomePod]] can turn on the Christmas tree                    |
 | 31:25      | or the outside lights or anything like that.                                   |
 | 31:27      | So that's one idea I have for a little bit of magic                            |

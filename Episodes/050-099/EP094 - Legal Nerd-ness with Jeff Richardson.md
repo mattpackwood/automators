@@ -410,7 +410,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 25:20      | to make sure you're not overworking anything. The Fitbod app is so simple to use and recently           |
 | 25:25      | got updated with a fantastic new design with brand new HD video tutorials shot from multiple            |
 | 25:30      | angles to make sure that learning each exercise is a breeze. And it also integrates with your Apple     |
-| 25:35      | watch, Wear OS, smartwatch and apps like Strava, Fitbit and Apple Health. Personalised training         |
+| 25:35      | watch, Wear OS, smartwatch and apps like Strava, Fitbit and [[Apple Health]]. Personalised training         |
 | 25:42      | of this quality can be expensive, but Fitbod is just $12.99 a month or $79.99 a year. But you can       |
 | 25:48      | get 25% off your membership by signing up at Fitbod.me/automators. So kick off the new year       |
 | 25:55      | right and get your customised fitness plan at Fitbod.me/automators and you'll get that 25%        |
@@ -499,7 +499,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 32:57      | I just fire up my iPad and then just use log me in to connect to the PC, which is always on in my       |
 | 33:03      | office and do what I need to do. But getting the access can be a little difficult. And this was a       |
 | 33:09      | perfect use of [[Keyboard Maestro]], especially a skill that you all have talked about before,              |
-| 33:14      | which is [[Keyboard Maestro]]'s ability to actually look at a part of a screen. Because when you have       |
+| 33:14      | which is [[Keyboard Maestro\|Keyboard Maestro's]] ability to actually look at a part of a screen. Because when you have       |
 | 33:19      | apps and log me in on the Mac as an example of it, it's an app that does not really want to be          |
 | 33:24      | automated. But that's okay, because [[Keyboard Maestro]], let's me get around that. I can just              |
 | 33:28      | tell [[Keyboard Maestro]], you know, when I press one key, I want you to log me into my Mac at my           |
@@ -535,7 +535,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 35:53      | and my Mac because of [[Keyboard Maestro]] is going through all the tedious nonsense of getting             |
 | 35:57      | logged in and I love it. The pause until conditions are met. One of the options there is found          |
 | 36:02      | image condition, which is really great because then you can say, hey, wait until you find,              |
-| 36:07      | found this image, then wait an extra second because sometimes the JavaScript still needs                |
+| 36:07      | found this image, then wait an extra second because sometimes the [[JavaScript]] still needs                |
 | 36:11      | a bit of time to load or something and then, and then go and that is super useful. Yeah, yeah.          |
 | 36:16      | That was the first reason I started using [[Keyboard Maestro]] was to automate that one task,               |
 | 36:20      | which used to drive me crazy, but I've found it useful for other reasons too. I mean, I like the        |
@@ -601,8 +601,8 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 41:16      | of like getting work done, which is important and is great and makes you feel good when you're          |
 | 41:19      | efficient. But [[HomeKit]] is like where I love to have fun with automation. And this is the one            |
 | 41:24      | that sort of brings a smile on my face more. I love doing it. One of the big [[HomeKit]] things             |
-| 41:30      | that I have in my house are the Lutron lights that anyone who's listened to this podcast has            |
-| 41:34      | heard. People talk about a million times, but I love the Lutron system because they work really         |
+| 41:30      | that I have in my house are the [[Lutron]] lights that anyone who's listened to this podcast has            |
+| 41:34      | heard. People talk about a million times, but I love the [[Lutron]] system because they work really         |
 | 41:38      | well. They're incredibly dependable. And so, you know, of course, the first thing that I ever did       |
 | 41:43      | when I set them up is to have the lights in the front of my house, you know, come on at sunset          |
 | 41:49      | or you can put a certain amount of time before or after that and then go off at sunrise. And,           |
@@ -644,7 +644,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 44:43      | finishes, it reopens it. You can't just say that. You just can't say that, Rose. I've been playing      |
 | 44:48      | with [[Home Assistant]] a bit, David. Maybe we'll do a future show on it. But just real quick,              |
 | 44:52      | how are you using your TV as a trigger? So specifically, because I'm using [[Home Assistant]]               |
-| 45:00      | for this, you can tell when the Apple TV starts playing something and when it pauses. And so I          |
+| 45:00      | for this, you can tell when the [[Apple TV]] starts playing something and when it pauses. And so I          |
 | 45:07      | actually use that, which means that if I pause for a bathroom break, then the lights come back on.      |
 | 45:11      | But yeah, and that's pretty cool.                                                                       |
 | 45:14      | But what a tease. Rose may work for this.                                                               |
@@ -661,7 +661,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 46:06      | things called a Eufy Cam. It's just a camera, you know, a camera for the outside of the house.          |
 | 46:10      | And I've got one in my front yard, pointed out my front yard. And I've got one pointed at my            |
 | 46:14      | backyard. This isn't really an automation thing. But I have to admit, since I've had them, I think      |
-| 46:18      | it's really cool that I can just use my iPhone or iPad or whatever Mac or Apple TV even. And you        |
+| 46:18      | it's really cool that I can just use my iPhone or iPad or whatever Mac or [[Apple TV]] even. And you        |
 | 46:24      | know, you can very easily see what's going on in the front of your house, what's going on in the        |
 | 46:28      | back of your house. I've liked it because it's cool. And my wife, who's not very techie, she            |
 | 46:34      | likes it just to know what's going on. So anything that can please both of us, you know, is a real      |
@@ -697,13 +697,13 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 48:50      | like, you know, an animal, a cat walking in the backyard or something like that. But once you           |
 | 48:54      | figure out what the appropriate motion detection level is, now it works great. So there's a number      |
 | 49:00      | of reasons that this little automation, you know, when you see things in the backyard, go ahead and     |
-| 49:05      | turn on the lights and it's going to record it through the eufycam. Really nice. Yeah, I really          |
-| 49:10      | like the eufycam products. I've got several of their indoor and outdoor cameras. I also bought           |
-| 49:15      | one of the, a couple of the eufycam spotlights, where it's a LED spotlight with an incorporated          |
+| 49:05      | turn on the lights and it's going to record it through the [[eufy]] cam. Really nice. Yeah, I really          |
+| 49:10      | like the [[eufy]] cam products. I've got several of their indoor and outdoor cameras. I also bought           |
+| 49:15      | one of the, a couple of the [[eufy]] cam spotlights, where it's a LED spotlight with an incorporated          |
 | 49:23      | camera that saves locally on device. And it is not part of [[HomeKit]]. They have not connected to          |
 | 49:29      | [[HomeKit]]. I'm hoping that Rose's encouragement to buy me, for me to buy a home assistant will help       |
 | 49:34      | that. But it is, I have generally been pretty happy with the UV stuff. It's not super expensive.        |
-| 49:42      | And it seems to be pretty reliable. Yeah, I found the eufycam is great. I have several of                |
+| 49:42      | And it seems to be pretty reliable. Yeah, I found the [[eufy]] cam is great. I have several of                |
 | 49:48      | their indoor cameras. And I have an outdoor camera as well, which I've not got outdoors.                |
 | 49:52      | It's inside of a storage cupboard that's attached to the building that I rent. I say                    |
 | 49:56      | covered. It's concrete. Either way, it's a great place to put things like garden furniture and          |
@@ -731,9 +731,9 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 51:49      | No. I mean, it's just adding to things over time. You know, David, you had said something,              |
 | 51:53      | I think it was on an automator a very long time ago, or maybe it was pack power users,                  |
 | 51:57      | that you started off with [[HomeKit]] just by getting that first, I think for you, just like me, it was     |
-| 52:01      | that first Lutron switch, and then you add to it over time, and then now you get another one,           |
+| 52:01      | that first [[Lutron]] switch, and then you add to it over time, and then now you get another one,           |
 | 52:06      | now you get another one. And then the same has been true for me. When I first bought my first           |
-| 52:11      | Lutron device, [[HomeKit]] had not even been inventid yet. I think that was in 2015 when it came out.       |
+| 52:11      | [[Lutron]] device, [[HomeKit]] had not even been invented yet. I think that was in 2015 when it came out.       |
 | 52:16      | But then it became [[HomeKit]] compatible, and then I added more and more, and you know,                    |
 | 52:21      | through Eve devices or other devices that I have, I mean, they have just slowly started to accumulate   |
 | 52:26      | in my house. And I'm not in the same situation where y'all are with all of your water sensors and       |
@@ -741,8 +741,8 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 52:36      | more thing, you can solve one more problem, or to be fair, just do something that's fun and just        |
 | 52:41      | gives me happiness because it works, even if it wasn't necessarily a problem beforehand. So it's        |
 | 52:46      | been nice to expand. You know, one of the things I don't know if I regret or not, but I've been         |
-| 52:51      | thinking about it because a few months ago, I was so happy with the eufy stuff that I also got the    |
-| 52:55      | eufy doorbell, which is nice and works well with the eufy app, but it's not [[HomeKit]] compatible.     |
+| 52:51      | thinking about it because a few months ago, I was so happy with the [[eufy]] stuff that I also got the    |
+| 52:55      | [[eufy]] doorbell, which is nice and works well with the [[eufy]] app, but it's not [[HomeKit]] compatible.     |
 | 53:01      | And I knew that when I bought it. And of course, at the time, I'm like, well, maybe they'll add         |
 | 53:05      | this down the road. So far, I have not yet thought of how, like what I'm missing out on by it not       |
 | 53:13      | being [[HomeKit]] compatible, because I don't have any things that just as one example, there's a sensor    |
@@ -758,44 +758,44 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 53:56      | [[HomeKit]]? Why can't I tell [[HomeKit]] that when something happens to send me a text message,                |
 | 54:01      | I don't think that's possible right now at [[HomeKit]]. I am sure there's other ways that y'all can         |
 | 54:05      | tell me how to do that using third party stuff or online things. But, you know, I want [[HomeKit]] to       |
-| 54:10      | expand and do more. And sometimes I get frustrated that Apple has not been moving more quickly,         |
+| 54:10      | expand and do more. And sometimes I get frustrated that [[Apple]] has not been moving more quickly,         |
 | 54:16      | but that they are improving it, and it is getting better, which is good.                                |
 | 54:19      | I hate to do this to you, Jeff, but I'll tell you what the problem is with your doorbell cam,           |
-| 54:24      | because I have the same one as you can't put it on your Apple TV.                                       |
-| 54:28      | Oh, actually, that's a good point. Yeah, because what I love on the Apple TV,                           |
+| 54:24      | because I have the same one as you can't put it on your [[Apple TV]].                                       |
+| 54:28      | Oh, actually, that's a good point. Yeah, because what I love on the [[Apple TV]],                           |
 | 54:31      | and I'm sure you know this, and folks don't have this, if you have multiple cameras in your house,      |
-| 54:35      | there's a way on the Apple TV, you can see just with one screen, all the different cameras at once.     |
+| 54:35      | there's a way on the [[Apple TV]], you can see just with one screen, all the different cameras at once.     |
 | 54:40      | Now, because I have a front yard camera, you know, the additional angle that I would get from a         |
 | 54:44      | doorbell camera versus the front yard. I mean, there's so much overlap there that I'm not really        |
 | 54:49      | missing out. But yeah, that's the one thing I knew about, and it hasn't been a big deal,                |
 | 54:53      | because I've already got one in the front yard. Yeah, if you want to do that on your iPad or            |
 | 54:57      | even an iPhone, by the way, I'd recommend HomeCam. It's a great little utility application.             |
 | 55:02      | The same person also makes HomeRun, which allows you to more easily do [[HomeKit]] control from your        |
-| 55:07      | Apple Watch and HomePass to store all of the QR codes for setting up your devices.                      |
+| 55:07      | [[Apple Watch]] and HomePass to store all of the QR codes for setting up your devices.                      |
 | 55:12      | But one other thing you're missing out on by not having a [[HomeKit]] compatible doorbell                   |
-| 55:17      | is chimes on HomePods, because I have a ring doorbell, it's actually the peep hole one,                |
+| 55:17      | is chimes on HomePods, because I have a [[Ring Doorbell]], it's actually the peep hole one,                |
 | 55:23      | because I couldn't install something on the outside of my front door, I live in an apartment,           |
 | 55:28      | but I could put it through the people. And so I got the ring people, and I'm using Homebridge           |
 | 55:34      | to get that into [[HomeKit]], which means that I can see the camera in [[HomeKit]]. And also,                   |
 | 55:39      | when it rings, I get chimes on my HomePods throughout the house, which is really, really               |
-| 55:43      | nice. That is an excellent point. And I'm looking in my Amazon order history, because just a few        |
+| 55:43      | nice. That is an excellent point. And I'm looking in my [[Amazon]] order history, because just a few        |
 | 55:49      | weeks ago, I spent 36 bucks that I would have saved if it had done that, because what I did for         |
-| 55:53      | that very same problem is I bought a second eufye doorbell chime. And so now when someone rings          |
-| 56:00      | my doorbell, I have the eufye hub, which is downstairs in my house, which goes ding dong.                |
-| 56:05      | And then this thing that I bought on Amazon just a few weeks ago, and it's probably literally           |
+| 55:53      | that very same problem is I bought a second [[eufy]] doorbell chime. And so now when someone rings          |
+| 56:00      | my doorbell, I have the [[eufy]] hub, which is downstairs in my house, which goes ding dong.                |
+| 56:05      | And then this thing that I bought on [[Amazon]] just a few weeks ago, and it's probably literally           |
 | 56:09      | only been tested a few times, how many people have rung my doorbell in the last week or two.            |
 | 56:13      | But I have this second unit plugged into an outlet upstairs, and so it also dings. But you're           |
 | 56:18      | right, I do have HomePod minis in my house, and it would have been nicer if I could have used those     |
 | 56:23      | instead of this. So I guess the lack of support cost me an extra 36 bucks.                              |
 | 56:27      | Yeah. So yeah, we'll see. From what I've understood, it's actually different                            |
-| 56:33      | parts of eufye that do the cameras versus doing the doorbell, even though depending on which             |
+| 56:33      | parts of [[eufy]] that do the cameras versus doing the doorbell, even though depending on which             |
 | 56:38      | doorbell it is, it connects to the same base station as some of the [[HomeKit]] compatible cameras.         |
 | 56:43      | It's a bit of a bit confusing like that. But I think the doorbell comes from the same group,            |
 | 56:47      | the work on the robot vacuum, which is also not [[HomeKit]] compatible, though to be fair, at [[HomeKit]],      |
-| 56:52      | there is no vacuum support at all. So, you know, that's not eufye's fault there.                         |
+| 56:52      | there is no vacuum support at all. So, you know, that's not [[eufy\|eufy's]] fault there.                         |
 | 56:57      | And I know you were kind of making fun of me earlier about my leak detectors, Jeff, but                 |
 | 57:01      | I have found religion on these things. I think Rose is the one who really kind of got me to try         |
-| 57:06      | the Aqara Hub. Does your toilet leak that often because she may have big problems?                        |
+| 57:06      | the [[Aqara Hub]]. Does your toilet leak that often because she may have big problems?                        |
 | 57:12      | You don't want to find out the wrong way. That's the thing, right? If there's water,                    |
 | 57:16      | it's kind of already a bit too late by the time you notice it. So getting a sensor to say,              |
 | 57:21      | you know, that actually your dog stole the flood sensor and is chewing on it is probably better         |
@@ -1029,10 +1029,10 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 01:16:16   | as soon as there's an earthquake, everybody's checking in. And I have a shortcut that sends             |
 | 01:16:22   | out a text message and gives my location and says I'm okay. And just like gets it out because you       |
 | 01:16:28   | have like 30 to 60 seconds before the cell towers break down, you know.                                 |
-| 01:16:33   | Is that one you've made available to your Apple Watch, David? Because that seems to me to be a          |
-| 01:16:36   | prime candidate for the Apple Watch because not most shortcuts are useless on the Apple Watch.          |
+| 01:16:33   | Is that one you've made available to your [[Apple Watch]], David? Because that seems to me to be a          |
+| 01:16:36   | prime candidate for the [[Apple Watch]] because not most shortcuts are useless on the [[Apple Watch]].          |
 | 01:16:41   | They don't necessarily have the way to input things in the way that we need. But that's                 |
-| 01:16:45   | a perfect candidate. Yeah, that's a good one. I should put that one on my Apple Watch. But you          |
+| 01:16:45   | a perfect candidate. Yeah, that's a good one. I should put that one on my [[Apple Watch]]. But you          |
 | 01:16:49   | know, it's, it's a, you know, it is funny though, how automation can actually be very useful for        |
 | 01:16:55   | those types of emergencies, if you think of it ahead of time. The only other one I was going to         |
 | 01:16:59   | mention, it's a shortcut that I use all the time is I have a very simple shortcut for logging meals     |

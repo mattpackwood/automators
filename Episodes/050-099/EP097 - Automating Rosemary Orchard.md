@@ -282,7 +282,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 17:27      | all have to do texture turns over there are aware can be a bit of a pain at times keeping                |
 | 17:34      | track of all those receipts and everything. It makes it incredibly easy. And my favourite                 |
 | 17:38      | thing that I've been working on recently is getting emails automatically out of mail                     |
-| 17:43      | into [[DEVONthink]] and converting them into a PDF. So all of my Apple receipts get pushed                  |
+| 17:43      | into [[DEVONthink]] and converting them into a PDF. So all of my [[Apple]] receipts get pushed                  |
 | 17:49      | into [[DEVONthink]] and converted into PDFs with all this data on them, because that's                      |
 | 17:54      | one of the things that I need. Okay, well, it makes sense. So, you know, you've got some                 |
 | 17:59      | stuff in [[Hazel]], you get some stuff in Devon thing. Interestingly, you know, [[DEVONthink]]                  |
@@ -410,7 +410,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 28:25      | for that. But for the time being, doing the recording or just starting the recording                     |
 | 28:32      | through keyboard shortcut, that's pretty powerful. But I wouldn't be able to do that in shortcuts        |
 | 28:36      | if it wasn't for [[BetterTouchTool]].                                                                      |
-| 28:38      | Yeah, yeah, it's awesome. I mean, it's like, we had Apple on Mac power users and I was                   |
+| 28:38      | Yeah, yeah, it's awesome. I mean, it's like, we had [[Apple]] on [[Mac Power Users]] and I was                   |
 | 28:43      | asking them about like, triggering menu items and keyboard shortcuts. That stuff is such                 |
 | 28:49      | an easy way to, to kind of like hack your way into automation. And they're like, no,                     |
 | 28:56      | it's not like they just were not interested in doing that. Now [[BetterTouchTool\|BetterTouchTool's]] added                  |
@@ -441,7 +441,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 31:10      | regular work focus mode. And then when I end that, then the switch is back to my work focus              |
 | 31:14      | mode, which is really handy. And I'm switching focus modes, because people are going to ask              |
 | 31:20      | about this, I'm switching focus modes using shortcuts. And what I do, and how I run the                  |
-| 31:25      | shortcut is because I switch mode through bunch, I just have it run the Apple Scout                      |
+| 31:25      | shortcut is because I switch mode through bunch, I just have it run the [[AppleScript]]                      |
 | 31:31      | switches, tell application shortcuts to run shortcut, quote, the name of your shortcut.                  |
 | 31:36      | And you do need quotation marks around the name of your shortcut if it's got a space in                  |
 | 31:40      | it. But it's, it's very easy to do. And there's a number of ways that I can do this. I usually           |
@@ -450,7 +450,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 32:00      | great calendar icon, which you can have in [[Stream Deck]]. And that's controlled through                    |
 | 32:07      | [[Keyboard Maestro]] and you change the background colour of the [[Keyboard Maestro]], the stream                 |
 | 32:13      | deck button, and you change what text is on it all through [[Keyboard Maestro]] and some                     |
-| 32:17      | AppleScript and bash scripts and everything. It's, it's genuinely amazing. And I love it.               |
+| 32:17      | [[AppleScript]] and bash scripts and everything. It's, it's genuinely amazing. And I love it.               |
 | 32:22      | I realised what I can probably do a good chunk of the time is read some of that same data                |
 | 32:30      | and actually use it to display the right bunch. So then when I press one [[Stream Deck]] button,             |
 | 32:36      | it will almost certainly run exactly the right bunch for exactly what I'm doing. And then                |
@@ -566,8 +566,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 42:06      | I will not have Wi-Fi signal even though the router is literally in the next room. That                  |
 | 42:10      | massively interferes with things. The IKEA hub, unfortunately, really, really, really                    |
 | 42:15      | struggled for me. I've ended up moving all of my IKEA things into home assistant because                 |
-| 42:21      | home assistant, you can plug a Zigbee dongle into it. I bought a Zigbee dongle and I paired              |
-| 42:28      | everything with home assistant. Home assistant and the Zigbee dongle that I bought seem                  |
+| 42:21      | home assistant, you can plug a [[Zigbee]] dongle into it. I bought a [[Zigbee]] dongle and I paired              |
+| 42:28      | everything with home assistant. Home assistant and the [[Zigbee]] dongle that I bought seem                  |
 | 42:32      | to be doing a really, really great job of getting all of my things to talk to each other.                |
 | 42:39      | I can share those back into [[HomeKit]] so I'm not losing out on the fact that I can then                    |
 | 42:43      | talk to a home pot and say open and close this blind and do these things and so on and                   |
@@ -602,7 +602,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 45:21      | and a number of things, but [[Home Assistant]] is a very big one and it's open source. And                   |
 | 45:26      | essentially, the idea is that it is a small brain that lives in your house on a computer                 |
 | 45:31      | and it does a variety of different things. But on [[HomeKit]], where you have to have an                     |
-| 45:39      | always-on iPad that stays at home or an Apple TV or a HomePod, you can run this on a computer            |
+| 45:39      | always-on iPad that stays at home or an [[Apple TV]] or a HomePod, you can run this on a computer            |
 | 45:46      | that you might already have that's in your home. So I was running on a Raspberry Pi for                  |
 | 45:51      | a while and then I ended up buying a slightly more powerful machine because I wanted to be               |
 | 45:56      | able to do lots of things with data tracking. But the idea is that you run a small server                |
@@ -626,7 +626,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 47:24      | that somebody had made. They made an add-on. And the difference between the two, I'm not                 |
 | 47:29      | going to go into here because it's not important for the terms of the show, but somebody had             |
 | 47:33      | made something that I could try and it worked. And basically what they're doing is they're               |
-| 47:39      | using a different protocol. It's not like Zigbee, it's a messaging protocol, but they                    |
+| 47:39      | using a different protocol. It's not like [[Zigbee]], it's a messaging protocol, but they                    |
 | 47:47      | can actually talk directly to this. And [[Home Assistant]] itself supports it. So essentially                |
 | 47:52      | they're just bridging between the two of those. And that's something they can do because                 |
 | 47:57      | [[Home Assistant]] already supports all of this. And that is very nice to be able to do. And                 |
@@ -653,14 +653,14 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 49:32      | Well, good luck with that.                                                                               |
 | 49:34      | You're going to have to walk me through. It's going to be a challenge. When mine shows up,               |
 | 49:38      | you have to walk me through because it's new to me, but I am super interested in the ability             |
-| 49:42      | to add more conditions to my rules and make home automation more powerful. I think Apple                 |
+| 49:42      | to add more conditions to my rules and make home automation more powerful. I think [[Apple]]                 |
 | 49:47      | is actually doing a pretty good job with [[HomeKit]], but it also is kind of the least common denominator.   |
 | 49:52      | You know, it'd be nice if you could go further with this. The other thing [[Home Assistant]] looks           |
 | 49:56      | like it's going to give me is the ability to use devices that aren't made for [[HomeKit]],                   |
 | 50:00      | which will be nice.                                                                                      |
 | 50:01      | Yeah, yeah. It is great that you can do that. So I have a smart smoke detector, but there                |
 | 50:08      | are I think the only smart smoke detector available in the UK is the Netatmo one, which                  |
-| 50:11      | is fairly pricey. I bought a 10 pound Zigbee smart smoke detector and it works exactly                |
+| 50:11      | is fairly pricey. I bought a 10 pound [[Zigbee]] smart smoke detector and it works exactly                |
 | 50:18      | the same way as a regular smart smoke detector, except I also paired it to [[Home Assistant]] and            |
 | 50:22      | shared it to [[HomeKit]] and I attempted to test it. It was really difficult. Like I had to                  |
 | 50:29      | actually have to set several light several candles underneath it and close a bunch of                    |
@@ -673,20 +673,20 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 51:03      | but it does give you a great interface for editing automations, which for me is definitely               |
 | 51:10      | something I'm very excited by.                                                                           |
 | 51:12      | Now, you're also, I guess, at war against your hubs, right?                                              |
-| 51:16      | Yeah. Yeah, I kind of am. So originally I bought the Aqara M1S, which is a round, white                  |
+| 51:16      | Yeah. Yeah, I kind of am. So originally I bought the [[Aqara Hub#M1S (Gen 1)\|Aqara M1S]], which is a round, white                  |
 | 51:24      | round plug, which kind of looks like a doorbell chime, because it also functions as a doorbell           |
 | 51:29      | chime with a light around it that you just plug into the wall and it's Wi-Fi. And at                     |
 | 51:35      | the time, I thought, 32 devices? I'm not going to hit 32 devices. Editor, note, Rose                     |
 | 51:43      | hit 32 devices much quicker than Rose had anticipated. Surprise. And so I ended up needing               |
-| 51:50      | another Aqara hub. And so I bought the Aqara M2 hub, and the Aqara M2 hub is great, but                  |
+| 51:50      | another [[Aqara Hub]]. And so I bought the [[Aqara Hub#M2\|Aqara M2 hub]], and the [[Aqara Hub#M2\|Aqara M2 hub]] is great, but                  |
 | 51:56      | migrating things between the devices or between the hubs started breaking some of my automations.        |
-| 52:03      | And it was at this point that I had already bought a Zigbee dongle for [[Home Assistant]] because            |
+| 52:03      | And it was at this point that I had already bought a [[Zigbee]] dongle for [[Home Assistant]] because            |
 | 52:07      | I wanted to try the smart smoke detector because I was, I got woken up at three o'clock in               |
 | 52:13      | the morning by the smoke detector going, beep, I'm running out of battery, beep, I'm running             |
 | 52:17      | out of battery, which is everybody's worst nightmare. So being able to check the battery                 |
-| 52:21      | level from Home Kid and [[Home Assistant]] is really useful. And so I bought this dongle                     |
+| 52:21      | level from [[HomeKit]] and [[Home Assistant]] is really useful. And so I bought this dongle                     |
 | 52:26      | and I thought, you know, if I'm moving things from one device to another, why don't I just               |
-| 52:32      | try pairing the Aqara stuff straight into [[Home Assistant]]? And it worked. It worked really,               |
+| 52:32      | try pairing the [[Aqara]] stuff straight into [[Home Assistant]]? And it worked. It worked really,               |
 | 52:38      | really well. And then I realised that I could get a bit nerdier and combine two devices so                |
 | 52:45      | that if both the motion sensors on my chair notice something, then actually, or if either                |
 | 52:51      | motion sensor on my chair notices something in my office, then that appears as motion                    |
@@ -770,7 +770,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 59:15      | not as nerdy as you. Yeah. Are they able to get into [[HomeKit]] to see the rules? I mean,                   |
 | 59:20      | can you live with somebody else is I guess what I'm asking, like with [[HomeKit]]? Well,                     |
 | 59:24      | I guess the question is, why do they need to see the rules? Yeah. Because [[Home Assistant]],                |
-| 59:30      | everybody can have their own account, and it's got an iOS app, it's got an Apple Watch app.              |
+| 59:30      | everybody can have their own account, and it's got an iOS app, it's got an [[Apple Watch]] app.              |
 | 59:36      | And so they can log in. And if you share things with them, like the automations and so on,               |
 | 59:42      | you give them access to it, then they'll be able to see and edit all of those things.                    |
 | 59:46      | The same as you can share that access through [[HomeKit]]. But ideally, my aim for every setup is            |
@@ -796,28 +796,28 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:01:31   | and off the light in there is either on or it's off. But if you go in there and then you close           |
 | 01:01:37   | the door, it will leave the light on until you've opened the door and left. Because the last thing       |
 | 01:01:42   | you want is the light turning off in the middle of a shower.                                             |
-| 01:01:46   | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from Devon              |
-| 01:01:49   | Technologies. [[DEVONthink]] is the most professional document and information management application       |
+| 01:01:46   | This episode of Automated is brought to you by DEVONthink, the flagship product from Devon              |
+| 01:01:49   | Technologies. DEVONthink is the most professional document and information management application       |
 | 01:01:54   | for the Mac. It's the one place for storing all your documents, snippets, all bookmarks,                 |
 | 01:01:58   | and working with them. The integrated AI assists you with filing and searching,                          |
 | 01:02:01   | while the extensive search language with advanced billion-search operators makes sure                    |
-| 01:02:05   | you're never looking for something and not finding it. [[DEVONthink]] features a flexible                   |
+| 01:02:05   | you're never looking for something and not finding it. DEVONthink features a flexible                   |
 | 01:02:09   | sync system that supports many cloud services or lets you synchronise over the local network too         |
 | 01:02:14   | with everything securely encrypted. It secures you the choice for however syncing works best for         |
 | 01:02:18   | you. It has smart rules and flexible reminders that let you automate all parts of your workflow          |
-| 01:02:23   | and delegate boring repeating tasks. Let [[DEVONthink]] automatically organise your data with rules         |
-| 01:02:28   | you define. [[DEVONthink]]'s [[AppleScript]] Dictionary is one of the largest on the Mac. There's no           |
-| 01:02:32   | part of [[DEVONthink]] that can't be automated. Except when [[DEVONthink]]'s functionality with                |
+| 01:02:23   | and delegate boring repeating tasks. Let DEVONthink automatically organise your data with rules         |
+| 01:02:28   | you define. DEVONthink's [[AppleScript Dictionary is one of the largest on the Mac. There's no           |
+| 01:02:32   | part of DEVONthink that can't be automated. Except when [[DEVONthink's functionality with                |
 | 01:02:36   | your own commands by adding them into a scripts menu. Even templates can have scripts inside             |
 | 01:02:40   | and you can set up new documents from data with placeholders or inserted by your own [[AppleScript]]        |
 | 01:02:45   | Code. And of course there's so much more from an iOS companion app to email archiving, scanning,         |
 | 01:02:50   | or even an embedded web server for sharing your data securely with your team. I did mention earlier      |
-| 01:02:55   | on the show that I personally use and love [[DEVONthink]] and I would say that even if they weren't         |
+| 01:02:55   | on the show that I personally use and love DEVONthink and I would say that even if they weren't         |
 | 01:02:59   | sponsoring today's episode, but one of the features I've been using recently is the Convert              |
-| 01:03:03   | File feature. Because [[DEVONthink]] automatically imports email and with Convert File you can              |
+| 01:03:03   | File feature. Because DEVONthink automatically imports email and with Convert File you can              |
 | 01:03:08   | actually convert it to a PDF. Yup, so my emails get imported and converted into PDFs automatically.      |
 | 01:03:14   | Perfect for accounting. So if you think that you need somewhere where you can organise your files        |
-| 01:03:19   | and easily find them, and maybe even convert some documents, check out [[DEVONthink]]. You can get 10%      |
+| 01:03:19   | and easily find them, and maybe even convert some documents, check out DEVONthink. You can get 10%      |
 | 01:03:24   | of [[DEVONthink]] 3 or upgrade to it right now. Just go to devontechnologies.com/automators.          |
 | 01:03:29   | That's devontechnologies.com/automators for 10% off. Our thanks to Devon Technologies for          |
 | 01:03:34   | their support of this show and all of Relay FM. So Rose, you've got a lot of great automations,          |
@@ -831,7 +831,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:04:22   | windows positioned in a different way. And I could get terminal to open three windows.                   |
 | 01:04:28   | And I could get them positioned, but getting the correct one to do the correct command                   |
 | 01:04:34   | was not working for me. So I ended up switching to item. But a lot of what I've been doing recently,     |
-| 01:04:39   | it has been a little bit of AppleScript where possible or where necessary, maybe text expansion         |
+| 01:04:39   | it has been a little bit of [[AppleScript]] where possible or where necessary, maybe text expansion         |
 | 01:04:46   | in a few places and [[Keyboard Maestro]] just stepping in and rescuing me in all the places where usually    |
 | 01:04:53   | this thing would be disabled. But actually in this particular scenario, I wanted to happen. So           |
 | 01:04:58   | [[Keyboard Maestro]] bridges a gap to make magic. Can you give me an example? Yeah, so I don't use text      |
@@ -849,7 +849,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:06:18   | in those applications. And I've got some smart groups that are just for my development applications.     |
 | 01:06:24   | But it's even smarter than that in that it looks at the name of the window, and it checks what the       |
 | 01:06:29   | file extension is in the name of the window. And then if it's a PHP file, it will do one thing.          |
-| 01:06:36   | And if it's a JavaScript file, it will do a different thing and so on and so forth so that               |
+| 01:06:36   | And if it's a [[JavaScript]] file, it will do a different thing and so on and so forth so that               |
 | 01:06:40   | I can type whatever my magic incantation is. And I get exactly the right result for whatever          |
 | 01:06:46   | language I'm programming in, which is I think something I would have struggled to do with                |
 | 01:06:51   | just playing text expansion. But I was really pleased to be able to sort that out with keyboard          |
@@ -941,78 +941,78 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:15:07   | most [[Safari]] window. But I do use [[Firefox]] and [[Google Chrome\|Chrome]] as well at work because I'm a web developer,         |
 | 01:15:12   | and I have to use all the browsers. Now, talking to you, I get the impression that,                      |
 | 01:15:18   | like, when you have to, like, roll up your sleeves for an automation that you generally                  |
-| 01:15:22   | are using JavaScript, as opposed to AppleScript, what is the balance for you between AppleScript         |
+| 01:15:22   | are using [[JavaScript]], as opposed to [[AppleScript]], what is the balance for you between [[AppleScript]]         |
 | 01:15:28   | and other languages? I mean, it really depends. Honestly, if I'm actually going to be writing            |
-| 01:15:34   | a script to automate something on the Mac, I am not going to use JavaScript. JavaScript for              |
+| 01:15:34   | a script to automate something on the Mac, I am not going to use [[JavaScript]]. [[JavaScript]] for              |
 | 01:15:39   | automation is one of those things that was a lovely idea. And when I say JavaScript for                  |
-| 01:15:43   | automation, I'm talking specifically the JavaScript version of AppleScript, not JavaScript, as you       |
+| 01:15:43   | automation, I'm talking specifically the [[JavaScript]] version of [[AppleScript]], not [[JavaScript]], as you       |
 | 01:15:48   | would find it in [[Drafts]] or similar. But it was a wonderful idea. And I love what they were going         |
-| 01:15:54   | for. But somehow, it just does not have all the same event hooks as AppleScript, which means that        |
-| 01:16:02   | you can write the same script in AppleScript and JavaScript. And the AppleScript one will work           |
-| 01:16:08   | consistently. And the JavaScript one will just sometimes randomly stop or miss something or not          |
+| 01:15:54   | for. But somehow, it just does not have all the same event hooks as [[AppleScript]], which means that        |
+| 01:16:02   | you can write the same script in [[AppleScript]] and [[JavaScript]]. And the [[AppleScript]] one will work           |
+| 01:16:08   | consistently. And the [[JavaScript]] one will just sometimes randomly stop or miss something or not          |
 | 01:16:14   | be triggered or not do something that you would expect. And I don't know why that is. I've talked        |
 | 01:16:19   | to a number of different people. And essentially, the running theory appears to be that it didn't        |
 | 01:16:24   | quite get hooked up in all the same places. And so therefore, it sometimes just doesn't work,            |
-| 01:16:30   | which is a real shame. So I am using AppleScript for anything very specifically Mac. But where I'm       |
+| 01:16:30   | which is a real shame. So I am using [[AppleScript]] for anything very specifically Mac. But where I'm       |
 | 01:16:38   | doing something that will be multi-platform, where I want it on my iPhone as well, I will go             |
-| 01:16:43   | with JavaScript because I can write JavaScript and use it in [[Drafts]]. I can use it in [[Obsidian]].           |
+| 01:16:43   | with [[JavaScript]] because I can write [[JavaScript]] and use it in [[Drafts]]. I can use it in [[Obsidian]].           |
 | 01:16:47   | I can use it in Scriptable. I could use it in the browser. And I can use it on my Mac or my iPhone       |
 | 01:16:52   | or my iPad, which means that it works anywhere, which is really, really nice. Because the last           |
 | 01:16:59   | thing I want is to sit down and go, oh, yeah, I wanted to do this. Oh, now I need my Mac. Right.         |
-| 01:17:06   | Yeah. No, that's not happening. I feel like I'm doing more AppleScript than I have in a while            |
-| 01:17:11   | because of the Apple Silicon Macs. And they have an all day battery. And like all of a sudden, I'm       |
-| 01:17:18   | doing less work on the iPad. So I don't mind having Mac only automation. And AppleScript for Mac is      |
+| 01:17:06   | Yeah. No, that's not happening. I feel like I'm doing more [[AppleScript]] than I have in a while            |
+| 01:17:11   | because of the [[Apple Silicon]] Macs. And they have an all day battery. And like all of a sudden, I'm       |
+| 01:17:18   | doing less work on the iPad. So I don't mind having Mac only automation. And [[AppleScript]] for Mac is      |
 | 01:17:25   | so good. I mean, there's so many apps that are really hooked into it. So you can do a lot of cool        |
-| 01:17:30   | stuff with AppleScript. But I don't know that that's the long term play. What do you think is the        |
-| 01:17:36   | long term play from Apple? I mean, so clearly Shortcuts, they've said is the future and they're          |
-| 01:17:42   | going to try and do more shortcut stuff. But are they going to have an AppleScript like language         |
+| 01:17:30   | stuff with [[AppleScript]]. But I don't know that that's the long term play. What do you think is the        |
+| 01:17:36   | long term play from [[Apple]]? I mean, so clearly [[Shortcuts]], they've said is the future and they're          |
+| 01:17:42   | going to try and do more shortcut stuff. But are they going to have an [[AppleScript]] like language         |
 | 01:17:49   | that goes across all their platforms? I mean, I've heard people speculate that they think [[SwiftUI]]       |
 | 01:17:55   | is going to have an automation version that that's the plan. But I don't know. I mean, what do you       |
 | 01:18:01   | think? I mean, [[Swift]] is an automation language, definitely would have a lot of advantages.               |
-| 01:18:07   | It's already on all of Apple's platforms. [[SwiftUI]], the framework, is not necessarily the right          |
+| 01:18:07   | It's already on all of [[Apple\|Apple's]] platforms. [[SwiftUI]], the framework, is not necessarily the right          |
 | 01:18:15   | thing. I misspoke there. I'm sorry, [[Swift]], not [[SwiftUI]], yes. Yeah. And [[Swift]] has got a lot of           |
 | 01:18:20   | advantages to it. It is perhaps a bit trickier for people who are familiar with some other programming   |
 | 01:18:29   | languages, but are not necessarily developers, because there are some certain things that are            |
-| 01:18:33   | flipped. So for example, in JavaScript, if you create a variable and you want it to be a constant        |
+| 01:18:33   | flipped. So for example, in [[JavaScript]], if you create a variable and you want it to be a constant        |
 | 01:18:41   | variable, you create it with the name const. And if you want something that's flexible, you use let.     |
 | 01:18:46   | If you use the word let in [[Swift]], that is a constant. And so just things like that will trip             |
 | 01:18:51   | up people who are a bit newer to language, which is a bit of a shame, perhaps, but also, you know,       |
 | 01:18:56   | there's reasons behind why they've created [[Swift]], the way they've created it. And it's an                |
-| 01:19:01   | incredibly powerful language. So it would be lovely. But I feel like maybe because JavaScript            |
+| 01:19:01   | incredibly powerful language. So it would be lovely. But I feel like maybe because [[JavaScript]]            |
 | 01:19:08   | was already on every device as something that, for example, agile torches could just bundle              |
 | 01:19:14   | into [[Drafts]] and expose to people. And it's used in [[Obsidian]] and other things. It's                       |
 | 01:19:22   | perhaps accidentally gained a lot of momentum as an automation language.                                 |
-| 01:19:29   | And I feel like Apple would probably be missing out on something quite amazing if they                   |
+| 01:19:29   | And I feel like [[Apple]] would probably be missing out on something quite amazing if they                   |
 | 01:19:36   | bucked the trend and said, no, no, no, no, no, no, like [[Swift]] is the future. [[Swift]] is the future         |
 | 01:19:40   | here. They can do that when it comes to development, because the developers don't really have a choice.  |
-| 01:19:46   | If they want to develop for Apple platforms, then it's objective to see or [[Swift]]. But when it comes      |
+| 01:19:46   | If they want to develop for [[Apple]] platforms, then it's objective to see or [[Swift]]. But when it comes      |
 | 01:19:53   | to automation languages, you know, the Omni Group have spent a lot of time creating Omni                 |
 | 01:19:59   | Automation with [[Sal Soghoian]] for all of their apps, agile torches has got everything. You know,           |
 | 01:20:05   | [[Simon Støvring]] created Scriptable, created Scriptable, which essentially bridges a ton of [[Swift]]          |
-| 01:20:11   | into JavaScript. You know, Apple could do that. They could say, no, no, no, it's [[Swift]] from now          |
-| 01:20:18   | on out. And I'm sure it would do fine. But I think it would end up being more like Apple                 |
-| 01:20:25   | Script in the sense that it's considered a relatively niche, odd thing. The significant                  |
+| 01:20:11   | into [[JavaScript]]. You know, [[Apple]] could do that. They could say, no, no, no, it's [[Swift]] from now          |
+| 01:20:18   | on out. And I'm sure it would do fine. But I think it would end up being more like [[AppleScript]]                 |
+| 01:20:25   | in the sense that it's considered a relatively niche, odd thing. The significant[[                  ]]|
 | 01:20:34   | advantage for it would be that developers would be able to create a whole bunch of automations to        |
 | 01:20:38   | help them as part of their development process, because they're already writing [[Swift]]. But               |
 | 01:20:45   | I don't know. I feel like if they're going to do something, they should probably go with                 |
-| 01:20:48   | JavaScript, because it's just the one that's there. I mean, they added the action. This was              |
-| 01:20:54   | what I was 13 of run JavaScript on [[Safari]] page, where you can run essentially a bookmarklet              |
+| 01:20:48   | [[JavaScript]], because it's just the one that's there. I mean, they added the action. This was              |
+| 01:20:54   | what I was 13 of run [[JavaScript]] on [[Safari]] page, where you can run essentially a bookmarklet              |
 | 01:21:00   | on the [[Safari]] web page through shortcuts and then get that information back.                             |
-| 01:21:11   | There's the option when they added shortcuts to the Mac, they added a run JavaScript for Mac             |
-| 01:21:18   | automation, along with the run AppleScript automation. I have a feeling AppleScript is                 |
+| 01:21:11   | There's the option when they added shortcuts to the Mac, they added a run [[JavaScript]] for Mac             |
+| 01:21:18   | automation, along with the run [[AppleScript]] automation. I have a feeling [[AppleScript]] is                 |
 | 01:21:22   | probably not going anywhere. But I hope maybe that somebody goes in and has a poke around with           |
-| 01:21:29   | JavaScript for Mac and tries to find some of that weirdness that I've been experiencing.                 |
+| 01:21:29   | [[JavaScript]] for Mac and tries to find some of that weirdness that I've been experiencing.                 |
 | 01:21:34   | And I know a lot of other people have as well. I do think that it's probably more work to take           |
-| 01:21:38   | AppleScript out than to just leave it in. So that's probably what they're going to do.                  |
-| 01:21:43   | But I hope you're right on JavaScript. I would like to see a unified scripting language across           |
-| 01:21:48   | all Apple platforms. And I feel like they must have a plan for it. I would hope. And it seems            |
+| 01:21:38   | [[AppleScript]] out than to just leave it in. So that's probably what they're going to do.                  |
+| 01:21:43   | But I hope you're right on [[JavaScript]]. I would like to see a unified scripting language across           |
+| 01:21:48   | all [[Apple]] platforms. And I feel like they must have a plan for it. I would hope. And it seems            |
 | 01:21:55   | like they hinted at it last year in [[WWDC]] when they talked about how the shortcuts on the Mac             |
 | 01:22:02   | is just the beginning. And my fingers are crossed and I'm really hoping that they have got a good        |
 | 01:22:09   | answer for that. Yes. So do I. And I do hope that maybe we end up with all the options. Maybe they       |
-| 01:22:18   | go in and they fix JavaScript and add [[Swift]] at the same time. Because that would be pretty amazing.      |
+| 01:22:18   | go in and they fix [[JavaScript]] and add [[Swift]] at the same time. Because that would be pretty amazing.      |
 | 01:22:25   | And I have to say, you know, if people ask me, you know, which automation language should I              |
-| 01:22:30   | learn, I usually recommend JavaScript just because it opens up so many more options in so many more      |
-| 01:22:36   | apps than AppleScript does. I mean, AppleScript is great assuming that you're on the Mac.              |
+| 01:22:30   | learn, I usually recommend [[JavaScript]] just because it opens up so many more options in so many more      |
+| 01:22:36   | apps than [[AppleScript]] does. I mean, [[AppleScript]] is great assuming that you're on the Mac.              |
 | 01:22:41   | But our lives are becoming more and more mobile. We're working from home. And, you know, sometimes       |
 | 01:22:48   | that does involve working from the sofa or the breakfast bar or wherever ends up being convenient        |
 | 01:22:53   | because, you know, unexpected work on your house or guests or something and you just need to get         |
@@ -1022,7 +1022,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:23:16   | not a laptop if they don't feel like they need a laptop 99% of the time, but they would quite            |
 | 01:23:21   | like an iPad. So they should be able to do their work on it. And I think adding [[Swift]] as a scripting     |
 | 01:23:26   | language on iOS is much less likely than opening up shortcuts some more and giving people some           |
-| 01:23:33   | extra JavaScript that they can run with it. This episode of Automators is brought to you by              |
+| 01:23:33   | extra [[JavaScript]] that they can run with it. This episode of Automators is brought to you by              |
 | 01:23:39   | Hover, one of Relay FM's longest running sponsors. When you have that one big idea,                     |
 | 01:23:43   | where do you go? Well, your business starts with a domain name. And so for many entrepreneurs,           |
 | 01:23:48   | Hover is that big leap. Hover has over 300 domain extensions to choose from. No matter what you          |
@@ -1082,10 +1082,10 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:28:57   | because, well, magic just happens and projects appear in OmniFocus or documents appear in                |
 | 01:29:05   | Finder or DEVONthink or wherever they need to be and I'm not thinking about it, which is really          |
 | 01:29:10   | the magic. So I'm just opening [[Make]] right now to just double check because I know I've got a lot         |
-| 01:29:15   | of different things in here, which help me keep track of things. One I've recently done is Amazon        |
-| 01:29:23   | Returns. If I return something to Amazon, this doesn't happen very often. I try to be smart              |
+| 01:29:15   | of different things in here, which help me keep track of things. One I've recently done is [[Amazon]]        |
+| 01:29:23   | Returns. If I return something to [[Amazon]], this doesn't happen very often. I try to be smart              |
 | 01:29:28   | when I buy something, so I'm not constantly doing returns. It's not great for the environment or         |
-| 01:29:33   | anything else, but whenever I do an Amazon return, it grabs that email, that email gets forwarded        |
+| 01:29:33   | anything else, but whenever I do an [[Amazon]] return, it grabs that email, that email gets forwarded        |
 | 01:29:40   | to it. I use FastMail's rules to forward that to a [[Mailhook\|mailhook]] at [[Make]] and it grabs a bunch of              |
 | 01:29:46   | information out of it and adds that as a task or actually a project in [[OmniFocus]]. So I end up with       |
 | 01:29:55   | an auto-completing project which will complete with the last item and then inside of it,                 |
@@ -1218,7 +1218,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:41:51   | Yeah. No, I do like the little touches of Elgato stuff. I feel like I'm becoming like                    |
 | 01:41:57   | an Elgato fanboy, but they just, they really do good stuff. I heard from a Mac Power users               |
 | 01:42:02   | listener that said Elgato was formed by, I think it was the people that did, I want to say the logic.    |
-| 01:42:10   | And then they got into hardware and they've got some former Apple people there.                          |
+| 01:42:10   | And then they got into hardware and they've got some former [[Apple]] people there.                          |
 | 01:42:14   | Whatever's going on over there. I'm a fan. I mean, like, like I've got their [[XLR]] box now.                |
 | 01:42:19   | I've got their mic stand and man, it's just all good quality stuff that you don't regret buying          |
 | 01:42:25   | like so much of the stuff these days. All right. Well, that's it. We are the Automators Podcast.         |

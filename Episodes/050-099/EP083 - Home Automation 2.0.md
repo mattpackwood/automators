@@ -138,7 +138,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 03:11      | And that's something I have been struggling with a little bit with some of the things because     |
 | 03:16      | you know, there's a lot of great home automation stuff out there that's not home kit compatible.  |
 | 03:22      | And there's good reasons for this.                                                                |
-| 03:23      | You know, there are extra hoops to jump through for Apple and so on.                              |
+| 03:23      | You know, there are extra hoops to jump through for [[Apple]] and so on.                              |
 | 03:27      | But this does appear in [[Home Assistant]].                                                           |
 | 03:30      | So I've only got one of these so far because I am playing with it still and trying to make        |
 | 03:34      | sure that it works as I wanted to, but it appears that I can connect it to [[Home Assistant]]         |
@@ -183,8 +183,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 05:44      | Our plugs are some of the safest in the world.                                                    |
 | 05:46      | They're also the most painful to step on, but that's another problem for another time.            |
 | 05:51      | I did some digging around and I tried light wave.                                                 |
-| 05:55      | For people who aren't familiar with light waves, they're sold on the Apple store in               |
-| 05:58      | the UK and Europe, and you can buy them directly from Amazon or light wave, whoever.              |
+| 05:55      | For people who aren't familiar with light waves, they're sold on the [[Apple Store]] in               |
+| 05:58      | the UK and Europe, and you can buy them directly from [[Amazon]] or light wave, whoever.              |
 | 06:05      | They are light switches and also they do plug sockets that you can just put on the wall.          |
 | 06:12      | They are smart ones.                                                                              |
 | 06:14      | You press the up and it increases the light and you press it down and it decreases the            |
@@ -199,8 +199,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 06:49      | work if I need something from him.                                                                |
 | 06:53      | He came around and spent a couple of minutes messing with that and he said, this is going         |
 | 06:57      | to drive you insane because the light was flickering.                                             |
-| 07:01      | He uninstalled it for me and sent it back and I sent it back to Amazon and I did some             |
-| 07:08      | digging around and I found out Aqara, that's A-Q-A-R-A, have light switches which can be          |
+| 07:01      | He uninstalled it for me and sent it back and I sent it back to [[Amazon]] and I did some             |
+| 07:08      | digging around and I found out [[Aqara]], that's A-Q-A-R-A, have light switches which can be          |
 | 07:14      | compatible with European and UK sockets and they are on off switches.                             |
 | 07:22      | They're like the bouncing switches, if that makes sense, so you press it and the switch           |
 | 07:27      | immediately pops back up and that can turn on off automatically.                                  |
@@ -214,24 +214,24 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 07:57      | Way over 32.                                                                                      |
 | 07:59      | Okay, so would you get another hub or would you do?                                               |
 | 08:01      | So there is a couple of different ways around this.                                               |
-| 08:04      | I did actually get the new hub because I have the M1S hub.                                        |
-| 08:08      | There's also the camera, the G2H camera that you can pair 64 devices with.                        |
+| 08:04      | I did actually get the new hub because I have the [[Aqara Hub#M1S (Gen 1)\|M1S hub]].                                        |
+| 08:08      | There's also the camera, the [[Aqara Hub#G2H Pro\|G2H camera]] that you can pair 64 devices with.                        |
 | 08:13      | Well, I already have cameras so I didn't really want or need a camera but they now have the       |
-| 08:18      | M2 hub and actually Aqara on the Apple Store in the UK and much of Europe, not all of Europe.     |
+| 08:18      | [[Aqara Hub#M2\|M2 hub]] and actually [[Aqara]] on the [[Apple Store]] in the UK and much of Europe, not all of Europe.     |
 | 08:25      | For some reason, for example, not available in Portugal, not sure why, but they are on            |
-| 08:30      | the Spanish Apple Store.                                                                          |
-| 08:32      | But they're also now much more widely available on Amazon, which eliminates the problem of        |
-| 08:36      | if I order an M2 hub from China, is it going to be a Chinese hub or a European hub?               |
+| 08:30      | the Spanish [[Apple Store]].                                                                          |
+| 08:32      | But they're also now much more widely available on [[Amazon]], which eliminates the problem of        |
+| 08:36      | if I order an [[Aqara Hub#M2\|M2 hub]] from China, is it going to be a Chinese hub or a European hub?               |
 | 08:41      | Because they connect to different servers.                                                        |
-| 08:43      | So I ordered the M2 hub and that arrived and I'm slowly migrating all of my devices               |
+| 08:43      | So I ordered the [[Aqara Hub#M2\|M2 hub]] and that arrived and I'm slowly migrating all of my devices               |
 | 08:48      | over to that hub, which is much better because it's also micro-USB powered.                       |
-| 08:57      | So in the meantime, I had a $7 Zigbee stick, which I plugged into [[Home Assistant]] and I'm            |
-| 09:04      | using [[Home Assistant]] kind of like a Zigbee hub, like you can use it the same as a Hue hub           |
+| 08:57      | So in the meantime, I had a $7 [[Zigbee]] stick, which I plugged into [[Home Assistant]] and I'm            |
+| 09:04      | using [[Home Assistant]] kind of like a [[Zigbee]] hub, like you can use it the same as a Hue hub           |
 | 09:09      | or an IKEA hub and so I set that up and gave that a whirl and I was impressed.                    |
 | 09:15      | It works incredibly quickly.                                                                      |
-| 09:17      | I walk into my kitchen, my Aqara motion sensor, which is connected to the Aqara hub, detects      |
+| 09:17      | I walk into my kitchen, my [[Aqara Motion Sensor]], which is connected to the [[Aqara Hub]], detects      |
 | 09:23      | motion and the light turns on.                                                                    |
-| 09:25      | So that's all kinds of magic running incredibly quickly because the SwitchBot solution I had,     |
+| 09:25      | So that's all kinds of magic running incredibly quickly because the [[SwitchBot]] solution I had,     |
 | 09:31      | it worked really well, it was just slow.                                                          |
 | 09:34      | You walk into the kitchen and you'd have a glass that was half full of water before the           |
 | 09:39      | light turned on and that just wasn't good because then you end up turning the light on yourself.  |
@@ -240,13 +240,13 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 09:53      | switch or I should turn on the light.                                                             |
 | 09:55      | The light's already on by the time your thought process is going, it's dark.                      |
 | 10:00      | So I've solved that problem and I'm very happy with it.                                           |
-| 10:03      | And just for the listeners in the US, Aqara is fully available in the US Amazon store.            |
+| 10:03      | And just for the listeners in the US, Aqara is fully available in the US [[Amazon]] store.            |
 | 10:09      | M2 hub is $50.                                                                                    |
 | 10:11      | A lot of their hardware is in the $20 price range.                                                |
 | 10:15      | An indoor air quality monitor is only $45.                                                        |
 | 10:18      | I've never seen one that cheap.                                                                   |
 | 10:21      | No, their stuff is incredibly cheap.                                                              |
-| 10:24      | The only thing I would say is don't buy the sensors from Amazon or Apple because they             |
+| 10:24      | The only thing I would say is don't buy the sensors from [[Amazon]] or [[Apple]] because they             |
 | 10:30      | are so expensive.                                                                                 |
 | 10:31      | They are about half of the price on Aliexpress and the sensors are exactly the same wherever      |
 | 10:36      | you buy them from.                                                                                |
@@ -310,36 +310,36 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 13:58      | this way.                                                                                         |
 | 13:59      | I don't know.                                                                                     |
 | 14:00      | I feel like that's like not impossible for Rosemary Orchard to have something like that.          |
-| 14:04      | I mean, actually I looked at the SwitchBot because I thought the SwitchBot can do, so             |
-| 14:09      | the SwitchBot for people who don't know, it's a little robot that you stick on a surface          |
+| 14:04      | I mean, actually I looked at the [[SwitchBot Bot\|SwitchBot]] because I thought the [[SwitchBot Bot\|SwitchBot]] can do, so             |
+| 14:09      | the [[SwitchBot Bot\|SwitchBot]] for people who don't know, it's a little robot that you stick on a surface          |
 | 14:14      | and it's got an arm that can come out and press something, but it can also turn things            |
 | 14:18      | off by pulling.                                                                                   |
 | 14:21      | And I thought maybe if I set it up and so I threaded some like fishing line or floss              |
-| 14:27      | or something through the cord that is on this light and had the SwitchBot pull rather than        |
+| 14:27      | or something through the cord that is on this light and had the [[SwitchBot Bot\|SwitchBot]] pull rather than        |
 | 14:39      | push, that could work.                                                                            |
 | 14:42      | And then I decided that that really feels very janky and I did some basic experiments             |
 | 14:48      | and I don't think it would pull with enough force to actually succeed.                            |
 | 14:53      | Yeah.                                                                                             |
 | 14:54      | The tension on a pole switch is actually pretty high.                                             |
-| 14:56      | So all it would probably do is cause your SwitchBot to lift off the counter and then              |
+| 14:56      | So all it would probably do is cause your [[SwitchBot Bot\|SwitchBot]] to lift off the counter and then              |
 | 15:00      | float back down.                                                                                  |
 | 15:02      | Exactly.                                                                                          |
 | 15:03      | Yeah.                                                                                             |
 | 15:04      | Yeah.                                                                                             |
 | 15:05      | Well, anyway, so wall switches, I'm glad you found a solution.                                    |
-| 15:08      | And we talked about this and that power users years ago, but I discovered the Lutron Casetaa     |
+| 15:08      | And we talked about this and that power users years ago, but I discovered the [[Lutron]] Caseta     |
 | 15:13      | system and I have never looked back and it took me like a year to kind of get them where          |
 | 15:19      | I wanted in the house.                                                                            |
 | 15:20      | But at this point, all the lights in the house that I really want to control with automation,     |
-| 15:25      | including the bathroom lights are on a Lutron Casetaa and it's amazing because it solves         |
+| 15:25      | including the bathroom lights are on a [[Lutron]] Caseta and it's amazing because it solves         |
 | 15:30      | two problems.                                                                                     |
 | 15:31      | Number one is it is rock solid.                                                                   |
 | 15:34      | You push the button on your phone or whatever and the lights just go on a friend of mine,         |
 | 15:39      | Bob Spivack, who was a guest on MPU at one point and like does this commercially, was              |
 | 15:44      | telling me that they have their own bandwidth and I don't know what the whole story is behind     |
 | 15:48      | that.                                                                                             |
-| 15:49      | But whatever the radio signal for these Lutron Casetaas is a great.                              |
-| 15:53      | Zigbee.                                                                                           |
+| 15:49      | But whatever the radio signal for these [[Lutron]] Casetas is a great.                              |
+| 15:53      | [[Zigbee]].                                                                                           |
 | 15:54      | Yeah.                                                                                             |
 | 15:55      | You have to get your own base unit forward, but you buy that with the first switch and            |
 | 15:59      | then you're kind of in.                                                                           |
@@ -418,7 +418,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 20:21      | And so I did some digging around and I found that me, that's MI, and they're part of the          |
 | 20:27      | Xiaomi brand, make some light sensors, which are pretty small.                                    |
 | 20:30      | They're like an inch or so in diameter.                                                           |
-| 20:36      | And they pair directly with the Aqara hub and they appear in [[HomeKit]].                             |
+| 20:36      | And they pair directly with the [[Aqara Hub]] and they appear in [[HomeKit]].                             |
 | 20:39      | And so I got four of those and I've stuck one on the windowsill or the window frame               |
 | 20:43      | in every room, and that was it.                                                                   |
 | 20:47      | There's no extra work to it.                                                                      |
@@ -533,7 +533,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 26:55      | And also [[Controller for HomeKit]].                                                                  |
 | 26:58      | [[Controller for HomeKit]] has saved my bacon multiple times as I've gone through messing             |
 | 27:02      | with stuff.                                                                                       |
-| 27:04      | I accidentally reset my original Aqara hub at some point.                                         |
+| 27:04      | I accidentally reset my original [[Aqara Hub]] at some point.                                         |
 | 27:08      | And of course, it removed everything.                                                             |
 | 27:10      | Ouch.                                                                                             |
 | 27:11      | Yeah.                                                                                             |
@@ -542,7 +542,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 27:15      | Except while it did that, I'd made a backup earlier that day when playing with [[Controller for HomeKit]]        |
 | 27:21      | Yeah.                                                                                             |
 | 27:22      | And [[Controller for HomeKit]] has complete backups with automations, scenes, names, etc.             |
-| 27:27      | So I just had to pair the Aqara hub again, sync the names from the Aqara app into [[HomeKit]],        |
+| 27:27      | So I just had to pair the [[Aqara Hub]] again, sync the names from the Aqara app into [[HomeKit]],        |
 | 27:34      | which fortunately there's a button in the Aqara app settings to do that.                          |
 | 27:38      | And so it pushed all the names because I try to keep the names and sync between the apps          |
 | 27:42      | and because there's buttons for this, I do this regularly whenever I'm adding stuff from          |
@@ -572,7 +572,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 28:43      | You have an entry in the outline solar panels.                                                    |
 | 28:47      | I want to know what you're doing with solar panels.                                               |
 | 28:50      | Well, I've got a couple of things running on solar panels now.                                    |
-| 28:54      | All of my curtain openers, which are a SwitchBot curtain openers are now solar panel powered.     |
+| 28:54      | All of my curtain openers, which are [[SwitchBot Curtain Opener\|SwitchBot curtain openers]] are now solar panel powered.     |
 | 29:01      | And this, it won't charge them from flat to fully charged, but it will absolutely keep            |
 | 29:08      | them fully charged if they're charged up.                                                         |
 | 29:11      | And so I've got solar panels in the bedroom in the office.                                        |
@@ -582,8 +582,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 29:24      | So I've just hung them on the door frame.                                                         |
 | 29:28      | And so they're, they're just there.                                                               |
 | 29:29      | They're actually on the door itself.                                                              |
-| 29:31      | So when you open the door, I had to buy some USB-C extension cables, which are card don't         |
-| 29:35      | officially, sorry, which a SwitchBot don't officially support, but it works fine.                 |
+| 29:31      | So when you open the door, I had to buy some USB-C extension cables, which [[Aqara]] don't         |
+| 29:35      | officially, sorry, which err [[SwitchBot]] don't officially support, but it works fine.                 |
 | 29:40      | I have no problem with that.                                                                      |
 | 29:43      | So yeah, I've got solar powered stuff everywhere.                                                 |
 | 29:46      | And I recently got my parents some cameras and a solar panel for that as well for the             |
@@ -591,11 +591,11 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 29:55      | So but I see you also have solar.                                                                 |
 | 29:58      | Yeah.                                                                                             |
 | 29:59      | I think the similar thing, you know, I went just like you got into a car.                         |
-| 30:03      | I have kind of gone all in with the Eufy EUFY brand, particularly their camera systems.           |
+| 30:03      | I have kind of gone all in with the [[eufy]], E-U-F-Y brand, particularly their camera systems.           |
 | 30:11      | This is a subsidiary of Anchor, if you remember Anchor cables, and I've always kind of liked      |
 | 30:15      | and trusted the company.                                                                          |
 | 30:17      | And so I bought some of their, their camera stuff and maybe we'll talk about cameras later,       |
-| 30:22      | but one of the things I like about Eufy is that they store locally.                               |
+| 30:22      | but one of the things I like about [[eufy]] is that they store locally.                               |
 | 30:25      | So you don't have to pay them to store it and you don't have to worry about them securing         |
 | 30:29      | your camera footage.                                                                              |
 | 30:30      | You actually store it locally in twice.                                                           |
@@ -611,8 +611,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 31:09      | I lose track of that.                                                                             |
 | 31:11      | And then it's been up there for three weeks and the battery's been dead.                          |
 | 31:14      | And so I was going to hire an electrician and then I just got like a, you know, a marketing       |
-| 31:20      | email from eufy that said, Hey, you want to get the solar panel for your camera?                |
-| 31:24      | And I looked at that and it cost about, I'm looking at $60 on Amazon, which is not cheap,         |
+| 31:20      | email from [[eufy]] that said, Hey, you want to get the solar panel for your camera?                |
+| 31:24      | And I looked at that and it cost about, I'm looking at $60 on [[Amazon]], which is not cheap,         |
 | 31:31      | but it's, it's cheaper than an electrician.                                                       |
 | 31:33      | Yep.                                                                                              |
 | 31:34      | So I thought I'd give it a try and I put one up and it's amazing.                                 |
@@ -773,7 +773,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 39:21      | It pauses playback tools, speakers around the house, and it buzzes my intercom to let whoever     |
 | 39:26      | is at the door in.                                                                                |
 | 39:27      | Wow.                                                                                              |
-| 39:28      | So say, for example, Amazon had not already come today and I was sitting here podcasting          |
+| 39:28      | So say, for example, [[Amazon]] had not already come today and I was sitting here podcasting          |
 | 39:32      | with you and I could, and I heard them buzz at the door.                                          |
 | 39:35      | I could hit this button right here.                                                               |
 | 39:37      | And then that gives me a couple of extra seconds to say to you, hey, I need to be right back      |
@@ -824,7 +824,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 42:21      | a fountain.                                                                                       |
 | 42:22      | It turns on the fountain and so or the waterfall really, but the switches and all this stuff      |
 | 42:29      | is stuff I could have done with home kit, I can even attach it now to a [[Stream Deck]]               |
-| 42:34      | with a third party apple probably get into later.                                                 |
+| 42:34      | with a third party [[Apple]] probably get into later.                                                 |
 | 42:37      | But you know, but there's something nice about a physical switch that you can just touch          |
 | 42:41      | and it does it.                                                                                   |
 | 42:43      | I put another one in my bedside table and I stuck it to the inside of the drawer.                 |
@@ -876,7 +876,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 45:37      | to go.                                                                                            |
 | 45:38      | Yeah.                                                                                             |
 | 45:39      | The switches are really handy and I'm a big fan of, one other switch I have is I have             |
-| 45:45      | a Lutron Casetaa switch.                                                                         |
+| 45:45      | a [[Lutron]] Caseta switch.                                                                         |
 | 45:47      | Most of them are off on and dim, but they've also got one that's just off and on.                 |
 | 45:53      | And I installed that next to the door, the front door of the house.                               |
 | 45:58      | And if you press the top button, it lights up all of the lights in the house except the           |
@@ -955,7 +955,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 49:29      | so most of the time it lives on a little Qi charger in my hallway, and this is wonderful.         |
 | 49:34      | And I realised IKEA sell these symphonist buttons, so IKEA have a partnership with Sonos where    |
 | 49:40      | they actually will sell Sonos speakers, but they are an IKEA outer design, and they don't         |
-| 49:48      | have voice assistants built in, so the Google and Amazon voice assistant options aren't           |
+| 49:48      | have voice assistants built in, so the Google and [[Amazon]] voice assistant options aren't           |
 | 49:53      | there, so these ones don't have microphones, which is wonderful.                                  |
 | 49:55      | I have to say I've not set my Sonos Roam up with any voice assistant because its primary          |
 | 49:59      | usage is in my bathroom listening to me sing in the shower, and I don't really want that          |
@@ -1011,7 +1011,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 52:56      | They had low battery when I set them up.                                                          |
 | 52:59      | So the CR2032 batteries are cheap.                                                                |
 | 53:02      | They're easy to get.                                                                              |
-| 53:03      | I've gotten Amazon subscribers save for them, so they just arrive and they go and draw and        |
+| 53:03      | I've gotten [[Amazon]] subscribers save for them, so they just arrive and they go and draw and        |
 | 53:08      | then get used up because so many things are using these batteries in my house now.                |
 | 53:13      | But yeah, so I got this symphonist speaker art frame, which is great because I keep the           |
 | 53:21      | room in the hallway most of the time, but frequently it's in the bathroom when I'm going          |
@@ -1024,7 +1024,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 53:42      | So earlier today, when my boss called me at work, I just reached out and pressed Paul's,          |
 | 53:47      | put on my AirPods Max and spoke to him.                                                           |
 | 53:50      | And that was it.                                                                                  |
-| 53:51      | And there were no dramatics, there was no, the Apple Assistant has misunderstood me.              |
+| 53:51      | And there were no dramatics, there was no, the [[Apple]] Assistant has misunderstood me.              |
 | 53:57      | No, I don't want to know what the price of jam in Italy is today.                                 |
 | 54:02      | I would like to pause my music or whatever weird thing it interprets what you're saying           |
 | 54:06      | is.                                                                                               |
@@ -1047,7 +1047,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 54:58      | many sales on these HomePods.                                                                    |
 | 55:00      | So at this point, I've got, I don't even know how many, I have four of them now.                  |
 | 55:06      | And my daughter has a mini in her room.                                                           |
-| 55:09      | So we've got like a kind of a HomePod network and the nice thing because I use Apple hardware,   |
+| 55:09      | So we've got like a kind of a HomePod network and the nice thing because I use [[Apple]] hardware,   |
 | 55:14      | everything just kind of works together and I don't need one in the shower.                        |
 | 55:19      | The way our shower, the room that has like the shower in the sink is, doesn't have a              |
 | 55:23      | door and it's connected to our bedroom.                                                           |
@@ -1099,7 +1099,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 58:08      | like what's happened in the hallway and so on.                                                    |
 | 58:12      | So at this time, the ring people camera had not been discontinued.                                |
 | 58:17      | This was the one where you can take out the spyhole on your door or replace it with a             |
-| 58:20      | ring doorbell camera.                                                                             |
+| 58:20      | [[Ring Doorbell\|Ring Doorbell camera]].                                                                             |
 | 58:23      | So I got one of those.                                                                            |
 | 58:25      | And it means that you don't need to drill anything.                                               |
 | 58:28      | And I set it up and I set it up through Homebridge so it's in my home kit set up.                 |
@@ -1115,16 +1115,16 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 59:08      | It wouldn't get me in trouble, but it might get me a sternly worded letter.                       |
 | 59:12      | So I decided against that.                                                                        |
 | 59:14      | My parents on the other hand wanted a smart doorbell and were telling me, oh, we want             |
-| 59:17      | to get this ring doorbell.                                                                        |
+| 59:17      | to get this [[Ring Doorbell]].                                                                        |
 | 59:19      | But I know my parents, they will complain about having to pay for the subscription,               |
 | 59:23      | but then they will complain about not having the later playback features.                         |
 | 59:28      | So fortunately, this was at the same time as they were looking at an outdoor camera.              |
-| 59:32      | I just bought them a eufy set and set it up and I'm quite pleased with that.                    |
-| 59:36      | And I'm guessing that you've also managed to get a eufy doorbell.                               |
+| 59:32      | I just bought them a [[eufy]] set and set it up and I'm quite pleased with that.                    |
+| 59:36      | And I'm guessing that you've also managed to get a [[eufy]] doorbell.                               |
 | 59:39      | Yeah.                                                                                             |
-| 59:40      | I want to hear about your experience with eufy because I don't know many other people           |
+| 59:40      | I want to hear about your experience with [[eufy]] because I don't know many other people           |
 | 59:44      | that use it other than me.                                                                        |
-| 59:46      | And I, like I said, when they first kind of came on the scene, I knew they were an Anker         |
+| 59:46      | And I, like I said, when they first kind of came on the scene, I knew they were an [[Anker]]         |
 | 59:50      | subsidiary, so I'm like, okay, those are good guys.                                               |
 | 59:53      | And I like that when you get it, like the doorbell comes with a little unit that you              |
 | 59:58      | plug into your, you know, to your switch, you know, it's another thing you plug into              |
@@ -1132,14 +1132,14 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:00:05   | But it's got onboard storage.                                                                     |
 | 01:00:06   | I wish that you could like put a memory stick in it because it's, I think it's...                 |
 | 01:00:11   | Yeah.                                                                                             |
-| 01:00:12   | So there's two different eufy doorbells.                                                        |
+| 01:00:12   | So there's two different [[eufy]] doorbells.                                                        |
 | 01:00:13   | I'm guessing you've got the 2K one, which is the one my parents also have.                        |
 | 01:00:16   | And it comes with a base station, which looks kind of like an airport extreme or time capsule     |
 | 01:00:21   | did.                                                                                              |
 | 01:00:22   | That's what I know.                                                                               |
-| 01:00:23   | From Apple.                                                                                       |
+| 01:00:23   | From [[Apple]].                                                                                       |
 | 01:00:24   | And that's limited 16 gigabytes of storage.                                                       |
-| 01:00:25   | Eeronically, if you've got the 1080p camera, it would have come with a different door chime        |
+| 01:00:25   | Ironically, if you've got the 1080p camera, it would have come with a different door chime        |
 | 01:00:33   | plug-in with antenna on it.                                                                       |
 | 01:00:35   | And that can take a microSD card.                                                                 |
 | 01:00:37   | So you could have put any size microSD card in there and you'd have been fine.                    |
@@ -1149,7 +1149,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:00:48   | And so I put it in and this has been like a year now that it's been in, put it in when            |
 | 01:00:55   | COVID was kind of getting started.                                                                |
 | 01:00:57   | And it's been great because we did get more, you know, deliveries during this time, obviously     |
-| 01:01:01   | we couldn't go out and it, you know, you've got to use the eufy app.                            |
+| 01:01:01   | we couldn't go out and it, you know, you've got to use the [[eufy]] app.                            |
 | 01:01:06   | And when I first bought it, there were all these forum messages about saying home kit             |
 | 01:01:09   | integration is coming in and at the same time they had already upgraded some of their existing    |
 | 01:01:14   | cameras to home kit integration.                                                                  |
@@ -1158,10 +1158,10 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:01:22   | And I just assumed it was a question of months and of course now it's been a year and it          |
 | 01:01:25   | still doesn't have home kit integration.                                                          |
 | 01:01:28   | I don't know if it ever will.                                                                     |
-| 01:01:29   | No, but it does have a Homebridge plug-in.                                                       |
+| 01:01:29   | No, but it does have a [[Homebridge]] plug-in.                                                       |
 | 01:01:32   | All right.                                                                                        |
 | 01:01:33   | Well, I want to get to that.                                                                      |
-| 01:01:34   | We're going to talk about Homebridge later because I want to talk about that.                    |
+| 01:01:34   | We're going to talk about [[Homebridge]] later because I want to talk about that.                    |
 | 01:01:37   | Yeah, because this is something I'm looking at setting up for my parents.                         |
 | 01:01:40   | For some reason, I've been struggling to get that outdoor camera into home kit even though        |
 | 01:01:43   | their outdoor camera is most definitely home kit compatible.                                      |
@@ -1231,17 +1231,17 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:04:54   | So I was able to see exactly where the fires were.                                                |
 | 01:04:57   | I was able to look out my windows the whole time we were evacuated and that was really            |
 | 01:05:01   | handy.                                                                                            |
-| 01:05:02   | And so there's a lot to like about the eufys and they're not expensive.                            |
+| 01:05:02   | And so there's a lot to like about the [[eufy\|eufys]] and they're not expensive.                            |
 | 01:05:06   | I mean, the cameras, if you get them on sale or they're, I think even like the fancy ones         |
 | 01:05:12   | with the motors are under $50 and you shouldn't buy those because you can't control those         |
 | 01:05:16   | motors from home kits.                                                                            |
-| 01:05:17   | No, you can't, but you can control them in the eufys security app.                                 |
+| 01:05:17   | No, you can't, but you can control them in the [[eufy]] security app.                                 |
 | 01:05:20   | And actually I'm a big fan of those.                                                              |
 | 01:05:21   | I've got some running around.                                                                     |
-| 01:05:22   | I have one in the kitchen when I was fostering Smudge the Adorable Kitty, who I'm pleased         |
+| 01:05:22   | I have one in the kitchen when I was fostering Smudge the adorable kitty, who I'm pleased         |
 | 01:05:26   | to say is doing very well in her new home for anybody who's wondering.                            |
 | 01:05:30   | She's apparently ruling the roost.                                                                |
-| 01:05:32   | But it was, it's really good because in the eufy app, you can rotate it.                           |
+| 01:05:32   | But it was, it's really good because in the [[eufy]] app, you can rotate it.                           |
 | 01:05:36   | So I'm actually going to be taking a little bit of a break.                                       |
 | 01:05:38   | I'm going on holiday, precise location to be determined, depending on, you know, restrictions,    |
 | 01:05:44   | problems with the world, et cetera.                                                               |
@@ -1251,7 +1251,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:05:59   | I will actually be able to rotate it to point into the room as well.                              |
 | 01:06:02   | So I can just check everything's okay, which is really nice.                                      |
 | 01:06:08   | And those cameras do connect to home kit.                                                         |
-| 01:06:11   | And once Apple gets this home kit, you know, multiple camera, like right now you get five,        |
+| 01:06:11   | And once [[Apple]] gets this home kit, you know, multiple camera, like right now you get five,        |
 | 01:06:16   | but you know, for a couple hundred bucks, you could put five of these things all over             |
 | 01:06:20   | your house when you're gone, you could have a ton of coverage outside or inside.                  |
 | 01:06:25   | And they're also so cheap.                                                                        |
@@ -1262,7 +1262,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:06:39   | of the episode, because I know some people would like to have their cameras on, for example,      |
 | 01:06:45   | when they're asleep, but they don't want them on during the day when they're at home.             |
 | 01:06:50   | And so the way to do that with a camera is to kill the power to it.                               |
-| 01:06:55   | Because Apple doesn't have an option for off when I'm awake, but on when I'm asleep.              |
+| 01:06:55   | Because [[Apple]] doesn't have an option for off when I'm awake, but on when I'm asleep.              |
 | 01:07:00   | It's either it's on when you're at home or it's off when you're at home, full stop.               |
 | 01:07:04   | And so I am also considering toying with the Sonoff USB smart adapters to turn the cameras        |
 | 01:07:10   | off, you know, when I'm at home in rooms doing stuff.                                             |
@@ -1302,10 +1302,10 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:08:57   | which maybe we should go into in the future.                                                      |
 | 01:08:59   | It's nice to be able to check in and see in high resolution how things are doing and so           |
 | 01:09:03   | on.                                                                                               |
-| 01:09:04   | And the other thing we've not mentioned about the eufye indoor cameras is you can stick a          |
+| 01:09:04   | And the other thing we've not mentioned about the [[eufy]] indoor cameras is you can stick a          |
 | 01:09:07   | microSD card in the camera.                                                                       |
 | 01:09:09   | Yes.                                                                                              |
-| 01:09:10   | Because the eufye indoor cameras are Wi-Fi.                                                        |
+| 01:09:10   | Because the [[eufy]] indoor cameras are Wi-Fi.                                                        |
 | 01:09:11   | They do not connect to a base station, but you can stick a microSD card in it so it's             |
 | 01:09:15   | got on-device storage if you want to.                                                             |
 | 01:09:18   | You don't have to, but you can.                                                                   |
@@ -1391,7 +1391,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:13:37   | And I have to say, I have noticed my eyes and, in general, sinuses feeling a lot better           |
 | 01:13:42   | since I installed air purifiers everywhere.                                                       |
 | 01:13:44   | Yeah, when COVID started, I got the one recommended by Wirecutter.                                |
-| 01:13:50   | It's the Coway COWAY air purifier, I'll put an Amazon link in.                                    |
+| 01:13:50   | It's the Coway COWAY air purifier, I'll put an [[Amazon]] link in.                                    |
 | 01:13:55   | It has no automation tools built in.                                                              |
 | 01:13:58   | I mean, it doesn't connect to anything, except it does have an auto button on it, and it          |
 | 01:14:03   | has a sensor.                                                                                     |
@@ -1490,7 +1490,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:18:25   | Yeah.                                                                                             |
 | 01:18:26   | You fill the head with water.                                                                     |
 | 01:18:27   | You stick cleaning cloth on there.                                                                |
-| 01:18:28   | You put some third-party cleaning cloth on Amazon to bulk it out so that I've got plenty          |
+| 01:18:28   | You put some third-party cleaning cloth on [[Amazon]] to bulk it out so that I've got plenty          |
 | 01:18:32   | to get me through the week.                                                                       |
 | 01:18:33   | You put it down and you press the button.                                                         |
 | 01:18:35   | It can do dry mopping and wet mopping.                                                            |
@@ -1544,9 +1544,9 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:21:01   | rounded microfiber.                                                                               |
 | 01:21:04   | And the blue cloths go on the wet head.                                                           |
 | 01:21:07   | And then I just check them all in with the other microfiber stuff that I do laundry with.         |
-| 01:21:12   | And just for clarification, US Amazon store, that's $179, so it's not that bad.                   |
+| 01:21:12   | And just for clarification, US [[Amazon]] store, that's $179, so it's not that bad.                   |
 | 01:21:18   | I mean, I have the robot vac, I have an iRobot as well.                                           |
-| 01:21:23   | It's the one, I got it on one of these Amazon sales, I think it might be the prior model,         |
+| 01:21:23   | It's the one, I got it on one of these [[Amazon]] sales, I think it might be the prior model,         |
 | 01:21:27   | but it's the one that has the little housing that it plugs into and cleans itself out.            |
 | 01:21:34   | And it is a spinning vacuum, but I use it on a hardwood floor and it actually picks               |
 | 01:21:40   | up a lot.                                                                                         |
@@ -1615,10 +1615,10 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:24:39   | The best way to do it is to run it as an operating system, either in something called a Docker    |
 | 01:24:42   | container, which is basically like a container with everything in it.                             |
 | 01:24:46   | Or in my case, I bought a Raspberry Pi.                                                           |
-| 01:24:49   | I bought a blue case for it because [[Home Assistant]]'s icon is blue.                                |
+| 01:24:49   | I bought a blue case for it because [[Home Assistant\|Home Assistant's]] icon is blue.                                |
 | 01:24:54   | And that is my [[Home Assistant]] setup, and it's just running on that.                               |
-| 01:24:59   | And I actually went as far as to get a Zigbee dongle and a Z-Wave dongle, which means it's        |
-| 01:25:05   | like a Hue or an Aqara or an IKEA hub.                                                            |
+| 01:24:59   | And I actually went as far as to get a [[Zigbee]] dongle and a Z-Wave dongle, which means it's        |
+| 01:25:05   | like a Hue or an [[Aqara]] or an IKEA hub.                                                            |
 | 01:25:09   | And Z-Wave is the same thing, but for my Yale locks, which we'll get to in a little bit.          |
 | 01:25:14   | But it can, so it can both read stuff in from [[HomeKit]] and it can also share stuff out to          |
 | 01:25:19   | [[HomeKit]].                                                                                          |
@@ -1643,7 +1643,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:26:39   | And that combined together is now a thermostat.                                                   |
 | 01:26:42   | And I've set this up in [[Home Assistant]].                                                           |
 | 01:26:44   | It's called a generic thermostat.                                                                 |
-| 01:26:45   | I'll link to a specific piece of documentation, but it means I can say, hey, Apple lady, set      |
+| 01:26:45   | I'll link to a specific piece of documentation, but it means I can say, hey, [[Apple]] lady, set      |
 | 01:26:51   | the temperature in the bedroom to 21 degrees.                                                     |
 | 01:26:54   | That's Celsius, by the way, for people getting very concerned that I'm trying to freeze           |
 | 01:26:58   | myself to death.                                                                                  |
@@ -1668,9 +1668,9 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:27:37   | The door opens at the end of the cycle, but stuff's still really, really hot from the cycle.      |
 | 01:27:42   | And so instead, I have a, I actually bought a Xiaomi button because I was playing around          |
 | 01:27:47   | with this stuff.                                                                                  |
-| 01:27:48   | And I paired that to the Zigbee dongle.                                                           |
-| 01:27:49   | And I paired an Aqara door sensor to the Zigbee dongle as well.                                   |
-| 01:27:53   | And so I stuck the Aqara door sensor on my dishwasher.                                            |
+| 01:27:48   | And I paired that to the [[Zigbee]] dongle.                                                           |
+| 01:27:49   | And I paired an [[Aqara Door and Window Sensor\|Aqara door sensor]] to the [[Zigbee]] dongle as well.                                   |
+| 01:27:53   | And so I stuck the [[Aqara Door and Window Sensor\|Aqara door sensor]] on my dishwasher.                                            |
 | 01:27:56   | And the reason why I ended up with the button is because during the day, as I load my dishwasher, |
 | 01:28:02   | I open and close the door.                                                                        |
 | 01:28:03   | And I didn't want this to, I didn't want my automation to trigger just any time the               |
@@ -1749,7 +1749,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:32:10   | That sounds like a recipe for disaster.                                                           |
 | 01:32:11   | TP-Link do have some new ones.                                                                    |
 | 01:32:14   | I have one arriving.                                                                              |
-| 01:32:15   | It should arrive today, but Amazon had a hiccup.                                                  |
+| 01:32:15   | It should arrive today, but [[Amazon]] had a hiccup.                                                  |
 | 01:32:17   | I think they accidentally left the parcel at the depot, David.                                    |
 | 01:32:20   | So I couldn't get it here today and check that it does the same thing.                            |
 | 01:32:24   | But there is a new one, which also does energy monitoring.                                        |
@@ -1859,7 +1859,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:38:08   | for a car sensor, spare batteries for IKEA sensors, spare battery for IKEA blinds, spare          |
 | 01:38:13   | battery for ring doorbells and cameras, whatever it is, just write it on there, label all things  |
 | 01:38:20   | and then you've got extra batteries.                                                              |
-| 01:38:22   | Now I don't have an extra battery for my ring doorbell because I have one ring doorbell.          |
+| 01:38:22   | Now I don't have an extra battery for my [[Ring Doorbell]] because I have one [[Ring Doorbell]].          |
 | 01:38:26   | If I had six ring doorbells, I would have a spare battery, but I don't.                           |
 | 01:38:31   | Yeah, those are my big tips because stuff, you're going to have to tweak and modify things,       |
 | 01:38:36   | make it as easy as possible for you to do that and also when you're playing with stuff            |
@@ -1867,7 +1867,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:38:42   | So if you've already got spares, you already know what the spares are for, then it's easy         |
 | 01:38:46   | to just pull out a box of batteries and go, ah, these are the ones that say there for             |
 | 01:38:49   | the IKEA sensors, perfect.                                                                        |
-| 01:38:51   | These are CR2032s, Amazon them, as soon as they arrive, write down the CR2032s for the            |
+| 01:38:51   | These are CR2032s, [[Amazon]] them, as soon as they arrive, write down the CR2032s for the            |
 | 01:38:57   | IKEA sensors and stick it back in the box.                                                        |
 | 01:39:00   | It's much easier to really be ahead of this stuff, especially if you get a smart smoke            |
 | 01:39:05   | detector and it takes a non-standard battery, hi, that's me, I bought a Xiaomi one.               |
@@ -1890,7 +1890,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:40:17   | And you don't have to do all the things at once.                                                  |
 | 01:40:19   | I know if you're thinking, oh gosh, 10-day shipping from China with these sensors, I'm            |
 | 01:40:23   | just going to buy all of them at once.                                                            |
-| 01:40:26   | I mean, buy one on Amazon, pay more money for it and get it tomorrow and see if it works          |
+| 01:40:26   | I mean, buy one on [[Amazon]], pay more money for it and get it tomorrow and see if it works          |
 | 01:40:31   | the way you like, if it's the size that you like.                                                 |
 | 01:40:34   | These sensors are pretty small, but you might still think, actually, I don't like the way         |
 | 01:40:38   | that that sticks out on the door frame.                                                           |
@@ -1934,7 +1934,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:42:38   | He lives in an apartment here, so he can't go about replacing light switches.                     |
 | 01:42:41   | But he said, if somebody was on a budget and wanted to automate their home lighting, what         |
 | 01:42:45   | products would you recommend?                                                                     |
-| 01:42:47   | And I think I'm probably going to have to say light bulbs, IKEA light bulbs, Aqara light          |
+| 01:42:47   | And I think I'm probably going to have to say light bulbs, IKEA light bulbs, [[Aqara]] light          |
 | 01:42:51   | bulbs, Meross light bulbs, Nanoleaf Essentials light bulbs, or IKEA ones probably are going       |
 | 01:43:00   | to be the option, aside from the Nanoleaf, they're all going to need a hub.                      |
 | 01:43:05   | But Nanoleaf, if you've got a HomePod Mini, should work because it's thread.                     |
@@ -1984,7 +1984,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:45:35   | I've been there.                                                                                  |
 | 01:45:36   | I made that mistake once never again.                                                             |
 | 01:45:39   | Yeah.                                                                                             |
-| 01:45:40   | And like Apple has promised like facial recognition with cameras and that's been there for like   |
+| 01:45:40   | And like [[Apple]] has promised like facial recognition with cameras and that's been there for like   |
 | 01:45:46   | a year or two now.                                                                                |
 | 01:45:47   | I honestly cannot get that to work.                                                               |
 | 01:45:50   | I pointed a UV camera at the front door as you walk through the front door, it sees your          |

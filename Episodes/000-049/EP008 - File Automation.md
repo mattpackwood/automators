@@ -442,7 +442,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 14:36      | But it's a very simple way.                                                                                             |
 | 14:38      | Another nice thing though with the updates                                                                              |
 | 14:42      | to the Finder with that Mac OS Mojave,                                                                                  |
-| 14:44      | Apple take it away and Apple give it.                                                                                   |
+| 14:44      | [[Apple]] take it away and [[Apple]] give it.                                                                                   |
 | 14:47      | They've made applying tags very easy from the [[Finder]] now.                                                           |
 | 14:52      | Most of the Finder views, like even that new fit,                                                                       |
 | 14:55      | the one that replaced the album view, what's it called again,                                                           |
@@ -555,7 +555,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 19:03      | You can't just start typing and have it auto fill.                                                                      |
 | 19:05      | Yeah.                                                                                                                   |
 | 19:06      | I mean, it's a very basic thing.                                                                                        |
-| 19:07      | But I said, you know, it feels like the people at Apple                                                                 |
+| 19:07      | But I said, you know, it feels like the people at [[Apple]]                                                                 |
 | 19:12      | think that everyone has 10 tags.                                                                                        |
 | 19:13      | Yeah.                                                                                                                   |
 | 19:14      | And if you're really going to use tags,                                                                                 |
@@ -710,7 +710,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 25:37      | So she downloads all of her receipts as PDF forms                                                                       |
 | 25:40      | into a specific folder.                                                                                                 |
 | 25:41      | I have one rule for every different kind of receipts,                                                                   |
-| 25:43      | Amazon receipts and different online stores,                                                                            |
+| 25:43      | [[Amazon]] receipts and different online stores,                                                                            |
 | 25:46      | train station or train company receipts, all of that.                                                                   |
 | 25:50      | And automatically when she runs a script once,                                                                          |
 | 25:53      | just dumps everything into a seat.                                                                                      |

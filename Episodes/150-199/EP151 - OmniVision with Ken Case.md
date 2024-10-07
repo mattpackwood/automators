@@ -20,7 +20,7 @@ title: "151: OmniVision with Ken Case"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-Ken Case joins David Sparks and Rosemary Orchard to talk about automating all the things from the Omni Group, including OmniFocus on Apple Vision Pro.
+Ken Case joins David Sparks and Rosemary Orchard to talk about automating all the things from the Omni Group, including OmniFocus on [[Apple Vision Pro]].
 
 # Hosts
 - [[David Sparks]]
@@ -60,20 +60,20 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 00:37      | next round of what we're going to be doing with Automators and continuing on with recording                         |
 | 00:41      | the show.                                                                                                           |
 | 00:42      | And so we have brought somebody onto the show who's been doing things with automation and                           |
-| 00:47      | Apple platforms for a very long time.                                                                               |
+| 00:47      | [[Apple]] platforms for a very long time.                                                                               |
 | 00:50      | Welcome back to the show, Ken Case.                                                                                 |
 | 00:51      | Hi.                                                                                                                 |
 | 00:52      | Thank you for inviting me.                                                                                          |
 | 00:53      | It's great to be here.                                                                                              |
 | 00:55      | Well, Ken, how could we avoid inviting you?                                                                         |
-| 00:57      | I mean, you got your [[OmniFocus]] on Vision Pro ahead of Apple's [[Apple Reminders\|Reminders]].                                    |
+| 00:57      | I mean, you got your [[OmniFocus]] on Vision Pro ahead of [[Apple|Apple's]] [[Apple Reminders\|Reminders]].                                    |
 | 01:03      | I mean, I love it.                                                                                                  |
 | 01:05      | Yeah, so Ken is the head honcho over at the [[Omni Group]], your official title, right?                             |
 | 01:12      | You have the hat that says head honcho on it.                                                                       |
 | 01:16      | And Rose and I have talked in the past about how enthusiastic we are about the way you guys                         |
 | 01:20      | have been embracing automation with the stuff you're doing.                                                         |
 | 01:24      | So we thought it would be fun to have you on the show today to kind of talk through how                             |
-| 01:28      | you see the automation picture in the Apple ecosystem.                                                              |
+| 01:28      | you see the automation picture in the [[Apple]] ecosystem.                                                              |
 | 01:31      | We're going to talk about various platforms.                                                                        |
 | 01:33      | We're going to talk some stuff about Omni apps.                                                                     |
 | 01:35      | We're also going to talk about where Ken uses automation in his day-to-day stuff.                                   |
@@ -84,8 +84,8 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 01:54      | He's got thoughts.                                                                                                  |
 | 01:56      | We're going to be talking about that in Automator's Max today.                                                      |
 | 01:59      | But let's start with automation, Ken.                                                                               |
-| 02:03      | The question, one of the questions both Rose and I get a lot, because we talk about Apple                           |
-| 02:07      | script quite often on the show, because so often it is like the right tool for the job.                             |
+| 02:03      | The question, one of the questions both Rose and I get a lot, because we talk about [[AppleScript]]                           |
+| 02:07      | quite often on the show, because so often it is like the right tool for the job.                             |
 | 02:12      | But people often ask me, should I bother learning [[AppleScript]] at this point?                                    |
 | 02:18      | And I think that is something, it's an interesting question that has multiple answers.                              |
 | 02:25      | But what is your thought on [[AppleScript]] here in 2024?                                                           |
@@ -109,7 +109,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 03:25      | I agree.                                                                                                            |
 | 03:26      | I mean, honestly, first thing I would tell people is, well, it only works on the Mac.                               |
 | 03:30      | So that's absolutely an important part.                                                                             |
-| 03:32      | And if only Apple had like enabled Apple events in the early days of iOS, but you know, they                        |
+| 03:32      | And if only [[Apple]] had like enabled Apple events in the early days of iOS, but you know, they                        |
 | 03:38      | didn't.                                                                                                             |
 | 03:39      | So it doesn't work there.                                                                                           |
 | 03:41      | But in some ways, I tell people, the less experience you have programming, the more                                 |
@@ -119,7 +119,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 03:58      | I agree.                                                                                                            |
 | 03:59      | It's just not the way that programmers think.                                                                       |
 | 04:03      | And so that's why there is such a temptation to, oh, maybe I should try this [[JavaScript]]                         |
-| 04:07      | scripting of Apple instead.                                                                                         |
+| 04:07      | scripting of [[Apple]] instead.                                                                                         |
 | 04:09      | As somebody who has tried both, yeah, I have encountered something which a few developers                           |
 | 04:13      | kind of warned me about that for some reason, the [[JavaScript]] version of [[AppleScript]] doesn't                 |
 | 04:18      | necessarily quite pick up on everything.                                                                            |
@@ -167,10 +167,10 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 06:37      | limitation that has driven us away from investing a lot more in [[AppleScript]] because, you know,                  |
 | 06:42      | we're not only on the Mac anymore.                                                                                  |
 | 06:44      | Yeah.                                                                                                               |
-| 06:45      | And I've heard from multiple people inside Apple that talk about, yeah, they use it all                             |
+| 06:45      | And I've heard from multiple people inside [[Apple]] that talk about, yeah, they use it all                             |
 | 06:49      | the time on their stuff.                                                                                            |
 | 06:50      | And I mean, I, even though, you know, there's a part of me that feels like they're, I'm                             |
-| 06:54      | sure there's a contingent at Apple that doesn't like this ancient scripting language in their                       |
+| 06:54      | sure there's a contingent at [[Apple]] that doesn't like this ancient scripting language in their                       |
 | 06:58      | operating system.                                                                                                   |
 | 06:59      | There's no way they can get rid of it.                                                                              |
 | 07:01      | Not to mention it would take time and effort and money to get rid of it if they wanted.                             |
@@ -262,7 +262,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 12:29      | whether it was [[AppleScript]] or URLs or shortcuts, but that it's also fun to have something built                 |
 | 12:36      | into our apps where we know we can rely on it being available wherever we're able to                                |
 | 12:40      | take it.                                                                                                            |
-| 12:41      | And in this case, since we're building it on top of Apple's [[JavaScript Core]] framework,                          |
+| 12:41      | And in this case, since we're building it on top of [[Apple|Apple's]] [[JavaScript Core]] framework,                          |
 | 12:47      | anywhere that [[JavaScript Core]] is available to us, we've tried to make the same stuff                            |
 | 12:51      | as available within the app for automation.                                                                         |
 | 12:54      | And that means we can expose all of our, you know, like for [[OmniFocus]], we will expose projects                  |
@@ -337,7 +337,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 17:21      | But the number one language, and at the time at least when we were doing our research,                              |
 | 17:25      | that the most people knew how to use was [[JavaScript]] because of the web.                                         |
 | 17:30      | So yeah, well, let's, let's go ahead and use, and use [[JavaScript]].                                               |
-| 17:35      | And one of the advantages of [[JavaScript]] was that Apple has a built-in implementation,                           |
+| 17:35      | And one of the advantages of [[JavaScript]] was that [[Apple]] has a built-in implementation,                           |
 | 17:38      | of course, also because of the web that was available on their platforms that we could                              |
 | 17:43      | build on top of.                                                                                                    |
 | 17:44      | So they have [[JavaScript Core]] where they have done a lot of performance work to make sure                        |
@@ -399,7 +399,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 21:15      | Yeah.                                                                                                               |
 | 21:16      | You've got all your apps and you've made them almost infinitely addressable.                                        |
 | 21:22      | I would say even more addressable than they were with [[AppleScript]], but where you create                         |
-| 21:28      | an automation that installs across all Apple platforms and it's just, it's something to                             |
+| 21:28      | an automation that installs across all [[Apple]] platforms and it's just, it's something to                             |
 | 21:34      | behold as someone who makes the Automators podcast, of course I love it.                                            |
 | 21:37      | But I think that I'm not sure it sunk in for everybody that like, if you've got this app                            |
 | 21:43      | and there's a feature you want, you are a couple of Google searches away from probably                              |
@@ -429,7 +429,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 23:10      | Let's just make a mode where you can add a whole [[Taskpaper]] set of input or tasks all                            |
 | 23:14      | at once and do that.                                                                                                |
 | 23:16      | And, you know, that same sort of thing happens, still happens today, like when we started                           |
-| 23:21      | looking at Omni Automation on the Apple Vision Pro, we realised, oh, it's really awkward                            |
+| 23:21      | looking at Omni Automation on the [[Apple Vision Pro]], we realised, oh, it's really awkward                            |
 | 23:26      | to download something from the Omni-automation website and one of these plug-ins and try                            |
 | 23:31      | to, you know, it ends up in your downloads folder and then you have to go to the files                              |
 | 23:35      | app and you have to open it and all of this sort of mess there.                                                     |
@@ -602,7 +602,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 35:01      | they're fighting a losing battle, and to me, a lot of it is this idea of pull versus push                           |
 | 35:06      | based productivity where people think that they have to do what their task manager tells                            |
 | 35:12      | them to do and then they just feel defeated, and you know, I think AI, and in a future                              |
-| 35:17      | where Apple has AI baked into the operating system giving you what you need without sending                         |
+| 35:17      | where [[Apple]] has AI baked into the operating system giving you what you need without sending                         |
 | 35:23      | a user to the cloud, I could see like that kind of data about where it was generated,                               |
 | 35:28      | when it was done, how long it's been sitting there, becoming a super useful tool for people                         |
 | 35:32      | to say, you know, you're not going to do all this stuff, but here's three things that                               |
@@ -616,7 +616,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 36:11      | they don't spend their time doing the right things, and so I really do feel like you guys                           |
 | 36:16      | building everything in [[SwiftUI]], kind of going all in, gives you the ability hopefully to                        |
 | 36:22      | take advantage of that when those tools arrive.                                                                     |
-| 36:25      | I really look forward to seeing what Apple ends up doing in this space for sure.                                    |
+| 36:25      | I really look forward to seeing what [[Apple]] ends up doing in this space for sure.                                    |
 | 36:31      | Well, one of the things that I've been playing with is using shortcuts to figure out, you                           |
 | 36:36      | know, like in my calendar right now, how long do I actually have free, and then using that                          |
 | 36:40      | to run a nominee automation script to say, okay, like here are a choice of like two or                              |
@@ -638,7 +638,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 37:51      | frequently open [[OmniFocus]] when you get to a location and so on.                                                 |
 | 37:54      | But if we get [[Siri]] AI 2.0 this summer, then, well, I mean, I'm guessing [[Omni Group]] will                     |
 | 38:00      | do what they always do, which is look at the roadmap and go, huh, that was a really good                            |
-| 38:05      | idea. How can we fit that in with whatever Apple's thrown at us, but it'll be very cool                             |
+| 38:05      | idea. How can we fit that in with whatever [[Apple|Apple's]] thrown at us, but it'll be very cool                             |
 | 38:11      | to see, you know, what people can do with this sort of thing as we, you know, as we                                 |
 | 38:16      | progress with a little bit.                                                                                         |
 | 38:18      | One of the fun things about AI in this space, I think, is that unlike AI being used to write                        |
@@ -685,7 +685,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 41:11      | getting people in your team helping as well, but Sal has written this crazy voice control                           |
 | 41:17      | system again, not just for [[OmniFocus]], but for, I think all of your apps at this point                           |
 | 41:21      | where you can sit and talk to them and they just work and you, you could think about it                             |
-| 41:27      | as an accessibility feature, but honestly what it is, it's an Apple Vision Pro feature                              |
+| 41:27      | as an accessibility feature, but honestly what it is, it's an [[Apple Vision Pro]] feature                              |
 | 41:32      | as you're sitting there with that face computer on and you just start talking and [[OmniFocus]]                     |
 | 41:37      | just starts going off to the races where you, I mean, that was another big move of automation                       |
 | 41:42      | that you guys kind of jumped on that nobody saw coming.                                                             |
@@ -700,13 +700,13 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 42:24      | the voice activation to the plugin system and then [[Sal Soghoian\|Sal]] did the heavy lifting of, all right,       |
 | 42:32      | now let's sit down and write a hundred different things that you might do with that.                                |
 | 42:37      | It's available.                                                                                                     |
-| 42:39      | And yeah, that's a great use on the Apple Vision Pro where you might, you know, the                                 |
-| 42:43      | three built-in forms of input that you have on the Apple Vision Pro are your eyes with                              |
+| 42:39      | And yeah, that's a great use on the [[Apple Vision Pro]] where you might, you know, the                                 |
+| 42:43      | three built-in forms of input that you have on the [[Apple Vision Pro]] are your eyes with                              |
 | 42:48      | the, you know, gaze tracking.                                                                                       |
 | 42:50      | You have your hands that you can tap your fingers together to click on something and                                |
 | 42:54      | then or tap on something I think is their official terminology.                                                     |
 | 42:59      | And then you have your voice.                                                                                       |
-| 43:01      | And personally, when I use the Apple Vision Pro, I actually use a keyboard much more                                |
+| 43:01      | And personally, when I use the [[Apple Vision Pro]], I actually use a keyboard much more                                |
 | 43:06      | often because a lot of the work that I do involves the keyboard.                                                    |
 | 43:10      | But if you happen to just be wandering around only with those three things, the voice is                            |
 | 43:14      | the input mechanism that lets you get the most data in the most quickly.                                            |
@@ -728,7 +728,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 44:13      | for people who want it and for people who need it as an accessibility feature, and B,                               |
 | 44:18      | because I don't have a Vision Pro yet.                                                                              |
 | 44:19      | I haven't even tried a Vision Pro yet.                                                                              |
-| 44:21      | They're not available here in the UK, not even for testing in the Apple stores.                                     |
+| 44:21      | They're not available here in the UK, not even for testing in the [[Apple Store\|Apple Stores]].                                     |
 | 44:24      | Like they don't even have like fake ones that you can like see the size of it or anything.                          |
 | 44:29      | But when I get it, I have a feeling that the way that you interact with it is going to                              |
 | 44:33      | change my mind on voice automation, at least to an extent, you know, I'm sure I'm still                             |
@@ -964,7 +964,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 59:55      | Um, and, you know, for that it is, you know, it's, it's worth looking at as, as a, a lesson                         |
 | 01:00:02   | for the automation.                                                                                                 |
 | 01:00:03   | I always try to do it at the highest level, you know, closest back to, you know, the core.                          |
-| 01:00:08   | So I don't use Apple's mails rules a lot, uh, to be honest, I use them for, um, you                                 |
+| 01:00:08   | So I don't use [[Apple|Apple's]] mails rules a lot, uh, to be honest, I use them for, um, you                                 |
 | 01:00:14   | know, I'll select the messages in my inbox and apply rules to them, but it'll apply rules                           |
 | 01:00:17   | and remove things that are like over a week old and things like that rather than actually                           |
 | 01:00:20   | processing.                                                                                                         |

@@ -69,7 +69,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 - [Toolbox Pro](https://toolboxpro.app/)
 - [Data Jar](https://datajar.app/)
 - [Drafts Directory | Drafts Action Directory](https://actions.getdrafts.com/)
-- [TADpoLe | ThoughtAsylum](https://www.thoughtasylum.com/tadpole/) - The ThoughtAsylum [[Drafts]] Library, also known as TADpoLe, is a collection of JavaScript for working with the [[Drafts]] application.
+- [TADpoLe | ThoughtAsylum](https://www.thoughtasylum.com/tadpole/) - The ThoughtAsylum [[Drafts]] Library, also known as TADpoLe, is a collection of [[JavaScript]] for working with the [[Drafts]] application.
 - [ThoughtAsylum | Drafts Action Directory](https://actions.getdrafts.com/g/1aM)
 - [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, Gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/#/)
 - [Capturing for Obsidian Using Drafts and GitHub | ThoughtAsylum](https://www.thoughtasylum.com/2021/01/18/capturing-for-obsidian-using-drafts-and-github/)
@@ -228,7 +228,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 12:50      | a lot. If someone came up to you today and said, hey, I want to start automating, where                  |
 | 12:54      | would you send them other than this podcast? Well, I probably asked them to show me their                |
 | 13:02      | phone, to be honest. Most people's first computer these days is their mobile device. So if it            |
-| 13:11      | was an Apple device, then I would absolutely send them to Automators first. There's nowhere              |
+| 13:11      | was an [[Apple]] device, then I would absolutely send them to Automators first. There's nowhere              |
 | 13:17      | else to go. But if it was an Android phone, I'd kind of point them in the direction of                   |
 | 13:24      | a few apps. It's been a few years since I've used Android, but I think [[Tasker]] is still                  |
 | 13:28      | the best automation on that platform. But I think being able to show someone immediately                 |
@@ -293,13 +293,13 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 18:36      | around that most of the time and I found that if I just actually just generated smaller                  |
 | 18:40      | subsets, I could very quickly get through it without any issues and so I put together                    |
 | 18:46      | this shortcut and it can generate based on the font awesome icons that are in there and                  |
-| 18:51      | the SF icons that Apple produce and it just generates a full set of these icons with just                |
+| 18:51      | the SF icons that [[Apple]] produce and it just generates a full set of these icons with just                |
 | 18:59      | two different colours. So you can pick colours that match most of mine. I have a nice gold                 |
 | 19:04      | or a yellow with just a plain background and I find that less distracting than all these                 |
 | 19:09      | pastel, glaring sort of buttons that you would have otherwise. And so I did that sometime                |
 | 19:15      | last year and then I eventually got around to writing about it a few weeks ago.                          |
 | 19:19      | I want to tell you that this post saved me so many hours because I too am a [[Stream Deck]]                  |
-| 19:26      | user and I've really grown accustomed to the [[SF Symbols]], which is Apple has released its                 |
+| 19:26      | user and I've really grown accustomed to the [[SF Symbols]], which is [[Apple]] has released its                 |
 | 19:32      | own icon set, which they've done over the last year and a half and you get this big                      |
 | 19:38      | list of these icons and the way I was using them was just the word, I shouldn't even be                  |
 | 19:44      | allowed to be on automators because of the way I was using these. I would open them up                   |
@@ -461,7 +461,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 32:24      | AirBuddy can also show you battery information for your iPhone, iPad or iPod touch and their             |
 | 32:30      | accessories. And the battery's widget can be added to Notification Centre on macOS.                      |
 | 32:35      | Only I kill a feature according to me. AirBuddy is sandbox and it doesn't require any kernel             |
-| 32:40      | extensions to work. Plus, it's fully compatible with macOS Big Sur and Apple Silicon, but                |
+| 32:40      | extensions to work. Plus, it's fully compatible with macOS Big Sur and [[Apple Silicon]], but                |
 | 32:45      | it works on any Mac with Bluetooth low energy running macOS 10.14.6 or later. If you have                |
 | 32:52      | AirPods and a Mac, you need AirBuddy. Go to airbuddy.app/automators to learn more.                       |
 | 32:58      | The first 100 automated listeners to use that URL will get AirBuddy with a 20% discount.                 |

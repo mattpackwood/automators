@@ -128,7 +128,7 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 02:20      | And just a warning in this show, not every show is going to be the same, but in this                                   |
 | 02:24      | show we're going to talk about workflow a lot because it is so convenient for calendar                                 |
 | 02:29      | event management and the tools are actually quite powerful.                                                            |
-| 02:33      | You can download workflow for free, Apple owns it, they just announced that they're                                    |
+| 02:33      | You can download workflow for free, [[Apple]] owns it, they just announced that they're                                    |
 | 02:37      | going to be switching over to these Siri shortcuts, which both Rose and I were in San Jose when                        |
 | 02:43      | it happened and talked to several people and it sounds like all the workflow stuff is going                            |
 | 02:47      | to come over to Siri shortcut.                                                                                         |
@@ -188,7 +188,7 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 06:06      | to and back.                                                                                                           |
 | 06:07      | And you can make it, like, if you want to get fancy, you can make it a menu selection                                  |
 | 06:09      | where you can pick how long it's going to take.                                                                        |
-| 06:12      | And you know, like where Apple, like Apple's [[Apple Calendar\|calendar]] app has the option to put travel             |
+| 06:12      | And you know, like where [[Apple]], like [[Apple\|Apple's]] [[Apple Calendar\|calendar]] app has the option to put travel             |
 | 06:16      | time in, but it only gives you travel time getting there.                                                              |
 | 06:20      | Like a lot of times I have events that are away from the office or the home.                                           |
 | 06:24      | It takes 30 minutes to get there, but I have to get back afterwards.                                                   |
@@ -367,7 +367,7 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 15:14      | And the best part of it all is you can share it with everyone you work with.                                           |
 | 15:18      | These responses are easily accessible and even searchable to make sure everyone can                                    |
 | 15:23      | find the best response.                                                                                                |
-| 15:24      | You can even make these snippets more powerful by using AppleScript and JavaScript to automate                         |
+| 15:24      | You can even make these snippets more powerful by using [[AppleScript]] and [[JavaScript]] to automate                         |
 | 15:29      | things.                                                                                                                |
 | 15:31      | TextExpander for teams allows everyone to be on the same page, which helps avoid confusing                             |
 | 15:35      | your team and your customers.                                                                                          |
@@ -526,9 +526,9 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 24:55      | So feel free to play with that and have some fun.                                                                      |
 | 24:58      | But I think that's as far as we're going to go with [[AppleScript]] in this episode.                                   |
 | 25:01      | Yeah.                                                                                                                  |
-| 25:02      | The only thing I'll say about it is the AppleScript is somewhat inflexible.                                            |
+| 25:02      | The only thing I'll say about it is the [[AppleScript]] is somewhat inflexible.                                            |
 | 25:08      | So you might want to look, if you do have [[Fantastical]], [[Fantastical]] is also [[AppleScript\|AppleScriptable]]    |
-| 25:13      | and you can make it parse sentences through AppleScript, which I will also have a version                              |
+| 25:13      | and you can make it parse sentences through [[AppleScript]], which I will also have a version                              |
 | 25:18      | of that you can get, which of course is a little bit easier, especially if you already                                 |
 | 25:23      | have a list of events that you want to add and you just need it parsed and put onto your                               |
 | 25:27      | calendar.                                                                                                              |

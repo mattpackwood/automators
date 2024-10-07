@@ -98,10 +98,10 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 02:21      | So it ended up being early                                           |
 | 02:24      | January and being a different app than we originally intended.       |
 | 02:27      | So yeah, we've been at this seven years now.                         |
-| 02:31      | That's back in the days when Apple was                               |
+| 02:31      | That's back in the days when [[Apple]] was                               |
 | 02:34      | kind of fiddly about automation.                                     |
 | 02:37      | I bet there's a great story in                                       |
-| 02:40      | how you got the initial launch through Apple.                        |
+| 02:40      | how you got the initial launch through [[Apple]].                        |
 | 02:43      | Well, the story is we didn't.                                        |
 | 02:47      | So I'll give you kind of the origin story of the app.                |
 | 02:53      | The fall of 2011,                                                    |
@@ -129,7 +129,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 03:57      | and the kind of like real basic stuff that,                          |
 | 03:59      | I mean, it's still kind of the bread and butter of the app,          |
 | 04:00      | but just really basic stuff,                                         |
-| 04:03      | and Apple didn't like the idea of us                                 |
+| 04:03      | and [[Apple]] didn't like the idea of us                                 |
 | 04:07      | using notification centre as a launcher.                             |
 | 04:10      | They thought that was not a great experience for users,              |
 | 04:14      | and so they flat out rejected the app.                               |
@@ -141,7 +141,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 04:35      | or did anything, but just a hack in the sense of using it            |
 | 04:38      | in a misappropriating it in an interesting way                       |
 | 04:42      | that didn't break any technology or anything like that,              |
-| 04:45      | but just did something that Apple didn't intend.                     |
+| 04:45      | but just did something that [[Apple]] didn't intend.                     |
 | 04:49      | So-                                                                  |
 | 04:50      | Can I just interrupt to say I love the phrase                        |
 | 04:51      | misappropriated in an interesting way?                               |
@@ -278,7 +278,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 11:16      | and Workflow before that,                                            |
 | 11:18      | back in, and I think it was the fall of 2013,                        |
 | 11:22      | Ari, who founded Workflow                                            |
-| 11:24      | and is now at Apple working on Shortcuts.                            |
+| 11:24      | and is now at [[Apple]] working on Shortcuts.                            |
 | 11:26      | At the time, he was building this app called Desk Connect            |
 | 11:29      | and it would push files and the clipboard                            |
 | 11:33      | and other information back and forth from iOS to macOS.              |
@@ -326,7 +326,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 13:33      | You know, they were living in a coding hostel,                       |
 | 13:36      | programming like 24 seven as a whole team.                           |
 | 13:41      | So there's no way we would ever built Workflow                       |
-| 13:43      | or been acquired by Apple or anything like that.                     |
+| 13:43      | or been acquired by [[Apple]] or anything like that.                     |
 | 13:45      | And so I no way regret this.                                         |
 | 13:48      | And I tell the story in a way to say it's kind of fun                |
 | 13:51      | that we didn't collaborate with them                                 |
@@ -400,11 +400,11 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 16:59      | that we'll just never be able to do.                                 |
 | 17:01      | So-                                                                  |
 | 17:02      | They're behind the wall, you know,                                   |
-| 17:03      | they're part of Apple.                                               |
+| 17:03      | they're part of [[Apple]].                                               |
 | 17:04      | Exactly.                                                             |
 | 17:05      | Yeah, so it's kind of unfair competition.                            |
 | 17:09      | In a cool way though, like I love what Shortcuts is doing            |
-| 17:12      | and I'm so glad Apple acquired them.                                 |
+| 17:12      | and I'm so glad [[Apple]] acquired them.                                 |
 | 17:14      | And I think like it's better for everybody.                          |
 | 17:16      | So we've shifted to focusing on the things                           |
 | 17:19      | that really compliment the app                                       |
@@ -479,7 +479,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 20:41      | Now, when I say read, I don't mean they're gonna like,               |
 | 20:44      | oh, hey, there's this cool thing, I'm just gonna do it.              |
 | 20:46      | That's a bit of a security risk                                      |
-| 20:47      | and we know what Apple and security are like there.                  |
+| 20:47      | and we know what [[Apple]] and security are like there.                  |
 | 20:50      | Pretty, you know, dead set against anything                          |
 | 20:53      | that's gonna do something the user really                            |
 | 20:54      | doesn't want it to do.                                               |
@@ -487,7 +487,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 21:00      | of how an NFC tag actually works                                     |
 | 21:01      | with these lovely new phones, David?                                 |
 | 21:04      | Sure.                                                                |
-| 21:05      | So when Apple announced the iPhone XS,                               |
+| 21:05      | So when [[Apple]] announced the iPhone XS,                               |
 | 21:11      | XS Max, and XR, I don't even know                                    |
 | 21:15      | if they said it in the keynote,                                      |
 | 21:19      | but news sites started covering this whole background NFC            |
@@ -775,10 +775,10 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 34:19      | around triggering actions.                                           |
 | 34:21      | And of course, that gives you a notification                         |
 | 34:24      | and then you can launch right into whatever you need to do.          |
-| 34:29      | And on that front, I have been all but begging Apple                 |
+| 34:29      | And on that front, I have been all but begging [[Apple]]                 |
 | 34:34      | to give Launch Center Pro the critical alerts entitlement,           |
 | 34:39      | which I think would be incredible                                    |
-| 34:42      | if anybody at Apple listens to this,                                 |
+| 34:42      | if anybody at [[Apple]] listens to this,                                 |
 | 34:43      | probably not or might not be in a position                           |
 | 34:46      | to do anything about it, but if Launch Center Pro                    |
 | 34:51      | were allowed to use that critical alerts entitlement,                |
@@ -794,7 +794,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 35:23      | well, if it's a schedule for Launch Center Pro,                      |
 | 35:26      | it might get lost in Do Not Disturb.                                 |
 | 35:29      | So anyways, I'm hoping at some point,                                |
-| 35:32      | Apple will give us access to that.                                   |
+| 35:32      | [[Apple]] will give us access to that.                                   |
 | 35:34      | And there's several other things                                     |
 | 35:36      | that I don't wanna tip our hat too much                              |
 | 35:40      | but or tip our hand too much.                                        |
@@ -1205,7 +1205,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 53:40      | So it's kind of an automatic thing                                   |
 | 53:42      | if you subscribe in the app                                          |
 | 53:44      | and you purchase within the app,                                     |
-| 53:45      | and you can use Apple Pay inside the app,                            |
+| 53:45      | and you can use [[Apple Pay]] inside the app,                            |
 | 53:48      | it'll automatically apply a 10% discount to your whole cart.         |
 | 53:51      | So there'll also be t-shirts and mugs and hats                       |
 | 53:56      | and I'm actually wearing my Launch Center Pro hat right now.         |
@@ -1401,11 +1401,11 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:02:08   | A lot of people don't realise Launch Center Pro                      |
 | 01:02:10   | has a barcode scanner in it.                                         |
 | 01:02:12   | So I have an action to scan a barcode                                |
-| 01:02:15   | and launch a search in Amazon.                                       |
+| 01:02:15   | and launch a search in [[Amazon]].                                       |
 | 01:02:17   | So if I'm out shopping and want to do a quick price check            |
 | 01:02:21   | or even just want to add something to a wish list                    |
 | 01:02:23   | that somebody else had or whatever,                                  |
-| 01:02:26   | barcode scan to Amazon.                                              |
+| 01:02:26   | barcode scan to [[Amazon]].                                              |
 | 01:02:29   | I do a lot of searching on the App Store                             |
 | 01:02:31   | to kind of keep tabs on different categories                         |
 | 01:02:34   | and that kind of stuff.                                              |
@@ -1549,7 +1549,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:09:13   | They did not.                                                        |
 | 01:09:15   | iPads do not have NFC at all, which is,                              |
 | 01:09:19   | I can understand from one perspective,                               |
-| 01:09:22   | I think they see the NFC as like Apple Pay                           |
+| 01:09:22   | I think they see the NFC as like [[Apple Pay]]                           |
 | 01:09:27   | and card scanning and like ID card kind of replacements              |
 | 01:09:33   | and getting in and out of buildings and things like that.            |
 | 01:09:35   | So in some ways I can see that they don't think                      |
@@ -1565,7 +1565,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:10:00   | And for anybody wanting that feature in the iPad,                    |
 | 01:10:02   | the correct place to address this query                              |
 | 01:10:04   | is apple.com/feedback.                                         |
-| 01:10:07   | If we all tell Apple that we want it, then, you know,                |
+| 01:10:07   | If we all tell [[Apple]] that we want it, then, you know,                |
 | 01:10:09   | maybe you guys at Contrast Co                                        |
 | 01:10:11   | will get the ability to implement that into the iPad.                |
 | 01:10:13   | But to be clear, you can do all of the other stuff                   |

@@ -565,7 +565,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 24:24      | unfortunately, you can maybe work around it                                                        |
 | 24:26      | with third-party applications,                                                                     |
 | 24:28      | but you can't access [[Dropbox]].                                                                      |
-| 24:30      | And this is kind of [[Dropbox]] plus Apple,                                                            |
+| 24:30      | And this is kind of [[Dropbox]] plus [[Apple]],                                                            |
 | 24:34      | apparently, according to [[Dropbox]].                                                                  |
 | 24:36      | I'm not sure how much.                                                                             |
 | 24:37      | I 100% believe that because if little indie developers                                             |
@@ -770,7 +770,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 32:52      | where I've got backtick, backtick, backtick.                                                       |
 | 32:55      | Before the new line, I have the word there                                                         |
 | 32:58      | of whatever kind of code it is.                                                                    |
-| 33:01      | So if I'm pasting JavaScript code, then I'll type JS.                                              |
+| 33:01      | So if I'm pasting [[JavaScript]] code, then I'll type JS.                                              |
 | 33:04      | If it's PHP, I type PHP, and if it's Ruby, I'll type RB                                            |
 | 33:07      | or Py for Python.                                                                                  |
 | 33:09      | And those all combined together mean                                                               |
@@ -923,7 +923,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 39:16      | I keep expecting to see an update note to [[Obsidian]]                                                 |
 | 39:19      | where there's going to be a checkbox,                                                              |
 | 39:21      | and this is a built-in thing.                                                                      |
-| 39:22      | I mean, this feels to me like one that is on the Sherlock list.                                    |
+| 39:22      | I mean, this feels to me like one that is on the [[Sherlocking\|Sherlock]] list.                                    |
 | 39:25      | I mean, how is that not already in?                                                                |
 | 39:27      | But that little plugin, I use it every day, and I love it.                                         |
 | 39:31      | Yeah, yeah, it just saves.                                                                         |
@@ -1270,7 +1270,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 50:53      | Only these templates are                                                                           |
 | 50:55      | on steroids. You can                                                                               |
 | 50:57      | have it do all sorts of things.                                                                    |
-| 50:59      | I've got custom JavaScript in there                                                                |
+| 50:59      | I've got custom [[JavaScript]] in there                                                                |
 | 51:01      | doing things when I                                                                                |
 | 51:03      | create stuff, but also I just                                                                      |
 | 51:05      | have like little snippets                                                                          |
@@ -1355,9 +1355,9 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 53:43      | an Android app, a Mac OS app                                                                       |
 | 53:45      | and a Windows app and a Linux app                                                                  |
 | 53:47      | and that's five apps folks.                                                                        |
-| 53:49      | Plus don't forget that you've got Apple Silicon                                                    |
+| 53:49      | Plus don't forget that you've got [[Apple Silicon]]                                                    |
 | 53:51      | and you've got                                                                                     |
-| 53:53      | Apple Intel machines                                                                               |
+| 53:53      | [[Apple]] Intel machines                                                                               |
 | 53:55      | and then you've got Windows and you've got the Windows Linux                                       |
 | 53:57      | sub system and all of the different                                                                |
 | 53:59      | Linux varieties. There's a heck of a lot of stuff                                                  |
@@ -1584,7 +1584,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:01:25   | with a make through the                                                                            |
 | 01:01:27   | box sync at the moment                                                                             |
 | 01:01:29   | that I have experimented a bit with                                                                |
-| 01:01:31   | keyboard master and shortcuts for this                                                             |
+| 01:01:31   | [[Keyboard Maestro}] and shortcuts for this                                                             |
 | 01:01:33   | I've just ended up using make because                                                              |
 | 01:01:35   | the data that triggers this is on the internet                                                     |
 | 01:01:37   | so it makes sense to use something                                                                 |
@@ -2148,7 +2148,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:20:13   | and it's like a                                                                                    |
 | 01:20:15   | graveyard of                                                                                       |
 | 01:20:17   | automations I've written that                                                                      |
-| 01:20:19   | then got Sherlocked by a plugin                                                                    |
+| 01:20:19   | then got [[Sherlocking\|Sherlocked]] by a plugin                                                                    |
 | 01:20:21   | like                                                                                               |
 | 01:20:23   | in fact if you look at the [[Obsidian]] forums                                                         |
 | 01:20:25   | I wrote a [[Keyboard Maestro]] script to create                                                        |
@@ -2200,7 +2200,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:21:57   | accessibility through                                                                              |
 | 01:21:59   | all of the existing infrastructure                                                                 |
 | 01:22:01   | that it doesn't matter                                                                             |
-| 01:22:03   | whether you feel at home writing JavaScript                                                        |
+| 01:22:03   | whether you feel at home writing [[JavaScript]]                                                        |
 | 01:22:05   | in which case you can write your own [[Obsidian]] plugin                                               |
 | 01:22:07   | if you want or if you're                                                                           |
 | 01:22:09   | just getting started with shortcuts                                                                |

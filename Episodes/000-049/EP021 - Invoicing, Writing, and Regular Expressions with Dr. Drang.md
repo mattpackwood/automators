@@ -363,7 +363,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 12:47      | in those early days, that was all him.                             |
 | 12:50      | Yeah.                                                              |
 | 12:50      | I mean, he's the one that when they brought on                     |
-| 12:52      | the productivity expert at Apple,                                  |
+| 12:52      | the productivity expert at [[Apple]],                                  |
 | 12:55      | who wanted the programmers to turn in                              |
 | 12:56      | the number of lines of code they wrote every week.                 |
 | 12:59      | Yeah, he wrote, and you know, he turned in a report                |
@@ -433,7 +433,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 15:32      | but there are a lot of scripts written in Perl running around.     |
 | 15:34      | And I have to say, as somebody who's, you know,                    |
 | 15:37      | my first programming experience as programming language            |
-| 15:40      | was Java, not JavaScript Java.                                     |
+| 15:40      | was Java, not [[JavaScript]] Java.                                     |
 | 15:43      | And as somebody who started with that, looking at Perl,            |
 | 15:46      | it's actually, you know,                                           |
 | 15:48      | I don't know why it's got this bad reputation,                     |
@@ -589,7 +589,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 22:12      | and make sure that I actually did press the record button.         |
 | 22:15      | Luna Display is a complete extension to your Mac.                  |
 | 22:18      | It supports external keyboards,                                    |
-| 22:20      | as well as Apple Pencil and touch interactions.                    |
+| 22:20      | as well as [[Apple Pencil]] and touch interactions.                    |
 | 22:23      | It basically turns your Mac into a touch screen device             |
 | 22:26      | and the all new liquid video engine                                |
 | 22:28      | brings significantly reduced latency                               |
@@ -817,23 +817,23 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 33:39      | You've posted a blog post                                          |
 | 33:41      | where you've listed all of these scripts,                          |
 | 33:42      | and you're running it through a Python script,                     |
-| 33:45      | but the AppleScript language is embedded in that script.           |
-| 33:48      | So anybody that wants to just do this with AppleScript             |
+| 33:45      | but the [[AppleScript]] language is embedded in that script.           |
+| 33:48      | So anybody that wants to just do this with [[AppleScript]]             |
 | 33:51      | could do it.                                                       |
 | 33:52      | You could.                                                         |
 | 33:54      | I don't recommend it to doing things                               |
 | 33:56      | because there's a certain amount of text processing,               |
 | 34:01      | and there's a certain amount of calendar processing                |
-| 34:06      | that I think Python is just flatly better at than AppleScript.     |
-| 34:10      | But yes, I write AppleScript inside my Python,                     |
+| 34:06      | that I think Python is just flatly better at than [[AppleScript]].     |
+| 34:10      | But yes, I write [[AppleScript]] inside my Python,                     |
 | 34:14      | and I have a self-made, very simple library                        |
-| 34:24      | called, I think it's called AppleScript,                           |
+| 34:24      | called, I think it's called [[AppleScript]],                           |
 | 34:26      | and it has only a couple of commands in it                         |
 | 34:31      | that one of them I think is quote, and one of them is run.         |
 | 34:34      | And so usually I just create a string                              |
-| 34:36      | that would be my AppleScript.                                      |
+| 34:36      | that would be my [[AppleScript]].                                      |
 | 34:38      | Within the Python program, I create a string                       |
-| 34:40      | for the command that I would give in AppleScript,                  |
+| 34:40      | for the command that I would give in [[AppleScript]],                  |
 | 34:42      | and then there's, you know,                                        |
 | 34:43      | AppleScript.run that string, and it does it.                       |
 | 34:47      | But the point is you can actually take pieces of this out          |
@@ -854,8 +854,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 35:28      | So what my script does on Tuesday morning is say,                  |
 | 35:32      | which reminders have come due today?                               |
 | 35:34      | Okay.                                                              |
-| 35:35      | And AppleScript allows you to do that.                             |
-| 35:38      | The AppleScript library or dictionary for [[Apple Reminders\|Reminders]]                |
+| 35:35      | And [[AppleScript]] allows you to do that.                             |
+| 35:38      | The [[AppleScript]] library or dictionary for [[Apple Reminders\|Reminders]]                |
 | 35:43      | has pieces like that, commands for doing that.                     |
 | 35:46      | So what it does is it gives me a list then                         |
 | 35:49      | of all of the invoices that are all of the [[Apple Reminders\|Reminders]]               |
@@ -906,7 +906,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 38:06      | When I opened those pages now,                                     |
 | 38:08      | because they were basically just web pages                         |
 | 38:10      | that were sort of made on the fly                                  |
-| 38:13      | through like JavaScript or whatever.                               |
+| 38:13      | through like [[JavaScript]] or whatever.                               |
 | 38:15      | And now they're dead now.                                          |
 | 38:17      | So I'm, so I have to use more standard weather apps.               |
 | 38:22      | And I haven't gone back to find another API to do that.            |
@@ -966,7 +966,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 41:02      | I do use Textastic a bit because it's                              |
 | 41:05      | got a broader range of syntax highlighting for me.                 |
 | 41:12      | [[Drafts]] is pretty well-limited in its syntax highlighting           |
-| 41:14      | to Markdown and JavaScript and then the very Taskpaper            |
+| 41:14      | to Markdown and [[JavaScript]] and then the very Taskpaper            |
 | 41:20      | and the simple list thing.                                         |
 | 41:21      | But I write in late tech and I program in Python.                  |
 | 41:27      | And so I like having Textastic sometimes.                          |
@@ -1012,13 +1012,13 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 43:33      | And it mimics, well, mimics.                                       |
 | 43:35      | I'm sure he did this on his own, or she                            |
 | 43:37      | did this on his own on her own, but it matches so perfectly        |
-| 43:42      | an AppleScript that I wrote many years ago                        |
+| 43:42      | an [[AppleScript]] that I wrote many years ago                        |
 | 43:45      | for doing this in [[BBEdit]].                                         |
 | 43:47      | It does exactly what I used to do in [[BBEdit]],                      |
 | 43:51      | except it does it in [[Drafts]].                                       |
 | 43:53      | So I was thinking about writing my own.                            |
-| 43:55      | I was thinking about taking that AppleScript                      |
-| 43:57      | and converting it into JavaScript                                  |
+| 43:55      | I was thinking about taking that [[AppleScript]]                      |
+| 43:57      | and converting it into [[JavaScript]]                                  |
 | 43:59      | so that it would work in [[Drafts]] and realised, oh,                  |
 | 44:02      | I don't have to.                                                   |
 | 44:03      | This is already done for me.                                       |
@@ -1202,7 +1202,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 53:01      | but obviously they have a business to run.                         |
 | 53:04      | Well, at least it's still running for you.                         |
 | 53:06      | Which is an indication of how well it's written,                   |
-| 53:08      | because Apple is changing things underneath,                       |
+| 53:08      | because [[Apple]] is changing things underneath,                       |
 | 53:11      | but it's still running along because they didn't do,               |
 | 53:14      | obviously they didn't do cheating things                           |
 | 53:17      | in the development of that app.                                    |
@@ -1248,7 +1248,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 54:46      | add some sort of Pong game,                                        |
 | 54:48      | and then make it part of the new                                   |
 | 54:51      | Apple Game Subscription service.                                   |
-| 54:55      | Have Apple throw like millions of dollars at them                  |
+| 54:55      | Have [[Apple]] throw like millions of dollars at them                  |
 | 54:57      | to get the app, you know, tuned up again.                          |
 | 55:01      | And we'll all subscribe to the gaming service                      |
 | 55:03      | and use transmit.                                                  |
@@ -1520,7 +1520,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:08:45   | Yeah.                                                              |
 | 01:08:46   | So, but I do think and that happens                                |
 | 01:08:49   | and the thing I wanna emphasise about this is                      |
-| 01:08:53   | Apple is updating a product more than once a year.                 |
+| 01:08:53   | [[Apple]] is updating a product more than once a year.                 |
 | 01:08:56   | So it's like, that's good.                                         |
 | 01:08:58   | You know, I mean, I know that there was a problem with this        |
 | 01:09:01   | but the fact that they continue to push                            |
@@ -1546,7 +1546,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:09:46   | So often, especially with a simplified programming environment     |
 | 01:09:50   | which Siri Shortcuts is,                                           |
 | 01:09:52   | you wanna be able to just paste them                               |
-| 01:09:54   | like in Keyboard Master all the time.                              |
+| 01:09:54   | like in [[Keyboard Maestro}] all the time.                              |
 | 01:09:56   | You get something figured out, Command C, Command V                |
 | 01:09:59   | and then suddenly you've duplicated at 17 times                    |
 | 01:10:02   | and it's great.                                                    |
@@ -1627,13 +1627,13 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:13:26   | back last September, it wasn't part of workflow.                   |
 | 01:13:30   | And it was in particular,                                          |
 | 01:13:32   | it was something that could not have been done                     |
-| 01:13:35   | if the workflow people had not been bought up by Apple.            |
+| 01:13:35   | if the workflow people had not been bought up by [[Apple]].            |
 | 01:13:39   | I think that is one of the best things                             |
 | 01:13:42   | about shortcuts as opposed to workflow.                            |
 | 01:13:46   | And, you know, apart from all the things about, you know,          |
-| 01:13:49   | it's got the full force of Apple behind it.                        |
-| 01:13:51   | Apple does seem to be behind it.                                   |
-| 01:13:52   | Apple spent a lot of time talking about this feature               |
+| 01:13:49   | it's got the full force of [[Apple]] behind it.                        |
+| 01:13:51   | [[Apple]] does seem to be behind it.                                   |
+| 01:13:52   | [[Apple]] spent a lot of time talking about this feature               |
 | 01:13:57   | back there in September.                                           |
 | 01:13:59   | And, or was it, were they doing it in June at [[WWDC]]?                |
 | 01:14:04   | Whatever it was, whenever, when they introduced it,                |
@@ -1673,8 +1673,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:15:39   | are completely legitimate,                                         |
 | 01:15:40   | especially just the lack of power                                  |
 | 01:15:43   | for a programming environment as someone who, you know,            |
-| 01:15:48   | spends his time writing in Python and even AppleScript.           |
-| 01:15:51   | I mean, AppleScript, everybody makes fun of it,                   |
+| 01:15:48   | spends his time writing in Python and even [[AppleScript]].           |
+| 01:15:51   | I mean, [[AppleScript]], everybody makes fun of it,                   |
 | 01:15:53   | but it's a powerful scripting language                             |
 | 01:15:56   | combined with Apple events.                                        |
 | 01:15:58   | You can do almost anything on a Mac with it.                       |
@@ -1689,7 +1689,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:16:22   | the unlimited power or automation you want,                        |
 | 01:16:26   | but it's definitely going to get higher.                           |
 | 01:16:29   | Yeah, well, I don't think it can                                   |
-| 01:16:32   | because Apple wants iOS to be a more locked down system               |
+| 01:16:32   | because [[Apple]] wants iOS to be a more locked down system               |
 | 01:16:38   | than the Mac.                                                      |
 | 01:16:38   | In fact, it's making Mac more locked down                             |
 | 01:16:42   | than it ever has been before.                                      |
@@ -1697,7 +1697,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:16:45   | We live in a different world                                       |
 | 01:16:47   | where security is far more important to all of us.                 |
 | 01:16:51   | And so it's legitimate                                             |
-| 01:16:53   | that Apple has locked things down more.                            |
+| 01:16:53   | that [[Apple]] has locked things down more.                            |
 | 01:16:56   | But yeah, it is.                                                   |
 | 01:16:58   | So when we were talking about regular expressions,                 |
 | 01:17:01   | we talked about, I'm sorry,                                        |
@@ -1743,7 +1743,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:19:11   | that there have been two significant updates                       |
 | 01:19:13   | in between iOS updates.                                            |
 | 01:19:18   | That's encouraging to me.                                          |
-| 01:19:19   | I do think that Apple, at least for the immediate future,          |
+| 01:19:19   | I do think that [[Apple]], at least for the immediate future,          |
 | 01:19:23   | is invested in Siri shortcuts.                                     |
 | 01:19:26   | So I'm hoping that in June,                                        |
 | 01:19:28   | we get a whole bunch of new toys                                   |
@@ -1751,7 +1751,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:19:31   | for another year.                                                  |
 | 01:19:33   | And, you know, but I guess we're just gonna have to wait           |
 | 01:19:34   | and see, I mean, the other fear in the back of my mind             |
-| 01:19:37   | is what if Apple loses interest in this, you know?                 |
+| 01:19:37   | is what if [[Apple]] loses interest in this, you know?                 |
 | 01:19:40   | Cause like I feel like Automator started                           |
 | 01:19:42   | with the best of intentions,                                       |
 | 01:19:43   | but at some point, you know,                                       |
@@ -1763,7 +1763,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:20:00   | crap, there's no step,                                             |
 | 01:20:01   | there's no piece that I can stick in here in Automator.            |
 | 01:20:06   | And then I would end up going back                                 |
-| 01:20:08   | and doing it in AppleScript.                                      |
+| 01:20:08   | and doing it in [[AppleScript]].                                      |
 | 01:20:09   | Yeah, or writing a script to drop into the Automator.              |
 | 01:20:12   | What are they like?                                                |
 | 01:20:13   | Yeah, something like that.                                         |
@@ -1792,7 +1792,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:21:20   | It is amazing.                                                     |
 | 01:21:22   | Well, I mean, you know,                                            |
 | 01:21:23   | Ben Walde is the guy who wrote those for Microsoft                 |
-| 01:21:26   | and now he works for Apple.                                        |
+| 01:21:26   | and now he works for [[Apple]].                                        |
 | 01:21:27   | So I suspect there's nobody at Microsoft                           |
 | 01:21:30   | that knows how to write the Automator action.                      |
 | 01:21:34   | That would explain a lot.                                          |
@@ -1800,17 +1800,17 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:21:40   | especially of course, when it's something that you rely on,        |
 | 01:21:43   | seems to get abandoned.                                            |
 | 01:21:44   | And it's just, you know,                                           |
-| 01:21:48   | AppleScript has gone through this in the past,                     |
-| 01:21:51   | not just Automator, but AppleScript itself, you know.              |
-| 01:21:53   | Is AppleScript dead?                                               |
-| 01:21:55   | Is Apple, it's not.                                                |
+| 01:21:48   | [[AppleScript]] has gone through this in the past,                     |
+| 01:21:51   | not just Automator, but [[AppleScript]] itself, you know.              |
+| 01:21:53   | Is [[AppleScript]] dead?                                               |
+| 01:21:55   | Is [[Apple]], it's not.                                                |
 | 01:21:57   | You know, a few years ago, they actually came,                     |
 | 01:21:59   | amazingly, they decided to come out                                |
 | 01:22:01   | with an entirely new language that looks at Apple events,          |
-| 01:22:06   | you know, JavaScript for applications.                             |
-| 01:22:09   | And I don't like it because I'm not a big fan of JavaScript.       |
+| 01:22:06   | you know, [[JavaScript]] for applications.                             |
+| 01:22:09   | And I don't like it because I'm not a big fan of [[JavaScript]].       |
 | 01:22:15   | And also because I find it,                                        |
-| 01:22:18   | you know, how you write an AppleScript,                            |
+| 01:22:18   | you know, how you write an [[AppleScript]],                            |
 | 01:22:21   | which is you start writing and then you realise,                   |
 | 01:22:23   | I don't know exactly how the dictionary                            |
 | 01:22:26   | for this particular app that I want to automate works.             |
@@ -1820,13 +1820,13 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:22:37   | Does it have this, does it have that?                              |
 | 01:22:39   | And then you just start typing into Google your problem.           |
 | 01:22:43   | The solution is almost,                                            |
-| 01:22:45   | there are lots of solutions for AppleScript problems               |
-| 01:22:48   | because AppleScript has been around for such a long time.          |
-| 01:22:51   | It's very hard to find JXA solutions,                              |
-| 01:22:55   | or is it JXA or JESA, whatever it is,                              |
-| 01:22:57   | in JavaScript solutions for these problems,                        |
+| 01:22:45   | there are lots of solutions for [[AppleScript]] problems               |
+| 01:22:48   | because [[AppleScript]] has been around for such a long time.          |
+| 01:22:51   | It's very hard to find [[JXA]] solutions,                              |
+| 01:22:55   | or is it [[JXA]] or JESA, whatever it is,                              |
+| 01:22:57   | in [[JavaScript]] solutions for these problems,                        |
 | 01:23:01   | because it just hasn't been around for very long.                  |
-| 01:23:03   | So I end up still writing mostly in AppleScript,                   |
+| 01:23:03   | So I end up still writing mostly in [[AppleScript]],                   |
 | 01:23:07   | even though it's not a language that I particularly like.          |
 | 01:23:11   | It's the only one where I can get things done,                     |
 | 01:23:15   | certain things done.                                               |

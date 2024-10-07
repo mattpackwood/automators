@@ -6,7 +6,7 @@ notetype: "technology"
 ---
 
 # Overview
-Numbers is a spreadsheet application created by Apple as part of its iWork suite of applications. It adopts a non-traditional model for the spreadsheet where a tabular grid is not in fact the base component but rather a canvas. This approach enables Numbers spreadsheets to be composed in a way that allows for easier styling for output in a non-traditional format as any included media is not tied to a table cell.
+Numbers is a spreadsheet application created by [[Apple]] as part of its iWork suite of applications. It adopts a non-traditional model for the spreadsheet where a tabular grid is not in fact the base component but rather a canvas. This approach enables Numbers spreadsheets to be composed in a way that allows for easier styling for output in a non-traditional format as any included media is not tied to a table cell.
 
 # Operating Systems
 - macOS
@@ -29,7 +29,7 @@ Numbers is a spreadsheet application created by Apple as part of its iWork suite
 # Notes
 - Numbers is available for free on macOS and iOS devices.
 - Numbers has very limited support in [[Shortcuts]], and more extensive automation support through [[AppleScript]].
-- Integration with Apple Pencil on iPad
+- Integration with [[Apple Pencil]] on iPad
 
 # Links
 - [Official Numbers Website](https://www.apple.com/uk/numbers/)

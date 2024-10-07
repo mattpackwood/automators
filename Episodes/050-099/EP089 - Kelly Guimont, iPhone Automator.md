@@ -100,13 +100,13 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 02:46      | Possibly. Possibly.                                                                                      |
 | 02:48      | But Kelly, you are a very busy person. I know you and I have been friends for a long time.               |
 | 02:55      | I remember us meeting back at Macworld, back when there was a Macworld.                                  |
-| 02:59      | But you are also a very tech-savvy person, particularly when it comes to Apple hardware.                 |
+| 02:59      | But you are also a very tech-savvy person, particularly when it comes to [[Apple]] hardware.                 |
 | 03:05      | And I know that you do a lot of automation stuff, but I don't know how you got started in it.            |
 | 03:12      | What led you down the garden path of automation?                                                         |
 | 03:18      | Well, it was sort of a one-two punch.                                                                    |
-| 03:22      | So I live in Portland and before Apple stores, Apple retail stores were a common site.                   |
+| 03:22      | So I live in Portland and before [[Apple Store\|Apple Stores]], [[Apple]] retail stores were a common site.                   |
 | 03:30      | Most of the time, if you wanted sort of that retail experience,                                          |
-| 03:33      | but to have it be around Apple products, you had to have an Apple authorised reseller                    |
+| 03:33      | but to have it be around [[Apple]] products, you had to have an [[Apple]] authorised reseller                    |
 | 03:39      | where you were that had a storefront that you could actually go to.                                      |
 | 03:43      | And there was one here that was called MacForce.                                                         |
 | 03:45      | They're still here, but they don't look quite the same as they used to.                                  |
@@ -490,11 +490,11 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 34:37      | able to figure out, I need to confirm which one it is, so that I can make my phone call, join my         |
 | 34:42      | conference call, listen to music, whatever I'm doing. Okay, can I just say that I love this              |
 | 34:47      | automation for, like, a bunch of reasons? And the first is that it works, you know, the AirPods are      |
-| 34:53      | supposed to switch between devices. But how does Apple know which device I want to be using when         |
+| 34:53      | supposed to switch between devices. But how does [[Apple]] know which device I want to be using when         |
 | 34:59      | I've got two or three of them sitting around me at the same time? So, you know, it's not, it almost      |
 | 35:06      | would be creepy if they did know exactly which one I wanted every time. But the other thing I love       |
 | 35:11      | about this is, you know, we do the show Automators, and we talk to a lot of people about automation.     |
-| 35:16      | And some people have very complicated, you know, very deep JavaScript automation that does amazing       |
+| 35:16      | And some people have very complicated, you know, very deep [[JavaScript]] automation that does amazing       |
 | 35:23      | things. And I love that stuff. But I want the listeners to know that you don't have to do that           |
 | 35:29      | to make a very useful automation. In this case, Kelly made a, really, it's a one step automation         |
 | 35:35      | in shortcuts. It's setting the output to the AirPods. And then you were smart enough to realise,         |
@@ -504,14 +504,14 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 35:57      | we'll get a screenshot or a link or something from Kelly so you can see it if this is new to you.        |
 | 36:01      | But I just love that you made this very simple automation that just makes your life so much              |
 | 36:07      | easier. You know, good on you, Kelly. It really is great. And I particularly like the addition of        |
-| 36:13      | the Play Audio, because I think one of the things that Apple didn't really factor in                     |
+| 36:13      | the Play Audio, because I think one of the things that [[Apple]] didn't really factor in                     |
 | 36:18      | to this automated switching, because as you said, it connects to the device that you're                  |
 | 36:23      | expecting it to connect to about 2% of the time. It's probably because, like me, when you put            |
 | 36:29      | your AirPods in, it's not because you're going to continue using the device you were just actively       |
 | 36:33      | using. It's because you're about to switch devices to something else and do a completely                 |
 | 36:37      | different task. And that's the point where the automation of, I'm going to pick which thing              |
 | 36:43      | I think you were using last fails miserably, because it does the same thing when it comes                |
-| 36:48      | to responding to our, hey, Apple lady requests. Whereas, you know, our HomePods, our iPads,              |
+| 36:48      | to responding to our, hey, [[Apple]] lady requests. Whereas, you know, our HomePods, our iPads,              |
 | 36:54      | our iPhones have a little conference between themselves incredibly quickly to figure out                 |
 | 36:59      | which one of us are you talking to? Yeah. And I mean, it's amazing that they do that, but                |
 | 37:04      | they still get it wrong sometimes. Though, if you haven't turned this around, you can actually           |
@@ -611,7 +611,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 45:22      | automation, and I know you were a little hesitant at the beginning to do [[HomeKit]],                        |
 | 45:27      | but I also know that you kind of dove in at this point. So what's the state of [[HomeKit]]                   |
 | 45:32      | for Kelly and what are your automations for it? Well, it sort of became more important                   |
-| 45:42      | about a year ago because last November, Apple released the HomePod mini and my birthday is in            |
+| 45:42      | about a year ago because last November, [[Apple]] released the HomePod mini and my birthday is in            |
 | 45:50      | November. And so I said I wanted one for my birthday and I got one and set it up in the kitchen          |
 | 45:56      | because it was a place I wanted to have a nice speaker that was a thing that I could also talk           |
 | 46:00      | to if I wanted. And so I set it up in the kitchen as sort of a test. And we had a number of              |
@@ -628,7 +628,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 47:18      | the triple problem with HomePod minis. A little bit. Yeah. So like, you know, there'd just be            |
 | 47:25      | one sitting on the counter, you know, that was just sort of a hint to me, like go find a place           |
 | 47:31      | that this needs to be set up. So we now have, so we have them in all the places that the                 |
-| 47:39      | Amazon devices were. And so now I've sort of been working everything into working properly               |
+| 47:39      | [[Amazon]] devices were. And so now I've sort of been working everything into working properly               |
 | 47:47      | with [[HomeKit]] so that it was worth it to actually start deploying those everywhere and make them          |
 | 47:53      | things that it was actually useful to be able to tell her to open the door or open the garage door       |
 | 48:01      | or close the garage door, turn on and off lights and set up some basic scenes for things like            |
@@ -706,8 +706,8 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 54:57      | as like control centre, like if you spend 10 minutes making all the buttons in control centre,           |
 | 55:01      | the things that you actually need them to be, like control centre, all of a sudden becomes               |
 | 55:06      | super duper useful, you know, and it's not useful to a lot of people, depending on what's in there       |
-| 55:11      | now. So put this in it or, you know, add the calculator or add the Apple TV remote or take               |
-| 55:16      | away the Apple TV remote and make it something else that you use a lot instead. And it's really          |
+| 55:11      | now. So put this in it or, you know, add the calculator or add the [[Apple TV]] remote or take               |
+| 55:16      | away the [[Apple TV]] remote and make it something else that you use a lot instead. And it's really          |
 | 55:21      | about sort of coming at it fresh every time and being able to go, Okay, this is the problem I'm          |
 | 55:27      | trying to solve and be able being able to see it for what it is and not just well, this is the way       |
 | 55:32      | things are, I guess I just come home and it's dark and there's nothing to be done. You know,             |
@@ -748,7 +748,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 58:46      | Locks are there to keep out the honest people as it is anyway. If somebody wants in, they don't          |
 | 58:50      | care if it's a lock or a smart lock. They're just going to get in either way. They're not going to       |
 | 58:54      | sit outside with a laptop and hack your door lock. They'll smash it first.                               |
-| 58:58      | And I have faith in home kid of being fairly secure. I think that's pretty important to Apple.           |
+| 58:58      | And I have faith in home kid of being fairly secure. I think that's pretty important to [[Apple]].           |
 | 59:04      | So yeah, I just don't worry about it. And that was also a really nice upgrade. I agree.                  |
 | 59:11      | Kelly, when we were talking, you and I kind of got on the subject of pesky problems,                     |
 | 59:16      | which I think is kind of a fun way to think about it. I mean, you've got a mindset of like,              |
@@ -768,7 +768,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:00:36   | you know, there's separate steps. And so that's part of why print to this print PDF service              |
 | 01:00:45   | is so great. And was actually one of the things I was very nervous about last winter when I got          |
 | 01:00:52   | my M1 was, oh, God, is this still going to work? Because like, I don't know if I can use my computer     |
-| 01:00:57   | until David updates it, if it's not going to happen. At some point, Apple wrote an article               |
+| 01:00:57   | until David updates it, if it's not going to happen. At some point, [[Apple]] wrote an article               |
 | 01:01:02   | about that in the app store. So I feel like that that trick is now canon, you know,                      |
 | 01:01:07   | yes, I think it's official. So I don't, I don't have to worry quite so much. So that that makes me,      |
 | 01:01:12   | it makes me happy. Another pesky problem that I work, I'm not working on solving the actual              |
@@ -838,7 +838,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:06:57   | better. Not that I don't want them to fail, because there's always going to be things that               |
 | 01:07:01   | are going to fail for whatever reason, but I would like the failure to be more obvious,                  |
 | 01:07:06   | and I would like the failure to be better delineated. If the problem is the script,                      |
-| 01:07:16   | the JavaScript that I inserted into a shortcut or something, just tell me, I can't run the script        |
+| 01:07:16   | the [[JavaScript]] that I inserted into a shortcut or something, just tell me, I can't run the script        |
 | 01:07:23   | even as opposed to just computer says no, which is usually what we get, and then you have to figure      |
 | 01:07:30   | out, in my two-step shortcut, it's pretty easy to tell which step is the one that didn't work,           |
 | 01:07:36   | but if you have 10 or 15 even, and that's not even close to being sort of an adult-sized                 |
@@ -857,7 +857,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:08:56   | while it was running, which was really nice. And I found it just doesn't do that anymore.                |
 | 01:09:00   | And I'm not sure why it doesn't do that, because it kind of grays everything out                         |
 | 01:09:06   | as though it were doing going to do that, but it just doesn't. And it's a little weird.                  |
-| 01:09:13   | I think to a degree Apple wants it to just work, you know, but this is a programming                     |
+| 01:09:13   | I think to a degree [[Apple]] wants it to just work, you know, but this is a programming                     |
 | 01:09:17   | environment and error reporting is important in that. I mean, just yesterday, I mean, unrelated          |
 | 01:09:24   | to this show, I was working on a shortcut that involves a new focus mode and they have triggers          |
 | 01:09:30   | now in the automation tab where if you turn on a focus mode, the shortcut will run.                      |
@@ -889,7 +889,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:11:58   | features and working right now. And so that's something that I think we could use. And the               |
 | 01:12:03   | thing that worries me about that stuff is that a lot of people are now discovering shortcuts             |
 | 01:12:08   | because it suddenly appeared on their Mac. And if their initial experiences are bad,                     |
-| 01:12:14   | then it's going to be the Apple Maps problem all over again. There's some people like,                   |
+| 01:12:14   | then it's going to be the [[Apple Maps]] problem all over again. There's some people like,                   |
 | 01:12:18   | this is bad. I'm not going to do this anymore. And it's going to get a bad reputation from               |
 | 01:12:22   | people who haven't spent the time. And David, the thing I take away from your story is                   |
 | 01:12:30   | that not everyone has rosemary to text and go, here's what happened to my shortcut.                      |
@@ -908,16 +908,16 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:13:48   | shortcut that I didn't need to spend. And so for somebody who is coming new to it and is not somebody    |
 | 01:13:54   | who is hardwired for problem solving or thinks that troubleshooting is a good time,                      |
 | 01:14:00   | shortcuts is going to end up with a bad reputation very rapidly or worse. It's going to end up like      |
-| 01:14:06   | Automator did, which is like Apple brought it out so that people could use it instead of Apple           |
-| 01:14:12   | Script and it just went nowhere. It just sits there and waits for someone to discover it and it          |
+| 01:14:06   | [[Automator]] did, which is like [[Apple]] brought it out so that people could use it instead of [[AppleScript]]           |
+| 01:14:12   | and it just went nowhere. It just sits there and waits for someone to discover it and it          |
 | 01:14:19   | never happens. The other problem with shortcuts and the failure is that there's no logs. Because         |
 | 01:14:27   | a lot of the time during the beta period, fortunately this has been fixed now, I was                     |
 | 01:14:33   | waking up and I would have alerts on my phone, which were something like shortcuts                       |
 | 01:14:41   | couldn't access this random thing. And it was a random thing. It was something like                      |
 | 01:14:47   | it was a random string of characters. And clearly what it was trying to do was read                      |
 | 01:14:51   | something out of the system and it just didn't have access to it for whatever reason. But                |
-| 01:14:56   | I didn't actually know which shortcut it was. It was something like WF Background Shortcut               |
-| 01:15:00   | Runner Error Domain 1. That was it. Oh, that's helpful. Yeah. And it's like, okay, I've got a            |
+| 01:14:56   | I didn't actually know which shortcut it was. It was something like "WF Background Shortcut               |
+| 01:15:00   | Runner Error Domain 1". That was it. Oh, that's helpful. Yeah. And it's like, okay, I've got a            |
 | 01:15:06   | screenshot of this favourited so that I can read this out because it's come up a few times. And           |
 | 01:15:12   | then it's just like, what is going on there? Why am I as the end user getting this? And also,            |
 | 01:15:23   | it says, an error occurred while running your shortcut. Great. Thank you. Which shortcut? I              |
@@ -962,7 +962,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:19:04   | Definitely. Yeah. I agree. I think that's something that could get better. Overall,                      |
 | 01:19:13   | I'm really happy with the, especially on the Mac, the number of different ways we can automate.          |
 | 01:19:19   | It's crazy. And they all kind of serve a different purpose. I guess we should have                       |
-| 01:19:24   | mentioned Rose at the beginning of the show. Keyboard Master has a new version out, guys.                |
+| 01:19:24   | mentioned Rose at the beginning of the show. [[Keyboard Maestro}] has a new version out, guys.                |
 | 01:19:30   | Yeah. Yeah. We're going to dive into that at some point in the not too distant future.                   |
 | 01:19:33   | Yeah. We're going to give it an episode, but it looks really good. But I mean,                           |
 | 01:19:38   | you've got stuff like [[Keyboard Maestro]] and [[AppleScript]] and [[JavaScript]], but you've also got                |
@@ -993,7 +993,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:22:04   | automation. Maybe it should be titled the time I nearly got divorced or something. Even if you're        |
 | 01:22:15   | not married to your partner, I can imagine them being angry enough that that might be the                |
 | 01:22:21   | considered solution to their problems at that moment in time with some of the issues that                |
-| 01:22:26   | people encounter. In my bedside table, I have a Lutron switch, which is like the Panic switch.           |
+| 01:22:26   | people encounter. In my bedside table, I have a [[Lutron]] switch, which is like the Panic switch.           |
 | 01:22:32   | If I push it, it turns all the lights in the house on. Like at night, if you hear a noise,               |
 | 01:22:38   | I just reach over and push that button. But I also program it that if you long press it,                 |
 | 01:22:44   | it turns all the lights off in the house. And I have to do a thing with my eyes at nights.               |

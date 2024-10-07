@@ -133,10 +133,10 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 04:55      | six on it, six buttons. The next level up is three rows of five or 15 buttons. And then                   |
 | 05:03      | after that, there's one with four rows of eight for 32 buttons. And the price ranges                      |
 | 05:10      | for the six button one, it's 80 bucks for the 15 one button one, at least in the US                       |
-| 05:15      | Amazon. It's $150. And the 32 button one is currently unavailable. I think it was a little                |
+| 05:15      | [[Amazon]]. It's $150. And the 32 button one is currently unavailable. I think it was a little                |
 | 05:23      | over $200.                                                                                                |
-| 05:24      | Yeah. So I got mine on Amazon a little while ago for 210 pounds. They were unavailable                    |
-| 05:30      | on Amazon UK for a very long time. And then they popped up at 230 pounds. And then Amazon                 |
+| 05:24      | Yeah. So I got mine on [[Amazon]] a little while ago for 210 pounds. They were unavailable                    |
+| 05:30      | on [[Amazon]] UK for a very long time. And then they popped up at 230 pounds. And then [[Amazon]]                 |
 | 05:36      | had a sale right as my accountant sent me an email said, you know, if there's anything                    |
 | 05:41      | you would like to purchase, do so now. And I got the email from CamelCamelCamel to tell                   |
 | 05:47      | me that the price had dropped pretty much right after that email and went, okay, well,                    |
@@ -146,7 +146,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 06:03      | field guide release. I wanted to include content in the keyboard and menstrual field guide                |
 | 06:09      | because as we'll talk about the show, this is a great tool to trigger [[Keyboard Maestro]]                    |
 | 06:13      | scripts. And I bought it thinking, well, I'm going to try this. And if I like it, I'll                    |
-| 06:18      | keep it. But unless it's really useful to me, I'll end up just returning it to Amazon.                    |
+| 06:18      | keep it. But unless it's really useful to me, I'll end up just returning it to [[Amazon]].                    |
 | 06:26      | As Ro said at the top of the show, for the [[Keyboard Maestro]] element of this, it's just                    |
 | 06:31      | a substitute for a keyboard shortcut or any of the other many triggers you can use with                   |
 | 06:34      | a [[Keyboard Maestro]]. So I got thinking, why would I want that? My hands are already on                     |
@@ -193,7 +193,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 09:59      | Which is perfect. I should also mention, at least for people in the UK, Curry's PC world                  |
 | 10:05      | usually has [[Stream Deck\|Stream Decks]] in stock. And for people in the US, Best Buy and Target are                      |
 | 10:11      | the two places that I've seen people in the Relay FM [[Discord]] discussing that they've                     |
-| 10:15      | recently bought their [[Stream Deck\|Stream Decks]] at. So if you can't find it on Amazon or, you know,                    |
+| 10:15      | recently bought their [[Stream Deck\|Stream Decks]] at. So if you can't find it on [[Amazon]] or, you know,                    |
 | 10:22      | the shipping's going to take a while, then it's worth having a look in some other places.                 |
 | 10:25      | I'll go to on their website, do link to a local retailer. So check out, you know, whoever's               |
 | 10:30      | local, who are you're living. But there, there's certainly some other options there                       |
@@ -225,7 +225,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 12:27      | I can say, okay, I want me with my iPhone to the right of me. Or I want my iPad with                      |
 | 12:33      | me with a little round floating head in the corner. Or I want my iPhone full screen with                  |
 | 12:38      | me as a little round floating head, because then if I rotate my iPhone, like if I'm showing               |
-| 12:42      | off an Apple Arcade game or something, which is better in landscape, then, you know, I                    |
+| 12:42      | off an [[Apple Arcade]] game or something, which is better in landscape, then, you know, I                    |
 | 12:46      | can do that too. And it's really useful for things like that. But also just so many more                  |
 | 12:52      | apps have been adding support and people have been creating third party plugins for these                 |
 | 12:57      | as well. I'm just getting more and more excited every couple of days, it seems, because there's           |
@@ -289,7 +289,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 17:54      | doing and they were getting it fixed. And they got it working well before the Big Sur                     |
 | 17:59      | became out of beta, which for a lot of third party hardware developers, they don't even                   |
 | 18:04      | start looking at, at their hardware until after Big Sur ships, you know, for, for a                       |
-| 18:10      | lot of the third party stuff, they'll say, well, we'll wait until Apple's done and then                   |
+| 18:10      | lot of the third party stuff, they'll say, well, we'll wait until [[Apple\|Apple's]] done and then                   |
 | 18:13      | we'll, we'll fix it. Well, these guys were fixing it beforehand. So that was really encouraging           |
 | 18:18      | to me to see them being active like that. It's not discoverable for some of the best                      |
 | 18:25      | features. Like we talk, we're going to talk today about how we use multiple setups or                     |
@@ -469,7 +469,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 33:08      | these are all the ones that have been submitted and they've gone through the [[Elgato]], I guess              |
 | 33:13      | approval process is the right word. Now you will find some of these are Windows only.                     |
 | 33:18      | And so they might not work on the Mac, but there are, there's ones there for running                      |
-| 33:25      | AppleScript. And there's KM link, which we'll get to and so on. But you know, that's where               |
+| 33:25      | [[AppleScript]]. And there's KM link, which we'll get to and so on. But you know, that's where               |
 | 33:30      | I've got the ones for Philips Hue, Visual Code Studio, Nanoleaf, [[Keynote]] and [[Microsoft PowerPoint\|PowerPoint]],                  |
 | 33:38      | because I have to use [[Microsoft PowerPoint\|PowerPoint]] at work. So I downloaded the [[Microsoft PowerPoint\|PowerPoint]] one. And you                     |
 | 33:44      | know, and all of these other ones, which is just, you know, it's very helpful to do that.                 |
@@ -976,7 +976,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:17:17   | that button. Because of course, whenever I start podcasting, then the audio input has                     |
 | 01:17:21   | to be set to, or yes, or the audio output has to be set to my XLR interface.                              |
 | 01:17:27   | Nice. Yeah, I've looked at that one and I've not used it because of the XLR problem. I                    |
-| 01:17:34   | would love the ability to switch the input, but I guess that's an Apple thing because                     |
+| 01:17:34   | would love the ability to switch the input, but I guess that's an [[Apple]] thing because                     |
 | 01:17:39   | all the apps-                                                                                             |
 | 01:17:40   | The switch to the input is what I'm doing. So that works really well. And I've got a                      |
 | 01:17:44   | link to that one in the show notes for everyone.                                                          |
@@ -1025,7 +1025,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:21:20   | or ask everybody to unmute and things like that. And also for leaving the meeting, though                 |
 | 01:21:25   | pro tip, you can also just do that with command w. And if you if you leave the meeting or want            |
 | 01:21:32   | to end the meeting, that works too. So, you know, that that's another way of doing it.                    |
-| 01:21:38   | But the beauty of this is people won't need to sit out there and keyboard master macros                   |
+| 01:21:38   | But the beauty of this is people won't need to sit out there and [[Keyboard Maestro}] macros                   |
 | 01:21:42   | and things like that. And if something changes, then the person behind this plugin is going               |
 | 01:21:45   | to go ahead and do it. And of course, this has got icons automatically associated with                    |
 | 01:21:49   | it. Whereas if you do everything with the KM link plugin, you're going to want to change                  |
@@ -1186,30 +1186,30 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:34:10   | everywhere. And I'm looking forward actually to my Sonos Roam arriving. I should arrive                   |
 | 01:34:14   | hopefully just before this episode releases, but we're recording a little bit in advance                  |
 | 01:34:18   | here so I can also have music in the bathroom. So that'll be good.                                        |
-| 01:34:25   | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from                     |
-| 01:34:28   | Devon Technologies. [[DEVONthink]] is the most professional document and information management              |
+| 01:34:25   | This episode of Automated is brought to you by DEVONthink, the flagship product from                     |
+| 01:34:28   | Devon Technologies. DEVONthink is the most professional document and information management              |
 | 01:34:33   | application for the Mac. It's the one place for storing all your documents, snippets,                     |
 | 01:34:38   | or bookmarks and working with them. The integrated AI assists you with filing and searching or            |
 | 01:34:43   | the extensive search language with advanced billion search operators means you'll never                   |
-| 01:34:47   | lose anything again. [[DEVONthink]] features a flexible sync system that supports many cloud                 |
+| 01:34:47   | lose anything again. DEVONthink features a flexible sync system that supports many cloud                 |
 | 01:34:52   | services or lets you synchronise over the local network too with everything securely                      |
 | 01:34:57   | encrypted. This gives you the choice for however syncing works best for you. It has smart rules           |
 | 01:35:03   | and flexible reminders that let you automate all parts of your workflow and delegate boring               |
-| 01:35:07   | repeating tasks. Let [[DEVONthink]] automatically organise your data with the rules you define.              |
-| 01:35:14   | [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac. There's no                        |
-| 01:35:17   | part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality with your                 |
+| 01:35:07   | repeating tasks. Let DEVONthink automatically organise your data with the rules you define.              |
+| 01:35:14   | DEVONthink's AppleScript dictionary is one of the largest on the Mac. There's no                        |
+| 01:35:17   | part of DEVONthink that can't be automated. Extend DEVONthink's functionality with your                 |
 | 01:35:21   | own commands by adding them to its Scripts menu. Even templates can have scripts inside                   |
 | 01:35:26   | and you can set up new documents with data from placeholders or inserted by your own                      |
-| 01:35:30   | [[AppleScript]] code. And of course, there's so much more. From an iOS companion app to                      |
+| 01:35:30   | AppleScript code. And of course, there's so much more. From an iOS companion app to                      |
 | 01:35:35   | email archiving, scanning, or even an embedded web server for sharing your data securely                  |
-| 01:35:40   | with your team. I love the fact that I can just throw things at [[DEVONthink]] and really                    |
+| 01:35:40   | with your team. I love the fact that I can just throw things at DEVONthink and really                    |
 | 01:35:44   | it's like magic happens. And honestly, when I haven't set up my rules and I haven't set                   |
 | 01:35:49   | up things, I don't need to worry because I will be able to find that document again.                      |
 | 01:35:54   | Anybody who needs to manage lots of documents of loads of different types and make notes                  |
-| 01:35:58   | on them should take a look at [[DEVONthink]]. I love it because I can literally throw anything               |
-| 01:36:03   | in it. And because it's using my [[Dropbox]], in my case, it could use iCloud for you. I                      |
+| 01:35:58   | on them should take a look at DEVONthink. I love it because I can literally throw anything               |
+| 01:36:03   | in it. And because it's using my Dropbox, in my case, it could use iCloud for you. I                      |
 | 01:36:08   | don't need to worry about running out of storage space or paying for an extra subscription.               |
-| 01:36:12   | I'm just using what I've got. You can get an extra 10% off [[DEVONthink]] or upgrade to                      |
+| 01:36:12   | I'm just using what I've got. You can get an extra 10% off DEVONthink or upgrade to                      |
 | 01:36:16   | it right now. Just go to DEVONtechnologies.com/Automators. That's DEVONtechnologies.com             |
 | 01:36:24   | slash Automators for 10% off. Our thanks to DEVONtechnologies for their support of this                   |
 | 01:36:28   | show and all of Relay FM.                                                                                |
@@ -1250,7 +1250,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:39:20   | that. And I can do that locally. And that, you know, speeds things up just a little bit.                  |
 | 01:39:26   | Because of course, if you have to send a command to the hue servers, and then the hue servers             |
 | 01:39:30   | have to send that to your hue hub, and then your hue hub has to send that to your light                   |
-| 01:39:33   | bulbs, that's going to take longer than your Mac going to your Apple TV or HomePod or HomePod             |
+| 01:39:33   | bulbs, that's going to take longer than your Mac going to your [[Apple TV]] or HomePod or HomePod             |
 | 01:39:38   | Mini and going, hey, lights turn on, which, you know, communicates with the hub. But because              |
 | 01:39:43   | it's all on a local network, it's just much faster. And so you can do, you can run actions,               |
 | 01:39:49   | and then you can, you've got an action type, which you trigger, which can be a scene, or                  |
@@ -1267,7 +1267,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:40:48   | my window where I work, and there's a pump in there that has a little waterfall. It's                     |
 | 01:40:53   | not like super fancy, but I like the sound of the water. And so I set that up and put                     |
 | 01:40:58   | a button on my [[Stream Deck]], and then I press the button, and then I heard water, and it's                 |
-| 01:41:03   | like, oh, this is changes everything. So everything, all my, you know, all my Lutron                      |
+| 01:41:03   | like, oh, this is changes everything. So everything, all my, you know, all my [[Lutron]]                      |
 | 01:41:11   | switches, all the, anything that's addressable on [[HomeKit]], I can now put a button on my stream            |
 | 01:41:16   | deck. I also tested it on my front door lock. I can unlock my door with my [[Stream Deck]].                   |
 | 01:41:23   | That is great. I love that. One, or a couple of pro tips that I'm going to give people                    |

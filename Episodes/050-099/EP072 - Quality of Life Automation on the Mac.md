@@ -91,17 +91,17 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:05      | the most lately is window management. I haven't talked about it on this show, but I went through         |
 | 01:10      | a whole sordid tale where I traded my iMac Pro to a guy and, you know, money changed                     |
 | 01:17      | hands. And I ended up with a ridiculously overrated, overpriced, I guess it's not overrated              |
-| 01:26      | or overpriced, but it's out of my wheelhouse. I bought one of those fancy Apple monitors                 |
+| 01:26      | or overpriced, but it's out of my wheelhouse. I bought one of those fancy [[Apple]] monitors                 |
 | 01:32      | through a trade. And it's way more monitor than I need. It's got a bunch of features                     |
 | 01:39      | that I don't really use, but I figured the Intel iMac wasn't going to have value much                    |
 | 01:45      | longer. So trading it for a fancy monitor that I can use with hopefully a future Apple                   |
 | 01:50      | Silicon Mac just kind of made sense. Wait, David, are you telling me that you have a                     |
-| 01:55      | crystal ball because you got rid of your iMac Pro before Apple killed the iMac Pro line?                 |
+| 01:55      | crystal ball because you got rid of your iMac Pro before [[Apple]] killed the iMac Pro line?                 |
 | 02:01      | Yeah, I felt better after that happened. I mean, I felt kind of sad because I thought                    |
 | 02:04      | that was probably my favourite Intel Mac I ever owned, but, but, you know, getting rid                    |
 | 02:09      | of it, you know, the writing was on the wall when you see that a MacBook Air can render                  |
 | 02:15      | video faster than my iMac Pro. So you can only imagine what it's going to be like when                   |
-| 02:21      | they release future Apple Silicon Macs that have more cores and are going to, you know,                  |
+| 02:21      | they release future [[Apple Silicon]] Macs that have more cores and are going to, you know,                  |
 | 02:26      | just run circles around an iMac Pro. So, so anyway, I've got a very fancy monitor that                   |
 | 02:31      | I feel guilty about owning because it's more monitor than I deserve. It does a lot in terms              |
 | 02:38      | of brightness that I don't really need. But one thing I really like about it is the size.                |
@@ -361,10 +361,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 24:08      | So, David, one of the things that we kind of touched on, slash, danced around in the                     |
 | 24:14      | window management segment was the workspace setup and getting applications open when we                  |
 | 24:21      | need them, and closing them when we don't need them, and things like that. And I know                    |
-| 24:27      | I'm using Keyboard Master for this. I'm guessing you're probably using Keyboard Master, too?             |
+| 24:27      | I'm using [[Keyboard Maestro}] for this. I'm guessing you're probably using [[Keyboard Maestro}], too?             |
 | 24:31      | Yeah. I mean, historically, that's been the whole thing. I did a video on YouTube on                     |
 | 24:35      | it a couple of years ago, and a lot of people have used that as a basis. And so, window                  |
-| 24:42      | setup with Keyboard Master, as I was saying, is possible. You can put it on. And the way                 |
+| 24:42      | setup with [[Keyboard Maestro}], as I was saying, is possible. You can put it on. And the way                 |
 | 24:48      | he did it, which I think is really actually pretty clever, is you set the window size                    |
 | 24:54      | based on a percentage of screen size, because if you're in an iMac and then you go over                  |
 | 24:58      | to a laptop, you know, if you set specific pixels, it's just going to be a mess, and                     |
@@ -554,7 +554,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 40:53      | a 12 inch, it feels so much easier. So worst case scenario, folks borrow somebody's 12                   |
 | 40:59      | inch machine for a little while and see how you feel about it. However, you know, the trick              |
 | 41:06      | is, um, for me, like, you know, figuring out how much do I actually need to see on this                  |
-| 41:13      | machine at this time. And also using spaces, spaces in the, the Apple sense of this space                |
+| 41:13      | machine at this time. And also using spaces, spaces in the, the [[Apple]] sense of this space                |
 | 41:20      | has these applications or this space has these applications on it and using the multi finger             |
 | 41:24      | swipe to swipe between the spaces, because that's what I do, especially on the 12 inch                   |
 | 41:29      | and the 13 inch. And I find that that really works. You know, I can say, okay, I'm, I'm                  |
@@ -687,7 +687,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 52:47      | And you can, you know, and where you're doing the the format rename, it's got custom format.             |
 | 52:52      | And you do have to have something in there for it to do that. But oh my gosh, that's this.               |
 | 52:58      | It's just great. And wow, am I impressed with this?                                                      |
-| 53:02      | Yeah. And Apple, I haven't found a knowledge based article on it, but they do have a user guide.         |
+| 53:02      | Yeah. And [[Apple]], I haven't found a knowledge based article on it, but they do have a user guide.         |
 | 53:09      | They've got some details on this. And we're going to put that in the show notes and                      |
 | 53:14      | and let people check that out. But it is really nice to know you can do this without a third party app.  |
 | 53:19      | So yeah, it really is. And it can just be as simple as, you know, you've you've dragged,                 |
@@ -764,7 +764,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:00:08   | called me and had a couple of questions and I wanted to record that call into an [[Obsidian]] note.          |
 | 01:00:15   | So I quickly dictated it and I made a [[Drafts]] action that saves it to a very particular folder            |
 | 01:00:22   | in [[Dropbox]]. And the reason I use [[Dropbox]] for this one is because you can address individual              |
-| 01:00:27   | folders in [[Dropbox]] where with the iCloud you can't. So back on my Mac, [[Hazel]]'s looking at that folder    |
+| 01:00:27   | folders in [[Dropbox]] where with the iCloud you can't. So back on my Mac, [[Hazel\|Hazel's]] looking at that folder    |
 | 01:00:34   | and one of them is, you know, client communication notes, whatever, blah, blah, blah. But it sees a      |
 | 01:00:39   | new file appeared there and it just drops it right into [[Obsidian]] in the right place. So,                 |
 | 01:00:46   | you know, I can go to my Mac and everything is already there and I didn't have to spend a                |
@@ -997,7 +997,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:21:26   | Oh, yeah. And I looked down and she just chewed the end right off. And I'm like, damn. But fortunately,  |
 | 01:21:31   | the big [[Stream Deck]], you can actually replace the cable on the smaller ones. I understand you can't.     |
 | 01:21:36   | Yeah, yeah, I've got the medium size, which actually works great for me. I keep looking at the           |
-| 01:21:40   | large [[Stream Deck]], but it's not available on Amazon at the moment in the UK, though for anybody in       |
+| 01:21:40   | large [[Stream Deck]], but it's not available on [[Amazon]] at the moment in the UK, though for anybody in       |
 | 01:21:45   | the UK who's listening, curries do have them in stock. But the problem is, is I don't feel like          |
 | 01:21:52   | I can justify it right now because I'm really happy with the medium size. I would love a replaceable     |
 | 01:21:57   | cable, though, because the cable on this A extremely long, B USB A, not USB C. So, you know,             |
@@ -1111,8 +1111,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:31:58   | it's a comment bubble with a green checkmark in it. And these are just some things that I've made        |
 | 01:32:04   | by overlaying PNGs on top of each other in Pixelmator. You know, nothing too fancy or crazy,             |
 | 01:32:12   | but it works. So, yeah, I took [[Stephen Millard]], who was a guest in episode 68. He has a script           |
-| 01:32:21   | that will run and pull out all of the [[SF Symbols]] which is Apple's kind of open source. Well,            |
-| 01:32:27   | it's not open source, but Apple's common icon set. And he can in, so I just ran his script to put        |
+| 01:32:21   | that will run and pull out all of the [[SF Symbols]] which is [[Apple\|Apple's]] kind of open source. Well,            |
+| 01:32:27   | it's not open source, but [[Apple\|Apple's]] common icon set. And he can in, so I just ran his script to put        |
 | 01:32:33   | them all on a dark gray background. And so for like in the Microsoft Word one, it's just a               |
 | 01:32:38   | bunch of icons, but it's just faster seeing the icon and pushing the button than any other way           |
 | 01:32:43   | that I'm aware of. So it's pretty cool. I really love that. And I also have a bonus tip for you,         |
@@ -1150,8 +1150,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:35:34   | network to with everything securely encrypted. This gives you the choice for however syncing             |
 | 01:35:39   | works best for you. It has smart rules and flexible reminders that let you automate all parts of your    |
 | 01:35:45   | workflow and delegate boring, repeating tasks. Let [[DEVONthink]] automatically organise your data        |
-| 01:35:50   | with rules you define. [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac.         |
-| 01:35:55   | There's no part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality           |
+| 01:35:50   | with rules you define. [[DEVONthink\|DEVONthink's]] [[AppleScript]] dictionary is one of the largest on the Mac.         |
+| 01:35:55   | There's no part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink\|DEVONthink's]] functionality           |
 | 01:36:00   | with your own commands by adding them to its Scripts menu. Even templates can have Scripts inside        |
 | 01:36:06   | and you can set up new documents with data from placeholders or inserted by your own [[AppleScript]]        |
 | 01:36:12   | code. And of course, there's so much more from the iOS companion app to email archiving, scanning,       |
@@ -1239,8 +1239,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:44:08   | Before we go, you and I had both written down a couple apps in the process of this outline that          |
 | 01:44:14   | are kind of like quality of life automation apps that are kind of out of the normal that                 |
 | 01:44:19   | I thought we should mention. Yeah. I'll start with [[Amphetamine]]. No, it's not a drug. It's a drug for     |
-| 01:44:26   | your Mac. It's in the Mac App Store. There was recently a thing where Apple asked them to rename         |
-| 01:44:32   | even though they've had that name for years and then Apple went back and said, actually, no, it's        |
+| 01:44:26   | your Mac. It's in the Mac App Store. There was recently a thing where [[Apple]] asked them to rename         |
+| 01:44:32   | even though they've had that name for years and then [[Apple]] went back and said, actually, no, it's        |
 | 01:44:36   | fine. But I love [[Amphetamine]] because it's for people who've used the caffeine command in the             |
 | 01:44:43   | terminal or Java, latte, there's a couple of different ones. They're all pretty much coffee              |
 | 01:44:51   | based names for the Mac. Little menu bar applications that sit in the menu bar on your Mac               |

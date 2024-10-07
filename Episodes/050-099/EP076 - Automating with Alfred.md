@@ -339,7 +339,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 23:54      | or [[Bartender]], one of those apps. For me, that app is definitely [[Alfred]]. I mean,                          |
 | 24:00      | there's several apps, let's be honest. But [[Alfred]] is one of those that I feel like I really need it      |
 | 24:05      | to be actively, productively using my computer. Yeah, you know, I hear that once in a while              |
-| 24:13      | from pundits where they say, hey, I don't want things like [[Alfred]] or keyboard master on my               |
+| 24:13      | from pundits where they say, hey, I don't want things like [[Alfred]] or [[Keyboard Maestro}] on my               |
 | 24:18      | computer, because I want to be able to sit at any Mac and be able to run it the same,                    |
 | 24:22      | and I have to worry about that. And that argument is completely lost on me. I'm like,                    |
 | 24:28      | how often do you sit at some random computer and do work? I mean, the only computers I sit               |
@@ -449,7 +449,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 34:00      | kind of a solved problem. I like the ability that it can run [[AppleScript\|AppleScripts]]. And I've just got            |
 | 34:05      | all kinds of weird automation stuff running through TextExpander. But what are the advantages for       |
 | 34:10      | [[Alfred]]? How does this emoji thing work? Well, let's start with snippets and [[Alfred]]. So once              |
-| 34:16      | again, you're going to need to open [[Alfred]]'s preferences, command space, command comma.                  |
+| 34:16      | again, you're going to need to open [[Alfred\|Alfred's]] preferences, command space, command comma.                  |
 | 34:21      | And then under the feature section, there's snippets and clippings. So to start with,                    |
 | 34:28      | you're probably going to want to have a poke around there. And I know those of you who used              |
 | 34:32      | [[Alfred]] before might find things like [[Alfred]] to snippets hanging around, which yes, I have. And           |
@@ -503,7 +503,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 39:07      | because you can't decide what's best. So saving them all in your email application doesn't work for      |
 | 39:11      | you. So save them as text snippets instead, and then expand them wherever you need them.                 |
 | 39:16      | Yeah, you know, the emoji problem is an interesting one. So this is one more potential solution for      |
-| 39:22      | it. I mean, the real problem with emoji, in my opinion, is that, you know, Apple didn't finish           |
+| 39:22      | it. I mean, the real problem with emoji, in my opinion, is that, you know, [[Apple]] didn't finish           |
 | 39:27      | the job, you know, control command space opens up a keyboard with the emoji where you can pick           |
 | 39:34      | from it, but it doesn't have an easy search. And it's just like, it's like, they had a lunch             |
 | 39:39      | meeting that day or something, and they forgot to come back to it. I don't know what happened there.     |
@@ -547,7 +547,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 43:04      | going to type when this is done. And then you can also just ignore dynamic placeholders,                 |
 | 43:10      | which means that those things won't be expanded for you.                                                 |
 | 43:14      | So I mean, this is, it's not as fully fledged as something like TextExpander,                           |
-| 43:20      | where you can use JavaScript to write custom things, which will do magical math to make stuff            |
+| 43:20      | where you can use [[JavaScript]] to write custom things, which will do magical math to make stuff            |
 | 43:25      | happen. But it's pretty good. Like if you want to get started with text expansion,                       |
 | 43:31      | you could do much worse than starting with [[Alfred]].                                                       |
 | 43:33      | Yeah, especially if you've already got a license. I mean, go for it.                                     |
@@ -582,13 +582,13 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 46:43      | offer is search Google for, and then you hit return. And then you type your search, you know,            |
 | 46:48      | automators podcast, and then it goes off and does a search of automators podcast on Google for you.      |
 | 46:54      | But there's so much more because, you know, everybody does Google searches, but why not                  |
-| 46:59      | target your search? Like, you want to search in Google Maps or Apple Maps, or you want to translate.     |
+| 46:59      | target your search? Like, you want to search in Google Maps or [[Apple Maps]], or you want to translate.     |
 | 47:05      | Like, if I just type TRA, then it opens up the ability to translate. One that I do all the time          |
 | 47:13      | is Drive. It's Google Drive. It searches my Google Drive for automators outline, you know.               |
-| 47:19      | IMDB, eBay, another one that I use sadly too much is Amazon. Like, you type Amazon, and it searches      |
-| 47:28      | the Amazon store for whatever it is you want. So rather than going to Amazon and trying to do the        |
+| 47:19      | IMDB, eBay, another one that I use sadly too much is [[Amazon]]. Like, you type [[Amazon]], and it searches      |
+| 47:28      | the [[Amazon]] store for whatever it is you want. So rather than going to [[Amazon]] and trying to do the        |
 | 47:33      | search in their app, you just type AMA, in my case, return, then whatever product you're looking at,     |
-| 47:38      | and it opens up Amazon. Now, in order to make that Amazon one work, one of the things you need to do     |
+| 47:38      | and it opens up [[Amazon]]. Now, in order to make that [[Amazon]] one work, one of the things you need to do     |
 | 47:42      | is when you set up [[Alfred]] the first time under the General tab is you need to indicate your country,     |
 | 47:47      | so it searches the right store. But, you know, you want to do that. But I just, I mean, all of these,    |
 | 47:54      | another one I use all the time is YouTube. Like, I want to go into YouTube and learn about Greek         |
@@ -604,15 +604,15 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 48:48      | Yeah, yeah. So I use the built-in ones, and I've got a couple of custom ones as well.                    |
 | 48:53      | And I definitely second David's tip. Under general, make sure your country is set correctly.             |
 | 48:57      | After I moved from Austria, I had to go and change that because it was searching                         |
-| 49:01      | Amazon Germany for me. Because I actually, so a little tip, if you don't have a local Amazon,            |
+| 49:01      | [[Amazon]] Germany for me. Because I actually, so a little tip, if you don't have a local [[Amazon]],            |
 | 49:07      | so for example, you live in Portugal or the Netherlands or Austria, you won't have a local               |
-| 49:12      | Amazon. There is no Amazon Netherlands, Amazon Portugal, Amazon Austria. You use, you know,              |
+| 49:12      | [[Amazon]]. There is no [[Amazon]] Netherlands, [[Amazon]] Portugal, [[Amazon]] Austria. You use, you know,              |
 | 49:17      | your adjacent country. So for Austrian Netherlands, it's probably Germany. And for Portugal, it's Spain, |
-| 49:23      | there's plenty of other countries in the world that have to use another country's Amazon as well.        |
+| 49:23      | there's plenty of other countries in the world that have to use another country's [[Amazon]] as well.        |
 | 49:27      | And so you can, you can customise that. So I changed mine back to the UK, and voila,                     |
-| 49:33      | I'm now searching UK Amazon and UK eBay and UK Google versus, you know, amazon.com, which                |
+| 49:33      | I'm now searching UK [[Amazon]] and UK eBay and UK Google versus, you know, amazon.com, which                |
 | 49:41      | great, but I get murdered on shipping charges and Prime does not deliver next day if I do that.          |
-| 49:46      | So I'm not going to be doing things like that. My Yale lock came from Amazon UK,                         |
+| 49:46      | So I'm not going to be doing things like that. My Yale lock came from [[Amazon]] UK,                         |
 | 49:50      | thanks to one of their actually very good deals. But yeah, it's well worth doing it.                     |
 | 49:56      | Because the other thing is, say I search for something, I don't know, sleep monitor.                     |
 | 50:01      | One of the things that [[Alfred]] will do for you, if you just search for something and it can't find it     |
@@ -620,8 +620,8 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 50:11      | spotlight does, spotlight or the bottom has options to search the web and search in finder.              |
 | 50:17      | Thanks, spotlight. But if you can't find it in finder, we'll find or find it in finder.                  |
 | 50:22      | If you type something and [[Alfred]] can't find it on your computer, it has built-in options to search       |
-| 50:27      | Google, Amazon, and Wikipedia. So if I type sleep monitor in, which is something I don't have much       |
-| 50:33      | of written about on my Mac, then it gives me the options to search Google, search Amazon,                |
+| 50:27      | Google, [[Amazon]], and Wikipedia. So if I type sleep monitor in, which is something I don't have much       |
+| 50:33      | of written about on my Mac, then it gives me the options to search Google, search [[Amazon]],                |
 | 50:38      | and search Wikipedia for those three options for that phrase or query, rather. And that's great          |
 | 50:47      | because it means if you type something and you thought, oh, man, I thought I bookmarked that             |
 | 50:51      | because guess what, [[Alfred]] can search your bookmarks too. We might have to talk about that in a          |
@@ -753,7 +753,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:02:30   | wait till later, because while we're on these little ones, I think another one I would mention           |
 | 01:02:35   | is system preferences and system commands. So with [[Alfred]], like you can put your computer to             |
 | 01:02:45   | sleep, and all you have to do is type command space and then sleep, and then it puts your computer       |
-| 01:02:51   | to sleep, or restart. And there's some of these things that for whatever reason, Apple just doesn't      |
+| 01:02:51   | to sleep, or restart. And there's some of these things that for whatever reason, [[Apple]] just doesn't      |
 | 01:02:57   | put those in spotlight. Maybe they don't want somebody accidentally shutting down, but [[Alfred]]            |
 | 01:03:01   | trusts you. And so all the system commands that you normally do, like I can never remember               |
 | 01:03:07   | the weird keyboard shortcuts for restart, sleep, turn monitor off. I know it involves the escape         |
@@ -769,10 +769,10 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:04:01   | altimeters and the guest who's going to be on because she's fabulous and amazing,                        |
 | 01:04:05   | or something like that. And you know, it ends up being a lot more than I want when I get                 |
 | 01:04:12   | their first thing in the morning. And I just want to quickly do this one. Oh, no, no, okay,              |
-| 01:04:17   | I've got 80,000 things open from yesterday. And I get sucked into this Amazon tab that I had open        |
+| 01:04:17   | I've got 80,000 things open from yesterday. And I get sucked into this [[Amazon]] tab that I had open        |
 | 01:04:22   | looking at battery packs, because I never have enough battery packs. I have a max safe one now,          |
 | 01:04:26   | David. I don't know how that happened. Oh, Rose, just wait till you have kids. I mean,                   |
-| 01:04:30   | honestly, I think I just need to tell Amazon to send me a new battery every two months because           |
+| 01:04:30   | honestly, I think I just need to tell [[Amazon]] to send me a new battery every two months because           |
 | 01:04:37   | they just disappear. Yeah, I keep my battery in my little workbench in my studio and everybody           |
 | 01:04:43   | knows where it is. And every time I go, it's gone. I swear my parents are the same. Like every time      |
 | 01:04:51   | I go over there, I end up giving them a battery pack. My mom really wanted my max safe battery           |
@@ -787,14 +787,14 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:05:38   | say, our Anker? I think PowerWave? Yeah. And it showed up. It was the first result.                     |
 | 01:05:44   | You can get a 10,000 milliamp hour one delivered tomorrow for $49.99. Boy, they make it easy,            |
 | 01:05:51   | don't they? I see the little circle on the back. So you can just lay your phone on top of it if          |
-| 01:05:55   | you want. Nice. Does it charge your watch too? No, because it's only, so Apple watches are a bit         |
+| 01:05:55   | you want. Nice. Does it charge your watch too? No, because it's only, so [[Apple Watch\|Apple Watches]] are a bit         |
 | 01:06:03   | finicky to charge. So it doesn't charge that as well, unfortunately. But so, oh wait, it depends         |
 | 01:06:11   | on which one you're looking at. I will make sure that the link to the correct one is in the show         |
-| 01:06:14   | notes for everybody. It doesn't show up immediately when I search for it on Amazon. And I, of course,    |
-| 01:06:21   | bought it from Amazon UK versus Amazon.com. $39.99. It is the 5,000 milliamp hour one,                   |
+| 01:06:14   | notes for everybody. It doesn't show up immediately when I search for it on [[Amazon]]. And I, of course,    |
+| 01:06:21   | bought it from [[Amazon]] UK versus Amazon.com. $39.99. It is the 5,000 milliamp hour one,                   |
 | 01:06:27   | and the link is officially in the show notes. Thank you to [[Alfred]] for helping me create that link.       |
 | 01:06:35   | Well, I do think it's cool that you access this stuff so quickly. In fact, almost some days,             |
-| 01:06:40   | I feel like the Amazon one should be turned off. I want to have a little side rabbit hole there,         |
+| 01:06:40   | I feel like the [[Amazon]] one should be turned off. I want to have a little side rabbit hole there,         |
 | 01:06:44   | gang. But on system settings, one thing you can do is you can actually, in the settings for [[Alfred]],      |
 | 01:06:50   | once again, command space, command comma, if you go under feature, system is towards the bottom.         |
 | 01:06:54   | You can individually require confirmation for a lot of the commands, like restart or shutdown            |
@@ -874,7 +874,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:13:54   | web searches, bookmarks, music control and clipboard snippets. And each of these gives you               |
 | 01:14:02   | a 16 button pane. So, you can also add, there's also workflows and blank pages. So, if you added         |
 | 01:14:09   | a blank page, you'd get a grid of 16 buttons. And those 16 buttons, you can program.                     |
-| 01:14:17   | Oh, wow, David, you can do anything you like. You can run an AppleScript command,                       |
+| 01:14:17   | Oh, wow, David, you can do anything you like. You can run an [[AppleScript]] command,                       |
 | 01:14:20   | terminal command, keyboard combination. You can trigger a specific [[Alfred]] workflow. We're going          |
 | 01:14:25   | to have to talk about those in a minute. You can open [[Alfred]] preferences. You can do                     |
 | 01:14:32   | anything you like. Open URLs, open files. You name it, David. It's here.                                 |
@@ -930,14 +930,14 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:19:20   | You want to share one of your favourites? I mean, I love those. So do I get to dive right into the        |
 | 01:19:27   | weeds now? David or do you want one of my simpler ones to start with? Yeah, you can have a simple        |
 | 01:19:31   | one. Let's try this. Okay. Well, one of my simple ones is with [[Yoink]]. So I mentioned this before,        |
-| 01:19:36   | but in [[Yoink]]'s preferences, so [[Yoink]] is a Mac application, which is a shelf. And I have it               |
+| 01:19:36   | but in [[Yoink\|Yoink's]] preferences, so [[Yoink]] is a Mac application, which is a shelf. And I have it               |
 | 01:19:41   | appear over on the left side of my screen, my start dragging a file, because then I can shove            |
 | 01:19:46   | that file in [[Yoink]]. And this is really useful. It doesn't actually, the file doesn't actually            |
 | 01:19:49   | move to [[Yoink]]. It just basically a shortcut to the file lives there. And then you can drag it off        |
 | 01:19:54   | to wherever later. And this can be useful for a variety of things. But finding files by digging          |
 | 01:20:00   | through Finder is one of my least favourite things to do. You know, I just, I don't really do it.         |
 | 01:20:06   | And so I usually find it with [[Alfred]]. And then I have [[Yoink]] as one of my options there. So I can         |
-| 01:20:13   | add that to [[Yoink]]. And this is specified as a file action. So under [[Yoink]]'s preferences,                 |
+| 01:20:13   | add that to [[Yoink]]. And this is specified as a file action. So under [[Yoink\|Yoink's]] preferences,                 |
 | 01:20:18   | you can actually specify to install this [[Alfred]] workflow. And I'd highly recommend doing that            |
 | 01:20:25   | if you use [[Yoink]]. Yeah, okay. That's a good one. We talked, I think, on this show recently about         |
 | 01:20:32   | how the ones that I'm really, I'm just a huge fan of the OmniFocus ones that were created by,            |
@@ -1008,7 +1008,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:26:44   | at what he's done here, go, wow, amazing. And then go have a look at one of the simpler ones             |
 | 01:26:51   | to get started, like the DEVONthink search. I mean, that one's still kind of complicated,             |
 | 01:26:54   | but send to [[Yoink]], for example, that's a two action workflow. It has your file action,                    |
-| 01:27:00   | which is your trigger, and then it's got an apple script. Okay, time zones, a little bit more            |
+| 01:27:00   | which is your trigger, and then it's got an [[AppleScript]]. Okay, time zones, a little bit more            |
 | 01:27:06   | complicated because you've got multiple triggers. But there, there's some great resources on the         |
 | 01:27:11   | [[Alfred]] website, which I've linked to in the show notes for everybody, so that you can see,               |
 | 01:27:18   | you know, how to create one. But it is kind of amazing that, you know, you can do all of this.           |
@@ -1070,11 +1070,11 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:32:16   | change the trigger to option space, and then that frees up command space for [[Alfred]].                     |
 | 01:32:23   | The couple other things in the general where you talked about, make sure you set your country.           |
 | 01:32:31   | What about appearance? [[Alfred]] has a bunch of different themes. Do you have a...                          |
-| 01:32:35   | So I mean, I'm using, I think it's [[[Alfred]] purple](https://www.alfredforum.com/topic/4028-minimal-purple-alfred-theme/) version two by @ianisted. And I don't remember         |
-| 01:32:43   | now if this is a default one or if it's one that you need to install. But under [[Alfred]]'s appearance,     |
+| 01:32:35   | So I mean, I'm using, I think it's [Alfred purple](https://www.alfredforum.com/topic/4028-minimal-purple-alfred-theme/) version two by @ianisted. And I don't remember         |
+| 01:32:43   | now if this is a default one or if it's one that you need to install. But under [[Alfred\|Alfred's]] appearance,     |
 | 01:32:51   | you can also control a whole bunch of other things as well. So if you go into the appearance one,        |
 | 01:32:57   | it's the paint roller, then you can have a look through. There's a whole bunch of themes on              |
-| 01:33:04   | various websites out there. And [[Alfred]]'s natively got light themes and dark themes and                   |
+| 01:33:04   | various websites out there. And [[Alfred\|Alfred's]] natively got light themes and dark themes and                   |
 | 01:33:09   | modern themes with more rounded corners, a classic one, which has a kind of                              |
 | 01:33:15   | dark translucent gray chunky border around things, a macOS one, which is very Big Sur.                   |
 | 01:33:23   | And of course, macOS dark. And once you've found your theme, then if you tap on or click on the          |
@@ -1086,7 +1086,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:33:58   | result shortcuts means the command and the number. So if I was talking about that earlier in your        |
 | 01:34:03   | diagram, I don't see that you've probably hidden that with this option. And you can talk about           |
 | 01:34:09   | that on and off per theme. Okay. So make sure that you change that. This is also where you               |
-| 01:34:15   | hide or unhide the menu bar icon. I believe [[Alfred]]'s menu bar icon is hidden by default.                 |
+| 01:34:15   | hide or unhide the menu bar icon. I believe [[Alfred\|Alfred's]] menu bar icon is hidden by default.                 |
 | 01:34:22   | And you can always, you know, get it back. I quite like having it. I've got it hidden in                 |
 | 01:34:27   | bartender. But it's, you know, it's useful to have. And then under this, I mean,                         |
 | 01:34:36   | there's a whole bunch of options in here, we can talk about this for hours, David.                       |

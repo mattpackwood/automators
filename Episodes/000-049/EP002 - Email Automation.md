@@ -47,7 +47,7 @@ David throws out [[TextExpander]] as the starting point because saving snippets 
 
 Both David and Rose use [[Automator]] on the Mac but agree it should be more powerful. Very quickly Rose presses on to [[Keyboard Maestro]]. Rose then explains how she uses a Keyboard Maestro script to look for the existence of a file to automatically assemble and send an email. David gets irrationally happy about the thought of email getting sent without any direct involvement. 
 
-Then our nerdy automators take on sorting email. Both of our hosts get too much pleasure from auto sorting unwanted email out of their life. David bangs on about a years-old request to make Apple's cloud-based email rules stronger. [[TextExpander - Insert Recipient Name|David mentions his beloved AppleScript that auto inserts an email recipient's name]]. 
+Then our nerdy automators take on sorting email. Both of our hosts get too much pleasure from auto sorting unwanted email out of their life. David bangs on about a years-old request to make [[Apple|Apple's]] cloud-based email rules stronger. [[TextExpander - Insert Recipient Name|David mentions his beloved AppleScript that auto inserts an email recipient's name]]. 
 
 [[The Omni Group (Sponsor)|The Omni Group]] sponsored this show, and Rose and David agree that they're swell. 
 
@@ -55,7 +55,7 @@ Then Rose and David move on to iOS email automation. The way email apps make you
 
 And then they get to [[Workflow]]. So much talking about Workflow. Ultimately, David admits to being "that guy".
 
-Then our hosts address cloud-based automation, and David closes up banging the drum about dictation and email. Rose and David both love the secret [[Drafts]] unending dictation tool. If you're reading this and you're from Apple, move along. This is not the app you're looking for.
+Then our hosts address cloud-based automation, and David closes up banging the drum about dictation and email. Rose and David both love the secret [[Drafts]] unending dictation tool. If you're reading this and you're from [[Apple]], move along. This is not the app you're looking for.
 
 - [The Big Explanatory Post on this Episode](https://www.macsparky.com/blog/2018/7/automators-ep-2-email-automation)
 - [Home | Automators](https://automators.fm/)
@@ -223,7 +223,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 11:02      | up under different contexts. Like [[Gmail]] has some really powerful cloud-based mail rules.                                          |
 | 11:08      | The [[Apple Mail]] has a mail rule system built in, which is actually pretty powerful as well.                                        |
 | 11:14      | It is, yeah. It has to happen on your Mac, which is, when you say you're running rules,                                               |
-| 11:19      | are you running the rules through [[ Apple Mail]], even though you're using [[Airmail]] as your client?                                |
+| 11:19      | are you running the rules through [[Apple Mail]], even though you're using [[Airmail]] as your client?                                |
 | 11:23      | So what I've got is I've got a Mac mini, which is actually a Mac mini server model.                                                   |
 | 11:28      | And it just sits there all day and it's running mail so it can execute certain rules. So I have                                       |
 | 11:34      | rules in [[Gmail]] as well. They're called filters in [[Gmail]], actually, which moves certain things as                              |
@@ -234,7 +234,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 12:02      | that allow you to do that as well. I have this issue lately where somebody has got some business                                      |
 | 12:07      | where they edit photos. It's a photo editing service. And they have managed to breach my walls.                                       |
 | 12:14      | I mean, they send me two or three emails a day and they have it from a different sender every                                         |
-| 12:19      | time. So it's just not something that's easily defeatable. So I came up with an Apple Mail rule                                       |
+| 12:19      | time. So it's just not something that's easily defeatable. So I came up with an [[Apple Mail]] rule                                       |
 | 12:26      | that looks for certain words in the subject line. And all I'm going to say, if you send me an email                                   |
 | 12:30      | about feedback and it includes words like photo editing service in the subject line, I'm never                                        |
 | 12:35      | going to see it. That's the great thing. I've done that as well. There's some certain newsletters                                     |
@@ -255,7 +255,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 13:58      | You know, it's funny because [[iCloud]] email has some very rudimentary rules built in where you                                      |
 | 14:05      | could do some sorting and filing. I don't know if you could do filing, but you could do some basic                                    |
 | 14:10      | stuff with the iCloud rules. But then if you look at the rules available on the Mac itself,                                           |
-| 14:15      | they're so much more powerful. I really wish Apple would would put those cloud, those rules that                                      |
+| 14:15      | they're so much more powerful. I really wish [[Apple]] would would put those cloud, those rules that                                      |
 | 14:21      | got locally into the cloud so you could have it happening without needing to run an extra Mac in                                      |
 | 14:25      | the background somewhere. Yes. But at the same time, the advantage of having the rules in mail                                        |
 | 14:31      | on your Mac or in an app on your Mac is that it then applies to all accounts. So it doesn't                                           |
@@ -268,9 +268,9 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 15:01      | getting the same spamming things to multiple email addresses. And it's so, like I said,                                               |
 | 15:07      | just spend some time in there. It's so powerful. I mean, you can really slice the onion thin                                          |
 | 15:12      | to get exactly the kind of rules you want. You can go deeper with the Mac-based automation,                                           |
-| 15:18      | and that really involves [[AppleScript]]. Over the years, I've had and abandoned several AppleScripts                                 |
+| 15:18      | and that really involves [[AppleScript]]. Over the years, I've had and abandoned several [[AppleScript\|AppleScripts]]                                 |
 | 15:25      | that I applied to email filing and different things. The one that's really stuck with me over                                         |
-| 15:30      | the years is I put together an AppleScript years ago. And it's just all it does is it grabs the                                       |
+| 15:30      | the years is I put together an [[AppleScript]] years ago. And it's just all it does is it grabs the                                       |
 | 15:36      | first name of the recipient out of the recipient field and paste it in to wherever I type it. So                                      |
 | 15:44      | it's an [[AppleScript]]. And I actually combine this with a [[TextExpander]] snippet. So                                              |
 | 15:48      | that you can embed an [[AppleScript]] into [[TextExpander]]. So if I just type `xhi`, you know, `x` `h` `i`,                          |
@@ -287,15 +287,15 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 16:47      | spelling wise. It's a very useful time saver. And especially if you're going to use dictation,                                        |
 | 16:52      | the other thing, because dictation gets always hung up on names. So having that part of it                                            |
 | 16:57      | automated allows you to just start dictating the body of the text without having to worry                                             |
-| 17:02      | about it getting the name wrong. Do you do any AppleScripting for your email?                                                         |
-| 17:07      | I have had AppleScripts in the past, but like you, most of them have fallen by the wayside on                                         |
-| 17:12      | the way, things that I previously had in mail rules with AppleScripts. In some cases, I've                                            |
+| 17:02      | about it getting the name wrong. Do you do any [[AppleScript\|AppleScripting]] for your email?                                                         |
+| 17:07      | I have had [[AppleScript\|AppleScripts]] in the past, but like you, most of them have fallen by the wayside on                                         |
+| 17:12      | the way, things that I previously had in mail rules with [[AppleScript\|AppleScripts]]. In some cases, I've                                            |
 | 17:17      | replaced with a [[Keyboard Maestro]] and other kinds of automations running on my Mac, because it's a                                 |
 | 17:23      | more efficient way of doing things. And it means that I don't need to receive emails to trigger                                       |
 | 17:26      | things to happen. I just receive files and then they get deleted automatically or something.                                          |
 | 17:32      | Yeah, that's exactly me too. Every [[AppleScript]] I have has been deprecated by features in mail                                     |
 | 17:39      | act on or [[Keyboard Maestro]] or [[TextExpander]], where I feel like those third party apps are                                      |
-| 17:44      | giving me easier to build automation and more reliable because AppleScripts break and then                                            |
+| 17:44      | giving me easier to build automation and more reliable because [[AppleScript\|AppleScripts]] break and then                                            |
 | 17:48      | you got to go try and figure it out. And it's just, it's a big problem.                                                               |
 | 17:52      | Exactly. And especially with something like [[Keyboard Maestro]], the developer puts in all                                           |
 | 17:55      | the work for you. And it's really nice because you can duplicate an existing automation and then                                      |
@@ -322,7 +322,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 19:49      | and soon to be Siri shortcuts dialled into OmniFocus so hard. I have to have an iPad next to my Mac                                   |
 | 19:56      | all day so I can run them to script new projects in OmniFocus. It's just the best way to get this                                     |
 | 20:01      | stuff done and really keeps me on track. In addition, for automator fans, Omni Group is working on a                                  |
-| 20:07      | version of JavaScript for their app that's going to allow us to further script it on all platforms.                                   |
+| 20:07      | version of [[JavaScript]] for their app that's going to allow us to further script it on all platforms.                                   |
 | 20:11      | So listen, if you're listening to the automators, you're going to like the Omni software and we                                       |
 | 20:15      | are so happy to have them as a sponsor. Did you know they agreed to sponsor the show before they                                      |
 | 20:19      | even heard an episode? Since they heard what me and Rose were up to, they said they wanted in.                                        |
@@ -356,7 +356,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 23:05      | how you're going to implement mail across the various platforms. If you're going to use one                                           |
 | 23:08      | application, an app specific link makes sense. I believe Spark does it the same way. I wanted                                         |
 | 23:15      | to check it before we recorded and I ran out of time, Rose. I forgot. I'm very sorry. I ran out                                       |
-| 23:20      | of time as well. But I believe [[Spark]], from memory, Spark has or had a specific [[URL Schemes|URL scheme]] for Spark              |
+| 23:20      | of time as well. But I believe [[Spark]], from memory, Spark has or had a specific [[URL Schemes\|URL scheme]] for Spark              |
 | 23:28      | for opening messages again. Yeah. The other big one that Rose already mentioned is [[Dispatch]].                                      |
 | 23:33      | Dispatch gives you the option to create a system level link to email, which will work with Apple                                      |
 | 23:40      | Mail or a dispatch specific one. And since dispatch doesn't exist on the Mac, I would think you would                                 |
@@ -371,7 +371,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 24:33      | if you're like me and can meet on public transport in the morning, that's quite tricky to do when                                     |
 | 24:37      | holding onto a tram pole in one hand and then trying to balance your iPad in the crook of your                                        |
 | 24:41      | arm. It's recipe for disaster. Don't recommend that. So that's one of the reasons why I stick                                         |
-| 24:45      | with that mail. It's very good for that. And the other problem with Apple Mail is, you know,                                          |
+| 24:45      | with that mail. It's very good for that. And the other problem with [[Apple Mail]] is, you know,                                          |
 | 24:50      | you can't do drag and drop on a phone. I mean, if you want to get, if I have an email come in                                         |
 | 24:56      | on [[Apple Mail]] and I want to save it to [[OmniFocus]] for later, I mean, [[OmniFocus]] has a service where                         |
 | 25:03      | you can forward an email and it creates a link for you in essence. But I mean, the traditional                                        |
@@ -573,8 +573,8 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 42:24      | Yeah. And the great thing about your iPhone, and this is, you know, you'll probably hear me say                                       |
 | 42:29      | this hundreds of times, is it's the device you have with you. You know, if you have an iPhone,                                        |
 | 42:34      | you're going to have it with you most of the time. And some of these, you could actually even trigger                                 |
-| 42:38      | from your Apple Watch and just have it run from there. I wouldn't necessarily recommend sending                                       |
-| 42:43      | email from your Apple Watch. It might be ill advised, depending on exactly what you're doing.                                         |
+| 42:38      | from your [[Apple Watch]] and just have it run from there. I wouldn't necessarily recommend sending                                       |
+| 42:43      | email from your [[Apple Watch]]. It might be ill advised, depending on exactly what you're doing.                                         |
 | 42:48      | But, you know, there's so much power in that small device that you have with you.                                                     |
 | 42:52      | So, yes, it's very, very useful.                                                                                                      |
 | 42:54      | What about you? Any interesting [[Workflow]] email automations you'd like to share?                                                   |
@@ -675,7 +675,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 50:55      | server, so that happens even before my Mac mini sees it. Gotcha. Okay. Well, it would work either                                     |
 | 51:00      | way, but you can go level deeper with this stuff if you roll your own. Yeah. The web-based email                                      |
 | 51:10      | composition, I don't do much of this to tell you the truth, but all the stuff we were talking about,                                  |
-| 51:15      | like auto-creating emails, a keyboard master workflow, that's available to a lesser extent                                            |
+| 51:15      | like auto-creating emails, a [[Keyboard Maestro}] workflow, that's available to a lesser extent                                            |
 | 51:22      | through services like [[IFTTT]], if this than that, or [[Zapier]]. I feel like in order to get the most out                           |
 | 51:29      | of [[IFTTT]] with email, you really need to be on a Gmail account. The [[IMAP]] tools are very limited,                               |
 | 51:36      | whereas Gmail gives them information about the sender and contents. So you can get a lot more                                         |
@@ -705,12 +705,12 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 53:52      | money. It's better, but it costs money. And then [[Drafts]] on iOS is a really great place. We're                                     |
 | 53:57      | talking earlier about sometimes you want to send an email out and you don't want to go into your                                      |
 | 54:02      | inbox, you write it in [[Drafts]]. Greg at [[Drafts]] has done something very clever. I'm almost hesitant                             |
-| 54:07      | to talk about this on a podcast because I don't want someone at Apple to hear about it, but                                           |
+| 54:07      | to talk about this on a podcast because I don't want someone at [[Apple]] to hear about it, but                                           |
 | 54:13      | the usually Siri has a timer on it. I think it's about 45 seconds. At least the last time I ran                                       |
 | 54:17      | a stopwatch against it, it was about 45 seconds. But Greg has done a thing where it somehow loops                                     |
 | 54:23      | magically and you can talk longer than 45 seconds and the dictation continues to run,                                                 |
 | 54:28      | which is very convenient. It's the best use of [[Siri]] dictation on the iPhone is in that app.                                       |
-| 54:35      | So that's another place you may want to try. And you can use that on the Apple Watch as well,                                         |
+| 54:35      | So that's another place you may want to try. And you can use that on the [[Apple Watch]] as well,                                         |
 | 54:39      | which means that you can be going around talking to your watch, composing that email,                                                 |
 | 54:44      | you know, potentially we're doing a bunch of other things as well, because we're all very                                             |
 | 54:47      | busy people. And that's really, really nice. I talk to my watch a lot more than I should                                              |

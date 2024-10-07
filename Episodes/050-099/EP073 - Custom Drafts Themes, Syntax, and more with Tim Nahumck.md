@@ -311,7 +311,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 20:44      | of explaining what is a syntax and why is that important in [[Drafts]]?                                  |
 | 20:49      | I will try to do that justice. A syntax is just the built-in grammar that the file uses.             |
 | 20:59      | You might just want simple text. You might want to write in markdown or multi-markdown.              |
-| 21:03      | You may be writing JavaScript or even setting some things up in Taskpaper. Those have been          |
+| 21:03      | You may be writing [[JavaScript]] or even setting some things up in Taskpaper. Those have been          |
 | 21:08      | kind of the general syntaxes for a while. What a syntax file allows you to do is it's                |
 | 21:16      | a lot more complicated than a theme file is. It still uses JSON to really navigate everything,       |
 | 21:25      | but you need to know regular expressions, more commonly called regex. It's not for the               |
@@ -332,7 +332,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 23:05      | how everything looks. It's a really powerful tool. I don't know if you have anything more            |
 | 23:10      | to add to that, Rose.                                                                                |
 | 23:12      | I would also mention that syntax is commonly referred to in programming terms, so you have           |
-| 23:18      | a programming syntax and that's usually, if you open, say for example, a JavaScript file,            |
+| 23:18      | a programming syntax and that's usually, if you open, say for example, a [[JavaScript]] file,            |
 | 23:25      | then that will look one way and then if you open, I don't know, say just a text file,                |
 | 23:32      | then that will just probably be like black text on a white background. Usually that's                |
 | 23:35      | what happens. An application, I'm going to use [[BBEdit]] as an example here because it supports           |
@@ -742,7 +742,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 58:42      | I can access it from a whole bunch of places, which makes it pretty easy.                            |
 | 58:45      | I have solved or dealt with two similar problems lately. Um, like you, I also use [[Obsidian]]           |
 | 58:51      | to store a lot of data and I write everything in [[Drafts]]. You know, I don't write that much           |
-| 58:57      | in obsidian, at least initially. And, um, uh, because I'm using [[Obsidian]]'s end-to-end encryption      |
+| 58:57      | in obsidian, at least initially. And, um, uh, because I'm using [[Obsidian\|Obsidian's]] end-to-end encryption      |
 | 59:03      | model, I don't have a [[Dropbox]] resource to dump these, these files into and said, I've                |
 | 59:08      | got it on my native drive on my Mac. So I made a special folder that's watched by our                |
 | 59:14      | dear friend [[Hazel]]. And, um, I have, um, [[Drafts]] saved to that folder and then Mac, the Mac,           |
@@ -897,7 +897,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:12:38   | that had four by four because I would use that in a whole lot more places. Yeah, so                  |
 | 01:12:42   | yeah. And also, this is an obvious one that would benefit from an interactive widget. It             |
 | 01:12:47   | would be cool if you could have a display draft and have it interact. And that's just                |
-| 01:12:51   | something Apple hasn't got to yet. I would be surprised if we don't get that at [[WWDC]]                 |
+| 01:12:51   | something [[Apple]] hasn't got to yet. I would be surprised if we don't get that at [[WWDC]]                 |
 | 01:12:56   | this year. I think everybody knows. Oh, that's a feature. Yeah. Yeah, even even for their            |
 | 01:13:01   | own apps, reminders, you can't check those off anymore. That's something that I just                 |
 | 01:13:06   | can't believe they ship that without thinking of the usability of it. And people I'm sure            |
@@ -1044,11 +1044,11 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:25:23   | It's been great.                                                                                     |
 | 01:25:24   | We had a couple of friends over for like the first time in a year, I think, you know, recently       |
 | 01:25:30   | and we were in the backyard and we wanted to take a group photo and I set the camera                 |
-| 01:25:34   | on a tripod and then use the Apple Watch camera app. This is kind of an automation. Maybe            |
-| 01:25:40   | you don't know, but if you've got an Apple Watch, it gives you a preview of what the                 |
+| 01:25:34   | on a tripod and then use the [[Apple Watch]] camera app. This is kind of an automation. Maybe            |
+| 01:25:40   | you don't know, but if you've got an [[Apple Watch]], it gives you a preview of what the                 |
 | 01:25:43   | phone sees and then you can press a button on the watch and it counts down three seconds             |
 | 01:25:47   | and takes a picture. And everybody was very impressed with me that I had that ability.               |
-| 01:25:54   | And it's something that everybody owns an Apple Watch and an iPhone can do.                          |
+| 01:25:54   | And it's something that everybody owns an [[Apple Watch]] and an iPhone can do.                          |
 | 01:25:57   | Yeah, I highly recommend that. I've used that several times just to make sure because it's           |
 | 01:26:03   | easier than setting something up on a timer with a countdown and then running to get into            |
 | 01:26:08   | position. You can actually be in position and make sure that you are in the shot because             |
@@ -1124,13 +1124,13 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:31:32   | know, no offense to David Smith or anything. It's just like, I don't want to see the word            |
 | 01:31:35   | widget Smith on my home screen five times. I just want to see nothing. I just want the               |
 | 01:31:40   | picture that I have behind it. And so this is an app that allows that. I just didn't                 |
-| 01:31:44   | think that Apple was originally going to approve it. So hopefully they're not going to take          |
-| 01:31:48   | that away. You know, Apple is Apple. So sometimes they do that. But hopefully, hopefully it's        |
+| 01:31:44   | think that [[Apple]] was originally going to approve it. So hopefully they're not going to take          |
+| 01:31:48   | that away. You know, [[Apple]] is [[Apple]]. So sometimes they do that. But hopefully, hopefully it's        |
 | 01:31:55   | something that stays, but I've been using it that way for a while.                                   |
 | 01:31:57   | Well, gang, if you're interested, you should probably download it soon.                              |
 | 01:32:01   | Yeah. Yeah. Yeah, definitely. Well, those things to grab while it's there. Because,                  |
 | 01:32:07   | you know, even if you think right now that you don't want it, then, you know, if you                 |
-| 01:32:10   | do in six weeks, and it turns out it's temporarily not there for whatever reason, we know Apple      |
+| 01:32:10   | do in six weeks, and it turns out it's temporarily not there for whatever reason, we know [[Apple]]      |
 | 01:32:15   | do these things from time to time, then, yeah, then you can get it back.                             |
 | 01:32:20   | So the only thing that makes me kind of, I guess, think that they're going to allow it               |
 | 01:32:26   | is that other apps have popped up that offer the same functionality. And so those are all            |

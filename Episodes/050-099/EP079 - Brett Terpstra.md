@@ -159,28 +159,28 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 04:46      | How'd you come up with the idea for it?                                                              |
 | 04:48      | Well, very much what you're describing, like I wanted at the base level, I just wanted               |
 | 04:55      | to be able to launch and quit a group of applications with one keystroke.                            |
-| 05:01      | And so obviously that was a combination of, in this case, [[BetterTouchTool]] and some Apple           |
-| 05:07      | script and the process of doing it once, not a big deal, but once you start wanting                  |
+| 05:01      | And so obviously that was a combination of, in this case, [[BetterTouchTool]] and some [[AppleScript]]           |
+| 05:07      | and the process of doing it once, not a big deal, but once you start wanting                  |
 | 05:13      | to expand that and have different sets of apps in different groups, it just seemed like              |
 | 05:18      | there should be, I just wanted to write it down in a plain text document and, and like               |
 | 05:24      | list the names of the apps and have them launch.                                                     |
-| 05:27      | And so that was where Bunch began.                                                                   |
-| 05:29      | Yeah, and, and just to explain how simple the syntax for Bunch is, if you want mail                  |
-| 05:35      | to launch in your Bunch, you type mail on a single line.                                             |
+| 05:27      | And so that was where [[Bunch]] began.                                                                   |
+| 05:29      | Yeah, and, and just to explain how simple the syntax for [[Bunch]] is, if you want mail                  |
+| 05:35      | to launch in your [[Bunch]], you type mail on a single line.                                             |
 | 05:41      | That's it.                                                                                           |
 | 05:42      | I mean, you don't have to put a secret code in or throw a salt over your shoulder.                   |
 | 05:45      | You just type mail and, um, yeah, it's really, really clever.                                        |
 | 05:50      | I mean, because this is not something you need to be super nerd to do.                               |
 | 05:53      | I think that people, when the people say it's a text file, they immediately turn off and             |
-| 05:56      | say, well, I don't know, you know, I don't know how to program Perl, I can't do this.                |
-| 06:00      | No, this isn't Perl.                                                                                 |
+| 05:56      | say, well, I don't know, you know, I don't know how to program [[Perl]], I can't do this.                |
+| 06:00      | No, this isn't [[Perl]].                                                                                 |
 | 06:01      | This is like the easiest syntax in the world.                                                        |
 | 06:03      | If you look in the example one, so I've got the example, I made sure to copy it before               |
 | 06:07      | I started messing around with a whole bunch of things.                                               |
 | 06:09      | Um, uh, and, uh, you know, if the example one you use at, at, like that's like a two-letter          |
 | 06:16      | command and that hides all visible apps.                                                             |
-| 06:19      | And so I immediately was like, okay, I need a template Bunch, um, which I, I did with                |
-| 06:24      | BB Eta because BB Eta has great template files.                                                      |
+| 06:19      | And so I immediately was like, okay, I need a template bunch, um, which I, I did with                |
+| 06:24      | [[BBEdit]] because [[BBEdit]] has great template files.                                                      |
 | 06:26      | Um, and so I, I created a template bunch, which has got, you know, the, the title follow             |
 | 06:31      | by at, at, and then everything else goes underneath that because the first thing I do before,        |
 | 06:36      | you know, doing all of these other things is always hide my stuff.                                   |
@@ -197,7 +197,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 07:12      | Yeah.                                                                                                |
 | 07:13      | Yeah.                                                                                                |
 | 07:14      | Always finder, you know, even like I struggle with this when I was trying to do this through         |
-| 07:17      | keyboard, my show, I cannot hide that damn finder.                                                   |
+| 07:17      | keyboard, my show, I cannot hide that damn [[Finder]].                                                   |
 | 07:20      | It just refuses to go away.                                                                          |
 | 07:23      | If everything else is hidden, it will, if it's, if other apps have visible windows and               |
 | 07:28      | you switch to finder and hit command H, it should hide all windows for you.                          |
@@ -242,7 +242,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 09:34      | text.                                                                                                |
 | 09:35      | And you can do that at any point in a bunch.                                                         |
 | 09:38      | Um, and then you can run all the commands or just go in parentheses.                                 |
-| 09:42      | And a lot of this is stuff you can do in [[AppleScript]], but it's way simpler than AppleScript.       |
+| 09:42      | And a lot of this is stuff you can do in [[AppleScript]], but it's way simpler than [[AppleScript]].       |
 | 09:48      | You just put in parentheses DND and that will turn on, do not disturb, uh, put dark mode             |
 | 09:55      | and it'll switch your, your screen to dark.                                                          |
 | 09:57      | You can even, as of the latest update, you can even change your keyboard input language              |
@@ -285,7 +285,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 12:12      | So you get all the apps you want to arrange on the screen, hide everything else.                     |
 | 12:17      | And then put them where you want them and take a snapshot, and then you can just give                |
 | 12:21      | it a name.                                                                                           |
-| 12:22      | And then in your Bunch, Bunch can run AppleScript raw commands.                                      |
+| 12:22      | And then in your Bunch, Bunch can run [[AppleScript]] raw commands.                                      |
 | 12:26      | You just start the line with an asterisk.                                                            |
 | 12:28      | And then tell application [[Moom]] to arrange windows according to snapshot.                             |
 | 12:33      | And then the name of the snapshot you made.                                                          |
@@ -316,7 +316,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 14:21      | You know, it's not like you're going to be trying, well, if you're like this, you might              |
 | 14:24      | be trying a lot of new apps.                                                                         |
 | 14:25      | But a couple inserts there on kind of follow up on [[Moom]].                                             |
-| 14:30      | You had talked about running an AppleScript to run a [[Moom]] setup, but you can also attach            |
+| 14:30      | You had talked about running an [[AppleScript]] to run a [[Moom]] setup, but you can also attach            |
 | 14:36      | keyboard shortcuts to those setups in [[Moom]].                                                          |
 | 14:38      | Why wouldn't you just press the keyboard shortcut?                                                   |
 | 14:41      | Keyboard shortcuts are valuable.                                                                     |
@@ -324,7 +324,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 14:49      | you can have.                                                                                        |
 | 14:50      | And in the case of snapshots, like I don't need to use a keyboard shortcut on that because           |
 | 14:55      | I'm going to always call that snapshot from like a bunch or from some automation tools.              |
-| 15:01      | So I just give it a name and call it with AppleScript.                                              |
+| 15:01      | So I just give it a name and call it with [[AppleScript]].                                              |
 | 15:04      | And that just reminded me that you are an owner of a hacker keyboard.                                |
 | 15:08      | So we are going to put a pin in that and come back to that about you and your keyboards.             |
 | 15:12      | But I have come across a bit of an epiphany on my keyboard arrangement shortcuts with                |
@@ -662,7 +662,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 35:25      | Well, and that's the nice thing about Bunch is because it's a text file, you could easily            |
 | 35:29      | duplicate it and tweak it very quickly.                                                              |
 | 35:33      | And that is the reason why I'm really attracted to this for this purpose.                            |
-| 35:37      | I mean, Keyboard Master is still amazing app, but I still use it all the time, but I feel            |
+| 35:37      | I mean, [[Keyboard Maestro}] is still amazing app, but I still use it all the time, but I feel            |
 | 35:40      | like this might be a more efficient way for me to handle the setup issue.                            |
 | 35:45      | And I don't even need to pass a variable to Bunch.                                                   |
 | 35:48      | I just need to like, because for me kind of mission control for me is [[Obsidian]].                      |
@@ -689,7 +689,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 37:18      | And honestly, for the kind of stuff Bunch does, I find creating macros for it frustrating,           |
 | 37:26      | which is why, you know, I thought this should just be plain text, yeah.                              |
 | 37:32      | We haven't even mentioned, well, we did mention briefly.                                             |
-| 37:35      | You can fire off an AppleScript with an asterisk, I mean, that's it, you know, type                 |
+| 37:35      | You can fire off an [[AppleScript]] with an asterisk, I mean, that's it, you know, type                 |
 | 37:41      | it in, but you can also do other types of scripting.                                                 |
 | 37:44      | So this actually can run very deep if you want to go down that, down that path.                      |
 | 37:49      | And with stuff like shell scripts, it even offers script monitors.                                   |
@@ -735,7 +735,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 41:10      | to arrange it all for me.                                                                            |
 | 41:12      | It gets, it's pretty intense.                                                                        |
 | 41:14      | I'm on this campaign to get Mac app developers to become more automation friendly and I found        |
-| 41:19      | an avenue that works and that is, because people don't want to deal with AppleScript                |
+| 41:19      | an avenue that works and that is, because people don't want to deal with [[AppleScript]]                |
 | 41:25      | implementation or, you know, whatever the, you know, whatever the hangup is that they                |
 | 41:30      | just don't want to go there because I feel like [[Audio Hijack]] is nearly a perfect app                 |
 | 41:34      | except it is not that automation friendly.                                                           |
@@ -748,7 +748,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 42:00      | Once you put it in the menu bar, I'm home.                                                           |
 | 42:02      | I can, I can automate it, you know, well, and being like, so in the case of forklift,                |
 | 42:08      | which is my favourite file manager, there's a lot of automation that it cannot do that                |
-| 42:13      | finder typically with a little, actually with a lot of AppleScript, you can make finder             |
+| 42:13      | finder typically with a little, actually with a lot of [[AppleScript]], you can make finder             |
 | 42:18      | do it, but you can't do it at all in forklift, but forklift lets you add custom keyboard             |
 | 42:24      | shortcuts for just about everything and including like save sets of windows and tabs.                |
 | 42:30      | And you can just assign a keyboard shortcut and then something like bunch can easily just            |
@@ -765,10 +765,10 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 43:03      | but the Charlie Chapman, the app developer, Charlie, I sent him a note.                              |
 | 43:07      | Hey, Charlie, give me a menu item.                                                                   |
 | 43:09      | That's all I need.                                                                                   |
-| 43:10      | And he wrote me back as like, Oh, that's a lot easier than AppleScript.                             |
+| 43:10      | And he wrote me back as like, Oh, that's a lot easier than [[AppleScript]].                             |
 | 43:14      | Yep.                                                                                                 |
 | 43:15      | Yeah.                                                                                                |
-| 43:16      | AppleScript is not fun to implement.                                                                |
+| 43:16      | [[AppleScript]] is not fun to implement.                                                                |
 | 43:18      | Yeah.                                                                                                |
 | 43:19      | Well, gang, we're going to talk, we're going to go down that rabbit hole.                            |
 | 43:23      | We're going back to it in just a minute, but if you haven't tried bunch, you should.                 |
@@ -838,7 +838,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 47:08      | But last time I tried it, it wasn't as lag-free and seamless as using Karabiner elements.            |
 | 47:17      | So I still am currently using Karabiner elements, but I use [[BetterTouchTool]] so much that if it       |
 | 47:24      | becomes truly viable, I will gladly consolidate and just do it all in [[BetterTouchTool]].               |
-| 47:30      | And I'm hearing reports from people on Apple Silicon having significant problems with Karabiner?     |
+| 47:30      | And I'm hearing reports from people on [[Apple Silicon]] having significant problems with Karabiner?     |
 | 47:36      | Oh, I am not.                                                                                        |
 | 47:39      | Even with SIP enabled on my M1, Karabiner works fine, the latest versions do.                        |
 | 47:43      | Well, I heard from one listener who was having crashes until he had installed Karabiner and          |
@@ -861,7 +861,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 48:41      | I will put that in the show notes.                                                                   |
 | 48:44      | But the idea is, as Brett was saying earlier, we have limited real estate for keyboard shortcuts     |
 | 48:50      | on our devices.                                                                                      |
-| 48:51      | I mean, there's a bunch that Apple has already built into the system.                                |
+| 48:51      | I mean, there's a bunch that [[Apple]] has already built into the system.                                |
 | 48:53      | We can't use those.                                                                                  |
 | 48:54      | I mean, Command-C is taken, right?                                                                   |
 | 48:58      | But there are keys that you can use.                                                                 |
@@ -1074,7 +1074,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:01:11   | It's such a like ingrained part of my life now that I don't think about it all that much.            |
 | 01:01:17   | So I do a lot of key binding hacking.                                                                |
 | 01:01:20   | You're probably familiar with my massive key bindings file for Mac OS, which still works             |
-| 01:01:26   | with Big Sur and Apple Silicon.                                                                      |
+| 01:01:26   | with Big Sur and [[Apple Silicon]].                                                                      |
 | 01:01:29   | I love that it does.                                                                                 |
 | 01:01:32   | So a lot of my keyboard hack, hackery isn't specific to the UHK, um, however, I do have              |
 | 01:01:41   | it customised to the point where even if I got another UHK, I wouldn't be able to use                |
@@ -1082,7 +1082,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:01:48   | Um, like I've, I've customised mine to the point where the keys are exactly where I want             |
 | 01:01:53   | them to be, but not.                                                                                 |
 | 01:01:58   | And I, yeah, I certainly, if I try to type, if I take my laptop and try to type on the               |
-| 01:02:03   | Apple keyboard, both, it feels wrong.                                                                |
+| 01:02:03   | [[Apple]] keyboard, both, it feels wrong.                                                                |
 | 01:02:07   | Like my, I don't, I don't, I don't have feelings in some of my fingers.                              |
 | 01:02:11   | So I can't feel the edges of flat keys, which makes it hard to like touch type.                      |
 | 01:02:17   | So I can't, I can't do it, uh, hardware wise, but also if like, so my hyper key is also              |
@@ -1137,7 +1137,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:05:00   | And then yeah, they said purple.                                                                     |
 | 01:05:02   | So I held out until after that keynote before I decided to buy the Mac mini, but the iMacs           |
 | 01:05:08   | did not excite me enough to change my Mac mini plan.                                                 |
-| 01:05:13   | I did, however, immediately order a new Apple TV remote.                                             |
+| 01:05:13   | I did, however, immediately order a new [[Apple TV]] remote.                                             |
 | 01:05:16   | Yeah.                                                                                                |
 | 01:05:17   | Same.                                                                                                |
 | 01:05:18   | Or a week later anyway.                                                                              |

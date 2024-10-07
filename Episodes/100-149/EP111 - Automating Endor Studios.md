@@ -132,7 +132,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 03:20      | good.                                                                                                     |
 | 03:21      | I was doing some pixel peeping this morning on some of the 2X photos and they look very                   |
 | 03:26      | good.                                                                                                     |
-| 03:27      | And granted, I know Apple does a ton of post-production on those pixels, but they look better than        |
+| 03:27      | And granted, I know [[Apple]] does a ton of post-production on those pixels, but they look better than        |
 | 03:33      | I expected on the 2X.                                                                                     |
 | 03:34      | And then I also am really curious for you as a software developer, what is your feeling                   |
 | 03:39      | on the Dynamic Island and how does it look to you and all that?                                           |
@@ -154,7 +154,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 04:48      | there will be enough users for [[Instagram]] on the iPad and it's like, yes, because he prevent               |
 | 04:53      | them from using [[Instagram]] on the iPad, that's why.                                                        |
 | 04:56      | But you know, so I'm really glad that it ties in and I feel like this, this really is, you                |
-| 05:02      | know, Apple saying like, hey, cool new feature, there's already rumors it's going to be across            |
+| 05:02      | know, [[Apple]] saying like, hey, cool new feature, there's already rumors it's going to be across            |
 | 05:06      | the iOS 15 lineup, of course.                                                                             |
 | 05:10      | And you know, and also we're trying to make it easy on those awesome developers that,                     |
 | 05:15      | you know, we keep talking about how great our app store is, we're trying to make it                       |
@@ -197,9 +197,9 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 07:24      | They are making a feature of it.                                                                          |
 | 07:26      | So, you know, I don't know if we're getting a better camera, but there's two sensors up                   |
 | 07:29      | there.                                                                                                    |
-| 07:30      | You know, it's entirely possible that Apple are taking advantage of the fact that they've                 |
+| 07:30      | You know, it's entirely possible that [[Apple]] are taking advantage of the fact that they've                 |
 | 07:36      | put some software around that bit of hardware to give us something even more awesome.                     |
-| 07:41      | So and I wouldn't put that past Apple.                                                                    |
+| 07:41      | So and I wouldn't put that past [[Apple]].                                                                    |
 | 07:44      | They've always been sometimes slow to implement a feature, right?                                         |
 | 07:48      | But then they say, yeah, but we did it better.                                                            |
 | 07:51      | And you know, sometimes they're wrong, but sometimes they're right.                                       |
@@ -230,7 +230,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 09:23      | Yeah, I agree.                                                                                            |
 | 09:24      | While we're on this topic before we move on, we started talking about the fact that shortcuts             |
 | 09:29      | isn't really there.                                                                                       |
-| 09:30      | I'm going to put you in charge of Apple and the shortcuts scene.                                          |
+| 09:30      | I'm going to put you in charge of [[Apple]] and the shortcuts scene.                                          |
 | 09:34      | How would you like to see shortcuts arrive in the dynamic island?                                         |
 | 09:38      | Well, it's one of those things where on the one hand, do shortcuts belong in the dynamic                  |
 | 09:43      | island?                                                                                                   |
@@ -251,7 +251,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 10:52      | When you go into the app switcher and it suggests apps for you based on handoff and things that           |
 | 10:58      | you often use at this time of day and so on, it would be really nice.                                     |
 | 11:01      | Maybe if the dynamic island could integrate with this too.                                                |
-| 11:04      | It sure would and I do think that Apple is watching that every time they do something                     |
+| 11:04      | It sure would and I do think that [[Apple]] is watching that every time they do something                     |
 | 11:10      | like this, sometimes it will get completely ignored, remember the touch bar and then sometimes            |
 | 11:18      | they'll build on it like focus modes last year, they really built on a lot and I think                    |
 | 11:24      | dynamic island is interesting enough that this one merits further work and making it                      |
@@ -346,7 +346,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 17:28      | and don't really care about a lot of that stuff.                                                          |
 | 17:31      | Excellent.                                                                                                |
 | 17:32      | So I've always had to like kind of reign myself in a little bit.                                          |
-| 17:36      | You know, that's one of the reasons why the Lutron Casetaa switches were such a win                      |
+| 17:36      | You know, that's one of the reasons why the [[Lutron]] Caseta switches were such a win                      |
 | 17:39      | for me because, you know, my wife and kids could still turn the lights off and on without                 |
 | 17:44      | an, without an app, right?                                                                                |
 | 17:47      | But it occurs to me Rose that this room is my room.                                                       |
@@ -410,7 +410,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 20:45      | shares all of my sensors and things back to home assistant at home kit.                                   |
 | 20:49      | If I actually want them in home kit because I've discovered I'd actually, like for example,               |
 | 20:54      | the power plug that monitors my washing machine and tumble dryer, I do not want those in home             |
-| 20:59      | kit because otherwise if I say, hey, Apple lady, turn everything off.                                     |
+| 20:59      | kit because otherwise if I say, hey, [[Apple]] lady, turn everything off.                                     |
 | 21:02      | Yeah.                                                                                                     |
 | 21:03      | Yeah, it doesn't matter if my washing machine's in mid-cycle, she's going to turn it off,                 |
 | 21:07      | which is very much not my desire.                                                                         |
@@ -462,10 +462,10 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 24:03      | the studio.                                                                                               |
 | 24:04      | That's not really lighting.                                                                               |
 | 24:05      | But so there's a four switch like thing as you walk in.                                                   |
-| 24:10      | The only thing I've done so far in terms of automation is I bought four Lutron Casetaa                   |
+| 24:10      | The only thing I've done so far in terms of automation is I bought four [[Lutron]] Caseta                   |
 | 24:16      | switches for that hurt.                                                                                   |
 | 24:18      | Those are expensive, but they're all completely controllable through apps and automation and              |
-| 24:24      | everything because they're all Lutron Casetaa.                                                           |
+| 24:24      | everything because they're all [[Lutron]] Caseta.                                                           |
 | 24:26      | Yes.                                                                                                      |
 | 24:27      | And I think, I mean, the really good thing about that as well is it's then consistent                     |
 | 24:32      | with the rest of your house, right?                                                                       |
@@ -476,14 +476,14 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 24:50      | or looking for you and they need to turn on a light, they're going to know how to do it.                  |
 | 24:56      | And there's definitely something to be said there for the consistency of selling of that.                 |
 | 25:02      | So those are also dimmable, right?                                                                        |
-| 25:05      | Those Lutron Caseta.                                                                                     |
+| 25:05      | Those [[Lutron]] Caseta.                                                                                     |
 | 25:06      | Yeah, they have two different versions.                                                                   |
 | 25:08      | I got dimmables.                                                                                          |
 | 25:09      | Nice.                                                                                                     |
 | 25:10      | Okay.                                                                                                     |
 | 25:11      | Well, that is a great start because you've already got the lighting and you've got the                    |
 | 25:13      | ability to control that.                                                                                  |
-| 25:14      | And you're going to be able to use the Lutron Casetaa with whatever solutions you end up                 |
+| 25:14      | And you're going to be able to use the [[Lutron]] Caseta with whatever solutions you end up                 |
 | 25:19      | looking at because I think for me, one of the things that has worked incredibly well                      |
 | 25:24      | for my home automation when it comes to recording podcasts and video is being able to tie the             |
 | 25:31      | automation of things like the lights into the other context switching that I do because                   |
@@ -604,7 +604,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 33:54      | I forgot the official name of the sync box, but either way, and the play bars, and you                    |
 | 33:59      | can connect all those, you know, like they both, all of them I think come with like that,                 |
 | 34:05      | the same transformer with multiple plug points on which is quite smart, so that works.                    |
-| 34:09      | And the other thing to do is I got my iris on Amazon and I got it from their like return                  |
+| 34:09      | And the other thing to do is I got my iris on [[Amazon]] and I got it from their like return                  |
 | 34:17      | section, like use like new, and it was genuinely like new, it was like brand new, it still                |
 | 34:22      | had old stickers and everything on it, the box was just damaged.                                          |
 | 34:25      | So it's worth keeping an eye out for that kind of deal.                                                   |
@@ -708,7 +708,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 40:40      | Well, this one, of course, he's got [[Stream Deck]] buttons for it now and that's in the                      |
 | 40:44      | blog post and that light looks pretty good.                                                               |
 | 40:47      | The other thing that I've done in the past and I have that running now is I just bought                   |
-| 40:52      | some cheap studio lights of Amazon, like USB power ones, like you plug them in there on,                  |
+| 40:52      | some cheap studio lights of [[Amazon]], like USB power ones, like you plug them in there on,                  |
 | 40:56      | you unplug them, they're off.                                                                             |
 | 40:58      | And then I bought some smart USB plugs.                                                                   |
 | 41:00      | So they're from Sonoff and it's just USB-A, but you can turn it on and off via Wi-Fi.                     |
@@ -797,23 +797,23 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 46:00      | Like I've been playing with a Raspberry Pi and a thermal camera in one room just to                       |
 | 46:04      | see if I can do something with that.                                                                      |
 | 46:08      | And they all work really well.                                                                            |
-| 46:09      | But if you want something that just works and connects to the Aqara hub and therefore                     |
+| 46:09      | But if you want something that just works and connects to the [[Aqara Hub]] and therefore                     |
 | 46:15      | straightened home kit, yeah, this is the one.                                                             |
 | 46:20      | It is exceptionally good.                                                                                 |
-| 46:22      | And that is not in Amazon yet.                                                                            |
+| 46:22      | And that is not in [[Amazon]] yet.                                                                            |
 | 46:24      | As I've heard.                                                                                            |
 | 46:25      | No, no, but it is available, for example, on Aliexpress.                                                  |
 | 46:29      | I got mine within like a week of ordering it, which was pretty great.                                     |
-| 46:33      | And it should be available through Amazon.                                                                |
-| 46:36      | And if you're in Europe, the Apple store is fairly soon, I believe, but it is definitely                  |
+| 46:33      | And it should be available through [[Amazon]].                                                                |
+| 46:36      | And if you're in Europe, the [[Apple Store]] is fairly soon, I believe, but it is definitely                  |
 | 46:44      | coming.                                                                                                   |
 | 46:45      | But this thing is impressive.                                                                             |
 | 46:47      | It is incredibly good at sensing people, you know, even when you're asleep.                               |
-| 46:51      | And it's using the newer Zigbee 3.0, which is slightly better at doing, you know, handoff                 |
-| 46:57      | and so on, because Zigbee is a mesh network, right, where battery powered devices will                    |
+| 46:51      | And it's using the newer [[Zigbee]] 3.0, which is slightly better at doing, you know, handoff                 |
+| 46:57      | and so on, because [[Zigbee]] is a mesh network, right, where battery powered devices will                    |
 | 47:02      | connect to powered devices on that same mesh so that they can, you know, pass the message                 |
 | 47:08      | along essentially.                                                                                        |
-| 47:09      | But previous generations of Zigbee and especially the Aqara stuff, it would just pair to whatever         |
+| 47:09      | But previous generations of [[Zigbee]] and especially the Aqara stuff, it would just pair to whatever         |
 | 47:16      | it was closest to and it would never look for another friend to help it talk to the                       |
 | 47:20      | hub or the coordinator in the centre.                                                                     |
 | 47:24      | And the 3.0 stuff is really good at doing that.                                                           |
@@ -821,14 +821,14 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 47:29      | Of course, this is plug-in itself, which is great that I'm very impressed with it.                        |
 | 47:34      | And I definitely recommend if you're looking for motion sensors, then this would be where                 |
 | 47:40      | to go.                                                                                                    |
-| 47:41      | And honestly, the Aqara door sensors, and you've already got the flood sensor, you've                     |
-| 47:45      | had the fun with the dog that stole the flood sensor.                                                     |
+| 47:41      | And honestly, the [[Aqara Door and Window Sensor\|Aqara door sensors]], and you've already got the [[Aqara Water Leak Sensor\|flood sensor]], you've                     |
+| 47:45      | had the fun with the dog that stole [[Aqara Water Leak Sensor\|the flood sensor]].                                                     |
 | 47:50      | So your fridge was leaking, but it wasn't before.                                                         |
-| 47:54      | But I definitely recommend looking into the Aqara stuff for sensors because it's very                     |
+| 47:54      | But I definitely recommend looking into the [[Aqara]] stuff for sensors because it's very                     |
 | 47:57      | affordable.                                                                                               |
 | 47:58      | Their stuff itself is actually quite small, which is nice, you know, not taking up a huge                 |
 | 48:03      | amount of physical space.                                                                                 |
-| 48:06      | And I find Zigbee is exceptionally good for a connectivity option.                                        |
+| 48:06      | And I find [[Zigbee]] is exceptionally good for a connectivity option.                                        |
 | 48:11      | You know, [[Thread]] is definitely something to look at and the Eve things look pretty great.                 |
 | 48:16      | But there's not a lot of options out there which drives up the cost.                                      |
 | 48:21      | Whereas if you get the slightly older generation of Aqara stuff, then that's even more affordable,        |
@@ -843,7 +843,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 48:50      | sensor.                                                                                                   |
 | 48:51      | Like, I mean, actually, I'd just go with a smart thermostat if I could.                                   |
 | 48:55      | Because that is going to be the best way of controlling things because the other thing                    |
-| 48:58      | is you only want the heat to be on to human comfort levels rather than, you know, mold                    |
+| 48:58      | is you only want the heat to be on to human comfort levels rather than, you know, mould                    |
 | 49:05      | avoidance levels when you're actually in your office, you know, or you're going to be in                  |
 | 49:10      | your office shortly.                                                                                      |
 | 49:11      | You don't want it heating up at like three o'clock in the morning when you fall asleep                    |
@@ -870,7 +870,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 50:29      | And that was impressive.                                                                                  |
 | 50:30      | I was really pleased about that.                                                                          |
 | 50:32      | So I feel like this is definitely going to be one worth looking at.                                       |
-| 50:37      | They are going to be sort of like $65-ish when they're available on Amazon.                               |
+| 50:37      | They are going to be sort of like $65-ish when they're available on [[Amazon]].                               |
 | 50:43      | But one good sensor, definitely worth having over multiple cheaper sensors that you have                  |
 | 50:49      | to position carefully and replace batteries on.                                                           |
 | 50:52      | Yeah.                                                                                                     |
@@ -964,12 +964,12 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 56:16      | the lights, but that doesn't mean that it's dark for the whole house necessarily.                         |
 | 56:21      | So that certainly helps improve the lighting for me as needed.                                            |
 | 56:27      | Yeah.                                                                                                     |
-| 56:28      | I'm going to have to look those because I don't see that they sell those on Amazon.                       |
+| 56:28      | I'm going to have to look those because I don't see that they sell those on [[Amazon]].                       |
 | 56:31      | They've got a million Aqara products.                                                                     |
 | 56:33      | Yeah, I just need to look deeper.                                                                         |
 | 56:35      | Yes.                                                                                                      |
 | 56:36      | So the originally, I think they were separately available from Xiaomi and could be a pair                 |
-| 56:43      | to the Aqara hub, but I just ordered my own ones again.                                                   |
+| 56:43      | to the [[Aqara Hub]], but I just ordered my own ones again.                                                   |
 | 56:52      | I tend to order my Aqara accessories from Aliexpress just because they are affordable                     |
 | 56:57      | and they arrive pretty quickly.                                                                           |
 | 56:59      | But I think that one is a newer one and they definitely had a problem with the chip shortage              |
@@ -1077,15 +1077,15 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:02:25   | I have the IKEA blinds, IKEA have more options now than they did before.                                  |
 | 01:02:30   | They don't just have blackout labels and the translucent ones.                                            |
 | 01:02:33   | They've got like a pleated one, which is quite nice and so on.                                            |
-| 01:02:37   | And there's a lot more options out there, and especially with the advent of the Zigbee                    |
-| 01:02:43   | controllers for this, which I personally feel that if you've got a choice between a Zigbee                |
-| 01:02:49   | or a [[Thread]] device or a Wi-Fi device, then you're better off with the Zigbee or [[Thread]]                    |
+| 01:02:37   | And there's a lot more options out there, and especially with the advent of the [[Zigbee]]                    |
+| 01:02:43   | controllers for this, which I personally feel that if you've got a choice between a [[Zigbee]]                |
+| 01:02:49   | or a [[Thread]] device or a Wi-Fi device, then you're better off with the [[Zigbee]] or [[Thread]]                    |
 | 01:02:54   | one.                                                                                                      |
 | 01:02:55   | Instead of the Wi-Fi one, the more things that you shove onto your network that are connected             |
 | 01:02:58   | to the internet, the more likely it is something is going to go wrong.                                    |
 | 01:03:02   | But yeah, so I have smart blinds.                                                                         |
 | 01:03:05   | And then in front of that, I've got smart curtains.                                                       |
-| 01:03:07   | And I've got a combination of SwitchBot curtain controllers, and I've got some Aqara ones                 |
+| 01:03:07   | And I've got a combination of [[SwitchBot Curtain Opener\|SwitchBot curtain controllers]], and I've got some Aqara ones                 |
 | 01:03:11   | as well, which basically what they do is they sit on the curtain rail, and they grip the                  |
 | 01:03:17   | curtain rail, and they are next to the innermost ring.                                                    |
 | 01:03:22   | So they're between the first ring, like if you have two curtains closing in the centre,                   |
@@ -1117,9 +1117,9 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:04:55   | they're kind of heavy.                                                                                    |
 | 01:04:56   | So.                                                                                                       |
 | 01:04:57   | Yeah.                                                                                                     |
-| 01:04:58   | In my sense, the Aqara driver for the curtains is better than the SwitchBot one.                          |
-| 01:05:01   | SwitchBot now has a version two, which is really looking, you know, really, really good because           |
-| 01:05:07   | I found that the SwitchBot previously struggled with my floor length curtains in the living               |
+| 01:04:58   | In my sense, the Aqara driver for the curtains is better than the [[SwitchBot Curtain Opener\|SwitchBot]] one.                          |
+| 01:05:01   | [[SwitchBot]] now has a version two, which is really looking, you know, really, really good because           |
+| 01:05:07   | I found that the [[SwitchBot Curtain Opener\|SwitchBot]] previously struggled with my floor length curtains in the living               |
 | 01:05:12   | room.                                                                                                     |
 | 01:05:13   | Yeah.                                                                                                     |
 | 01:05:14   | Now, they're a really nice sort of crushed velvet.                                                        |
@@ -1131,12 +1131,12 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:05:41   | curious and wanted to try it out and see if it was really good.                                           |
 | 01:05:44   | And honestly, it's impressive.                                                                            |
 | 01:05:48   | It's very, very powerful, which is great.                                                                 |
-| 01:05:52   | And I have to say, it's nice that there is a solar panel option with the SwitchBot.                       |
+| 01:05:52   | And I have to say, it's nice that there is a solar panel option with the [[SwitchBot Curtain Opener\|SwitchBot]].                       |
 | 01:05:58   | That being said, I found just based on the fact that it's so high up, and maybe it's                      |
 | 01:06:03   | just the way that we hang our curtains in the UK, but the curtain rod is not level with                   |
 | 01:06:07   | the top of the window.                                                                                    |
 | 01:06:08   | It's above the top of the window.                                                                         |
-| 01:06:10   | So by attaching the solar panel to like the SwitchBot, where the SwitchBot is hanging,                    |
+| 01:06:10   | So by attaching the solar panel to like the [[SwitchBot Curtain Opener\|SwitchBot]], where the [[SwitchBot Curtain Opener\|SwitchBot]] is hanging,                    |
 | 01:06:17   | like it doesn't get as much light as it probably ought to.                                                |
 | 01:06:22   | And so it can struggle with recharging via solar.                                                         |
 | 01:06:25   | But honestly, I just throw a large battery pack on the windowsill with some long USB-C                    |
@@ -1205,7 +1205,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:09:49   | My favourite part of this, David, is you already own one, which of course is everybody's favourite          |
 | 01:09:55   | price tag, right?                                                                                         |
 | 01:09:56   | It's free.                                                                                                |
-| 01:09:57   | But if you've got an Aqara hub, it has an alarm system built in if you get door sensors                   |
+| 01:09:57   | But if you've got an [[Aqara Hub]], it has an alarm system built in if you get door sensors                   |
 | 01:10:01   | and motion sensors.                                                                                       |
 | 01:10:02   | I didn't know that.                                                                                       |
 | 01:10:04   | It does.                                                                                                  |
@@ -1219,11 +1219,11 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:10:31   | them to break more things for you.                                                                        |
 | 01:10:35   | So I'd just go with the silent option and just turn on all the lights, make it really,                    |
 | 01:10:39   | really bright, freak them out that way.                                                                   |
-| 01:10:44   | But the thing is, you've got two alarm systems, actually, because you've got the eufye.                    |
-| 01:10:48   | And the eufye camera system has options to do home mode and away mode, where it can record                 |
+| 01:10:44   | But the thing is, you've got two alarm systems, actually, because you've got the [[eufy]].                    |
+| 01:10:48   | And the [[eufy]] camera system has options to do home mode and away mode, where it can record                 |
 | 01:10:53   | differently to the base station, which is really nice.                                                    |
 | 01:10:57   | And obviously home kit already handles the home kit secure video side of things.                          |
-| 01:11:02   | But the Aqara hub with those door and window sensors that I mentioned earlier and a motion                |
+| 01:11:02   | But the [[Aqara Hub]] with those door and window sensors that I mentioned earlier and a motion                |
 | 01:11:06   | sensor can also work as an alarm system for you.                                                          |
 | 01:11:10   | And you can have it set into different modes semi-automatically through home kit.                         |
 | 01:11:15   | Now I say semi-automatically because controlling an alarm system is something that requires               |
@@ -1290,7 +1290,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:15:32   | One of the things I'm interested in is this idea of a status board and I've been using                    |
 | 01:15:37   | an iPad parked under my main screen for about a year now and that works great.                            |
 | 01:15:42   | But because I'm spending so much money, I figured why not spend a little more?                            |
-| 01:15:46   | I bought a deal on a TV off Amazon that I'm going to hang in the studio.                                  |
+| 01:15:46   | I bought a deal on a TV off [[Amazon]] that I'm going to hang in the studio.                                  |
 | 01:15:53   | It's not going to be in my direct line of sight when I get my screen, my computer screen.                 |
 | 01:15:59   | But one of the ideas for it is to have an iPad driving just the iPad home screen at it                    |
 | 01:16:06   | all day and set it up as a big status board, where it's going to have the time, my appointments,          |
@@ -1389,7 +1389,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:22:03   | But if you use, say, controller for [[HomeKit]] or Home Plus, then you get more options when                  |
 | 01:22:08   | you run an automation.                                                                                    |
 | 01:22:09   | Yeah.                                                                                                     |
-| 01:22:10   | You know, you can improve it, but Apple's still limiting you.                                             |
+| 01:22:10   | You know, you can improve it, but [[Apple\|Apple's]] still limiting you.                                             |
 | 01:22:13   | And I'm not suggesting this is an artificial limitation.                                                  |
 | 01:22:16   | It's set up because, quite frankly, this is what a lot of people want or need.                            |
 | 01:22:21   | But for those of us who want or need to be able to do more, [[Home Assistant]] is an open                     |
@@ -1397,8 +1397,8 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:22:32   | yellow that you get, David, which will let you integrate with, I believe, last time I                     |
 | 01:22:40   | checked, I'm just going to go to the [[Home Assistant]] website a second, which is homeassistant.io           |
 | 01:22:44   | Home Dash Assistant, it is 2,176 integrations in [[Home Assistant]].                                          |
-| 01:22:53   | So this is everything from Sonos and the IKEA stuff to, you know, it has direct Zigbee                    |
-| 01:23:01   | and Z-Wave integrations, Ring Doorbell, Lutron, and Leviton, for example, but it also integrates          |
+| 01:22:53   | So this is everything from Sonos and the IKEA stuff to, you know, it has direct [[Zigbee]]                    |
+| 01:23:01   | and Z-Wave integrations, [[Ring Doorbell]], [[Lutron]], and Leviton, for example, but it also integrates          |
 | 01:23:10   | with [[Google Calendar]], [[Todoist]], [[Remember the Milk]], and it can even integrate with things                   |
 | 01:23:16   | like Starling, which is a bank over here in the UK, it can integrate with your energy                     |
 | 01:23:23   | company to tell you how much energy you're using, and of course, it's got [[HomeKit]] support                 |
@@ -1410,7 +1410,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:23:52   | you go and look at a case for a phone, if you're looking for a case for, say, I don't                     |
 | 01:23:57   | know, a Samsung phone, it's probably, say, 20 bucks.                                                      |
 | 01:24:00   | And if you look at the same case for an iPhone, it's 25.                                                  |
-| 01:24:03   | You've got the Apple tax, right?                                                                          |
+| 01:24:03   | You've got the [[Apple]] tax, right?                                                                          |
 | 01:24:05   | And some of this is warranted, some of it's not warranted, but if you look for a [[HomeKit]]                  |
 | 01:24:08   | compatible device, you will always be looking at a more expensive option pretty much, like,               |
 | 01:24:14   | it's really going to be cheaper than the non-[[HomeKit]] one.                                                 |

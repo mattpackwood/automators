@@ -299,11 +299,11 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 14:50      | [[Tesseract]] had some issues.                                                                                     |
 | 14:51      | Like I, I noticed like on a dark screen, it barely worked and there's some forum threads                           |
 | 14:56      | that, that kind of confirmed that.                                                                                 |
-| 14:58      | Um, but they, uh, but they added now the Apple [[OCR]] engine.                                                     |
-| 15:03      | So the Apple text recognition is an [[OCR]] option going forward, starting with this version                       |
+| 14:58      | Um, but they, uh, but they added now the [[Apple]] [[OCR]] engine.                                                     |
+| 15:03      | So the [[Apple]] text recognition is an [[OCR]] option going forward, starting with this version                       |
 | 15:09      | 11.                                                                                                                |
 | 15:10      | And I recommend it.                                                                                                |
-| 15:11      | If you're running an automation that does [[OCR]], use the Apple engine, you're going to                           |
+| 15:11      | If you're running an automation that does [[OCR]], use the [[Apple]] engine, you're going to                           |
 | 15:15      | be much happier.                                                                                                   |
 | 15:17      | Just a nice quality of life improvement.                                                                           |
 | 15:19      | But for people who want to grab text out of something, now you've got a much better way                            |
@@ -330,7 +330,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 16:50      | Um, you know, I, I don't have parental control set up on those machines because, you know,                         |
 | 16:55      | my parents are, you know, they're not necessarily the best with tech, but they are definitely                      |
 | 16:59      | giving it their all and it would be hampering for them to not be able to just do things.                           |
-| 17:05      | Um, but there's a couple of times where [[Keyboard Maestro]]'s just sort of snuck in and been                      |
+| 17:05      | Um, but there's a couple of times where [[Keyboard Maestro\|Keyboard Maestro's]] just sort of snuck in and been                      |
 | 17:09      | like, I'm just gonna, you know, deal with this and, you know, every so often it'll do                              |
 | 17:13      | a little backup copy of all my dad's pictures to the [[NAS]] and stuff like that so that he                        |
 | 17:17      | doesn't have to do it and it's just really great that, you know, all of these things                               |
@@ -411,7 +411,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 21:01      | I don't think it's as good as them as shortcuts are.                                                               |
 | 21:04      | And I think that's probably because of just kind of the nature of the beast.                                       |
 | 21:08      | [[Keyboard Maestro]] is made for doing all kinds of crazy, powerful stuff, but in dealing with                     |
-| 21:13      | the native apps, I think Apple has more of a focus on that.                                                        |
+| 21:13      | the native apps, I think [[Apple]] has more of a focus on that.                                                        |
 | 21:16      | And it feels like, uh, [[Keyboard Maestro]] is starting to kind of nudge back that direction                       |
 | 21:22      | or at least add more features in.                                                                                  |
 | 21:24      | Um, I did run some tests on the new create calendar event and it works just like it does                           |
@@ -508,7 +508,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 26:55      | you know, when you screencast, you want to set your resolution bigger.                                             |
 | 27:00      | Here's a screencaster trick for the audience.                                                                      |
 | 27:02      | You don't want your standard high fidelity screen resolution when you screencast because                           |
-| 27:08      | when people are watching it at home on their Apple TV or their small screen, it's hard                             |
+| 27:08      | when people are watching it at home on their [[Apple TV]] or their small screen, it's hard                             |
 | 27:12      | to read the text and everything is smaller than it should be.                                                      |
 | 27:15      | So you actually want to bump up the resolution to a much where the text is bigger, you know,                       |
 | 27:22      | it's not something I would use daily as I'm working with the computer, but when I record                           |

@@ -83,8 +83,8 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:01      | up in general, which is perhaps the end of what you do at the end of the day, rather.                   |
 | 01:07      | But I feel that that's a good place to start, because that's one of the easiest things to               |
 | 01:10      | accomplish, in my opinion. Yeah. One of the things that people have lost track of is                    |
-| 01:16      | the Mac maintenance tools made by Apple, and they're there, but they're not necessarily                 |
-| 01:23      | where you think they are. One of the places you go to it is the Apple menu about this Mac,              |
+| 01:16      | the Mac maintenance tools made by [[Apple]], and they're there, but they're not necessarily                 |
+| 01:23      | where you think they are. One of the places you go to it is the [[Apple]] menu about this Mac,              |
 | 01:31      | and if you go there, you'll see that they've got a bunch of information in that. You know,              |
 | 01:35      | they've got information about your displays, your storage, showing, you know, what's going on with      |
 | 01:40      | what's stored on your hard drive. They've also got, if you've got Apple care attached or support        |
@@ -118,7 +118,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 04:10      | automatically delete anything that's been in my trash for two days or a week or something,              |
 | 04:14      | which is more of a fine grain control over what's built into the Mac.                                   |
 | 04:18      | Yeah, this is one of those examples of a third-party developer showing up and just,                     |
-| 04:24      | you know, doing a better job of it than Apple with more details, you know, more                         |
+| 04:24      | you know, doing a better job of it than [[Apple]] with more details, you know, more                         |
 | 04:29      | automator love here. And the thing I like about the way [[Hazel]] does it is, first of all,                 |
 | 04:35      | you can make rules in [[Hazel]] that manage your trash, and we're going to talk about [[Hazel]] later           |
 | 04:40      | with respect to the Finder and automatically managing files. But the trash button in [[Hazel]],             |
@@ -138,7 +138,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 05:58      | operating system has evolved so much that there's plenty of apps that write little files into your      |
 | 06:04      | user folder in different places. So with Hazel's AppSweep, it will go through and clean all that        |
 | 06:09      | out, too. So if you want to manage your, you know, cleaning your trash automatically,                   |
-| 06:15      | I would definitely turn on the Apple thing, the 30 day thing from Apple if you don't have anything,     |
+| 06:15      | I would definitely turn on the [[Apple]] thing, the 30 day thing from [[Apple]] if you don't have anything,     |
 | 06:22      | but I would honestly consider purchasing [[Hazel]] and installing it. I think it's a much more powerful     |
 | 06:28      | tool along with one other that I think is really good for trash management. And these two apps          |
 | 06:35      | are going to probably be the stars of this episode because they come up in so many different            |
@@ -338,7 +338,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 24:03      | if it's a file that includes the name Rose and it's a PDF, put it in this folder.                       |
 | 24:08      | You know, I did a whole screencast field guide on [[Hazel]]. I've done a ton of free stuff too.             |
 | 24:15      | If you go to MacSparky, Rose has done stuff on [[Hazel]] too. It's just, it's just an amazing tool.        |
-| 24:22      | I used to, before I knew about [[Hazel]], I used to write AppleScripts to try and manage this stuff.       |
+| 24:22      | I used to, before I knew about [[Hazel]], I used to write [[AppleScript\|AppleScripts]] to try and manage this stuff.       |
 | 24:26      | [[Hazel]] does such a better job. It's more consistent. It's very easy and anybody can do it, you know.     |
 | 24:32      | It's so you, like I said earlier, you can set multiple conditions and in the event that conditions      |
 | 24:37      | are satisfied or not satisfied, it's very flexible. You can have it move, delete, do just about any     |
@@ -408,7 +408,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 30:37      | because it's got my wife's name in it. That's kind of fun. But they do these concentric circles.        |
 | 30:42      | It's very, it's a very nice way to find data hogs. And then Rose mentioned, once again,                 |
 | 30:48      | CleanMyMac, that's that app that is going to keep showing up. They've got a system to do the same       |
-| 30:52      | thing. theirs is also prettier than the Apple one. I think the CleanMyMac one is better for             |
+| 30:52      | thing. theirs is also prettier than the [[Apple]] one. I think the CleanMyMac one is better for             |
 | 31:00      | people who are not super nerdy. I think it does a better job of exposing the big files                  |
 | 31:07      | for you. So I would recommend that for people that, if you've got someone in your life that             |
 | 31:13      | is interested in getting a little bit better at this, just install CleanMyMac for them,                 |
@@ -637,7 +637,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 51:19      | or the customer support button, and everything comes up to do all your customer support stuff,          |
 | 51:24      | and it's just on your screen, and you can just start doing it. And it's a good way, I guess,            |
 | 51:30      | the experience I have is it allows me to avoid getting sidetracked. I think when I first sit            |
-| 51:35      | down, my computer's a very easy time to find myself drifting into the web browser or Amazon             |
+| 51:35      | down, my computer's a very easy time to find myself drifting into the web browser or [[Amazon]]             |
 | 51:40      | or someplace where I would get sidetracked. Yes. Yeah, I find that as well. I sit down and it's         |
 | 51:45      | like, oh, I'll just quickly check Twitter, and then like three hours later, it's like, wait,            |
 | 51:49      | what rabbit hole did I fall into? Well, there was Mary Poppins, and there was something about this      |
@@ -907,7 +907,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:14:38   | create the project. And that is a form of automation, but just a little different than the way we       |
 | 01:14:44   | typically talk about it on the automators. Yes. And it's a really good one. And                         |
 | 01:14:49   | that's something that I'm working on as well. I was there trying to figure out the other day,           |
-| 01:14:52   | how do I create an AppleScript that automatically creates a new mind node document. And then I         |
+| 01:14:52   | how do I create an [[AppleScript]] that automatically creates a new mind node document. And then I         |
 | 01:14:58   | realised I can just put a blank mind node document in post-haste and use it. And I don't need to        |
 | 01:15:04   | automate it. So that's something I'm working on. And I'm hoping that I have that one ready to talk      |
 | 01:15:08   | about in our what we've recently been working on part of our next episode. Maybe I'll need a couple     |

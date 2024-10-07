@@ -48,7 +48,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 - [DEEBOT X1 OMNI | All-in-One Robotic Vacuum and Mop Combo-ECOVACS UK](https://www.ecovacs.com/uk/deebot-robotic-vacuum-cleaner/deebot-x1-omni)
 	- Rosemary has the X1 Omni Turbo—keep an eye out for deals on Amazon.
 - [All the HomeKit locks that support Apple Home Key | AppleInsider](https://appleinsider.com/articles/22/03/16/all-the-homekit-locks-that-support-apple-home-key)
-- [SmartDrop, Smart Delivery Box - eufy](https://us.eufy.com/products/t8790)
+- [SmartDrop, Smart Delivery Box - eufy](https://us.[[eufy]].com/products/t8790)
 - [Raycast](https://www.raycast.com/)
 - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [Raycast - Extensions](https://www.raycast.com/store)
@@ -123,7 +123,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 03:05      | And I'm doing that even more in this new place.                                                           |
 | 03:07      | So I've been deep into the Philips Hue stuff for a while.                                                 |
 | 03:12      | I am going to stick on the Philips Hue train for now until I kind of see what's happening                 |
-| 03:18      | with Lutron Casetta and what's going to happen with all that [[Matter]] stuff, is it going to                 |
+| 03:18      | with [[Lutron]] Casetta and what's going to happen with all that [[Matter]] stuff, is it going to                 |
 | 03:25      | matter?                                                                                                   |
 | 03:26      | But I'm sorry, I'm so sorry.                                                                              |
 | 03:28      | You just lost half your audience there.                                                                   |
@@ -172,7 +172,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 05:49      | I've moved one arrow from one wall at the office to another wall at the office.                           |
 | 05:53      | I think I shouldn't have done that.                                                                       |
 | 05:55      | I moved it back, and things seem to have gone back to normal since then.                                  |
-| 05:58      | My Apple TV and my bedroom works better now as well.                                                      |
+| 05:58      | My [[Apple TV]] and my bedroom works better now as well.                                                      |
 | 06:01      | But yeah, so if you tap on the set part of that set playback destination action, then                     |
 | 06:08      | you can change it to add, and then you can add more things to it.                                         |
 | 06:11      | Or you can remove something from your playback destination if you don't want it there anymore.            |
@@ -221,7 +221,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 08:26      | once in a while, and the only fix that I've had for it is rebooting my Mac.                               |
 | 08:32      | I tried rebooting.                                                                                        |
 | 08:33      | I've just noticed there's another Ventura update that I can install, so I'll do that                      |
-| 08:37      | after the show and see if maybe that fixes it, but I have reported this to Apple and                      |
+| 08:37      | after the show and see if maybe that fixes it, but I have reported this to [[Apple]] and                      |
 | 08:41      | then I got a message back from whoever is triaging the support thing saying, what did                    |
 | 08:45      | you do?                                                                                                   |
 | 08:46      | I'm like, as I wrote, I tried to open the [[Shortcuts]] app.                                                  |
@@ -283,7 +283,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 12:52      | They're fine for podcasts.                                                                                |
 | 12:53      | I don't like them for music.                                                                              |
 | 12:55      | They don't have that umph the original ones have.                                                         |
-| 12:57      | I'm still better at Apple for cancelling or getting rid of the original ones without                      |
+| 12:57      | I'm still better at [[Apple]] for cancelling or getting rid of the original ones without                      |
 | 13:02      | coming out with a replacement for them.                                                                   |
 | 13:05      | My original ones are barely hanging on.                                                                   |
 | 13:09      | They struggle.                                                                                            |
@@ -295,14 +295,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 13:25      | In fact, I've actually got to the point where I'm so tired of having to crawl behind the                  |
 | 13:30      | bookshelf that they're on to unplug them that I put a smart power strip back behind there                 |
 | 13:36      | so I can just toggle it from home kit and just reboot them that way.                                      |
-| 13:42      | I very much want Apple to do big HomePods again.                                                         |
+| 13:42      | I very much want [[Apple]] to do big HomePods again.                                                         |
 | 13:47      | I also just bought for my new apartment a sound bar, sound system thing.                                  |
 | 13:53      | It's a sound bar, but it's also got the rear speakers and a subwoofer as well.                            |
 | 13:58      | It has [[AirPlay]] too, so I will actually be able to add that to my shortcut for playing                     |
 | 14:04      | music throughout the house.                                                                               |
 | 14:06      | Not only will it play to the HomePods, but it'll also play in the living room where that                 |
 | 14:10      | will be set up as well.                                                                                   |
-| 14:12      | I'm very much looking forward to that configuration, but I would very much appreciate if Apple            |
+| 14:12      | I'm very much looking forward to that configuration, but I would very much appreciate if [[Apple]]            |
 | 14:18      | made something with a little more oomph than the HomePod minis because they just don't                   |
 | 14:22      | have that sound the original ones have.                                                                   |
 | 14:26      | I'm not an audio person.                                                                                  |
@@ -395,10 +395,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 19:17      | That's a little too much for me right now.                                                                |
 | 19:19      | But I could see me doing it in the future, for sure.                                                      |
 | 19:22      | Yeah, yeah, no, I nearly, before Christmas, talked myself into buying a Sonos soundbar,                   |
-| 19:27      | because I was getting annoyed my Logitech Harmony Hub's been having a couple of issues                    |
+| 19:27      | because I was getting annoyed my [[Logitech Harmony\|Logitech Harmony Hub's]] been having a couple of issues                    |
 | 19:31      | turning on specifically my soundbar.                                                                      |
 | 19:34      | I mean, a soundbar was going to sleep at times, like when I paused the TV and wandered off                |
-| 19:39      | for a bit, I would have the Apple screens, they were kicking and so on, like come back                    |
+| 19:39      | for a bit, I would have the [[Apple]] screens, they were kicking and so on, like come back                    |
 | 19:42      | and hit play, and there'd be no sound, and I'd have to like scrabble around and toggle                    |
 | 19:47      | the soundbar to turn it back on.                                                                          |
 | 19:49      | And so I was like, okay, this is it, I've got an excuse, I'm upgrading to a Sonos soundbar.               |
@@ -591,7 +591,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 30:53      | You can make some really good ones as well, which are the lower end of the price range,                   |
 | 30:57      | especially when they're on sale.                                                                          |
 | 30:59      | Definitely worth looking at.                                                                              |
-| 31:00      | I had a eufy one before and the only reason why I upgraded was I got a really good deal                   |
+| 31:00      | I had a [[eufy]] one before and the only reason why I upgraded was I got a really good deal                   |
 | 31:03      | on the ECOVACS.                                                                                            |
 | 31:04      | Yeah.                                                                                                     |
 | 31:05      | So what I was saying is you can get one fairly inexpensive, so look for them.                             |
@@ -610,7 +610,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 31:49      | Yeah.                                                                                                     |
 | 31:50      | Oh yeah.                                                                                                  |
 | 31:51      | There's actually like a naming place in the ECOVACS app.                                                   |
-| 31:53      | I'm pretty certain there was one in the eufy app as well.                                                 |
+| 31:53      | I'm pretty certain there was one in the [[eufy]] app as well.                                                 |
 | 31:56      | If folks want to chime in in the forums and let us know whether or not you can name your                  |
 | 32:00      | robot mobs and vacuums in their app or if you have to resort to like putting a label                      |
 | 32:04      | on them with Sharpie or something to name them, please do let us know.                                    |
@@ -640,7 +640,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 33:25      | whatever is needed for where you live.                                                                    |
 | 33:27      | But the robot vacuum can run multiple times a day if needed because it won't get tired                    |
 | 33:33      | and want to go on strike unless it goes back on the docking correctly and doesn't charge,                 |
-| 33:37      | which hasn't happened to me with the ECOVACS, happened to me occasionally with the Eufy,                   |
+| 33:37      | which hasn't happened to me with the ECOVACS, happened to me occasionally with the [[eufy]],                   |
 | 33:43      | though I think the cat I was fostering for a while may have been responsible for some                     |
 | 33:46      | of that.                                                                                                  |
 | 33:47      | So, if you have pets, make sure that the robot has poop detection as a side note or check                 |
@@ -670,7 +670,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 35:02      | Yeah.                                                                                                     |
 | 35:03      | What about lights and switches?                                                                           |
 | 35:04      | I mean, you said you said you're going to keep your light bulbs, your smart light bulbs.                  |
-| 35:10      | Now that you've got space, I would recommend looking into Lutron, I mean, it's such a game                |
+| 35:10      | Now that you've got space, I would recommend looking into [[Lutron]], I mean, it's such a game                |
 | 35:15      | changer for home automation.                                                                              |
 | 35:17      | Can you use those in combination of smart bulbs or do you have to buy like special ones                   |
 | 35:21      | to use with smart bulbs?                                                                                  |
@@ -684,14 +684,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 35:55      | the big kicker for me.                                                                                    |
 | 35:57      | I think like if you like you were saying Rose, like if you turn off a light switch and the                |
 | 36:03      | smart bulbs is connected to that, you're going to have a whole bunch of error issues.                     |
-| 36:07      | But what I would ultimately love to be all in on Lutron Caseta, I've heard nothing but                    |
+| 36:07      | But what I would ultimately love to be all in on [[Lutron]] Caseta, I've heard nothing but                    |
 | 36:13      | good things from all the podcasters, all the friends, everyone that's gone in on it.                      |
 | 36:18      | I've never heard anyone say anything bad about it, it is a little pricey to get in and stuff              |
 | 36:23      | like that, which, you know, all this stuff adds up, but the nice thing is it's just once                  |
 | 36:30      | it's in, it's there and it's reliable.                                                                    |
 | 36:34      | So I think for now, I ordered a couple extra Hue bulbs just so I could get up and running,                |
 | 36:40      | but I am kind of waiting to see how all the [[Matter]] stuff shakes out because not only do                   |
-| 36:44      | I want to go in for Lutron Caseta for the lights, but I also want to go in with Lutron                    |
+| 36:44      | I want to go in for [[Lutron]] Caseta for the lights, but I also want to go in with [[Lutron]]                    |
 | 36:49      | Caseta for the blinds as well, like I want to, the place that I'm moving into just has                    |
 | 36:55      | dumb pole blinds, you know, the metal blinds that you see in most American homes.                         |
 | 37:01      | I don't know, you know, outside of America what they are, but American homes are like                     |
@@ -703,10 +703,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 37:20      | So if there's somewhere where you can't get like a blind, a smart blind to fit that space,                |
 | 37:24      | but you can get a blind that you like the look of, then you could always just add a                       |
 | 37:27      | smart controller to that, to work around it, not being so smart.                                          |
-| 37:32      | I also, by the way, just to backtrack a little bit, just found if you don't go in on Lutron               |
-| 37:36      | Caseta, you go in on Lutron Aurora, those control smart bulbs, they are smart bulb dimmers.               |
+| 37:32      | I also, by the way, just to backtrack a little bit, just found if you don't go in on [[Lutron]]               |
+| 37:36      | Caseta, you go in on [[Lutron]] Aurora, those control smart bulbs, they are smart bulb dimmers.               |
 | 37:42      | And I'll put a link to those in the show notes for folks so that you can have a look at them.             |
-| 37:47      | Because I knew that Lutron did something for smart bulbs, and so I've just found it on                    |
+| 37:47      | Because I knew that [[Lutron]] did something for smart bulbs, and so I've just found it on                    |
 | 37:52      | their website, which is, I think, useful to know because, yeah, if you want, if you want                  |
 | 37:58      | like things like changing white colours or changing colours, then you're going to want                      |
 | 38:04      | a smart bulb, but you don't want to be killing the power to those.                                        |
@@ -760,7 +760,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 41:03      | Yeah.                                                                                                     |
 | 41:04      | That makes a lot of sense.                                                                                |
 | 41:05      | And I've been doing something similar as well.                                                            |
-| 41:07      | I've recently got a Zigbee RGB LED strip is actually RGB, CCT, FCOB, because all of the                   |
+| 41:07      | I've recently got a [[Zigbee]] RGB LED strip is actually RGB, CCT, FCOB, because all of the                   |
 | 41:17      | acronyms are needed.                                                                                      |
 | 41:18      | So RGB, red, green, blue, CCT, colour changing temperature, FCOB, flexible, something or                   |
 | 41:26      | other, obviously, the CAB, it's the one where the LEDs are so close together in the, in the               |
@@ -848,7 +848,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 46:40      | It's not necessarily at the top of my like, Hey, these are the things I need to do within                 |
 | 46:44      | the first week of moving in.                                                                              |
 | 46:46      | But it's on my list of things I want to look into because yeah, especially one with the                   |
-| 46:52      | the home key, the one where you could just use like your Apple watch to unlock the door.                  |
+| 46:52      | the home key, the one where you could just use like your [[Apple Watch]] to unlock the door.                  |
 | 46:55      | That would be very, very convenient.                                                                      |
 | 46:58      | Yeah.                                                                                                     |
 | 46:59      | Yeah.                                                                                                     |
@@ -860,7 +860,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 47:12      | And I've currently just got Z-Wave modules in, which I just shared to [[Home Assistant]]                      |
 | 47:16      | and then shared it back into [[HomeKit]].                                                                     |
 | 47:18      | That was my first use of [[HomeKit]] actually, just it's cheaper to buy the Z-Wave modules                    |
-| 47:23      | by a lot over here than the Control 4, which is a Zigbee.                                                 |
+| 47:23      | by a lot over here than the Control 4, which is a [[Zigbee]].                                                 |
 | 47:29      | And I didn't know how to get stuff into [[HomeKit]] in any other way at the time.                             |
 | 47:34      | So I just went with [[Home Assistant]] and one large rabbit hole later, having foam automating                |
 | 47:39      | things.                                                                                                   |
@@ -869,14 +869,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 47:45      | Yeah.                                                                                                     |
 | 47:46      | I'm very excited about that.                                                                              |
 | 47:48      | The one thing that I am kind of bummed about, but maybe it's a good thing is the Meross one                |
-| 47:52      | isn't one of the ones that works with Amazon that like the Amazon delivery people can just                |
+| 47:52      | isn't one of the ones that works with [[Amazon]] that like the [[Amazon]] delivery people can just                |
 | 47:57      | open up the door, slide your package in and close it.                                                     |
 | 48:00      | My brother has one of those and he absolutely loves that because he doesn't have to like                  |
 | 48:04      | worry about like being home for an important package delivery or something like that.                     |
-| 48:08      | Well, you can always look into that eufy package box that they brought out for things                   |
+| 48:08      | Well, you can always look into that [[eufy]] package box that they brought out for things                   |
 | 48:13      | like that.                                                                                                |
 | 48:14      | Oh, okay.                                                                                                 |
-| 48:15      | I think it was eufy that brought out the package box.                                                   |
+| 48:15      | I think it was [[eufy]] that brought out the package box.                                                   |
 | 48:17      | Somebody brought out like a smart package delivery box.                                                   |
 | 48:20      | I'll see if I can find a link for the show notes.                                                         |
 | 48:24      | This episode of the automators is brought to you by Electric.                                             |
@@ -1201,7 +1201,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:06:55   | So I will, I'll have to avoid that.                                                                       |
 | 01:06:57   | So let me weigh in a little bit.                                                                          |
 | 01:06:58   | I've been using them both and they're both delightful.                                                    |
-| 01:07:01   | I think [[Alfred]]'s new extension system is really good and [[Raycast]] has some amazing pre-written             |
+| 01:07:01   | I think [[Alfred\|Alfred's]] new extension system is really good and [[Raycast]] has some amazing pre-written             |
 | 01:07:08   | extensions.                                                                                               |
 | 01:07:10   | I will say [[Alfred]], if you do any sort of file management, in my experience, [[Alfred]] runs                   |
 | 01:07:16   | circles around [[Raycast]].                                                                                   |
@@ -1449,7 +1449,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:20:01   | Did you look at using any of the accessibility features for this?                                         |
 | 01:20:04   | Because I know that like iPad OS has a lot of accessibility features support and triggering               |
 | 01:20:10   | keyboard shortcuts is part of this.                                                                       |
-| 01:20:12   | And the reason why this comes to mind is I saw something on Amazon the other day and                      |
+| 01:20:12   | And the reason why this comes to mind is I saw something on [[Amazon]] the other day and                      |
 | 01:20:16   | I'm going to sound crazy when I say this.                                                                 |
 | 01:20:19   | It was a TikTok camera ring.                                                                              |
 | 01:20:22   | I don't entirely understand what this was and how it worked.                                              |
@@ -1480,7 +1480,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:21:41   | Yeah.                                                                                                     |
 | 01:21:42   | It was more than what I needed.                                                                           |
 | 01:21:45   | And I just want to, okay, I'm going to pull back the curtain.                                             |
-| 01:21:49   | I have made a request to Apple to pull just the keyboard shortcut bit out of that accessibility           |
+| 01:21:49   | I have made a request to [[Apple]] to pull just the keyboard shortcut bit out of that accessibility           |
 | 01:21:56   | feature and make it a separate thing.                                                                     |
 | 01:21:58   | So that way we could just have keyboard shortcuts for shortcuts.                                          |
 | 01:22:04   | But yeah, but enabling that feature just enabled a bunch of other stuff.                                  |
@@ -1742,16 +1742,16 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:36:21   | So, uh, you know, you have a problem when you have a notes document of, Hey, here's a bunch               |
 | 01:36:26   | of stuff I want to buy.                                                                                   |
 | 01:36:27   | Yeah.                                                                                                     |
-| 01:36:28   | And then, you know, the, the, the darn thing is the Apple keyboard has the touch ID button                |
+| 01:36:28   | And then, you know, the, the, the darn thing is the [[Apple]] keyboard has the touch ID button                |
 | 01:36:33   | and that, that is so addictive.                                                                           |
 | 01:36:35   | Okay.                                                                                                     |
-| 01:36:36   | So, um, did you know that you can take the Apple keyboard apart and if you have a friend                  |
+| 01:36:36   | So, um, did you know that you can take the [[Apple]] keyboard apart and if you have a friend                  |
 | 01:36:41   | with 3D printer, just, just saying, uh, then they can 3D print a little housing so that                   |
 | 01:36:47   | you can put the touch ID from the magic keyboard with the touch ID into that housing.                     |
 | 01:36:51   | So you can just have a touch ID button on your desk, which for me is great because when                   |
 | 01:36:55   | I walk into a room, like I can, I could use touch ID to, to wake up my Mac and also authenticate          |
 | 01:37:00   | like passwords and stuff on the Mac.                                                                      |
-| 01:37:02   | Um, if you're, if you're Apple watches in sleep mode, you can't use it to, um, like                       |
+| 01:37:02   | Um, if you're, if you're [[Apple Watch\|Apple Watches]] in sleep mode, you can't use it to, um, like                       |
 | 01:37:06   | unlock things and similar on, on Mac OS.                                                                  |
 | 01:37:09   | Um, and so when I, when I walk in, it's like being able to touch ID, hit a couple of stream               |
 | 01:37:13   | depth buttons to get things set up the way I want.                                                        |

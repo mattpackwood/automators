@@ -156,7 +156,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 03:38      | But as we go through this, keep that in mind,                     |
 | 03:40      | because I think this really is a,                                 |
 | 03:43      | just like we're going under this kind of renaissance              |
-| 03:46      | of hardware on the Apple's ecosystem                              |
+| 03:46      | of hardware on the [[Apple\|Apple's]] ecosystem                              |
 | 03:48      | with the Macintosh right now,                                     |
 | 03:51      | I feel like we're in a renaissance of automation on the Mac       |
 | 03:54      | because of all this interoperability.                             |
@@ -198,7 +198,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 05:21      | we talk about, but none of them are as easy as [[Hazel]]              |
 | 05:23      | for doing that.                                                   |
 | 05:25      | And historically, [[Hazel]] has had the ability                       |
-| 05:29      | when it triggers to run an AppleScript.                          |
+| 05:29      | when it triggers to run an [[AppleScript]].                          |
 | 05:33      | And in terminal, it can do some basic automation stuff            |
 | 05:37      | when it is triggered.                                             |
 | 05:38      | So in the way [[Hazel]], like all automation is,                      |
@@ -208,7 +208,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 05:48      | which is my electric company.                                     |
 | 05:50      | [[Hazel]], historically, would rename it,                             |
 | 05:54      | file it into the electric bill file,                              |
-| 05:56      | and then trigger an AppleScript I wrote                          |
+| 05:56      | and then trigger an [[AppleScript]] I wrote                          |
 | 06:00      | that would create an OmniFocus task.                              |
 | 06:02      | And the reason I did that was because                             |
 | 06:05      | when I first ran the script, when I first built it,               |
@@ -218,13 +218,13 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 06:18      | It just got put into the file                                     |
 | 06:20      | and then I didn't pay the electric bill.                          |
 | 06:22      | And so I'm like, well, that's not good.                           |
-| 06:24      | So I wrote an AppleScript.                                       |
+| 06:24      | So I wrote an [[AppleScript]].                                       |
 | 06:26      | In fact, I published it at some point in MacSparky               |
-| 06:29      | that said, okay, this is an AppleScript                          |
+| 06:29      | that said, okay, this is an [[AppleScript]]                          |
 | 06:31      | and open OmniFocus and create a task                              |
 | 06:33      | that says pay the electric bill, blah, blah, blah.                |
 | 06:36      | Well, fast forward to today.                                      |
-| 06:40      | Writing an AppleScript is a pain.                                |
+| 06:40      | Writing an [[AppleScript]] is a pain.                                |
 | 06:41      | In fact, at one point that script broke                           |
 | 06:43      | and I had to rewrite it                                           |
 | 06:44      | and I think the script broke again.                               |
@@ -236,11 +236,11 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 07:01      | It really is, yeah.                                               |
 | 07:02      | Because I mean, we already had the option to say,                 |
 | 07:05      | run an automated workflow or a shell script                       |
-| 07:07      | or a JavaScript or AppleScript before.                           |
+| 07:07      | or a JavaScript or [[AppleScript]] before.                           |
 | 07:10      | And through that, you could say,                                  |
 | 07:12      | until they added support for the run shortcut action,             |
-| 07:15      | you could say, run AppleScript or run shell script               |
-| 07:18      | and then use the AppleScript or the shell script                 |
+| 07:15      | you could say, run [[AppleScript]] or run shell script               |
+| 07:18      | and then use the [[AppleScript]] or the shell script                 |
 | 07:20      | to run the shortcut.                                              |
 | 07:21      | But it obviously wasn't as smooth                                 |
 | 07:24      | and you would need to know the right syntax                       |
@@ -306,9 +306,9 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 09:45      | that I didn't previously have some kind of setup for anyway,      |
 | 09:49      | because the few things that I'd wanted to run a shortcut for,     |
 | 09:51      | I ended up finding other ways to do that.                         |
-| 09:53      | So passing it off through AppleScript                             |
+| 09:53      | So passing it off through [[AppleScript]]                             |
 | 09:56      | and just doing whatever it is                                     |
-| 09:57      | that I need to do through AppleScript.                            |
+| 09:57      | that I need to do through [[AppleScript]].                            |
 | 10:00      | But I'm looking forward to the next time                          |
 | 10:03      | that I want to do something with this,                            |
 | 10:06      | because there are so many times                                   |
@@ -330,15 +330,15 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 10:48      | What about you, David?                                            |
 | 10:49      | So I'm using it for scenarios like the one I described,           |
 | 10:52      | but I would recommend at this point                               |
-| 10:54      | building shortcuts actions in lieu of AppleScripts                |
-| 10:58      | because I've been doing the AppleScript thing                     |
+| 10:54      | building shortcuts actions in lieu of [[AppleScript\|AppleScripts]]                |
+| 10:58      | because I've been doing the [[AppleScript]] thing                     |
 | 10:59      | for like 10 years and I can tell you                              |
 | 11:02      | they just stop working sometimes.                                 |
 | 11:04      | Maybe the app updates                                             |
-| 11:06      | and the underlying AppleScript support changes.                   |
-| 11:08      | Maybe Apple makes some change                                     |
-| 11:09      | to the operating system where the AppleScript breaks,             |
-| 11:12      | but I've had multiple AppleScripts where I spent the time         |
+| 11:06      | and the underlying [[AppleScript]] support changes.                   |
+| 11:08      | Maybe [[Apple]] makes some change                                     |
+| 11:09      | to the operating system where the [[AppleScript]] breaks,             |
+| 11:12      | but I've had multiple [[AppleScript\|AppleScripts]] where I spent the time         |
 | 11:15      | to figure out the syntax and get it working just right.           |
 | 11:18      | And then two years later,                                         |
 | 11:19      | it stops working without me realising it.                         |
@@ -346,7 +346,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 11:25      | and probably more stable result care.                             |
 | 11:27      | One of the things that I wanted to note was                       |
 | 11:30      | there are some cases where I find                                 |
-| 11:32      | AppleScript is probably still the better approach.                |
+| 11:32      | [[AppleScript]] is probably still the better approach.                |
 | 11:34      | Like I have a specific use case                                   |
 | 11:36      | where I needed to replace text inside of an ICS file              |
 | 11:41      | that's been downloaded.                                           |
@@ -366,7 +366,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 12:10      | with the title that I want, simple.                               |
 | 12:13      | Of course, [[Hazel]] doesn't have a native replace text               |
 | 12:15      | inside of an ICS file action.                                     |
-| 12:17      | It, you know, and so I actually went to AppleScript               |
+| 12:17      | It, you know, and so I actually went to [[AppleScript]]               |
 | 12:21      | and [[FastScripts]] for this                                          |
 | 12:22      | because of their regular expression support.                      |
 | 12:24      | So I'm just replacing that line using that.                       |
@@ -377,10 +377,10 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 12:35      | And I'm pretty confident that [[Hazel]] will flag                     |
 | 12:37      | if they make a change there.                                      |
 | 12:39      | But other than that, I would definitely stick with Shortcuts      |
-| 12:41      | because even Shortcuts can run AppleScript                        |
+| 12:41      | because even Shortcuts can run [[AppleScript]]                        |
 | 12:44      | if there's like a little bit of it                                |
 | 12:45      | where you can't do everything inside of Shortcuts,                |
-| 12:48      | where you can hand out to AppleScript for that step               |
+| 12:48      | where you can hand out to [[AppleScript]] for that step               |
 | 12:50      | or those subset of steps and then come back,                      |
 | 12:53      | which is gonna be less wonky than everything breaking.            |
 | 12:57      | And you had mentioned earlier that, you know,                     |
@@ -786,7 +786,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 29:01      | Karabiner?                                                        |
 | 29:02      | Yeah, carabiner elements, but, you know,                          |
 | 29:04      | and they did get, it sorted out,                                  |
-| 29:06      | but I feel like it's a running battle with Apple                  |
+| 29:06      | but I feel like it's a running battle with [[Apple]]                  |
 | 29:09      | in terms of, you know, that keyboard interrupt stuff,             |
 | 29:12      | whereas this is just a text,                                      |
 | 29:14      | this is just a keyboard shortcut,                                 |
@@ -931,7 +931,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 34:30      | fire enough shortcuts.                                            |
 | 34:32      | I guess we should have expected this                              |
 | 34:34      | because you can run them via terminal,                            |
-| 34:36      | you can run them via AppleScript, of course.                     |
+| 34:36      | you can run them via [[AppleScript]], of course.                     |
 | 34:38      | All these third-party apps are going to let you start             |
 | 34:40      | fire enough shortcuts and                                         |
 | 34:42      | [[Brett Terpstra]] and                                                |
@@ -973,7 +973,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 35:54      | And Bunch does window positioning too, right?                     |
 | 35:56      | You can set the window positions.                                 |
 | 35:58      | No, Bunch doesn't do window positioning,                          |
-| 36:00      | but you can just run an AppleScript                              |
+| 36:00      | but you can just run an [[AppleScript]]                              |
 | 36:02      | to tell [[Moom]] to do your window positioning,                       |
 | 36:04      | which is what I do.                                               |
 | 36:06      | One of my favourite Bunch features, to be honest, though,          |
@@ -1162,7 +1162,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 42:14      | in Bunch actually said, hey, open this                            |
 | 42:16      | in [[Safari]]. You know, open                                         |
 | 42:18      | this URL in [[Safari]] or I had                                       |
-| 42:20      | I have an AppleScript, which I use frequently                    |
+| 42:20      | I have an [[AppleScript]], which I use frequently                    |
 | 42:22      | tell application [[Safari]] to open new                               |
 | 42:24      | window. Because whenever I'm recording                            |
 | 42:26      | a podcast, I hide everything and then I                           |
@@ -1234,7 +1234,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 44:38      | But of course, [[Rogue Amoeba]]                                       |
 | 44:40      | has also been bringing their A-game.                              |
 | 44:42      | Audio hijack has full                                             |
-| 44:44      | shortcut support now, including their own JavaScript              |
+| 44:44      | shortcut support now, including their own [[JavaScript]]              |
 | 44:46      | engine. Woo!                                                      |
 | 44:48      | And then they did the same thing with [[SoundSource]],                |
 | 44:50      | which is great.                                                   |
@@ -1389,7 +1389,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 49:48      | shortcuts actions that never                                      |
 | 49:50      | would have existed any other way.                                 |
 | 49:52      | Like they were never going to write                               |
-| 49:54      | a collection of AppleScripts to do all this                      |
+| 49:54      | a collection of [[AppleScript\|AppleScripts]] to do all this                      |
 | 49:56      | stuff and                                                         |
 | 49:58      | the way Automator was engineered                                  |
 | 50:00      | they were never really given                                      |
@@ -1457,8 +1457,8 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 52:06      | some of the finest window treatments                              |
 | 52:08      | and then when you add that automation element                     |
 | 52:10      | to it you just can't beat it.                                     |
-| 52:12      | Of course they're compatible with Apple Home Kit                  |
-| 52:14      | but they also work with Amazon Alexa                              |
+| 52:12      | Of course they're compatible with Apple HomeKit                  |
+| 52:14      | but they also work with Amazon Alexa                            |
 | 52:16      | Google Assistant, IFTTT                                           |
 | 52:18      | and more. I know that                                             |
 | 52:20      | listeners of this show would really love to be able               |
@@ -1640,40 +1640,40 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 58:14      | shortcuts is good at some things                                  |
 | 58:16      | keyboard Maestro is good at other things                          |
 | 58:18      | you know I can like I can                                         |
-| 58:20      | kick it off on shortcuts                                          |
+| 58:20      | kick it off in [[Shortcuts]]                                          |
 | 58:22      | but at the end take whatever information                          |
-| 58:24      | I have in shortcuts send it over to                               |
-| 58:26      | keyboard Maestro and run a script in                              |
-| 58:28      | keyboard Maestro or run multiple                                  |
-| 58:30      | scripts in keyboard Maestro that                                  |
+| 58:24      | I have [[Shortcuts]] send it over to                               |
+| 58:26      | [[Keyboard Maestro]] and run a script in                              |
+| 58:28      | [[Keyboard Maestro]] or run multiple                                  |
+| 58:30      | scripts in [[Keyboard Maestro]] that                                  |
 | 58:32      | finish off whatever automation I'm doing                          |
 | 58:34      | for me and it's just really great                                 |
 | 58:36      | yeah it truly is and                                              |
 | 58:38      | I really you know                                                 |
 | 58:40      | appreciate that you know this is                                  |
 | 58:42      | this is proper support                                            |
-| 58:44      | for shortcuts and that doesn't mean                               |
+| 58:44      | for [[Shortcuts]] and that doesn't mean                               |
 | 58:46      | other developers not doing this right                             |
 | 58:48      | it's just that the fact that                                      |
-| 58:50      | keyboard Maestro is such a powerful automation tool               |
-| 58:52      | and inside of keyboard Maestro I can run a                        |
+| 58:50      | [[Keyboard Maestro]] is such a powerful automation tool               |
+| 58:52      | and inside of [[Keyboard Maestro]] I can run a                        |
 | 58:54      | shortcut and that as part                                         |
 | 58:56      | of that can say hey you know I'm taking                           |
 | 58:58      | this input oh in this particular case I need                      |
-| 59:00      | to update this keyboard Maestro                                   |
+| 59:00      | to update this [[Keyboard Maestro]]                                   |
 | 59:02      | variable                                                          |
 | 59:04      | it doesn't have to hand off to shortcut                           |
-| 59:06      | hand off to AppleScript or something                             |
+| 59:06      | hand off to [[AppleScript]] or something                             |
 | 59:08      | can just stay in the shortcut it can do that bit                  |
 | 59:10      | and then keep going and then it'll pass back                      |
-| 59:12      | whatever it's done to keyboard Maestro that can                   |
+| 59:12      | whatever it's done to [[Keyboard Maestro]] that can                   |
 | 59:14      | you know finish it off or whatever                                |
 | 59:16      | needs doing and I really like                                     |
 | 59:18      | that it's proper two-way support                                  |
 | 59:20      | because there are many cases                                      |
 | 59:22      | where I have wanted to do something in                            |
 | 59:24      | shortcuts and I've got most of the way there and then             |
-| 59:26      | no I just need keyboard Maestro to finish this                    |
+| 59:26      | no I just need [[Keyboard Maestro]] to finish this                    |
 | 59:28      | off well I would really like to have this                         |
 | 59:30      | this and this data available in keyboard Maestro                  |
 | 59:32      | well I can just set variables for it                              |
@@ -1689,7 +1689,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 59:52      | my things I find                                                  |
 | 59:54      | keyboard Maestro like working with contacts                       |
 | 59:56      | and keyboard Maestro is not easy you know                         |
-| 59:58      | you've got a generally writing AppleScript to make               |
+| 59:58      | you've got a generally writing [[AppleScript]] to make               |
 | 01:00:00   | it work and and I                                                 |
 | 01:00:02   | just don't want to deal with that whereas                         |
 | 01:00:04   | dealing with contacts in shortcuts                                |
@@ -1825,10 +1825,10 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:04:24   | platforms because of course                                       |
 | 01:04:26   | [[Keyboard Maestro]] could put a file into a folder                   |
 | 01:04:28   | that triggers hazel to run a thing it can also                    |
-| 01:04:30   | run an apple script or shell script                               |
-| 01:04:32   | and run shortcuts                                                 |
-| 01:04:34   | things and better touch                                           |
-| 01:04:36   | tool can run a [[Keyboard Maestro]]                                   |
+| 01:04:30   | run an [[AppleScript]] or shell script                               |
+| 01:04:32   | and run [[Shortcuts]]                                                 |
+| 01:04:34   | [[Things]] and [[BetterTouchTool]]                                          |
+| 01:04:36   | can run a [[Keyboard Maestro]]                                   |
 | 01:04:38   | macro which will then do all of those things and                  |
 | 01:04:40   | so on and so forth you can build up                               |
 | 01:04:42   | you know a                                                        |
@@ -1973,7 +1973,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:09:20   | you know go back a couple years ago                               |
 | 01:09:22   | and you had [[Hazel]]                                                 |
 | 01:09:24   | and you had [[Keyboard Maestro]]                                      |
-| 01:09:26   | and you had AppleScript as kind of                               |
+| 01:09:26   | and you had [[AppleScript]] as kind of                               |
 | 01:09:28   | the bridge between them but it was a bit                          |
 | 01:09:30   | easier at times                                                   |
 | 01:09:32   | and not always great and now                                      |

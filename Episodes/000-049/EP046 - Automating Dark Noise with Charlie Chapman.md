@@ -102,7 +102,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 02:39      | I had a friend with one, and I was like, oh, this is interesting, but very different.                     |
 | 02:43      | You know, I could talk about it for a long time, but it was an interesting platform.                      |
 | 02:48      | It was definitely too little, too late, but yeah, it was interesting.                                     |
-| 02:52      | Yeah, they made fun of Apple when they first came out, and they really missed the boat.                   |
+| 02:52      | Yeah, they made fun of [[Apple]] when they first came out, and they really missed the boat.                   |
 | 02:59      | In a lot of ways, I think that was a better platform than Android.                                        |
 | 03:03      | I mean, Android has obviously evolved, so don't send me email.                                            |
 | 03:07      | But out of the gate, I thought they had some really interesting ideas, and the thing I                    |
@@ -130,15 +130,15 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 04:26      | But you showed up with this totally different design, and how did you come across that and                |
 | 04:33      | decide to bring automation to boot?                                                                       |
 | 04:35      | I think maybe it's stereotypical to say this, but I was kind of coming at this with the                   |
-| 04:40      | what would an Apple-designed white noise app look like, if that makes sense.                              |
+| 04:40      | what would an [[Apple]]-designed white noise app look like, if that makes sense.                              |
 | 04:45      | And also, definitely a guiding light behind all this is Mac stories.                                      |
 | 04:51      | I've been reading their reviews for a long time, and so [[Federico Viticci\|Federico]] and that team, they're                   |
 | 04:56      | sort of like, to my mind, the taste makers for what a good app really feels like.                         |
 | 05:03      | And so I was definitely driven by how I would imagine them writing about this app.                        |
 | 05:11      | That would drive a lot of decisions I made in terms of keeping the design more simple,                    |
-| 05:17      | but also having a lot of the Apple-specific integrations in there.                                        |
+| 05:17      | but also having a lot of the [[Apple]]-specific integrations in there.                                        |
 | 05:22      | And that's definitely what drove the shortcuts integration was, you know, I was sort of targeting         |
-| 05:27      | this like Apple fan community more than the broader community necessarily.                                |
+| 05:27      | this like [[Apple]] fan community more than the broader community necessarily.                                |
 | 05:34      | And I knew that that would be something that would be really appreciated, and it was something            |
 | 05:37      | that wasn't completely captured or at least not marketed as a feature of a lot of the                     |
 | 05:42      | other apps that were on the store already.                                                                |
@@ -341,10 +341,10 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 18:13      | spending the time to, instead of the cash, I would say, especially if something like                      |
 | 18:17      | that were, you know, it's nice to double check these things before they got the door instead              |
 | 18:21      | of 100% automating them.                                                                                  |
-| 18:23      | Now, Charlie, were you ever a workflow user or did you find shortcuts after Apple acquired                |
+| 18:23      | Now, Charlie, were you ever a workflow user or did you find shortcuts after [[Apple]] acquired                |
 | 18:27      | workflow?                                                                                                 |
 | 18:29      | So as a [[Cortex]] listener, I had been taught the praises of workflow for a long time, but                   |
-| 18:36      | I had never bitten the bullet and actually jumped into it until right after Apple bought                  |
+| 18:36      | I had never bitten the bullet and actually jumped into it until right after [[Apple]] bought                  |
 | 18:40      | them and then they made it free.                                                                          |
 | 18:41      | And I was like, Oh, maybe I'll dip my toes in the water.                                                  |
 | 18:43      | And that was when I started playing around with like, how can I automate or closely get                   |
@@ -397,7 +397,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 21:38      | an idea of or something they may want to do?                                                              |
 | 21:40      | Yeah, so I mean, outside of the, all the ones that I would use as a sort of promotion for                 |
 | 21:44      | my app, one of the ones I do use a lot is I just have one called thoughts.                                |
-| 21:51      | And whenever I click on it, it just pops up a list of different Apple notes I have for                    |
+| 21:51      | And whenever I click on it, it just pops up a list of different [[Apple Notes]] I have for                    |
 | 21:57      | like my different podcasts, my app, I have, I have an Apple note that's just ideas.                       |
 | 22:03      | And like anytime I think of an idea, I just want to throw it in there as quick as I can.                  |
 | 22:07      | And so I have a little shortcut that just pops up the different buckets of ideas I have                   |
@@ -457,7 +457,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 24:14      | Yes.                                                                                                      |
 | 24:15      | Yes.                                                                                                      |
 | 24:16      | Okay.                                                                                                     |
-| 24:17      | Does that mean Apple has a unique identifier for these notes that it just doesn't share                   |
+| 24:17      | Does that mean [[Apple]] has a unique identifier for these notes that it just doesn't share                   |
 | 24:21      | with us?                                                                                                  |
 | 24:22      | Yes.                                                                                                      |
 | 24:23      | I wonder what's under the hood on that.                                                                   |
@@ -642,7 +642,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 35:15      | And you had mentioned that earlier.                                                                       |
 | 35:16      | And one of the things that that shortcut demonstrates, which I think is real powerful                     |
 | 35:22      | once you understand it is base 64 encoding and decoding.                                                  |
-| 35:26      | And the whole trick with that shortcut is he has the frames already, you know, Apple                      |
+| 35:26      | And the whole trick with that shortcut is he has the frames already, you know, [[Apple]]                      |
 | 35:32      | has these images on their developer website.                                                              |
 | 35:35      | And he's just encoded them into the shortcut.                                                             |
 | 35:38      | And that's what base 64 allows you to do.                                                                 |
@@ -776,7 +776,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 43:27      | And like the same thing goes for the new like recommendations from Siri.                                  |
 | 43:33      | So like, and this one I did know because I read the documentation on, but like, there's                   |
 | 43:39      | a whole bunch of things that you get for free by like, hooking into some of these back end                |
-| 43:42      | things that, that Apple provides and shortcuts just happens to be a way to like, hit a lot                |
+| 43:42      | things that, that [[Apple]] provides and shortcuts just happens to be a way to like, hit a lot                |
 | 43:50      | of those different little APIs.                                                                           |
 | 43:52      | And so the benefits were huge.                                                                            |
 | 43:55      | Where the pain started coming in was when after I released and I immediately shifted gears                |
@@ -818,14 +818,14 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 46:27      | just open up the app, which for most people is totally fine.                                              |
 | 46:31      | But a lot of people want to be able to just hit the button on their home screen or whatever               |
 | 46:35      | and it just start playing without them having to actually pop the app open.                               |
-| 46:40      | And Apple did give us the ability to support that, but it has to, it's very sort of limited               |
+| 46:40      | And [[Apple]] did give us the ability to support that, but it has to, it's very sort of limited               |
 | 46:44      | on how you can do that.                                                                                   |
 | 46:46      | And so if you look through the list, and I'm going to try and keep my phone away so it                    |
 | 46:51      | doesn't buzz.                                                                                             |
 | 46:53      | If you look through the list of actions that [[Dark Noise]] supplies, you'll see that some                    |
 | 46:59      | of them start with the word play and some of them start with the word start.                              |
 | 47:04      | And the ones that start with the word play are the, you have to do that if you're using                   |
-| 47:07      | Apple's media intent, which means that those can run in the background, but they can't                    |
+| 47:07      | [[Apple|Apple's]] media intent, which means that those can run in the background, but they can't                    |
 | 47:16      | use parameters.                                                                                           |
 | 47:17      | So it's unfortunate that I have to make this sort of extra complicated, but I do at least                 |
 | 47:24      | have the ability to play some of them totally in the background.                                          |
@@ -867,7 +867,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 49:34      | So there are two different playback actions inside of shortcuts.                                          |
 | 49:39      | There's one which says, set the playback of your device, set your playback destination,                   |
 | 49:44      | sorry.                                                                                                    |
-| 49:45      | And that you can specify, you know, like an Apple TV or a HomePod.                                       |
+| 49:45      | And that you can specify, you know, like an [[Apple TV]] or a HomePod.                                       |
 | 49:49      | And that's what I mostly use, but you can also hand off the playback to be completely                     |
 | 49:53      | independent.                                                                                              |
 | 49:54      | Can you do that with [[Dark Noise]] with that work?                                                           |
@@ -876,10 +876,10 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 50:03      | So you can't, it has to be coming through the phone, which I think is the case for anything               |
 | 50:09      | third party at the moment.                                                                                |
 | 50:10      | Like I still can't even play like [[Spotify]] through my HomePod unless it's coming through                  |
-| 50:15      | my phone or my Apple TV.                                                                                  |
+| 50:15      | my phone or my [[Apple TV]].                                                                                  |
 | 50:17      | Yeah.                                                                                                     |
 | 50:18      | Which is unfortunate.                                                                                     |
-| 50:19      | Will there be [[Dark Noise]] for the Apple TV though?                                                         |
+| 50:19      | Will there be [[Dark Noise]] for the [[Apple TV]] though?                                                         |
 | 50:22      | That's a question.                                                                                        |
 | 50:23      | It's definitely on my list of things that I would like to add, but I'm trying to get                      |
 | 50:26      | the iOS app fully featured first.                                                                         |
@@ -1008,7 +1008,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 56:44      | And there's a bunch of these that like people are sort of filling out missing features that               |
 | 56:50      | I have using shortcuts.                                                                                   |
 | 56:52      | So the other one is like alarms.                                                                          |
-| 56:54      | I don't have the ability because iOS doesn't give us, or Apple doesn't give us one to set                 |
+| 56:54      | I don't have the ability because iOS doesn't give us, or [[Apple]] doesn't give us one to set                 |
 | 57:00      | alarms to where it'll play a sound automatically at a certain time.                                       |
 | 57:04      | And so you can use those new automations, automations, that's what they're called in                      |
 | 57:08      | shortcuts to, you can't have it start the sound automatically, but you could have it                      |
@@ -1019,7 +1019,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 57:29      | And it sort of like gets them going for the day that way.                                                 |
 | 57:32      | Yeah.                                                                                                     |
 | 57:33      | I hate so much that you have to tap a notification though.                                                |
-| 57:36      | It's like, come on, Apple.                                                                                |
+| 57:36      | It's like, come on, [[Apple]].                                                                                |
 | 57:38      | Well if you use the, when the alarm stops feature, then that's an automation where you don't              |
 | 57:43      | have to confirm it because stopping the alarm is essentially you confirming it.                           |
 | 57:47      | So it does just run if you turn that, if you turn the confirmation off at any rate.                       |
@@ -1045,9 +1045,9 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 58:41      | Yeah.                                                                                                     |
 | 58:42      | Specifically, one of the things that they changed was, for some reason, so the way that my app            |
 | 58:47      | works, most shortcuts that you see are automatically registered as shortcuts for the app.                 |
-| 58:54      | So like Apple Notes has a create note, find note, all that kind of stuff, but then there's                |
+| 58:54      | So like [[Apple Notes]] has a create note, find note, all that kind of stuff, but then there's                |
 | 59:01      | also the shortcuts that you donate as you use the app.                                                    |
-| 59:04      | So like in Apple Notes, if you open up a certain note, you can donate that.                               |
+| 59:04      | So like in [[Apple Notes]], if you open up a certain note, you can donate that.                               |
 | 59:11      | Open this particular note.                                                                                |
 | 59:13      | So that's how I'm setting up the shortcuts for each of the sounds.                                        |
 | 59:20      | So whenever you open up the app, it goes through all the current sounds, which this is important          |
@@ -1105,7 +1105,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 01:02:32   | of apps and making them available to shortcuts too.                                                       |
 | 01:02:34   | Automation, making toilet codes easier for everyone.                                                      |
 | 01:02:39   | This is not something I've had any experience with.                                                       |
-| 01:02:41   | I wonder if it works on your Apple Watch.                                                                 |
+| 01:02:41   | I wonder if it works on your [[Apple Watch]].                                                                 |
 | 01:02:44   | Anyway, something to experiment with if [[WWDC]] ever happens again.                                          |
 | 01:02:48   | Oh, it will happen.                                                                                       |
 | 01:02:49   | They've announced it.                                                                                     |
@@ -1131,7 +1131,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 01:03:43   | That has definitely been the thing I've been preaching is, even if it doesn't feel like...                |
 | 01:03:49   | It feels like it's like an add-on feature.                                                                |
 | 01:03:51   | I think it's an add-on feature that has compounding benefits that you don't really necessarily            |
-| 01:03:55   | realise as you're building it, whether it's free Apple support that you get because they                  |
+| 01:03:55   | realise as you're building it, whether it's free [[Apple]] support that you get because they                  |
 | 01:04:01   | just hook it into other parts of their system or your users being able to build their own                 |
 | 01:04:06   | versions of features that you haven't implemented yet.                                                    |
 | 01:04:08   | Both of those things have been super beneficial for me.                                                   |

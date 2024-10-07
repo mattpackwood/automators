@@ -78,7 +78,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:00      | Yeah.                                                                                                        |
 | 01:01      | It looked like a very large pile in the photo that I sent you, David, and I'll see if I                      |
 | 01:06      | can find a way to upload this photo for the show notes.                                                      |
-| 01:09      | I've got some Aqara things.                                                                                |
+| 01:09      | I've got some [[Aqara]] things.                                                                                |
 | 01:11      | Yeah.                                                                                                        |
 | 01:12      | I'll get it in the show notes.                                                                               |
 | 01:13      | So I have a way.                                                                                             |
@@ -207,8 +207,8 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 07:25      | you've ever thought of is seems like it's in there.                                                          |
 | 07:28      | But also, I feel like it's very good at like grabbing one thing from the internet and using                  |
 | 07:34      | it at some other point in the internet.                                                                      |
-| 07:37      | And they also have done a good job of app integration for people on Apple platform.                          |
-| 07:41      | So, you know, I don't know what the deal they made with Apple was, but they've got access                    |
+| 07:37      | And they also have done a good job of app integration for people on [[Apple]] platform.                          |
+| 07:41      | So, you know, I don't know what the deal they made with [[Apple]] was, but they've got access                    |
 | 07:47      | to some data from your iCloud stuff.                                                                         |
 | 07:50      | One of my personal favourite integrations with [[IFTTT\|If This Then That]] [[Day One]].                                  |
 | 07:54      | I'm a big [[Day One]] journaler, and I've got a couple [[Day One]] things going on.                                  |
@@ -287,11 +287,11 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 12:17      | with, I was using the dark skies to see, well, dark skies knows if it's dark outside.                        |
 | 12:23      | So I'll use that part of it, this and that.                                                                  |
 | 12:26      | So if I unlock the door and it's dark outside, then turn the lights on.                                      |
-| 12:30      | And they even have a JavaScript filter you can run, which you, it looks like you almost                      |
-| 12:35      | have to, in order to kind of put logic between those two pieces, but you can write JavaScript                |
+| 12:30      | And they even have a [[JavaScript]] filter you can run, which you, it looks like you almost                      |
+| 12:35      | have to, in order to kind of put logic between those two pieces, but you can write [[JavaScript]]                |
 | 12:42      | into this online automation.                                                                                 |
 | 12:46      | And so at the qualifying level, one of the things that I thought was interesting was,                        |
-| 12:51      | even if I use this JavaScript to write in a pause, you know, something I've always wanted                    |
+| 12:51      | even if I use this [[JavaScript]] to write in a pause, you know, something I've always wanted                    |
 | 12:55      | in these cloud services was the ability to pause.                                                            |
 | 12:58      | And even with, you know, the home kit stuff.                                                                 |
 | 13:01      | So like, let's say if I unlock the front door, wait five minutes.                                            |
@@ -299,7 +299,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 13:12      | lock the door.                                                                                               |
 | 13:13      | I need enough time to get my groceries in or whatever.                                                       |
 | 13:15      | But if I forget to lock the door, then go ahead and lock it for me.                                          |
-| 13:18      | And I think I could do that with JavaScript.                                                                 |
+| 13:18      | And I think I could do that with [[JavaScript]].                                                                 |
 | 13:22      | And if this than that, like you, I have bought a subscription.                                               |
 | 13:24      | I have not pledged $10 a month.                                                                              |
 | 13:27      | I've pledged less.                                                                                           |
@@ -312,9 +312,9 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 13:52      | like lock the door or turn on another light or whatever it is you've got hooked up with                      |
 | 13:58      | if this than that.                                                                                           |
 | 13:59      | So this is what I was looking for.                                                                           |
-| 14:02      | Um, I, it's not clear to me exactly how necessary the JavaScript filtering is.                               |
+| 14:02      | Um, I, it's not clear to me exactly how necessary the [[JavaScript]] filtering is.                               |
 | 14:10      | You know, um, if it is truly necessary for any qualification to work, it's having to                         |
-| 14:17      | stop and write a JavaScript, seem to me like a huge barrier for a lot of people.                             |
+| 14:17      | stop and write a [[JavaScript]], seem to me like a huge barrier for a lot of people.                             |
 | 14:20      | I mean, I can do it, but it's just going to, it's like, do I want to put the time into                       |
 | 14:24      | it?                                                                                                          |
 | 14:25      | Yeah, definitely.                                                                                            |
@@ -351,19 +351,19 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 16:24      | So I've ordered some sensors that might work for that, um, we'll see.                                        |
 | 16:28      | Um, but there, there's, you know, all of these things, this is, you know, where if this than                 |
 | 16:32      | that, you know, really is extremely strong because they have, you know, things like when                     |
-| 16:38      | your Logitech Harmony scene starts and Logitech Harmony doesn't integrate with home kit.                     |
+| 16:38      | your [[Logitech Harmony]] scene starts and [[Logitech Harmony]] doesn't integrate with [[HomeKit]].                     |
 | 16:43      | So I can't, you know, directly do that.                                                                      |
-| 16:45      | I can work around it with Homebridge or I can work around it with if this than that.                        |
-| 16:49      | Um, and the harmony stuff is going through the harmony system anyway.                                        |
-| 16:53      | So I'm, I'm definitely going to be, uh, playing with the, the, uh, harmony things here to                    |
+| 16:45      | I can work around it with [[Homebridge]] or I can work around it with [[IFTTT\|If This Then That]].                        |
+| 16:49      | Um, and the [[Logitech Harmony\|Harmony]] stuff is going through the [[Logitech Harmony\|Harmony system]] anyway.                                        |
+| 16:53      | So I'm, I'm definitely going to be, uh, playing with the, the, uh, [[Logitech Harmony\|Harmony]] things here to                    |
 | 16:59      | get that working.                                                                                            |
-| 17:00      | But my harmony stuff is currently in a box because my place is being redecorated.                            |
+| 17:00      | But my [[[[Logitech Harmony\|Harmony]] stuff is currently in a box because my place is being redecorated.                            |
 | 17:04      | So everything was out of boxes.                                                                              |
 | 17:05      | No, it's back in boxes.                                                                                      |
 | 17:07      | Unfortunately.                                                                                               |
 | 17:08      | Um, another one that's on if this than that, that I haven't seen elsewhere, although it                      |
-| 17:12      | may be on Zapier, I need to check is Instapaper, you know, and saving articles, Instapaper                |
-| 17:18      | or starring an article, Instapaper can trigger off an automation.                                            |
+| 17:12      | may be on [[Zapier]], I need to check is [[Instapaper]], you know, and saving articles, [[Instapaper]]                |
+| 17:18      | or starring an article, [[Instapaper]] can trigger off an automation.                                            |
 | 17:22      | And that's the kind of stuff I think if this than that, so good for, um, and the negative                    |
 | 17:25      | column, you know, because I've been playing with it the last few weeks prepping for today's                  |
 | 17:29      | show.                                                                                                        |
@@ -396,18 +396,18 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 19:00      | recipe I put together years ago, and it just saves the weight to my health app and I don't                   |
 | 19:05      | have to bother with it, you know, automatically, you know, entering it in any way.                           |
 | 19:09      | Yeah.                                                                                                        |
-| 19:10      | I just bought a new scale, 30 pounds, uh, eufy U F Y by the people who make the Anker                        |
+| 19:10      | I just bought a new scale, 30 pounds, uh, [[eufy]] E U F Y by the people who make the Anker                        |
 | 19:15      | stuff.                                                                                                       |
 | 19:16      | Um, and it integrates with iOS health directly.                                                              |
 | 19:18      | So really?                                                                                                   |
 | 19:19      | Yeah.                                                                                                        |
-| 19:20      | eufy, you mean?                                                                                               |
+| 19:20      | [[eufy]], you mean?                                                                                               |
 | 19:21      | Yeah.                                                                                                        |
 | 19:22      | Yeah.                                                                                                        |
-| 19:23      | eufy.                                                                                                         |
+| 19:23      | [[eufy]].                                                                                                         |
 | 19:24      | Yeah.                                                                                                        |
 | 19:25      | That's great.                                                                                                |
-| 19:26      | eufy on their security cameras.                                                                               |
+| 19:26      | [[eufy]] on their security cameras.                                                                               |
 | 19:28      | Oh yeah.                                                                                                     |
 | 19:29      | I'm very tempted to do the security cameras.                                                                 |
 | 19:31      | They're, they're very reasonable too.                                                                        |
@@ -429,7 +429,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 20:08      | I've told to the other people in the building as well before I do anything.                                  |
 | 20:11      | I don't want to make anybody upset.                                                                          |
 | 20:12      | All right.                                                                                                   |
-| 20:13      | eufy scale.                                                                                                   |
+| 20:13      | [[eufy]] scale.                                                                                                   |
 | 20:14      | Well, there we go, Rose.                                                                                     |
 | 20:15      | Now you're going to cost me money.                                                                           |
 | 20:18      | They're surprisingly cheap.                                                                                  |
@@ -457,7 +457,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 21:42      | across your devices when you use the [[Dropbox]] or iCloud.                                                      |
 | 21:46      | I love using PDFpen, I had to fill out a form for my new apartment earlier today and it                      |
 | 21:51      | just worked.                                                                                                 |
-| 21:52      | I filled it up in PDFpen on my iPad, filled it out using my Apple Pencil and sent it back                    |
+| 21:52      | I filled it up in PDFpen on my iPad, filled it out using my [[Apple Pencil]] and sent it back                    |
 | 21:58      | after adding my signature from my template.                                                                  |
 | 22:01      | Learn more about PDFpen and PDFpen Pro at Smile Software.com/podcast.                                   |
 | 22:06      | If you do any work with PDFs, you need PDFpen, go to Smile Software.com/podcast.                        |
@@ -1088,7 +1088,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:00:11   | Well, I, my automation problems I've been working on lately are just a lot of stuff                          |
 | 01:00:15   | in [[Drafts]].                                                                                                   |
 | 01:00:16   | I mean, we had Greg on recently, but after we recorded that show, he, because I pestered                     |
-| 01:00:22   | him on the show, I think he added the ability to turn [[Drafts]] tags into Apple finder tags.                    |
+| 01:00:22   | him on the show, I think he added the ability to turn [[Drafts]] tags into [[Finder\|Apple Finder]] tags.                    |
 | 01:00:29   | So now like one of the automations I use is like when I have a phone call come in for                        |
 | 01:00:34   | a client matter, I just have a draft that runs a text template.                                              |
 | 01:00:39   | And you can do that in [[Drafts]] where it just inserts text.                                                    |
@@ -1107,7 +1107,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:01:38   | immediately where they belong.                                                                               |
 | 01:01:41   | And it's totally secure because it's just on my drive.                                                       |
 | 01:01:43   | It's not going to the cloud anywhere.                                                                        |
-| 01:01:45   | And all that's because Greg got it, that ability to export the tags as Apple tags.                           |
+| 01:01:45   | And all that's because Greg got it, that ability to export the tags as [[Apple]] tags.                           |
 | 01:01:53   | And I'm so thankful to him for taking the time to do that because I think he really                          |
 | 01:01:58   | only did it to shut me up.                                                                                   |
 | 01:02:00   | Well, I've seen snippets of this workflow coming through, David.                                             |
@@ -1120,7 +1120,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:02:24   | So I'm going to be doing an overhaul of my system at the Finder tags.                                        |
 | 01:02:27   | I'm thinking I'm going to be taking a leaf out of your book here because that's pretty                       |
 | 01:02:31   | darn cool.                                                                                                   |
-| 01:02:32   | And then I also have the JavaScript step that looks at the note.                                             |
+| 01:02:32   | And then I also have the [[JavaScript]] step that looks at the note.                                             |
 | 01:02:35   | And if there's anything in there that starts with a dash, then it gets added to the Omni                     |
 | 01:02:38   | focus inbox.                                                                                                 |
 | 01:02:39   | So if I give myself a task arising out of the call of the say dash, you know, write contract                 |
@@ -1223,7 +1223,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:09:03   | The primary thing I've been doing with Hook is using it for file links and also email links.                 |
 | 01:09:09   | But I can do email links also with an [[AppleScript]], but actually it's faster for me to                       |
 | 01:09:14   | do it with Hook.                                                                                             |
-| 01:09:15   | And I rewrote the AppleScript in Hook to allow me to use an AppleScript message link                       |
+| 01:09:15   | And I rewrote the [[AppleScript]] in Hook to allow me to use an [[AppleScript]] message link                       |
 | 01:09:20   | as opposed to the Hook link.                                                                                 |
 | 01:09:22   | So it's not proprietary, and I can open it on iPad.                                                          |
 | 01:09:24   | But I'm rambling.                                                                                            |

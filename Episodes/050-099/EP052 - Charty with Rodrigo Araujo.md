@@ -139,7 +139,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 03:31      | And then data analysis in an app just kind of led to probably what became Charty, right?              |
 | 03:37      | Yeah, sort of.                                                                                         |
 | 03:39      | I've always loved data visualisation and starting data about myself.                                   |
-| 03:43      | So I've used Apple health and everything to start data about me and stuff I do.                        |
+| 03:43      | So I've used [[Apple Health]] and everything to start data about me and stuff I do.                        |
 | 03:50      | So there was one year I guess it was 2009 that I've started every, the data I've watched               |
 | 03:58      | each TV series for a year and in the end I made an infographic.                                        |
 | 04:04      | So it's something about me that I'd like to visualise stuff.                                           |
@@ -151,7 +151,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 04:41      | tab to create charts directed from shortcuts.                                                          |
 | 04:44      | Yeah, that's one of the things I like about, I mean Charty for me is an app that kind                 |
 | 04:49      | of stands in its own category because there are a lot of great tools for shortcuts where               |
-| 04:55      | people have kind of built automations that Apple didn't really think to build or add                   |
+| 04:55      | people have kind of built automations that [[Apple]] didn't really think to build or add                   |
 | 05:01      | so they've kind of built in the gaps for us.                                                           |
 | 05:04      | But Charty is an app and if you haven't seen it yet, listener, it's an app that you install           |
 | 05:10      | and it adds charting tools to shortcuts.                                                               |
@@ -199,8 +199,8 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 08:23      | So it was really impressive.                                                                           |
 | 08:26      | Yeah, it is a great app and like I said, it adds a feature.                                            |
 | 08:32      | So like if you like to build shortcuts and you want data visualisation, something that                 |
-| 08:36      | we thought we'd have to wait for Apple for and honestly I think we'd be waiting a long                 |
-| 08:41      | time for Apple to get around to that.                                                                  |
+| 08:36      | we thought we'd have to wait for [[Apple]] for and honestly I think we'd be waiting a long                 |
+| 08:41      | time for [[Apple]] to get around to that.                                                                  |
 | 08:43      | You can just download [[Charty]] now and start adding it and we've got a bunch of content                 |
 | 08:48      | on [[Charty]] later in the show but I also want to talk to Rodrigo about just how he is an                |
 | 08:54      | automator and some of his automations that he uses everyday.                                           |
@@ -287,12 +287,12 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 14:00      | It is really remarkable how much third party developers have stepped in during iOS 13.                 |
 | 14:06      | I mean, if you look at it, our show regularly, we're talking about third party apps.                   |
 | 14:11      | We've already talked about Charty and [[Data Jar]], you know, it's just, there's so many                   |
-| 14:15      | ways that shortcuts is improved without Apple this year.                                               |
+| 14:15      | ways that shortcuts is improved without [[Apple]] this year.                                               |
 | 14:18      | Yes.                                                                                                   |
-| 14:19      | Apple has given us a platform more than ever.                                                          |
+| 14:19      | [[Apple]] has given us a platform more than ever.                                                          |
 | 14:22      | So we can now, it's almost like we're getting a new app store inside of, of shortcuts.                 |
 | 14:28      | So we can build stuff just to, to, to improve it.                                                      |
-| 14:33      | And Apple has been very, very nice to us, accepting all these, these different apps                    |
+| 14:33      | And [[Apple]] has been very, very nice to us, accepting all these, these different apps                    |
 | 14:40      | in the store.                                                                                          |
 | 14:41      | So when I was being Charty, I was actually kind of afraid cause I don't know if, I didn't              |
 | 14:46      | know if they were considered a incomplete functionality for an app to be, to only be                   |
@@ -313,7 +313,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 15:38      | Already on the Mac.                                                                                    |
 | 15:40      | But I would like to see them just kind of locked down iOS, because this is really the                  |
 | 15:43      | only game in town.                                                                                     |
-| 15:45      | And we need to have not only great tools from, from you folks, but we also need to have Apple          |
+| 15:45      | And we need to have not only great tools from, from you folks, but we also need to have [[Apple]]          |
 | 15:52      | continuing to improve and push the ball forward.                                                       |
 | 15:55      | I mean, one of the things I'd really like them to do is just give you more memory.                     |
 | 15:58      | I know a lot of these.                                                                                 |
@@ -321,7 +321,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 16:02      | Yeah.                                                                                                  |
 | 16:03      | Well, I guess while we're here, as the show releases, we're just a few days from, from                 |
 | 16:07      | [[WWDC]].                                                                                                  |
-| 16:08      | As someone who develops a shortcut supporting app, what would you like to see Apple do to              |
+| 16:08      | As someone who develops a shortcut supporting app, what would you like to see [[Apple]] do to              |
 | 16:15      | make it easier and better?                                                                             |
 | 16:17      | So as Ken just said in the last episode of Automators, they've made a great job of unleashing          |
 | 16:25      | this parameter power, action, short cut action power to us.                                            |
@@ -463,7 +463,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 23:59      | It's the break and continue directives we have in programming languages.                               |
 | 24:03      | It would be great to have them in shortcuts too.                                                       |
 | 24:07      | All right.                                                                                             |
-| 24:08      | So, now that we've solved all of Apple's problems, I'd actually like to talk about                     |
+| 24:08      | So, now that we've solved all of [[Apple|Apple's]] problems, I'd actually like to talk about                     |
 | 24:15      | some of your shortcuts, Rodrigo, starting with the, usually with the show, we'd like                   |
 | 24:20      | to have kind of a small automation or a simple one and a more advanced one.                            |
 | 24:25      | Let's start with a simple one.                                                                         |
@@ -651,7 +651,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 34:45      | your file size.                                                                                        |
 | 34:47      | Plus, PDFpen Pro 12 users get built-in DocuSign support for digital signing.                           |
 | 34:53      | PDFpen for Mac supports Mac OS Catalina and PDFpen for iPad and iPhone supports iOS 13                 |
-| 34:59      | and Apple Pencil.                                                                                      |
+| 34:59      | and [[Apple Pencil]].                                                                                      |
 | 35:00      | Learn more about PDFpen and PDFpen Pro at Smile Software.com/podcast.                             |
 | 35:07      | If you do any work with PDFs, you need PDFpen.                                                         |
 | 35:10      | Go to Smile Software.com/podcast.                                                                 |
@@ -825,8 +825,8 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 46:26      | improve your own automations because that's something that I feel everybody can do if                  |
 | 46:31      | you've got a little bit of time.                                                                       |
 | 46:32      | So.                                                                                                    |
-| 46:33      | Yeah, that's one more thing I would like to see Apple improve using notes with automation              |
-| 46:38      | is very difficult because Apple notes really isn't that friendly to shortcuts.                         |
+| 46:33      | Yeah, that's one more thing I would like to see [[Apple]] improve using notes with automation              |
+| 46:38      | is very difficult because [[Apple Notes]] really isn't that friendly to shortcuts.                         |
 | 46:42      | Yeah, the, the fine notes is actually a source of headaches every time I try to use it until           |
 | 46:48      | I can remember the exact way to, to search for a note and get the note title and whatever              |
 | 46:55      | it takes me a while every time.                                                                        |
@@ -834,7 +834,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 46:57      | Yeah.                                                                                                  |
 | 46:58      | So almost every application has a way to identify specific note or piece of data to identify           |
 | 47:06      | through shortcuts.                                                                                     |
-| 47:08      | Apple notes does not.                                                                                  |
+| 47:08      | [[Apple Notes]] does not.                                                                                  |
 | 47:09      | So I create like a little hash at the bottom of random characters that would only show                 |
 | 47:14      | up in that note.                                                                                       |
 | 47:15      | So I, in this instance, create my own, I guess, UID for.                                               |
@@ -902,7 +902,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 50:41      | interesting uses.                                                                                      |
 | 50:42      | Yes, as I said, some users were using to track the turning prices in the animal crossing               |
 | 50:48      | and that was unexpected.                                                                               |
-| 50:52      | Lots of users are using it to track stuff in the house app from Apple.                                 |
+| 50:52      | Lots of users are using it to track stuff in the house app from [[Apple]].                                 |
 | 50:59      | One of them even went to a lot of steps further and he was tracking his weight and his daily           |
 | 51:08      | activities.                                                                                            |
 | 51:09      | I guess he was running and cycling.                                                                    |
@@ -1005,7 +1005,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 58:16      | the book tracking shortcut, but perhaps a little more complex than the standard every                  |
 | 58:23      | day.                                                                                                   |
 | 58:24      | How much did I sleep?                                                                                  |
-| 58:25      | Because that's ultimately tracked by my Apple Watch and the Health App.                                |
+| 58:25      | Because that's ultimately tracked by my [[Apple Watch]] and the Health App.                                |
 | 58:28      | I just need to know, Rose, in your mind, does American chocolate even qualify as chocolate             |
 | 58:33      | and your chocolate tracking list?                                                                      |
 | 58:35      | That's a nice question.                                                                                |

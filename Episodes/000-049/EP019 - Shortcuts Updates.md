@@ -59,7 +59,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 00:19      | I don't know if we ever told the show the story about the origin of the show.                     |
 | 00:23      | When we had planned it,                                                                           |
 | 00:24      | we had recorded shows and we went to                                                              |
-| 00:26      | [[WWDC]] and Apple announced Siri Shortcuts and we had to throw                                       |
+| 00:26      | [[WWDC]] and [[Apple]] announced Siri Shortcuts and we had to throw                                       |
 | 00:29      | a bunch of episodes in the trash and start over again.                                            |
 | 00:31      | Yeah. I mean, they're not completely gone just for the really curious.                            |
 | 00:35      | They're sitting on a hard drive in my desk.                                                       |
@@ -69,20 +69,20 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 00:51      | I know.                                                                                           |
 | 00:52      | What's up with that?                                                                              |
 | 00:52      | Well, it's March.                                                                                 |
-| 00:54      | I mean, there's an Apple event probably coming shortly after this episode releases.               |
+| 00:54      | I mean, there's an [[Apple]] event probably coming shortly after this episode releases.               |
 | 00:57      | It hasn't been announced as we record,                                                            |
 | 00:59      | but I mean, we don't have crystal balls.                                                          |
 | 01:03      | I mean, I don't have a crystal ball at the very least, David.                                     |
 | 01:05      | I'm not sure about you.                                                                           |
 | 01:06      | So we don't know if Shortcuts is going to make it onto the stage,                                 |
-| 01:08      | but yeah, there are updates and this is unusual for Apple.                                        |
+| 01:08      | but yeah, there are updates and this is unusual for [[Apple]].                                        |
 | 01:14      | Yeah. I mean, I think normally we can count on.                                                   |
 | 01:16      | I mean, Siri Shortcuts is really considered in a lot of ways,                                     |
 | 01:19      | a feature of the operating system.                                                                |
 | 01:21      | Usually, you only see updates to the operating system in June.                                    |
 | 01:25      | You know, when they announced at [[WWDC]] and they shipped sometime in September.                     |
 | 01:29      | For instance, [[Apple Mail]], the app that we like to beat up on because it never gets updates.       |
-| 01:34      | There's no chance that we're going to see an update to Apple Mail anytime other than June.        |
+| 01:34      | There's no chance that we're going to see an update to [[Apple Mail]] anytime other than June.        |
 | 01:40      | But for whatever reason,                                                                          |
 | 01:42      | Siri Shortcuts, partly because it's a separate download I would presume,                          |
 | 01:46      | has been getting regular updates since it originally shipped                                      |
@@ -90,7 +90,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:52      | especially an automation-themed product,                                                          |
 | 01:54      | where they just keep putting the gas down.                                                        |
 | 01:57      | Yeah, it is.                                                                                      |
-| 01:58      | And this is one of the very few Apple apps                                                        |
+| 01:58      | And this is one of the very few [[Apple]] apps                                                        |
 | 02:01      | rather than operating system that you can get a beta invite for.                                  |
 | 02:05      | Now, I will grant you, you have to be a developer for this.                                       |
 | 02:08      | That's not just having one of the free developer accounts,                                        |
@@ -101,13 +101,13 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 02:26      | but that ship has long since sailed, the workflow beta no longer exists.                          |
 | 02:30      | So the only way that you can get onto it now is if you're a developer,                            |
 | 02:34      | if you're not already on it.                                                                      |
-| 02:36      | But that's another thing that's unusual for Apple.                                                |
+| 02:36      | But that's another thing that's unusual for [[Apple]].                                                |
 | 02:40      | They don't usually offer betas of their apps.                                                     |
 | 02:42      | iMovie doesn't have a beta.                                                                       |
 | 02:44      | Shortcuts does, Classroom app, which is a very niche project does,                                |
 | 02:48      | but this is quite unusual.                                                                        |
 | 02:51      | Yeah, and since they, since we first covered Siri Shortcuts,                                      |
-| 02:55      | one that originally released, Apple has released an update.                                       |
+| 02:55      | one that originally released, [[Apple]] has released an update.                                       |
 | 02:58      | They want the 2.1 update came out in late 2019.                                                   |
 | 03:02      | And right now as we sit here, both of us are on the beta for the 2.2 update.                      |
 | 03:07      | And these are not just bug fixes.                                                                 |
@@ -502,7 +502,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 22:21      | I have no idea why I put that there one day, but it's there.                                      |
 | 22:24      | Yep, yep, that's one of these things.                                                             |
 | 22:27      | And don't forget that there are separate alarms                                                   |
-| 22:30      | on your Apple Watches to the ones on your iPhone as well.                                         |
+| 22:30      | on your [[Apple Watch\|Apple Watches]] to the ones on your iPhone as well.                                         |
 | 22:33      | So you may want to pop in and check on that                                                       |
 | 22:35      | if you're having a clear route.                                                                   |
 | 22:37      | Those are more tedious to get rid of too,                                                         |
@@ -921,9 +921,9 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 38:31      | Yeah, well, you know, I just can never seem to be,                                                |
 | 38:33      | I just can't get settled on a note-taking app.                                                    |
 | 38:36      | You know, I want an app that I can just drop text into.                                           |
-| 38:39      | And then when Apple, and for the longest time, you know,                                          |
+| 38:39      | And then when [[Apple]], and for the longest time, you know,                                          |
 | 38:42      | I was using plain text apps for that, you know?                                                   |
-| 38:44      | And, but when Apple did release the update to Apple,                                              |
+| 38:44      | And, but when [[Apple]] did release the update to [[Apple]],                                              |
 | 38:48      | notes, I have to admit, I like the ability to add photos                                          |
 | 38:52      | and other sorts of metadata to the notes app.                                                     |
 | 38:55      | It's kind of like a simplified version of Evernote,                                               |
@@ -936,7 +936,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 39:17      | and it is super automation friendly.                                                              |
 | 39:19      | It, I mean, there's so much you can do                                                            |
 | 39:22      | through Siri shortcuts with Bear                                                                  |
-| 39:24      | that you cannot do with Apple Notes.                                                              |
+| 39:24      | that you cannot do with [[Apple Notes]].                                                              |
 | 39:26      | But frankly, I found that I wasn't really doing                                                   |
 | 39:28      | much of that automation.                                                                          |
 | 39:29      | And I don't really like the way Bear displays the text                                            |
@@ -949,13 +949,13 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 39:49      | with notes for now.                                                                               |
 | 39:50      | And as I was making that decision, I got this beta                                                |
 | 39:53      | and they said, oh, by the way,                                                                    |
-| 39:54      | Siri shortcuts now supports Apple Notes.                                                          |
+| 39:54      | Siri shortcuts now supports [[Apple Notes]].                                                          |
 | 39:56      | So it's kind of like a couple of things happening at once,                                        |
 | 39:59      | but yay, we get Apple Note,                                                                       |
 | 40:01      | or at least a basic level of Apple Note support                                                   |
 | 40:03      | through Siri shortcuts now.                                                                       |
 | 40:05      | Yeah, I mean, we always had the ability                                                           |
-| 40:06      | to create notes in Apple Notes, but that was kind of it.                                          |
+| 40:06      | to create notes in [[Apple Notes]], but that was kind of it.                                          |
 | 40:09      | It was this one way entry into a black hole                                                       |
 | 40:13      | and you were stuck with it.                                                                       |
 | 40:15      | But now you can find notes and then once you found it,                                            |
@@ -985,7 +985,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 41:20      | and I've got a note where I'm tracking the stuff                                                  |
 | 41:23      | we're working on that project,                                                                    |
 | 41:25      | I can just quickly create an entry                                                                |
-| 41:27      | without even going on Apple notes and just using my voice.                                        |
+| 41:27      | without even going on [[Apple Notes]] and just using my voice.                                        |
 | 41:29      | And that kind of stuff, I think, is really a nice addition.                                       |
 | 41:33      | Yes, and I would make a point here.                                                               |
 | 41:37      | There are some people who are used to using things                                                |
@@ -1058,7 +1058,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 44:31      | but if you do something repeatedly and you have,                                                  |
 | 44:34      | like, that workflow of choosing between multiples                                                 |
 | 44:37      | and you're gonna make a bunch of different shortcuts                                              |
-| 44:39      | that relate to Apple Notes,                                                                       |
+| 44:39      | that relate to [[Apple Notes]],                                                                       |
 | 44:41      | why not make it a subroutine that you just drop in                                                |
 | 44:44      | with the run shortcut command,                                                                    |
 | 44:46      | rather than having to create it from scratch every time?                                          |
@@ -1513,7 +1513,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:02:39   | you know, sometimes you need to grab something multiple times,                                    |
 | 01:02:42   | but then that's it, you don't need it anymore.                                                    |
 | 01:02:44   | Being able to unset that variable would be very useful.                                           |
-| 01:02:47   | Going back to your discussion of the Apple,                                                       |
+| 01:02:47   | Going back to your discussion of the [[Apple]],                                                       |
 | 01:02:50   | I would, on the Mac, I'm sorry,                                                                   |
 | 01:02:52   | I would love to have [[Shortcuts\|Siri Shortcuts]] on the Mac.                                                 |
 | 01:02:54   | Would I love it enough to have them slow down                                                     |
@@ -1528,7 +1528,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:03:13   | and one group of them can work on Mac OS.                                                         |
 | 01:03:15   | And they need to have full brain power,                                                           |
 | 01:03:17   | so if they can get right on that,                                                                 |
-| 01:03:18   | Apple's got the money, they'll be fine.                                                           |
+| 01:03:18   | [[Apple|Apple's]] got the money, they'll be fine.                                                           |
 | 01:03:20   | I feel like with the power of Apple events                                                        |
 | 01:03:22   | that you probably could make it happen on the Mac,                                                |
 | 01:03:24   | but I feel like at this point,                                                                    |
@@ -1540,7 +1540,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:03:40   | but eventually I would like to see it on the Mac, too.                                            |
 | 01:03:43   | Yes, and I will mention somebody,                                                                 |
 | 01:03:45   | I'll see if I can find a link to it to put it in the show.                                        |
-| 01:03:47   | Somebody has made a JavaScript editor for shortcuts, I believe,                                   |
+| 01:03:47   | Somebody has made a [[JavaScript]] editor for shortcuts, I believe,                                   |
 | 01:03:51   | and it looks pretty good,                                                                         |
 | 01:03:53   | but I love native solutions of the Shortcuts team.                                                |
 | 01:03:56   | We're able to do this,                                                                            |
@@ -1555,17 +1555,17 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:04:16   | I'm sure by the time I finished it,                                                               |
 | 01:04:18   | there will be a few other goodies in there.                                                       |
 | 01:04:20   | Yeah.                                                                                             |
-| 01:04:21   | All right, well, thank you, Apple,                                                                |
+| 01:04:21   | All right, well, thank you, [[Apple]],                                                                |
 | 01:04:23   | for continuing to update Siri Shortcuts.                                                          |
 | 01:04:25   | I think that's a good sign.                                                                       |
-| 01:04:27   | I still think that this is an experiment from Apple executives,                                   |
+| 01:04:27   | I still think that this is an experiment from [[Apple]] executives,                                   |
 | 01:04:31   | you know, this whole thing.                                                                       |
 | 01:04:33   | Every time I see the Siri Shortcuts team,                                                         |
 | 01:04:35   | the one thing they always say is,                                                                 |
 | 01:04:36   | thank you for talking about us,                                                                   |
 | 01:04:38   | and please have people make Siri Shortcuts.                                                       |
 | 01:04:40   | They haven't said to me explicitly,                                                               |
-| 01:04:42   | but I do think that Apple is paying attention                                                     |
+| 01:04:42   | but I do think that [[Apple]] is paying attention                                                     |
 | 01:04:44   | to how many people use this,                                                                      |
 | 01:04:46   | and that is going to affect how much                                                              |
 | 01:04:49   | or how little love this application gets going forward.                                           |

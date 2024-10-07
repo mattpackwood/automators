@@ -253,7 +253,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 15:38      | means that when I make a change, I can go look it up and see where else I need to go                    |
 | 15:43      | and update this, just in case. Huge automators power tip there is in [[Drafts]],                            |
 | 15:47      | you can get a unique identifier for every single draft you make, which is way easier                    |
-| 15:53      | than if you're using Apple Notes and you have to use a goofy search technique and hope that             |
+| 15:53      | than if you're using [[Apple Notes]] and you have to use a goofy search technique and hope that             |
 | 15:57      | you get the right one. I mean, the way I do it in Notes is I actually create a unique                   |
 | 16:02      | identifier, which is a strange string of text and I just searched for it that would only                |
 | 16:06      | be in that one note, but that is like a total hack and the [[Drafts]] does it so much better.               |
@@ -433,7 +433,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 30:01      | something. It usually happens just as I'm walking out the door with my hands full or                    |
 | 30:05      | something, I think of something and then it's gone before I get a chance to put my bags                 |
 | 30:10      | down and get, get a device so I can capture it, you know, even, even with capture on the                |
-| 30:14      | Apple watch, it's difficult to, to actually capture everything even when with your hands                |
+| 30:14      | [[Apple Watch]], it's difficult to, to actually capture everything even when with your hands                |
 | 30:19      | full.                                                                                                   |
 | 30:20      | And do you run these scripts? I usually run them as part of a review process. So like                   |
 | 30:25      | you, I've split my review into multiple sections. So I do different parts of reviews pretty             |
@@ -666,7 +666,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 50:40      | And, you know, that's kind of what you're doing with this review of completed tasks. So,                |
 | 50:47      | and that's just like a taste. I feel like there's so much more that we're going to get once they        |
 | 50:51      | finish that. Yes. Well, I've been playing with the Omni Automation as it's called,                      |
-| 50:55      | which is a JavaScript scripting for OmniFocus. And I have to say, it's definitely a super               |
+| 50:55      | which is a [[JavaScript]] scripting for OmniFocus. And I have to say, it's definitely a super               |
 | 51:01      | parry user feature. You know, you're going to have to get really nerdy if you want to write             |
 | 51:04      | these scripts the same way if you would, if you want to write nerdy scripts to automate [[Drafts]]         |
 | 51:09      | or something. You know, only this is an entire task management application with all of the              |
@@ -675,8 +675,8 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 51:26      | complex, but I think we're going to have fun when we can actually do all of that.                       |
 | 51:30      | But also that's all shareable. So like once we kind of, the nerds of us really figure it out,           |
 | 51:35      | we can share these scripts and even typical users that are aware of them can run them. So,              |
-| 51:41      | you know, you don't have to learn JavaScript to, to do these scripts. I mean, and honestly,             |
-| 51:47      | once you go in, you can probably make small tweaks even that it's just like AppleScript and all        |
+| 51:41      | you know, you don't have to learn [[JavaScript]] to, to do these scripts. I mean, and honestly,             |
+| 51:47      | once you go in, you can probably make small tweaks even that it's just like [[AppleScript]] and all        |
 | 51:52      | these other scripting languages. One of the best ways to learn it is to take one that works and         |
 | 51:56      | break it and then try and fix it, you know, and make it work for you. Definitely. Anyway, that's,       |
 | 52:03      | that's some powerful review stuff that I'd never really considered as review, but you know, it          |
@@ -762,7 +762,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 59:02      | this cute little cartoon image of Yoda. And so I went ahead and decided that was going to be my         |
 | 59:10      | home screen for a while. And then I wanted to make a shortcuts-based home screen that kind of           |
 | 59:15      | followed that theme. And our friend [[Federico Viticci]] released a bunch of cool custom icons,            |
-| 59:21      | and then Apple also has a really nice set of icons that now they ship with iOS 13 that you can          |
+| 59:21      | and then [[Apple]] also has a really nice set of icons that now they ship with iOS 13 that you can          |
 | 59:26      | access. So I built an entirely shortcuts-based home screen. And what I did was I pulled a colour         |
 | 59:36      | green out of the Yoda image and used that as the background. So for each shortcut I make,               |
 | 59:42      | I put that icon on top of the exact same colour green, and then I used that same colour for the           |

@@ -144,9 +144,9 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 06:59      | to be doing something in [[Shortcuts]], and similarly on the Mac, there are sometimes, if you've                                               |
 | 07:04      | got to work back and forth with [[Apple Contacts\|Contacts]] or the [[Apple Calendar\|Calendar]] or whatever, well, you're going               |
 | 07:10      | to be writing an [[AppleScript]] or nowadays [[JavaScript]] for applications. No, it's not                                                     |
-| 07:16      | [[JavaScript]]. [[JXA]] is 'JavaScript for Automation', not applications. But it's got to be one                                               |
+| 07:16      | [[JavaScript]]. [[JXA]] is '[[JXA\|JavaScript for Automation]]', not applications. But it's got to be one                                               |
 | 07:22      | of those, too, because you can't get into the other things. [[Keyboard Maestro]] helps                                                         |
-| 07:28      | out quite a lot in that, but still, ultimately, you're going to end up with something AppleScript-y                                            |
+| 07:28      | out quite a lot in that, but still, ultimately, you're going to end up with something [[AppleScript\|AppleScript-y]]                                            |
 | 07:34      | Yeah, so often, it just ends up in [[Keyboard Maestro]],                                                                                       |
 | 07:36      | doesn't it? Yeah, that's certainly my first choice, because [[AppleScript]] is never                                                           |
 | 07:43      | my first choice. I have been programming in [[AppleScript]] since the late 90s, since it                                                       |
@@ -315,10 +315,10 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 23:39      | am not a big fan of [[JXA]] not because I don't, it's because if you are trying to get something                                                   |
 | 23:50      | done in [[AppleScript]] and you are searching the web for someone who has done something                                                       |
 | 23:54      | similar or maybe even exactly the same thing, you're likely to find it in [[AppleScript]] rather                                               |
-| 23:59      | than JXA simply because [[AppleScript]] has been around for so long. You just see more example                                                 |
+| 23:59      | than [[JXA]] simply because [[AppleScript]] has been around for so long. You just see more example                                                 |
 | 24:06      | scripts in [[AppleScript]]. So ultimately, I think it's helpful to know a little bit of                                                        |
 | 24:11      | [[AppleScript]], even if you prefer to write in a [[JavaScript]] on your Mac and access all                                                        |
-| 24:18      | of the, all of the AppleScript-y stuff by way of [[JavaScript]], it's probably helpful to                                                          |
+| 24:18      | of the, all of the [[AppleScript\|AppleScript-y]] stuff by way of [[JavaScript]], it's probably helpful to                                                          |
 | 24:23      | have at least some idea of what [[AppleScript]] looks like because there are some, there are                                                       |
 | 24:31      | just some concepts in there that are in both languages in both [[JXA]] and [[AppleScript]]. But                                                    |
 | 24:38      | I think they're usually better explained in [[AppleScript]]. The language works a little                                                       |
@@ -333,7 +333,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 25:27      | write an [[AppleScript]] and I, I'm a big user of [[AppleScript\|AppleScripts]], but I understand that the                                                      |
 | 25:33      | stuff I create there is not going to work on my iPad and iPhone. And that's kind of                                                            |
 | 25:37      | getting back to why I think [[JavaScript]] is such a great jumping off point. I know in                                                            |
-| 25:41      | my case, I didn't have any formal JavaScript training. So I don't know about three, four                                                       |
+| 25:41      | my case, I didn't have any formal [[JavaScript]] training. So I don't know about three, four                                                       |
 | 25:47      | years ago, I went to [Code Academy](https://codecademy.com) and it's [codeacademy.com](https://codeacademy.com). They've got a free [[JavaScript]]                           |
 | 25:51      | course there. It took me like a weekend to go through it. And now I had, I know just                                                           |
 | 25:58      | enough about [[JavaScript]] that when I go find code samples, I can cobble things together.                                                        |
@@ -425,8 +425,8 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 33:57      | is the flagship product from DEVONtechnologies and it's a professional document                                                        |
 | 34:02      | and information management application for the Mac and it helps you collect, file, organise,                                                   |
 | 34:07      | edit and annotate all sorts of documents so you can reach digital organisational heaven.                                                       |
-| 34:13      | Archive all of your email with the enhanced email archiver. You press a button and Apple                                                       |
-| 34:17      | Mail and it saves it to DEVONthink and you can do the same thing with paper documents.                                                         |
+| 34:13      | Archive all of your email with the enhanced email archiver. You press a button and [[Apple Mail]]                                                      |
+| 34:17      | and it saves it to DEVONthink and you can do the same thing with paper documents.                                                         |
 | 34:21      | They attach directly to your scanner. So you press a button on your scanner. You save the                                                      |
 | 34:26      | documents straight to DEVONthink. You can even imprint PDFs with custom stamps before                                                          |
 | 34:31      | giving them to others. Then organise your documents in any way you want. They have smart groups                                                |
@@ -542,7 +542,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 46:23      | many addresses for a person. For some, one of the great things about the folks who did                                                         |
 | 46:30      | [[Shortcuts]] and [[Workflow]] ahead of it is they gave you the boxes to put, to put into your                                                         |
 | 46:39      | shortcut that do a lot of stuff. They have, they, these are, it's shortcuts ability to                                                         |
-| 46:45      | work with contacts is very powerful and it's better than AppleScript's. It's more compact.                                                     |
+| 46:45      | work with contacts is very powerful and it's better than [[AppleScript\|AppleScript's]]. It's more compact.                                                     |
 | 46:52      | It's, it's, you, you see it and you know, oh, this is exactly what I'm doing. And so                                                           |
 | 46:56      | it was very easy for me to assemble this reformatted thing in shortcuts, whereas it took a little                                              |
 | 47:04      | bit more doing in, in [[AppleScript]]. I would argue that it's easier to work                                                                  |
@@ -786,7 +786,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 01:10:51   | of my age and my experiences, but there are things that I still prefer to do on paper. Even                                                    |
 | 01:10:59   | when I'm sitting right in front of a computer doing one thing, I will make notes to myself                                                     |
 | 01:11:05   | on a piece of paper and those things all have to go into the file.                                                                             |
-| 01:11:10   | So Apple makes this product, doctor. It's called the "Information Phone". They're up to number 12.                                               |
+| 01:11:10   | So [[Apple]] makes this product, doctor. It's called the "Information Phone". They're up to number 12.                                               |
 | 01:11:16   | And you can download a program, a specialised program. They're called Apps. It's called [[SwiftScan\|ScanPro+]]                                               |
 | 01:11:22   | and you write down on the paper and then you literally take a picture of it and it saves                                                       |
 | 01:11:28   | it to that folder you created and you're good. I actually, I do all of those things. I still scan                                              |

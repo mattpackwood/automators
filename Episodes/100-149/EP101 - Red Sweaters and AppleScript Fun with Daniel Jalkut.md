@@ -277,7 +277,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 08:58      | but sometimes they get complicated too.                           |
 | 09:00      | But a lot of automators like do a level of program.               |
 | 09:04      | It's not the same thing that you'll do                            |
-| 09:06      | when you're working at Apple or making an app,                    |
+| 09:06      | when you're working at [[Apple]] or making an app,                    |
 | 09:09      | but it is a level of programming.                                 |
 | 09:11      | And it takes that kind of mindset,                                |
 | 09:13      | the logical progression,                                          |
@@ -442,7 +442,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 16:50      | it was my first Mac that I owned                                  |
 | 16:52      | and could use for myself, my family was not a Mac family.         |
 | 16:55      | So I brought my family kicking and screaming                      |
-| 16:58      | into the Apple ecosystem, but I got my first Mac                  |
+| 16:58      | into the [[Apple]] ecosystem, but I got my first Mac                  |
 | 17:02      | and I thought this has graphics                                   |
 | 17:03      | and I need to learn how to program it.                            |
 | 17:06      | And so I got this great app on the Mac at that time.              |
@@ -465,7 +465,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 17:55      | Like I said, I didn't learn to program until kind of late         |
 | 17:59      | for a programmer's son,                                           |
 | 18:01      | but by within a few years,                                        |
-| 18:04      | I was working at my first job at Apple                            |
+| 18:04      | I was working at my first job at [[Apple]]                            |
 | 18:07      | as a quality engineer, a tester                                   |
 | 18:11      | and managed to just get into the right doors                      |
 | 18:15      | to end up programming for the System 7 team.                      |
@@ -521,30 +521,30 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 20:37      | And I'll tell you what,                                           |
 | 20:38      | this is perfect for the automators show                           |
 | 20:40      | because my dad at some point grudgingly,                          |
-| 20:44      | I think what happened is after I was working at Apple             |
+| 20:44      | I think what happened is after I was working at [[Apple]]             |
 | 20:46      | for a while, he was sort of proud enough of me working            |
-| 20:49      | at Apple that he thought maybe he should get a Mac                |
+| 20:49      | at [[Apple]] that he thought maybe he should get a Mac                |
 | 20:51      | just like be play for the home team.                              |
 | 20:54      | And they got a Mac and being a programmer that he is,             |
 | 20:58      | he started getting, he bought like an [[AppleScript]] book.          |
-| 21:03      | And it was such a great testament to AppleScript                 |
+| 21:03      | And it was such a great testament to [[AppleScript]]                 |
 | 21:07      | that my dad, like a C++ compiler engineer,                        |
 | 21:12      | one day he pulled me aside and he just said,                      |
-| 21:14      | I finally took a look at this AppleScript language.              |
+| 21:14      | I finally took a look at this [[AppleScript]] language.              |
 | 21:18      | I just thought it was going to be so basic,                       |
 | 21:21      | but it's a real programming language.                             |
 | 21:24      | And I was like, yes, you get it.                                  |
 | 21:26      | Like this is, and that was a great testament to him               |
-| 21:31      | sort of finding a route to respecting Apple and the Mac           |
-| 21:36      | was through AppleScript of all things.                           |
+| 21:31      | sort of finding a route to respecting [[Apple]] and the Mac           |
+| 21:36      | was through [[AppleScript]] of all things.                           |
 | 21:39      | And I didn't know how, at that time,                              |
-| 21:40      | I didn't know how to use AppleScript at all,                     |
+| 21:40      | I didn't know how to use [[AppleScript]] at all,                     |
 | 21:42      | but this must have been in, you know, 96 or something             |
-| 21:45      | a couple of years after AppleScript had come out.                |
+| 21:45      | a couple of years after [[AppleScript]] had come out.                |
 | 21:47      | And now one of your primary products                              |
-| 21:49      | is AppleScript related, which is kind of fun.                    |
+| 21:49      | is [[AppleScript]] related, which is kind of fun.                    |
 | 21:50      | Right, that's right.                                              |
-| 21:52      | Yeah, I really feel like AppleScript                             |
+| 21:52      | Yeah, I really feel like [[AppleScript]]                             |
 | 21:55      | doesn't get a fair shake from a lot of people.                    |
 | 21:58      | I mean, I get that it's not like a traditional programming        |
 | 22:01      | language and it's, you know, the syntax is weird, you know,       |
@@ -563,25 +563,25 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 22:46      | And the people who reviled the language                           |
 | 22:48      | are usually pretty vocal about it.                                |
 | 22:50      | And it's funny to think about languages like PHP,                 |
-| 22:54      | JavaScript, C++, Perl,                                           |
+| 22:54      | [[JavaScript]], C++, Perl,                                           |
 | 22:59      | four of like the most popular languages in history                |
 | 23:01      | are some of the most reviled languages, right?                    |
 | 23:04      | They have, people have pejoratives                                |
 | 23:06      | for all of these languages.                                       |
-| 23:08      | And in JavaScript in particular, I think most people              |
+| 23:08      | And in [[JavaScript]] in particular, I think most people              |
 | 23:12      | would agree is the most universally adopted language now.         |
 | 23:16      | And people still ridicule it for all of its shortcomings.         |
 | 23:21      | So sometimes I like to think, you know,                           |
-| 23:24      | AppleScript has plenty to ridicule it for,                        |
+| 23:24      | [[AppleScript]] has plenty to ridicule it for,                        |
 | 23:28      | but, you know, there is a like parallel universe                  |
-| 23:31      | where AppleScript took off and became so popular                  |
+| 23:31      | where [[AppleScript]] took off and became so popular                  |
 | 23:34      | that it was like the language powering the web.                   |
 | 23:38      | And then people would still be ridiculing it                      |
 | 23:41      | and, you know, glorifying all of the things                       |
 | 23:44      | that are wrong with it,                                           |
 | 23:45      | but it would still be hugely successful.                          |
 | 23:47      | So it's like, you know, it's kind of easy                         |
-| 23:49      | to beat up on AppleScript because not only does it have           |
+| 23:49      | to beat up on [[AppleScript]] because not only does it have           |
 | 23:53      | a lot of peculiarities that are different                         |
 | 23:55      | from other languages, it makes it difficult                       |
 | 23:57      | in some ways for programmers and non-programmers,                 |
@@ -590,19 +590,19 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 24:06      | Yeah, but then there are people that you meet                     |
 | 24:09      | that can do amazing things with it.                               |
 | 24:12      | And we still hear from automated listeners                        |
-| 24:14      | who are now learning AppleScript                                  |
+| 24:14      | who are now learning [[AppleScript]]                                  |
 | 24:17      | because they're primarily working on the Mac                      |
 | 24:21      | and they want to get the most out of automation on the Mac.       |
 | 24:24      | And I think it's a good option.                                   |
 | 24:26      | I mean, so long as you're staying on the Mac,                     |
 | 24:28      | once you get on the mobile,                                       |
-| 24:29      | you're not gonna get anything with AppleScript.                   |
-| 24:32      | But I stand by the belief that Apple is not going                 |
-| 24:35      | to remove AppleScript from the Mac.                               |
+| 24:29      | you're not gonna get anything with [[AppleScript]].                   |
+| 24:32      | But I stand by the belief that [[Apple]] is not going                 |
+| 24:35      | to remove [[AppleScript]] from the Mac.                               |
 | 24:37      | I don't need, I think it would require effort                     |
 | 24:40      | on their behalf to do so.                                         |
 | 24:42      | And as a result, it's in there.                                   |
-| 24:45      | I think it would take dynamite to get AppleScript                 |
+| 24:45      | I think it would take dynamite to get [[AppleScript]]                 |
 | 24:47      | out of the Mac OS at this point.                                  |
 | 24:49      | And I don't think anybody's willing to blow stuff up.             |
 | 24:52      | Yeah, so it's a perfect example of something                      |
@@ -614,24 +614,24 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 25:15      | is that it naturally stops being used                             |
 | 25:18      | and people move on to other things.                               |
 | 25:21      | Maybe that will be shortcuts to a large extent                    |
-| 25:23      | if Apple continues to invest in shortcuts.                        |
-| 25:26      | Maybe it'll be JavaScript-based automations.                      |
+| 25:23      | if [[Apple]] continues to invest in shortcuts.                        |
+| 25:26      | Maybe it'll be [[JavaScript]]-based automations.                      |
 | 25:29      | But I agree, the thing is some of the best things                 |
-| 25:36      | about AppleScript actually are the ways                           |
+| 25:36      | about [[AppleScript]] actually are the ways                           |
 | 25:39      | that it imposed on, and it still does impose                      |
 | 25:43      | on programmers who support it at the app level.                   |
 | 25:48      | It imposes a philosophy for organising your data                  |
 | 25:52      | kind of into the equivalent of a DOM                              |
-| 25:55      | like in a JavaScript sense, document object model.                |
+| 25:55      | like in a [[JavaScript]] sense, document object model.                |
 | 26:00      | It's kind of the tree hierarchy                                   |
 | 26:02      | of all the contents of an app.                                    |
-| 26:05      | And AppleScript did this very early on, the 90s.                  |
+| 26:05      | And [[AppleScript]] did this very early on, the 90s.                  |
 | 26:10      | And so what's great about that is a lot of apps                   |
 | 26:14      | that do support scripting are structured in such a way            |
 | 26:17      | that they can be adapted to other scripting languages             |
 | 26:20      | if something else comes along.                                    |
 | 26:23      | So it's kind of like the infrastructure,                          |
-| 26:26      | when you talk about AppleScript,                                  |
+| 26:26      | when you talk about [[AppleScript]],                                  |
 | 26:27      | you're talking about the language,                                |
 | 26:28      | but also the infrastructure.                                      |
 | 26:29      | And especially the infrastructure,                                |
@@ -640,9 +640,9 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 26:39      | at least.                                                         |
 | 26:40      | The other thing is, of course,                                    |
 | 26:41      | shortcuts is shipped,                                             |
-| 26:42      | but it shipped with AppleScript support and CLI support.          |
+| 26:42      | but it shipped with [[AppleScript]] support and CLI support.          |
 | 26:45      | So even though shortcuts may eventually be here                   |
-| 26:49      | to eat AppleScript's lunch at the moment,                         |
+| 26:49      | to eat [[AppleScript\|AppleScript's]] lunch at the moment,                         |
 | 26:51      | it's still bringing the goods.                                    |
 | 26:53      | So we have everything that you would expect                       |
 | 26:56      | from an automatable application in 2022.                          |
@@ -715,7 +715,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 29:14      | And the total lack of interest or desire                          |
 | 29:18      | in logging in and clicking around and downloading them.           |
 | 29:21      | So when you ask me about what I've been automating lately,        |
-| 29:24      | it doesn't happen to be an AppleScript thing,                    |
+| 29:24      | it doesn't happen to be an [[AppleScript]] thing,                    |
 | 29:26      | but it's really interesting,                                      |
 | 29:30      | because I've dipped my toe into screen scraping,                  |
 | 29:36      | probably for at least 15 years.                                   |
@@ -739,7 +739,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 30:42      | No, it's not Python, I'm sorry.                                   |
 | 30:44      | It's a mix up my scripting languages.                             |
 | 30:46      | It's a node package, at least the interface I'm using             |
-| 30:49      | is node, a JavaScript based.                                      |
+| 30:49      | is node, a [[JavaScript]] based.                                      |
 | 30:52      | And it just gives you all these cool tools                        |
 | 30:55      | for automating stuff on the web.                                  |
 | 30:58      | So you can say things like open this page,                        |
@@ -799,7 +799,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 33:25      | or very well documented actually,                                 |
 | 33:26      | because people use this for testing.                              |
 | 33:28      | But that's obviously using Python,                                |
-| 33:30      | rather than JavaScript,                                           |
+| 33:30      | rather than [[JavaScript]],                                           |
 | 33:32      | which Daniel must be using with Puppeteer.                        |
 | 33:36      | Yeah, so the thing with Puppeteer,                                |
 | 33:37      | the reason I, so years ago, whenever I had tried this,            |
@@ -972,7 +972,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 41:09      | called Beautiful Soup, which is great                             |
 | 41:11      | for like taking apart the contents of a web page.                 |
 | 41:15      | But it doesn't do anything to interact with the web page          |
-| 41:19      | dynamically through its like JavaScript interfaces,               |
+| 41:19      | dynamically through its like [[JavaScript]] interfaces,               |
 | 41:22      | and as anybody listening can probably imagine,                    |
 | 41:25      | that's increasingly important for most websites.                  |
 | 41:28      | So you can't just, like it used to be screen scraping meant,      |
@@ -1075,77 +1075,77 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 45:04      | And our thanks to Hunter Douglas                                  |
 | 45:05      | for their support of the automators and all of Relay FM.          |
 | 45:11      | So, Daniel, obviously you're having fun with, you know,           |
-| 45:14      | some JavaScript there with Node and Puppeteer                     |
+| 45:14      | some [[JavaScript]] there with Node and Puppeteer                     |
 | 45:17      | and [[Headless Chrome]] and so on.                                    |
-| 45:18      | But you also mentioned before JavaScript,                         |
+| 45:18      | But you also mentioned before [[JavaScript]],                         |
 | 45:21      | and obviously, you know, nowadays,                                |
 | 45:24      | for starters, it's not the 1990s anymore,                         |
 | 45:26      | it's the 2020s, and you've got an app called [[FastScripts]].        |
-| 45:31      | You know, what are you feeling about AppleScript at the moment?   |
-| 45:34      | Is it going to be replaced by JavaScript                          |
+| 45:31      | You know, what are you feeling about [[AppleScript]] at the moment?   |
+| 45:34      | Is it going to be replaced by [[JavaScript]]                          |
 | 45:36      | for automation on macOS,                                          |
 | 45:39      | or is that as flaky as my personal experience tells me it is?     |
 | 45:43      | And you know, where do you think this is going right now?         |
 | 45:46      | Yeah, I mean, it's funny, if I dig into my archives,              |
 | 45:49      | I have some old blog post probably from 10 plus years ago,        |
-| 45:54      | strongly urging Apple to switch to JavaScript                     |
+| 45:54      | strongly urging [[Apple]] to switch to [[JavaScript]]                     |
 | 45:57      | for automation on the Mac.                                        |
 | 45:59      | And it wasn't in the context, if I recall correctly,              |
 | 46:01      | it wasn't in the context of like what they ended up doing,        |
-| 46:04      | which is the JavaScript OSA interface                             |
-| 46:07      | to basically the same infrastructure as AppleScript.              |
+| 46:04      | which is the [[JavaScript]] OSA interface                             |
+| 46:07      | to basically the same infrastructure as [[AppleScript]].              |
 | 46:12      | I just thought I could see the writing on the wall                |
 | 46:13      | at that time, like it was already,                                |
-| 46:15      | Apple was already becoming like an industry leader                |
-| 46:19      | in JavaScript by way of WebKit.                                   |
+| 46:15      | [[Apple]] was already becoming like an industry leader                |
+| 46:19      | in [[JavaScript]] by way of WebKit.                                   |
 | 46:23      | And it just seemed like that was the place                        |
 | 46:25      | they should focus their efforts.                                  |
-| 46:28      | And they have really focused their efforts on JavaScript          |
+| 46:28      | And they have really focused their efforts on [[JavaScript]]          |
 | 46:31      | in the context of WebKit                                          |
 | 46:34      | and not really anywhere else that I can think of.                 |
 | 46:39      | And I mean, except, you know, so the thing is,                    |
-| 46:42      | as it relates to AppleScript,                                     |
-| 46:44      | in my opinion, the JavaScript OSA,                                |
-| 46:47      | the JavaScript for automation as they call it,                    |
+| 46:42      | as it relates to [[AppleScript]],                                     |
+| 46:44      | in my opinion, the [[JavaScript]] OSA,                                |
+| 46:47      | the [[JXA\|JavaScript for Automation]] as they call it,                    |
 | 46:50      | it just shouldn't be there.                                       |
 | 46:51      | Like it's just, I know some people use it                         |
 | 46:53      | and apologies if you use it and like it more power to you,        |
 | 46:56      | but it is not a game changer in any way.                          |
 | 47:00      | And in my opinion, it ends up revealing more                      |
 | 47:05      | like impedance mismatch between the language                      |
-| 47:08      | and the AppleScript infrastructure.                               |
+| 47:08      | and the [[AppleScript]] infrastructure.                               |
 | 47:11      | And it's just, I find it really tedious to write myself.          |
-| 47:15      | I wouldn't write a script in JavaScript for automation,           |
+| 47:15      | I wouldn't write a script in [[JXA\|JavaScript for Automation]],           |
 | 47:19      | but it's there.                                                   |
 | 47:20      | And the state of things now as we, you know,                      |
-| 47:25      | AppleScript is sort of, as most people know,                      |
+| 47:25      | [[AppleScript]] is sort of, as most people know,                      |
 | 47:28      | it's just not being invested in.                                  |
 | 47:30      | And I don't think we can look forward to it                       |
 | 47:32      | being invested in.                                                |
 | 47:33      | Nonetheless, in the context of [[FastScripts]],                      |
 | 47:37      | it's, you know, I guess I should clarify,                         |
-| 47:40      | [[FastScripts]] is not technically an AppleScript tool.              |
+| 47:40      | [[FastScripts]] is not technically an [[AppleScript]] tool.              |
 | 47:44      | It can run almost anything, almost any script on your Mac.        |
 | 47:50      | However, it has certain sort of integrations                      |
-| 47:53      | with the way it runs AppleScript                                  |
-| 47:55      | that make it particularly nice for running AppleScript            |
+| 47:53      | with the way it runs [[AppleScript]]                                  |
+| 47:55      | that make it particularly nice for running [[AppleScript]]            |
 | 48:00      | to many people.                                                   |
 | 48:02      | So it's kind of simultaneously like a general purpose             |
 | 48:04      | automation, you know, launcher tool                               |
-| 48:07      | and a AppleScript power user tool.                                |
+| 48:07      | and a [[AppleScript]] power user tool.                                |
 | 48:12      | You know this, I know,                                            |
 | 48:13      | I'm explaining to folks who are listening.                        |
 | 48:15      | And so I don't know,                                              |
-| 48:18      | I don't know where AppleScript is going,                          |
+| 48:18      | I don't know where [[AppleScript]] is going,                          |
 | 48:20      | but I guess where I was getting at is,                            |
 | 48:22      | whatever the case may be, as things stand now,                    |
-| 48:26      | AppleScript is still the best thing going                         |
+| 48:26      | [[AppleScript]] is still the best thing going                         |
 | 48:28      | for automating many things on your Mac.                           |
 | 48:31      | And so that's my incentive is personal selfishness                |
-| 48:35      | to want the best possible AppleScript running app                 |
+| 48:35      | to want the best possible [[AppleScript]] running app                 |
 | 48:41      | I can make for myself.                                            |
 | 48:43      | And then it turns out a bunch of other people in the world        |
-| 48:46      | who are still steeped in AppleScript                              |
+| 48:46      | who are still steeped in [[AppleScript]]                              |
 | 48:49      | really like using [[FastScripts]].                                   |
 | 48:52      | Yes.                                                              |
 | 48:53      | Yeah, I didn't realise actually until,                            |
@@ -1159,14 +1159,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 49:09      | It never occurred to me,                                          |
 | 49:10      | like literally never occurred to me until                         |
 | 49:11      | about last week when I was poking around,                         |
-| 49:13      | go, I wonder if I can write an AppleScript                        |
+| 49:13      | go, I wonder if I can write an [[AppleScript]]                        |
 | 49:15      | to run the bash code.                                             |
 | 49:15      | And it's like, wait a minute,                                     |
 | 49:17      | hang on a second, I'm over complicating things here.              |
 | 49:20      | But yeah, it is amazing to me in particular,                      |
-| 49:23      | how powerful AppleScript is in terms of everything else.          |
+| 49:23      | how powerful [[AppleScript]] is in terms of everything else.          |
 | 49:29      | And I think you're right,                                         |
-| 49:30      | because JavaScript expects you to be working with objects         |
+| 49:30      | because [[JavaScript]] expects you to be working with objects         |
 | 49:34      | and has JavaScript object notation, JSON, and so on.              |
 | 49:38      | So a lot of people think of it and use it like that.              |
 | 49:40      | And as a web developer, I very definitely do.                     |
@@ -1182,42 +1182,42 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 50:11      | Just because you can use a hammer to drive in a screw             |
 | 50:13      | doesn't mean that it's a good answer.                             |
 | 50:15      | And it's one of those things where it flows better                |
-| 50:19      | with AppleScript.                                                 |
-| 50:19      | And oddly enough, I've read a lot of JavaScript day to day,       |
-| 50:24      | but if you write the same script in AppleScript                   |
-| 50:28      | and in JavaScript object notation, JavaScript for automation,     |
-| 50:32      | you'll often find the AppleScript ones faster.                    |
+| 50:19      | with [[AppleScript]].                                                 |
+| 50:19      | And oddly enough, I've read a lot of [[JavaScript]] day to day,       |
+| 50:24      | but if you write the same script in [[AppleScript]]                   |
+| 50:28      | and in JavaScript object notation, [[JXA\|JavaScript for Automation]],     |
+| 50:32      | you'll often find the [[AppleScript]] ones faster.                    |
 | 50:35      | Sometimes by a very significant amount,                           |
 | 50:37      | which is just very weird and entertaining.                        |
-| 50:40      | And also sometimes the AppleScript one works                      |
-| 50:42      | and the JavaScript one doesn't.                                   |
+| 50:40      | And also sometimes the [[AppleScript]] one works                      |
+| 50:42      | and the [[JavaScript]] one doesn't.                                   |
 | 50:44      | And my conclusion is it's not hooked up                           |
 | 50:46      | to the same Apple events quite perfectly.                         |
 | 50:50      | And so something just misses somewhere.                           |
-| 50:53      | So I tend to fall back to AppleScript                             |
-| 50:55      | rather than reaching for JavaScript there.                        |
+| 50:53      | So I tend to fall back to [[AppleScript]]                             |
+| 50:55      | rather than reaching for [[JavaScript]] there.                        |
 | 50:57      | Well, one possible explanation for that                           |
-| 50:59      | is the neglect that AppleScript has had.                          |
+| 50:59      | is the neglect that [[AppleScript]] has had.                          |
 | 51:04      | Think about it, it was inventid and implemented                   |
 | 51:08      | to run on 1990s Macs.                                             |
 | 51:11      | So it's optimised for parsing all of the language,                |
 | 51:16      | running all the commands to be fast on a 1990s Mac.               |
 | 51:20      | And you know how it is now, you run some old 1990s software       |
 | 51:24      | on a current Mac, it's gonna blaze.                               |
-| 51:26      | And whereas with the JavaScript for automation stuff,             |
+| 51:26      | And whereas with the [[JXA\|JavaScript for Automation]] stuff,             |
 | 51:29      | they have to load in the whole infrastructure                     |
-| 51:32      | of JavaScript engine that can power the web.                      |
+| 51:32      | of [[JavaScript]] engine that can power the web.                      |
 | 51:36      | And so I don't know, that's kind of an interesting example        |
 | 51:39      | where it's like, well, it's missing a lot of stuff,               |
 | 51:41      | but what it has, it can do sometimes quite quickly.               |
-| 51:44      | Well, I mean, I think also with AppleScript,                      |
+| 51:44      | Well, I mean, I think also with [[AppleScript]],                      |
 | 51:47      | there was a honeymoon period where there were a group             |
-| 51:49      | of extremely smart people at Apple working actively               |
-| 51:54      | on making AppleScript really awesome.                             |
-| 51:57      | And while Apple kind of the bloom fell off the rose for Apple,    |
+| 51:49      | of extremely smart people at [[Apple]] working actively               |
+| 51:54      | on making [[AppleScript]] really awesome.                             |
+| 51:57      | And while [[Apple]] kind of the bloom fell off the rose for [[Apple]],    |
 | 52:00      | that work was done.                                               |
 | 52:02      | I'm not sure there was ever a honeymoon period                    |
-| 52:04      | for implementation of JavaScript on the Mac.                      |
+| 52:04      | for implementation of [[JavaScript]] on the Mac.                      |
 | 52:07      | No, no, no, it's, you're absolutely right.                        |
 | 52:09      | And it feels, that's why it just feels so tacked on               |
 | 52:13      | to me that I think it would be better                             |
@@ -1233,7 +1233,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 52:41      | It's like, great, thanks, you know, technically compliant,        |
 | 52:44      | but not actually being useful.                                    |
 | 52:45      | You may as well have not bothered.                                |
-| 52:47      | And unfortunately, sometimes JavaScript for automation            |
+| 52:47      | And unfortunately, sometimes [[JXA\|JavaScript for Automation]]            |
 | 52:52      | can feel like that.                                               |
 | 52:54      | I do think that we've lost the thread a little bit.               |
 | 52:57      | Yes.                                                              |
@@ -1257,7 +1257,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 53:48      | And the motivation was,                                           |
 | 53:50      | and the reason it's called [[FastScripts]],                          |
 | 53:52      | is because at that time,                                          |
-| 53:54      | Apple and scripting automation people in general                  |
+| 53:54      | [[Apple]] and scripting automation people in general                  |
 | 53:57      | were all focused on like long workflows.                          |
 | 54:01      | Like the main use case for scripts                                |
 | 54:03      | was to write something that you could point at your pile          |
@@ -1395,7 +1395,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:00:17   | and I've wanted to do since the beginning                         |
 | 01:00:19   | is to have it be as a baseline product,                           |
 | 01:00:23   | a better way, basically a better version                          |
-| 01:00:25   | of Apple's script menu, but that also does something,             |
+| 01:00:25   | of [[Apple|Apple's]] script menu, but that also does something,             |
 | 01:00:29   | does that job better and then also offers extra things            |
 | 01:00:33   | for free and then premium features                                |
 | 01:00:36   | that you get paying a little bit more.                            |
@@ -1643,7 +1643,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:11:17   | like I have little scripts to put in links                        |
 | 01:11:25   | to things that like, with a referral code in them,                |
 | 01:11:29   | like, you know, paste a link into this blog post                  |
-| 01:11:32   | with a referral code from Amazon or whatever.                     |
+| 01:11:32   | with a referral code from [[Amazon]] or whatever.                     |
 | 01:11:36   | And those are the kinds of things that, again,                    |
 | 01:11:38   | it's easy for me to add as I use the app                          |
 | 01:11:42   | and just get annoyed by things.                                   |
@@ -1672,13 +1672,13 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:12:46   | It's actually on my list with [[FastScripts]] too.                   |
 | 01:12:48   | I really think, you know,                                         |
 | 01:12:50   | kind of getting back to [[FastScripts]]                              |
-| 01:12:52   | and like what's up with AppleScript and shortcuts.               |
+| 01:12:52   | and like what's up with [[AppleScript]] and shortcuts.               |
 | 01:12:55   | I think as time goes forward, I'm going to be thinking            |
-| 01:12:59   | increasingly like not what can I do for AppleScript authors,     |
+| 01:12:59   | increasingly like not what can I do for [[AppleScript]] authors,     |
 | 01:13:04   | but what can I do for anybody                                     |
 | 01:13:05   | who's automating something on the Mac, you know?                  |
 | 01:13:08   | So I have ideas along those lines.                                |
-| 01:13:11   | The Apple's infrastructure so far                                 |
+| 01:13:11   | The [[Apple|Apple's]] infrastructure so far                                 |
 | 01:13:14   | doesn't let you do a ton as far as running shortcuts goes.        |
 | 01:13:17   | You're pretty much limited to just like                           |
 | 01:13:20   | ask the shortcut system to run a shortcut by name.                |
@@ -1739,20 +1739,20 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:15:49   | can be really good.                                               |
 | 01:15:50   | One of the things that springs to mind, of course,                |
 | 01:15:52   | is [[Rogue Amoeba]] recently added shortcut support                   |
-| 01:15:55   | and a new scripting support with custom JavaScript,               |
+| 01:15:55   | and a new scripting support with custom [[JavaScript]],               |
 | 01:15:59   | I believe it was for [[Audio Hijack]].                                |
-| 01:16:02   | Obviously, Omni Group have got custom JavaScript,                 |
-| 01:16:05   | [[Drafts]] has got custom JavaScript.                                 |
+| 01:16:02   | Obviously, Omni Group have got custom [[JavaScript]],                 |
+| 01:16:05   | [[Drafts]] has got custom [[JavaScript]].                                 |
 | 01:16:07   | If you get nerdy, you can write [[Obsidian]] plugins.                 |
 | 01:16:09   | Do you think maybe there's a future                               |
-| 01:16:11   | of a custom JavaScript automation inside of Mars Edit             |
+| 01:16:11   | of a custom [[JavaScript]] automation inside of Mars Edit             |
 | 01:16:14   | or are you just gonna stick with                                  |
-| 01:16:16   | a AppleScript and shortcuts for now                              |
+| 01:16:16   | a [[AppleScript]] and shortcuts for now                              |
 | 01:16:18   | as you've already got a pretty long to-do list?                   |
 | 01:16:20   | Yeah, well, again, it's probably not imminent or anything,        |
 | 01:16:23   | but one of the reasons, I think for example,                      |
 | 01:16:26   | in the Omni case, they were strongly motivated to do that         |
-| 01:16:29   | in part because Apple didn't have                                 |
+| 01:16:29   | in part because [[Apple]] didn't have                                 |
 | 01:16:32   | automation solution for iOS                                       |
 | 01:16:34   | and they wanted to offer something cross-platform                 |
 | 01:16:38   | if I have my memory of that right.                                |
@@ -1765,12 +1765,12 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:16:58   | of shortcuts as of most recent Mac OS is very welcome             |
 | 01:17:03   | and it's encouraging for a future                                 |
 | 01:17:05   | where we can look forward to cross-platform solutions             |
-| 01:17:07   | for many apps, but yeah, the JavaScript approach,                 |
+| 01:17:07   | for many apps, but yeah, the [[JavaScript]] approach,                 |
 | 01:17:12   | whenever I hear about, I just listened recently                   |
 | 01:17:14   | to the recent The Talk Show with John Gruber                      |
 | 01:17:18   | and Paul Kafasis and as I was listening to it,                   |
 | 01:17:22   | I was like, you know what?                                        |
-| 01:17:23   | Maybe I should have a JavaScript interface                        |
+| 01:17:23   | Maybe I should have a [[JavaScript]] interface                        |
 | 01:17:25   | because it does make sense.                                       |
 | 01:17:26   | It makes a lot of sense.                                          |
 | 01:17:29   | It would be, like you said, it's just one item                    |
@@ -1841,7 +1841,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:19:45   | through the show today.                                           |
 | 01:19:46   | I feel like we've gone kind of through a little history,          |
 | 01:19:48   | kind of getting started with automation,                          |
-| 01:19:50   | AppleScript, JavaScript.                                          |
+| 01:19:50   | [[AppleScript]], [[JavaScript]].                                          |
 | 01:19:52   | And then at the end of the last segment,                          |
 | 01:19:54   | we started to dip our toes into some of the developers            |
 | 01:19:57   | starting to actively add shortcut support.                        |
@@ -1871,14 +1871,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:21:05   | So I've looked at it enough to be excited about it                |
 | 01:21:09   | and where it's going.                                             |
 | 01:21:12   | I don't know if, for example,                                     |
-| 01:21:14   | the future that Apple has in mind would include more.             |
+| 01:21:14   | the future that [[Apple]] has in mind would include more.             |
 | 01:21:20   | I could imagine there being like a nesting system                 |
 | 01:21:25   | for shortcuts.                                                    |
 | 01:21:26   | They already have the ability to run a shortcut                   |
 | 01:21:28   | from another shortcut,                                            |
 | 01:21:31   | but if you can think back,                                        |
 | 01:21:35   | has either of you ever used the [[Quartz Composer]]                   |
-| 01:21:38   | that Apple used to support?                                       |
+| 01:21:38   | that [[Apple]] used to support?                                       |
 | 01:21:40   | I vaguely remember playing with this a few times.                 |
 | 01:21:43   | It was very much a kind of general purpose,                       |
 | 01:21:47   | scripted visual scripting tool for graphics.                      |
@@ -1917,14 +1917,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:23:43   | And it's like a text based way to manage all the different        |
 | 01:23:48   | shortcut actions you want to invoke and chain together.           |
 | 01:23:52   | And maybe it's just run job,                                      |
-| 01:23:54   | maybe that's just a JavaScript.                                   |
+| 01:23:54   | maybe that's just a [[JavaScript]].                                   |
 | 01:23:56   | Maybe there's like a,                                             |
 | 01:23:57   | maybe whatever they do for the future of automation               |
 | 01:24:01   | involves sort of allowing more powerful segments                  |
 | 01:24:06   | in the chain of execution                                         |
 | 01:24:08   | that's already there with shortcuts.                              |
 | 01:24:11   | Yes, yeah, because right now it's got options to do things        |
-| 01:24:14   | like run JavaScript, run JavaScript for automation,               |
+| 01:24:14   | like run [[JavaScript]], run [[JXA\|JavaScript for Automation]],               |
 | 01:24:16   | run this terminal command and things like that.                   |
 | 01:24:19   | But as you say, it is a very linear list.                         |
 | 01:24:21   | It reminds me in some ways of the differences between Zapier      |
@@ -1982,7 +1982,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:26:34   | in many of the same ways that a shortcut run on iOS               |
 | 01:26:38   | or the Mac should behave a certain way, you know?                 |
 | 01:26:42   | And, but I'm constantly frustrated                                |
-| 01:26:45   | by the little things that Apple has not stepped up                |
+| 01:26:45   | by the little things that [[Apple]] has not stepped up                |
 | 01:26:49   | to provide parity for between iOS and the Mac                     |
 | 01:26:52   | and it comes down to like things as simple                        |
 | 01:26:55   | as like setting timers, right?                                    |
@@ -2000,20 +2000,20 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:27:29   | as much as they possibly can.                                     |
 | 01:27:31   | And maybe shortcuts will provide the kind of like enthusiasm      |
 | 01:27:37   | and attention to automation                                       |
-| 01:27:40   | that actually inspires Apple to want to provide that parity.      |
+| 01:27:40   | that actually inspires [[Apple]] to want to provide that parity.      |
 | 01:27:43   | I can't help but feel like their idea                             |
 | 01:27:47   | of the future of automation is more democratic                    |
 | 01:27:49   | but less powerful.                                                |
 | 01:27:51   | I think that's really where they're heading.                      |
 | 01:27:53   | I think you're probably right,                                    |
-| 01:27:54   | but I think that's where hopefully somebody at Apple              |
+| 01:27:54   | but I think that's where hopefully somebody at [[Apple]]              |
 | 01:27:58   | will make the argument and win for that whole idea                |
 | 01:28:01   | of simple on the surface,                                         |
 | 01:28:03   | but broad and deep where people want it.                          |
 | 01:28:06   | You know, just give people the out.                               |
 | 01:28:09   | Give people, it's kind of like, you know,                         |
 | 01:28:13   | [[Safari]] supporting app extensions or [[Safari]] plugins.               |
-| 01:28:18   | It's like Apple's not going to emphasise                          |
+| 01:28:18   | It's like [[Apple|Apple's]] not going to emphasise                          |
 | 01:28:22   | the desire or need to like go install                             |
 | 01:28:27   | some random third party, you know,                                |
 | 01:28:31   | like the, you know, if eBay has a plugin                          |
@@ -2146,7 +2146,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:33:59   | to be this world where Mac users can tap into things              |
 | 01:34:03   | like [[AppleScript]] and Apple Events                                |
 | 01:34:06   | and iOS users can't.                                              |
-| 01:34:08   | And I don't know that Apple's ever really going to be able        |
+| 01:34:08   | And I don't know that [[Apple|Apple's]] ever really going to be able        |
 | 01:34:10   | to fix that at this point.                                        |
 | 01:34:12   | Yeah, well, you know, speaking of the idea of having,             |
 | 01:34:16   | like if I look at shortcuts right now,                            |
@@ -2154,11 +2154,11 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:34:22   | and they need to do something about this                          |
 | 01:34:24   | because like it's really hard to organise and get to              |
 | 01:34:27   | like what are the different actions.                              |
-| 01:34:28   | And even if you search, it's like run JavaScript.                 |
+| 01:34:28   | And even if you search, it's like run [[JavaScript]].                 |
 | 01:34:31   | For instance, I typed in earlier                                  |
 | 01:34:33   | while we were talking about that.                                 |
 | 01:34:34   | And this, I've already got like one for [[Audio Hijack]],             |
-| 01:34:36   | one for the web, one for JavaScript for automation.               |
+| 01:34:36   | one for the web, one for [[JXA\|JavaScript for Automation]].               |
 | 01:34:42   | Hopefully there will just be so many options                      |
 | 01:34:45   | that they'll have to organise this better.                        |
 | 01:34:46   | And, you know, I don't know why I kind of,                        |
@@ -2196,11 +2196,11 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:36:13   | to, you know, do something with.                                  |
 | 01:36:15   | I remember now, the reason I started down that path               |
 | 01:36:17   | was cause David was saying something about how, you know,         |
-| 01:36:19   | these resources on the Mac like running an AppleScript           |
+| 01:36:19   | these resources on the Mac like running an [[AppleScript]]           |
 | 01:36:22   | are not going to be made available to iOS.                        |
 | 01:36:24   | But I think what can happen is that got me thinking               |
 | 01:36:29   | about how there's like a limitless number of new actions          |
-| 01:36:33   | that people can add and the AppleScript and stuff like that      |
+| 01:36:33   | that people can add and the [[AppleScript]] and stuff like that      |
 | 01:36:36   | can sort of fill in the gaps until an appropriate                 |
 | 01:36:40   | kind of quote unquote native shortcut action exists.              |
 | 01:36:44   | And so I think in that sense, it's like, at some point            |
@@ -2213,12 +2213,12 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:37:04   | that'll be a kind of a motivator to people, right?                |
 | 01:37:06   | And people like you and David who are talking                     |
 | 01:37:10   | about the shortcomings of, you know, shortcuts,                   |
-| 01:37:13   | we will say, well, there's this AppleScript I rely on            |
+| 01:37:13   | we will say, well, there's this [[AppleScript]] I rely on            |
 | 01:37:16   | that does this thing.                                             |
 | 01:37:17   | And if only somebody would make an app                            |
 | 01:37:19   | that provides shortcut that does that everywhere.                 |
 | 01:37:22   | So I think it's, I love the fact like you said early on           |
-| 01:37:25   | that they decided to include AppleScript support.                |
+| 01:37:25   | that they decided to include [[AppleScript]] support.                |
 | 01:37:29   | It has the possibility that it will sort of give                  |
 | 01:37:35   | shortcuts more viability as it matures                            |
 | 01:37:38   | and give it a sort of scaffolding on which to build.              |
@@ -2230,12 +2230,12 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:37:54   | There were actions like PDF and file actions                      |
 | 01:37:57   | that you know got moved because they're like,                     |
 | 01:38:00   | well, we can currently do this with an Automator action           |
-| 01:38:03   | which is in essence a fancy AppleScript.                         |
+| 01:38:03   | which is in essence a fancy [[AppleScript]].                         |
 | 01:38:05   | So we've got to build it into shortcuts                           |
 | 01:38:07   | but they left some out, you know,                                 |
 | 01:38:09   | there's some that didn't make it.                                 |
 | 01:38:10   | And like this year, and when we get to June,                      |
-| 01:38:14   | well, we see Apple move more from the category                    |
+| 01:38:14   | well, we see [[Apple]] move more from the category                    |
 | 01:38:16   | of Automator to shortcuts.                                        |
 | 01:38:18   | And then the other thing I think                                  |
 | 01:38:20   | that is very illustrative of your point                           |

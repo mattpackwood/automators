@@ -405,7 +405,7 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 12:21      | Yeah, this, it's amazing.                                                                |
 | 12:23      | I am so happy to see that we can get,                                                    |
 | 12:26      | we're not just the people who want to bring this                                         |
-| 12:27      | to everybody, Apple wants to bring it to everybody.                                      |
+| 12:27      | to everybody, [[Apple]] wants to bring it to everybody.                                      |
 | 12:30      | That's amazing.                                                                          |
 | 12:32      | So how many are you starting with your voice?                                            |
 | 12:36      | More now that I bought a HomePod.                                                        |
@@ -424,7 +424,7 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 13:00      | and I really, really like it                                                             |
 | 13:02      | and I'm triggering a lot more things now with my voice                                   |
 | 13:05      | than I was previously between that                                                       |
-| 13:08      | and my series for Apple Watch.                                                           |
+| 13:08      | and my series for [[Apple Watch]].                                                           |
 | 13:10      | This month may have been a little expensive.                                             |
 | 13:13      | I did, did you get it already?                                                           |
 | 13:15      | Yeah, I got it on lunch day.                                                             |

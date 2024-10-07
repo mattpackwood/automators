@@ -54,7 +54,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 00:07      | How are you, Rosemary?                                                                                                    |
 | 00:09      | Oh, I'm excited, David. [[WWDC]] happened. There was an impulse purchase on my end. Yeah,                                     |
 | 00:16      | things are exciting in a very good way.                                                                                   |
-| 00:19      | Yeah, I mean, once a year, Apple unwraps the Christmas presents for us, and as automators,                                |
+| 00:19      | Yeah, I mean, once a year, [[Apple]] unwraps the Christmas presents for us, and as automators,                                |
 | 00:24      | we're always on the lookout for new stuff, and this year they deliver it again.                                           |
 | 00:28      | We're going to spend a lot of this episode going through it, but at the top of the show,                                  |
 | 00:32      | I just want to say, I feel like The Automators team and the Shortcuts team in particular                                  |
@@ -99,7 +99,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 03:19      | And so I looked at it and I went, huh, and I looked on the refurb store                                                   |
 | 03:24      | and next day delivery on a refurbished MacBook Pro was available.                                                         |
 | 03:30      | So at that arrive last Thursday.                                                                                          |
-| 03:33      | Nice. Did you sell your Intel machine back to Apple?                                                                      |
+| 03:33      | Nice. Did you sell your Intel machine back to [[Apple]]?                                                                      |
 | 03:36      | I have not yet sold my Intel machine. It's on my to-do list.                                                              |
 | 03:39      | Or actually, technically, it's in my OmniFocus.                                                                           |
 | 03:41      | I wanted to make sure that I've completely and utterly wiped that machine                                                 |
@@ -134,13 +134,13 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 05:31      | But I may not.                                                                                                            |
 | 05:32      | Nothing should.                                                                                                           |
 | 05:33      | I'll see.                                                                                                                 |
-| 05:34      | My advice is to wipe your Intel Mac, get what you can from it from Apple,                                                 |
+| 05:34      | My advice is to wipe your Intel Mac, get what you can from it from [[Apple]],                                                 |
 | 05:40      | or if you want to like deal with the third party sellers.                                                                 |
 | 05:42      | So they usually get you a little bit more money,                                                                          |
 | 05:44      | but it comes a little more headache.                                                                                      |
 | 05:46      | Yeah.                                                                                                                     |
-| 05:47      | So Apple is not going to give me a lot of money for the MacBook Air,                                                      |
-| 05:49      | even though it's definitely, but if you buy it from Apple,                                                                |
+| 05:47      | So [[Apple]] is not going to give me a lot of money for the MacBook Air,                                                      |
+| 05:49      | even though it's definitely, but if you buy it from [[Apple]],                                                                |
 | 05:52      | they're selling it for at least three times the price that they would give me for it.                                     |
 | 05:56      | So I am going to go ahead and put that one on eBay.                                                                       |
 | 05:59      | I need to double check that I can't convince my mom to upgrade from her first                                             |
@@ -194,12 +194,12 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 08:35      | that.                                                                                                                     |
 | 08:36      | But I've got the M1 MacBook Pro right here under my microphone because we've got plenty                                   |
 | 08:40      | to talk about on the Mac today, David.                                                                                    |
-| 08:42      | I am so excited that Apple is paying attention to automation on the Mac and everywhere, clearly,                          |
+| 08:42      | I am so excited that [[Apple]] is paying attention to automation on the Mac and everywhere, clearly,                          |
 | 08:49      | because it's everywhere this year.                                                                                        |
 | 08:51      | In particular on the Mac.                                                                                                 |
-| 08:53      | And so we talked earlier that Apple's bringing shortcuts to the Mac.                                                      |
+| 08:53      | And so we talked earlier that [[Apple|Apple's]] bringing shortcuts to the Mac.                                                      |
 | 08:56      | There's a really good interview at Mac Power Users.                                                                       |
-| 08:59      | We'll put a link in the show note where we, we actually had an Apple representative come                                  |
+| 08:59      | We'll put a link in the show note where we, we actually had an [[Apple]] representative come                                  |
 | 09:03      | on the show and talk about it.                                                                                            |
 | 09:05      | The concern I had with shortcuts coming to the Mac was, you know, we have a rich ecosystem                                |
 | 09:11      | of automation already on the Mac between [[AppleScript]], Shell script, and all the cool things                              |
@@ -207,19 +207,19 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 09:21      | So number one is I wanted them to focus more on automation on mobile devices because there                                |
 | 09:28      | is no rich ecosystem there.                                                                                               |
 | 09:30      | It's just shortcuts.                                                                                                      |
-| 09:32      | And number two, I was worried about if Apple shows up with shortcuts on the Mac, what,                                    |
+| 09:32      | And number two, I was worried about if [[Apple]] shows up with shortcuts on the Mac, what,                                    |
 | 09:38      | you know, are they going to start lobbying hand grenades at their competition?                                            |
-| 09:43      | And like, are they going to disable AppleScript or are they going to make it so apps                                     |
+| 09:43      | And like, are they going to disable [[AppleScript]] or are they going to make it so apps                                     |
 | 09:49      | like [[Keyboard Maestro]] can't work on a Mac?                                                                                |
 | 09:52      | And that's not the case.                                                                                                  |
 | 09:54      | I mean, I think my worries were ill founded in hindsight because just on the, you know,                                   |
 | 10:01      | zooming out on the 50,000 foot level, we've got shortcuts on the Mac, which brings over                                   |
 | 10:07      | a bunch of cool actions from shortcuts on iOS that we didn't have on the Mac.                                             |
-| 10:11      | Stuff that only Apple could really address through automation.                                                            |
-| 10:15      | We still have Shell scripting and AppleScript in place.                                                                  |
+| 10:11      | Stuff that only [[Apple]] could really address through automation.                                                            |
+| 10:15      | We still have Shell scripting and [[AppleScript]] in place.                                                                  |
 | 10:19      | They have not removed it.                                                                                                 |
 | 10:20      | Not only have they not removed it, they've added support for it in the new shortcuts,                                     |
-| 10:24      | which means Apple is kind of on board with that stuff.                                                                    |
+| 10:24      | which means [[Apple]] is kind of on board with that stuff.                                                                    |
 | 10:27      | And consequently, [[Keyboard Maestro]], [[Hazel]], Shell scripting, AppleScripting, all that                                     |
 | 10:34      | stuff is here, you know, for the long haul and people can go down that deep if they want                                  |
 | 10:40      | to stay at the shortcuts level and make nice little shortcuts and not worry about it.                                     |
@@ -291,14 +291,14 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 14:25      | And now, you know, kind of it's come full circle.                                                                         |
 | 14:28      | But these people who started with affection for automator are not going to torpedo automator.                             |
 | 14:33      | They're going to give us, I think, everything that they possibly can and make it better.                                  |
-| 14:38      | I mean, I feel like Sal didn't get enough support from Apple on Automator.                                                |
+| 14:38      | I mean, I feel like Sal didn't get enough support from [[Apple]] on Automator.                                                |
 | 14:43      | I feel like if he had been kind of unleashed on this thing, we would have had a lot of                                    |
 | 14:47      | these souls years ago, but, you know, it didn't happen for whatever reason.                                               |
 | 14:50      | And now it's happening.                                                                                                   |
 | 14:53      | And there are so many pieces of shortcuts that are easier to automate than with shell and                                 |
 | 15:01      | AppleScripting, like, you know, inherent pieces.                                                                         |
 | 15:04      | Like I'm always struggling when I try to do shortcuts around contacts because there's                                     |
-| 15:10      | just really not a good way to do that with AppleScript and shell script.                                                 |
+| 15:10      | just really not a good way to do that with [[AppleScript]] and shell script.                                                 |
 | 15:13      | And I know people are going to start writing me their scripts and tell me how great they                                  |
 | 15:16      | are at it.                                                                                                                |
 | 15:17      | And it's just like, you know, kind of the layer automation that you get with keyboard                                     |
@@ -315,7 +315,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 15:58      | Yes, we are.                                                                                                              |
 | 15:59      | And, you know, I tweeted out to ask some developers, some people I managed to ping specifically                           |
 | 16:06      | a tweet is never long enough and my memory always sucks when it comes to lift stall the                                   |
-| 16:10      | developers who've got either great shortcut support or make shortcuts Apple apps off the                                  |
+| 16:10      | developers who've got either great shortcut support or make shortcuts [[Apple]] apps off the                                  |
 | 16:14      | apps off the top of your head and remember their Twitter handles.                                                         |
 | 16:18      | So that that that was a challenge, but I tweeted some people and a lot of people are tweeted                              |
 | 16:24      | back saying, yeah, I've already got, you know, a draft build of this, but, you know, theoretically                        |
@@ -324,7 +324,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 16:36      | And, you know, and other people say that I'm working on our plan to do it and things like                                 |
 | 16:41      | that. So I'm very excited because of course this means that, you know, we're going to                                     |
 | 16:46      | have some of these apps that we already use and enjoy on, you know, on all of our platforms                               |
-| 16:53      | and it looks to me based on what I've been seeing in the sessions that Apple have done                                    |
+| 16:53      | and it looks to me based on what I've been seeing in the sessions that [[Apple]] have done                                    |
 | 16:59      | a few things to make this easier and that hopefully you can use the same intense on                                       |
 | 17:04      | both in both different applications, even if you have a completely separate application.                                  |
 | 17:09      | So, you know, you pay, you pay for it once on the iPhone and you pay for it once on the                                   |
@@ -340,10 +340,10 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 17:46      | shortcut sections.                                                                                                        |
 | 17:47      | So, you won't need to check, hopefully, if it's Mac, do this action.                                                      |
 | 17:50      | If it's not Mac, do this other action.                                                                                    |
-| 17:53      | And if it's Apple Watch, then crash and die because this, you know, this doesn't work on                                  |
-| 17:58      | Apple Watch or whatever.                                                                                                  |
+| 17:53      | And if it's [[Apple Watch]], then crash and die because this, you know, this doesn't work on                                  |
+| 17:58      | [[Apple Watch]] or whatever.                                                                                                  |
 | 17:59      | I'm being hyperbolic.                                                                                                     |
-| 18:00      | You know, there are some things that don't necessarily work on the Apple Watch the same                                   |
+| 18:00      | You know, there are some things that don't necessarily work on the [[Apple Watch]] the same                                   |
 | 18:04      | as they don't work on the HomePod, just because, you know, it needs to go in and do this or                               |
 | 18:09      | do that or whatever.                                                                                                      |
 | 18:10      | But, you know, most things work everywhere.                                                                               |
@@ -356,30 +356,30 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 18:35      | is in my menu bar.                                                                                                        |
 | 18:36      | I do think that, historically, setting up automation for a Mac developer was a challenge                                  |
 | 18:43      | because there's two things going on.                                                                                      |
-| 18:46      | First, it's a lot of work to add AppleScript support to your app.                                                         |
+| 18:46      | First, it's a lot of work to add [[AppleScript]] support to your app.                                                         |
 | 18:50      | I mean, it's a lot of work to add any kind of support to your app.                                                        |
-| 18:53      | But, you know, AppleScript is a language that a lot of programmers don't like because it's                                |
+| 18:53      | But, you know, [[AppleScript]] is a language that a lot of programmers don't like because it's                                |
 | 18:59      | supposed to be more human-friendly.                                                                                       |
-| 19:01      | I actually like AppleScript.                                                                                              |
+| 19:01      | I actually like [[AppleScript]].                                                                                              |
 | 19:03      | I'm comfortable with it, but I understand why some people don't.                                                          |
 | 19:06      | So, you've got that barrier, but you also have the barrier knowing that very few users                                    |
-| 19:11      | understand or have any desire to use AppleScript.                                                                         |
+| 19:11      | understand or have any desire to use [[AppleScript]].                                                                         |
 | 19:14      | So, it's like, am I going to add a new feature to my app that everybody can take advantage                                |
-| 19:20      | of, or am I going to spend that same time building an AppleScript support for a very                                      |
+| 19:20      | of, or am I going to spend that same time building an [[AppleScript]] support for a very                                      |
 | 19:24      | small subset of my users?                                                                                                 |
 | 19:26      | And I think too often the answer is, well, I'm going to add the new feature.                                              |
 | 19:31      | But now, with shortcuts, you're going to have a massively bigger user base that wants these                               |
 | 19:39      | shortcuts.                                                                                                                |
-| 19:40      | So, and frankly, Apple, I think, is putting in the time in the developer kit to make these                                |
-| 19:46      | intents and these methods of using shortcuts much easier than historical AppleScript methods.                             |
+| 19:40      | So, and frankly, [[Apple]], I think, is putting in the time in the developer kit to make these                                |
+| 19:46      | intents and these methods of using shortcuts much easier than historical [[AppleScript]] methods.                             |
 | 19:53      | So, it's going to be a lower barrier and more users are going to want it.                                                 |
 | 19:58      | And also, there's that thing.                                                                                             |
-| 20:00      | You know whenever Apple adds a new feature, and this is a thing developers know, maybe                                    |
-| 20:04      | listeners of the show don't know, but Apple adds some new feature, feature X.                                             |
+| 20:00      | You know whenever [[Apple]] adds a new feature, and this is a thing developers know, maybe                                    |
+| 20:04      | listeners of the show don't know, but [[Apple]] adds some new feature, feature X.                                             |
 | 20:08      | And, you know, let's say 50 developers really jump on that.                                                               |
 | 20:12      | And at launch, they've got their apps already with feature X built into it.                                               |
 | 20:17      | Well, go to the App Store and try to not see those apps because it's almost impossible.                                   |
-| 20:22      | Apple is sticking those apps in front of your face, you know.                                                             |
+| 20:22      | [[Apple]] is sticking those apps in front of your face, you know.                                                             |
 | 20:25      | So, there's a marketing boost to them as well for adding support for this.                                                |
 | 20:29      | So, I think there's a lot of good reasons for a lot of good app developers to add shortcuts                               |
 | 20:34      | to their apps.                                                                                                            |
@@ -391,14 +391,14 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 20:52      | all of these other things that they also need to build in, you know, share play, things                                   |
 | 20:56      | like that, you know, depending on the app, you know, certain features are probably more                                   |
 | 21:00      | important than others to have on day one.                                                                                 |
-| 21:02      | And there's a limited number of developer hours between now and whenever Apple actually                                   |
+| 21:02      | And there's a limited number of developer hours between now and whenever [[Apple]] actually                                   |
 | 21:07      | releases this, because of course you don't know until the iPhone keynote.                                                 |
 | 21:11      | And then, you know, it might be tomorrow, it could be Friday, it could be next week,                                      |
 | 21:17      | you know, it could be today, they've done that before.                                                                    |
 | 21:20      | I have seen developers having minor meltdowns on Twitter and I do not blame them because                                  |
 | 21:25      | they thought they were going to be ready and they had a few more days and nope, it's today.                               |
 | 21:29      | But, you know, we're going to see what happens and I'm pretty excited.                                                    |
-| 21:33      | It looks like Apple have got, you know, quite a few things right here which will make it                                  |
+| 21:33      | It looks like [[Apple]] have got, you know, quite a few things right here which will make it                                  |
 | 21:37      | even easier.                                                                                                              |
 | 21:39      | This episode of the Automator's Podcast is brought to you by the Intrazone by Microsoft SharePoint.                       |
 | 21:46      | Your bi-weekly conversation and interview podcast about SharePoint, OneDrive, and related                                 |
@@ -437,7 +437,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 23:51      | of specifically for the Mac, but it's not just specific for the Mac.                                                      |
 | 23:56      | Getting apps is clearly targeted at macOS.                                                                                |
 | 24:00      | And perhaps getting on-screen content as well.                                                                            |
-| 24:04      | And clearly, AppleScript and  shell script execution is also, you know, macOS stuff.                                        |
+| 24:04      | And clearly, [[AppleScript]] and  shell script execution is also, you know, macOS stuff.                                        |
 | 24:09      | But some of this stuff, like split screen apps, doesn't just work on Mac.                                                 |
 | 24:13      | It also works on iPad.                                                                                                    |
 | 24:15      | And I'm pretty, you know, excited about this because there's a lot that you can do with                                   |
@@ -524,7 +524,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 29:07      | And now there's actions for that.                                                                                         |
 | 29:08      | Yeah.                                                                                                                     |
 | 29:09      | But saving it wasn't always where you wanted to save it because you could save it anywhere                                |
-| 29:13      | in [[Dropbox]], but on Apple's own iCloud service, you had to save it to a shortcut subfolder.                                |
+| 29:13      | in [[Dropbox]], but on [[Apple|Apple's]] own iCloud service, you had to save it to a shortcut subfolder.                                |
 | 29:18      | So like I had this crazy system where I had these subfolders in the shortcut subfolder                                    |
 | 29:24      | in iCloud, and then I had [[Hazel]] on my Mac constantly watching them, like anything saved                                   |
 | 29:29      | a shortcut slash [[Obsidian]] copy to my [[Obsidian]] database, anything, and, you know, and I had                                |
@@ -585,14 +585,14 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 32:30      | watch.                                                                                                                    |
 | 32:32      | And so you'll need to use get device details.                                                                             |
 | 32:34      | And I would suggest something like device model.                                                                          |
-| 32:38      | There's also device is watch, which is, you know, your device is an Apple watch.                                          |
+| 32:38      | There's also device is watch, which is, you know, your device is an [[Apple Watch]].                                          |
 | 32:42      | And if I get the device model on this MacBook Pro, then it tells me it's a Mac, Mac with                                  |
 | 32:48      | a capital M.                                                                                                              |
 | 32:50      | So if it's a Mac, don't vibrate, you know.                                                                                |
 | 32:52      | Yeah, exactly.                                                                                                            |
 | 32:53      | So I mean, in this case, you'll probably want to say if it's an iPhone vibrate, I don't                                   |
-| 32:58      | know if you're going to be running your shortcut on the Apple watch.                                                      |
-| 33:01      | And if you will want the haptic feedback in which case you can vibrate on the Apple watch,                                |
+| 32:58      | know if you're going to be running your shortcut on the [[Apple Watch]].                                                      |
+| 33:01      | And if you will want the haptic feedback in which case you can vibrate on the [[Apple Watch]],                                |
 | 33:08      | that might be a little tricky to do, you probably have to do a nested if else if, and then just                           |
 | 33:15      | otherwise don't vibrate, you know, go on to the next section because, you know, Macs                                      |
 | 33:20      | don't have vibration.                                                                                                     |
@@ -638,12 +638,12 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 35:43      | And you know, it's, it's great that everything is just there and can be run anywhere.                                     |
 | 35:51      | Yeah.                                                                                                                     |
 | 35:52      | And we've talked about how it supports traditional automation.                                                            |
-| 35:57      | There's a trifecta of commands, run shell script, run AppleScript and run JavaScript                                     |
+| 35:57      | There's a trifecta of commands, run shell script, run [[AppleScript]] and run [[JavaScript]]                                     |
 | 36:03      | for Mac automation, which are the three traditional ways we created advanced automation on the                            |
 | 36:08      | Mac.                                                                                                                      |
 | 36:09      | All of that can be run from right inside your shortcuts.                                                                  |
 | 36:13      | So while shortcuts, as we've said, is kind of the basic language of automation, if you've                                 |
-| 36:17      | got an advanced AppleScript and you just decide to embed it in a shortcut step, your                                     |
+| 36:17      | got an advanced [[AppleScript]] and you just decide to embed it in a shortcut step, your                                     |
 | 36:23      | shortcut just got very powerful.                                                                                          |
 | 36:26      | Yeah, it did.                                                                                                             |
 | 36:28      | And speaking of shortcuts getting more powerful, we've still got actions like running shell                               |
@@ -653,7 +653,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 36:45      | time you do it, you'll, you'll be prompted if you want to allow scripting actions.                                        |
 | 36:49      | And this is in the preferences of shortcuts then, if you say yes, where you need to take                                  |
 | 36:53      | a box that enables or allow running scripts, which says when enabled, the, the actions                                    |
-| 36:58      | run AppleScript, run shell script, run JavaScript for Mac automation, run JavaScript on web page                          |
+| 36:58      | run [[AppleScript]], run shell script, run [[JavaScript]] for Mac automation, run [[JavaScript]] on web page                          |
 | 37:03      | and, and I can't read the rest of it because it's, it's running out of the box.                                           |
 | 37:09      | And that's a box that I need to file through, through the feedback app, but basically it's                                |
 | 37:14      | a checkbox that you need to turn on.                                                                                      |
@@ -669,11 +669,11 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 37:49      | files, reminders, calendar events, whatever it is, make sure you're getting the right                                     |
 | 37:53      | things before you, you go ahead and delete everything and if you have that confirmation                                   |
 | 38:00      | turned off.                                                                                                               |
-| 38:01      | Remember when the workflow first got purchased by Apple and everybody was worried that would                              |
+| 38:01      | Remember when the workflow first got purchased by [[Apple]] and everybody was worried that would                              |
 | 38:04      | be the end of it.                                                                                                         |
 | 38:05      | You know, they'd break up the band and that would be in, I mean, who would imagine now                                    |
 | 38:08      | we're getting shortcut actions like connect to server, you know, delete without confirmation.                             |
-| 38:15      | One of this would have been possible if workflow had not been purchased by Apple, you know,                               |
+| 38:15      | One of this would have been possible if workflow had not been purchased by [[Apple]], you know,                               |
 | 38:19      | this never would have happened.                                                                                           |
 | 38:22      | Although I do wish they would get rid of those automation confirmation dialog boxes, that                                 |
 | 38:27      | was kind of on my wish list for this year and that didn't really happen.                                                  |
@@ -757,7 +757,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 43:46      | And so I'm looking forward to seeing what people do with this because there's so much                                     |
 | 43:52      | that you can do with a focus mode that you couldn't do anywhere else and it sinks between                                 |
 | 43:57      | your devices.                                                                                                             |
-| 43:59      | So if I turn on focus mode on my Apple, on my, on my iPhone, it sinks.                                                    |
+| 43:59      | So if I turn on focus mode on my [[Apple]], on my, on my iPhone, it sinks.                                                    |
 | 44:04      | It's then on my Mac.                                                                                                      |
 | 44:05      | It's on my iPad.                                                                                                          |
 | 44:06      | It's on all of my devices.                                                                                                |
@@ -767,7 +767,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 44:16      | Usually, you know, there's an iPad somewhere that I've forgotten to put on silence.                                       |
 | 44:20      | No, it's just, it does it for everything.                                                                                 |
 | 44:23      | And this is great.                                                                                                        |
-| 44:25      | It is, um, talk about a, I don't think Apple could have made a new feature that pushes                                    |
+| 44:25      | It is, um, talk about a, I don't think [[Apple]] could have made a new feature that pushes                                    |
 | 44:32      | all my buttons better than focus mode.                                                                                    |
 | 44:35      | I mean, it's got tons of automation, which we're going to go and do today.                                                |
 | 44:39      | It is definitely a Mac power user thing and I have a podcast called focus.                                                |
@@ -863,9 +863,9 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 49:52      | Wow.                                                                                                                      |
 | 49:53      | Okay.                                                                                                                     |
 | 49:54      | This is crazy because I've been trying for days, like my plus button is just gone.                                        |
-| 49:59      | It doesn't help that every time I, I put my, uh, my Apple watch near my iPad or my iPhone,                                |
+| 49:59      | It doesn't help that every time I, I put my, uh, my [[Apple Watch]] near my iPad or my iPhone,                                |
 | 50:04      | I get a notification at the top saying, would you like to use this device as a keyboard                                   |
-| 50:07      | for your Apple watch?                                                                                                     |
+| 50:07      | for your [[Apple Watch]]?                                                                                                     |
 | 50:08      | No.                                                                                                                       |
 | 50:09      | Um, it's just popped up again, but I, I definitely can't add more than five.                                              |
 | 50:14      | Okay.                                                                                                                     |
@@ -1040,10 +1040,10 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 59:04      | Like it's kind of mind boggling to think, you know, that they can do all of these things.                                 |
 | 59:08      | Uh, but I'm, I'm extremely happy with it.                                                                                 |
 | 59:11      | Yeah.                                                                                                                     |
-| 59:12      | And I would really like to see them add, um, focus mode buttons to the Apple watch, um,                                   |
+| 59:12      | And I would really like to see them add, um, focus mode buttons to the [[Apple Watch]], um,                                   |
 | 59:19      | which I have not figured out how to do yet.                                                                               |
 | 59:22      | I mean, I can do it via automation with a shortcut, but, um, it would be cool if like,                                    |
-| 59:28      | you know, we had a very easy way to trigger focuses, even just with the Apple watch, because                              |
+| 59:28      | you know, we had a very easy way to trigger focuses, even just with the [[Apple Watch]], because                              |
 | 59:32      | that's all you need.                                                                                                      |
 | 59:33      | Yeah.                                                                                                                     |
 | 59:34      | So, um, if I tap, that's the wrong button, uh, this is kind of tricky.                                                    |
@@ -1070,19 +1070,19 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:00:17   | My watch is like three years old, so it'll just be worse.                                                                 |
 | 01:00:19   | Oh, okay.                                                                                                                 |
 | 01:00:20   | Um, I mean, you're, you're going to get like five minutes out of it if you're lucky.                                      |
-| 01:00:24   | Um, also it keeps waking up all of my other devices because anytime I put my Apple Watch                                  |
-| 01:00:30   | near an iPad or an iPhone, they light up and say Apple Watch keyboard input, enter text                                   |
-| 01:00:36   | on your Apple Watch using, sorry, I need to move it back again because I moved it further                                 |
+| 01:00:24   | Um, also it keeps waking up all of my other devices because anytime I put my [[Apple Watch]]                                  |
+| 01:00:30   | near an iPad or an iPhone, they light up and say [[Apple Watch]] keyboard input, enter text                                   |
+| 01:00:36   | on your [[Apple Watch]] using, sorry, I need to move it back again because I moved it further                                 |
 | 01:00:40   | away because this is annoying me.                                                                                         |
 | 01:00:41   | And now the notification doesn't show.                                                                                    |
-| 01:00:43   | Basically, you can use your iPhone and iPad to type into your Apple Watch, which I'm not                                  |
+| 01:00:43   | Basically, you can use your iPhone and iPad to type into your [[Apple Watch]], which I'm not                                  |
 | 01:00:47   | 100% certain I understand the utility of, uh, for, uh, an average user, perhaps, uh,                                      |
 | 01:00:52   | for accessibility purposes, it makes sense.                                                                               |
 | 01:00:55   | Um, uh, but then why wouldn't you just pick up your iPhone to do the action instead?                                      |
 | 01:01:00   | Either way, um, this is slightly, uh, frustrating.                                                                        |
 | 01:01:04   | Uh, yes, press the type.                                                                                                  |
-| 01:01:06   | And then if I tap on notification, it's kind of like the Apple TV remote where you can                                    |
-| 01:01:11   | then type onto the Apple TV from your iPhone or your iPad, except it's slow and it comes                                  |
+| 01:01:06   | And then if I tap on notification, it's kind of like the [[Apple TV]] remote where you can                                    |
+| 01:01:11   | then type onto the [[Apple TV]] from your iPhone or your iPad, except it's slow and it comes                                  |
 | 01:01:15   | up with connecting to start with.                                                                                         |
 | 01:01:18   | Well, I, uh, I love focus modes.                                                                                          |
 | 01:01:21   | I think it's great and it, even as it's shipping, I'm very happy with it.                                                 |
@@ -1147,9 +1147,9 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:05:13   | And this is now enabled by default.                                                                                       |
 | 01:05:16   | Previously, this was not enabled by default.                                                                              |
 | 01:05:18   | So by default, people can now share and receive shortcuts via an iCloud link.                                             |
-| 01:05:24   | And this is now signed using your Apple ID as well.                                                                       |
+| 01:05:24   | And this is now signed using your [[Apple ID]] as well.                                                                       |
 | 01:05:28   | So I'm not 100% certain how this is going to work because you need to be signed into                                      |
-| 01:05:34   | iCloud to do this, and Apple don't tend to revoke people's iCloud IDs for things.                                         |
+| 01:05:34   | iCloud to do this, and [[Apple]] don't tend to revoke people's iCloud IDs for things.                                         |
 | 01:05:39   | Developers occasionally don't get banned from the developer store or from the app store                                   |
 | 01:05:44   | for things, and it's rare, but people don't usually get their iCloud accounts revoked.                                    |
 | 01:05:51   | By the way, that's no a thing.                                                                                            |
@@ -1161,7 +1161,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:06:13   | So that means they're signed, and there's a little certificate with them.                                                 |
 | 01:06:17   | And there's also a private sharing mode, which is for sharing with contacts or saving personal                            |
 | 01:06:23   | backups, and these are, I believe, shortcuts files as well, and they are signed as well.                                  |
-| 01:06:29   | So basically, it's just going to be official that Apple have acknowledged that, oh yeah,                                  |
+| 01:06:29   | So basically, it's just going to be official that [[Apple]] have acknowledged that, oh yeah,                                  |
 | 01:06:37   | people make and share shortcuts, that's why this thing is insanely popular.                                               |
 | 01:06:42   | Let's make that maybe a bit easier for people.                                                                            |
 | 01:06:45   | We didn't think this was going to be a big thing, and we apparently have a lot of people                                  |
@@ -1292,7 +1292,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:13:33   | On the other hand, I was geeking out on shortcuts and [[SF Symbols]] and I had a great Thursday                               |
 | 01:13:38   | night for anybody who's concerned about me.                                                                               |
 | 01:13:40   | I genuinely had a lot of fun.                                                                                             |
-| 01:13:42   | So for listeners who are not following, Apple made its own phone called San Francisco several                             |
+| 01:13:42   | So for listeners who are not following, [[Apple]] made its own phone called San Francisco several                             |
 | 01:13:47   | years ago.                                                                                                                |
 | 01:13:48   | And then two or three years ago, they started making their own glyph set called [[SF Symbols]],                               |
 | 01:13:55   | San Francisco symbols.                                                                                                    |
@@ -1361,8 +1361,8 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:17:24   | not they feel like they need automation in their life.                                                                    |
 | 01:17:27   | And I feel like it's going to be a good gateway drug for things.                                                          |
 | 01:17:30   | We haven't talked about today some of the other things that you can do.                                                   |
-| 01:17:34   | You can run shortcuts from the command line and from AppleScripts.                                                       |
-| 01:17:39   | So as well as running command line scripts and AppleScripts inside of shortcuts, those                                   |
+| 01:17:34   | You can run shortcuts from the command line and from [[AppleScript\|AppleScripts]].                                                       |
+| 01:17:39   | So as well as running command line scripts and [[AppleScript\|AppleScripts]] inside of shortcuts, those                                   |
 | 01:17:44   | things can run shortcuts which is kind of mind boggling and great but also app developers                                 |
 | 01:17:51   | can build in options to run shortcuts as part of their app.                                                               |
 | 01:17:56   | And they can ship shortcuts with their app with the links.                                                                |
@@ -1387,13 +1387,13 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:19:15   | I remember back in May 2018, Rose and I were first starting the show and we were recording                                |
 | 01:19:20   | test episodes and doing things.                                                                                           |
 | 01:19:23   | And we had to throw it all away.                                                                                          |
-| 01:19:25   | Yeah, because that June Apple announced shortcuts for iOS and we literally threw out like three                           |
+| 01:19:25   | Yeah, because that June [[Apple]] announced shortcuts for iOS and we literally threw out like three                           |
 | 01:19:31   | episodes and just started over again.                                                                                     |
 | 01:19:33   | And I feel like this is like another one of those moments like shortcuts arriving on                                      |
 | 01:19:37   | the Mac is a much bigger deal than we can really convey in a single episode and it's                                      |
 | 01:19:42   | going to be an ongoing topic on this show and it's just going to be a way for a lot                                       |
 | 01:19:46   | of people that had trouble automating before, you know, a lot of people never could figure                                |
-| 01:19:50   | out AppleScript.                                                                                                         |
+| 01:19:50   | out [[AppleScript]].                                                                                                         |
 | 01:19:51   | Well, guess what?                                                                                                         |
 | 01:19:52   | You don't need to.                                                                                                        |
 | 01:19:53   | You're going to be able to do a lot of automation without ever touching it.                                               |
@@ -1493,7 +1493,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:24:09   | the show, for anybody who has previously had to release a new version of an app, and they've                              |
 | 01:24:14   | gone from, say, 1.0 to 2.0, and they've had to do shortcut sections, and they're the same                                 |
 | 01:24:19   | shortcut sections, but for users, they have to go in and replace all their shortcut sections.                             |
-| 01:24:24   | There's an upgrade path now provided by Apple.                                                                            |
+| 01:24:24   | There's an upgrade path now provided by [[Apple]].                                                                            |
 | 01:24:26   | So if you're listening and you're going, huh, I know of an app that's currently having issues                             |
 | 01:24:31   | with that, then maybe, you know, give the developers a little while and ping them and                                     |
 | 01:24:35   | drop them an email and just say, hey, if you didn't know this, by the way, this is now                                    |

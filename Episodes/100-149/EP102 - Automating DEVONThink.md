@@ -91,7 +91,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:32      | can do absolutely everything that they want and need and more.    |
 | 01:35      | My problem was specifically related to programming                |
 | 01:38      | where I was doing a lot of very intensive stuff                   |
-| 01:41      | simultaneously, like running multiple JavaScript applications     |
+| 01:41      | simultaneously, like running multiple [[JavaScript]] applications     |
 | 01:46      | and one or more simulations of an iOS application                 |
 | 01:50      | to track down a bug between the app and the server                |
 | 01:52      | where you needed to add debugging and stuff.                      |
@@ -103,7 +103,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 02:08      | The 32-inch ultra-wide has gone absolutely nowhere.               |
 | 02:12      | Now, the fun thing is, as we record this episode,                 |
 | 02:16      | as the episode releases, I'm actually on holiday in New York,     |
-| 02:18      | that is also the day that Apple is currently estimating           |
+| 02:18      | that is also the day that [[Apple]] is currently estimating           |
 | 02:21      | that they will be delivering                                      |
 | 02:22      | my Apple Studio display to me.                                    |
 | 02:25      | So we're going to see what happens there.                         |
@@ -163,7 +163,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 04:33      | stream it from any service.                                       |
 | 04:35      | I'm sure there's multiple websites out there                      |
 | 04:36      | where I could just watch it, but I actually wanted it.            |
-| 04:39      | So buying DVDs from eBay and Amazon and I'm ripping them          |
+| 04:39      | So buying DVDs from eBay and [[Amazon]] and I'm ripping them          |
 | 04:42      | so that I can watch them on my TV myself is the solution.         |
 | 04:46      | And so I've got one technology for that.                          |
 | 04:47      | And I've got another one which is some documents and stuff        |
@@ -530,7 +530,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 20:22      | and this is a historical tool                                     |
 | 20:24      | where it will use the [[artificial intelligence]].                    |
 | 20:26      | And we haven't mentioned it yet,                                  |
-| 20:28      | but one of [[DEVONthink]]'s selling points                         |
+| 20:28      | but one of [[DEVONthink\|DEVONthink's]] selling points                         |
 | 20:30      | is that it's really invested in AI in terms of search             |
 | 20:34      | and recognising what a file is and what a file contains.          |
 | 20:39      | And so they have this cool trick                                  |
@@ -1627,7 +1627,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:07:48   | if I've had to pay tax on something,                              |
 | 01:07:50   | that is a field that I have added.                                |
 | 01:07:53   | And when I import my IKEA receipts,                               |
-| 01:07:56   | sorry, not my IKEA receipts, my Apple receipts,                   |
+| 01:07:56   | sorry, not my IKEA receipts, my [[Apple]] receipts,                   |
 | 01:07:59   | it scans the text for the regular expression,                     |
 | 01:08:01   | VAT charged at 20% and that looks for any number                  |
 | 01:08:05   | of literally any characters unfortunately                         |
@@ -1940,7 +1940,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:21:25   | But there's one there and you can automate the process            |
 | 01:21:29   | of creating those notes.                                          |
 | 01:21:31   | And then if you want to take it to the next level,                |
-| 01:21:33   | you're going to have it execute AppleScripts                     |
+| 01:21:33   | you're going to have it execute [[AppleScript\|AppleScripts]]                     |
 | 01:21:35   | to do like fill in fields at the same time.                       |
 | 01:21:39   | So it can grab data from elsewhere                                |
 | 01:21:41   | in your DEVONthink database or query you for like,               |
@@ -2021,11 +2021,11 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:24:50   | but they are very automation,                                     |
 | 01:24:52   | they're enthusiasts of automation.                                |
 | 01:24:54   | So they keep bringing things.                                     |
-| 01:24:55   | And the reason why there's so many great AppleScripts,           |
+| 01:24:55   | And the reason why there's so many great [[AppleScript\|AppleScripts]],           |
 | 01:24:58   | I'm convinced is every time somebody writes an email              |
 | 01:25:01   | to them asking for some feature,                                  |
-| 01:25:03   | they'll just, they just write and publish an AppleScript         |
-| 01:25:06   | to add the feature in essence via AppleScript                    |
+| 01:25:03   | they'll just, they just write and publish an [[AppleScript]]         |
+| 01:25:06   | to add the feature in essence via [[AppleScript]]                    |
 | 01:25:08   | because it's just so powerful.                                    |
 | 01:25:10   | So yeah, it's a great app and I'm a huge fan                      |
 | 01:25:14   | and I use it every day.                                           |

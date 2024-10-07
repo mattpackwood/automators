@@ -171,7 +171,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 07:38      | However, I know personally, if I see the same reminder every single day, I'll basically become         |
 | 07:44      | immune to it, especially when a chunk of the time there isn't necessarily anything there.              |
 | 07:50      | And I mean, one of the things I've done, which I'm just going to sort of share with everyone           |
-| 07:55      | because I think it's quite useful, is I will say, you know, hey, Apple lady, add this to               |
+| 07:55      | because I think it's quite useful, is I will say, you know, hey, [[Apple]] lady, add this to               |
 | 08:00      | the shopping list or the grocery list.                                                                 |
 | 08:04      | And then things will add and add it to those lists.                                                    |
 | 08:07      | And what then happens is I have a shortcut run periodically that just pulls those things               |
@@ -285,7 +285,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 14:53      | And then you can insert that in the text for that email that gets sent out via the shortcut.           |
 | 14:58      | And then you can also create the event on the calendar for the preparation event as well               |
 | 15:03      | as the sales presentation.                                                                             |
-| 15:06      | And you could create a note in an Apple shared note folder, or you could create, like in               |
+| 15:06      | And you could create a note in an [[Apple]] shared note folder, or you could create, like in               |
 | 15:12      | my case, I do it with Kraft.                                                                           |
 | 15:14      | My team uses the Kraft application.                                                                    |
 | 15:16      | We create a new page in Kraft for every new project and everybody can see it and it can                |
@@ -444,7 +444,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 24:55      | So yeah, you get to reuse format date and you can adjust it to the start of the day.                   |
 | 24:59      | Yeah, I've always found that trying to automate calendar information with shortcuts always             |
 | 25:05      | felt a little like difficult to me, and there's a lot of, I'm sorry, in [[AppleScript]], I miss            |
-| 25:11      | spoke, formatting dates in AppleScript has always been difficult for me, and it's just                 |
+| 25:11      | spoke, formatting dates in [[AppleScript]] has always been difficult for me, and it's just                 |
 | 25:16      | really because they use, the way they tell time is weird, and I don't even, Rose will                  |
 | 25:23      | know the exact language, but basically they're counting from the, I don't know, was at the             |
 | 25:26      | beginning of time, what is that?                                                                       |
@@ -511,7 +511,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 29:31      | If it is a Bluetooth shortcuts automation trigger, there is no way to turn off Ask Before              |
 | 29:38      | Running.                                                                                               |
 | 29:39      | This is a security thing.                                                                              |
-| 29:40      | Apple have decided that you can't do that.                                                             |
+| 29:40      | [[Apple]] have decided that you can't do that.                                                             |
 | 29:43      | Or you didn't notice that there is an Ask Before Running trigger that you can turn off.                |
 | 29:48      | Guessing based on the John's asking this question is John's looked for this and hasn't found               |
 | 29:52      | it.                                                                                                    |
@@ -538,14 +538,14 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 31:23      | I mean, it's just like, I don't want notifications for my shortcuts.                                   |
 | 31:26      | I made the shortcut, it's fine.                                                                        |
 | 31:28      | But I do understand why they exist.                                                                    |
-| 31:30      | Apple is worried about security, like the Bluetooth example is a good one.                             |
+| 31:30      | [[Apple]] is worried about security, like the Bluetooth example is a good one.                             |
 | 31:35      | If your phone connects to some random Bluetooth and stuff starts automatically happening on            |
 | 31:40      | your phone, that could be bad, right?                                                                  |
 | 31:43      | I think shortcuts is pretty safe, I mean, but yeah, there's no limit on what ill will                  |
 | 31:50      | people could do if they were able to hijack you through shortcuts and a Bluetooth connection.          |
-| 31:55      | But that's the thinking at Apple.                                                                      |
+| 31:55      | But that's the thinking at [[Apple]].                                                                      |
 | 31:58      | If you go back in time, Chase, I'm sorry, if you go back in time, John, you'll see that                |
-| 32:05      | Apple didn't let you turn it off on hardly anything at the beginning.                                  |
+| 32:05      | [[Apple]] didn't let you turn it off on hardly anything at the beginning.                                  |
 | 32:09      | And over the years, they've kind of softened on it.                                                    |
 | 32:11      | And hopefully every year, it gets a little easier.                                                     |
 | 32:14      | But sometimes if you don't have the switch to turn it off, there's no way to stop it.                  |
@@ -559,7 +559,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 32:41      | It's that area right above, it's kind of like behind the face ID sensor.                               |
 | 32:45      | If you have one of those, you know, in the middle at the top, you just have to hover                   |
 | 32:49      | your phone over it while unlocked.                                                                     |
-| 32:51      | But if you've got face ID and or an Apple Watch, then your phone is probably going to                  |
+| 32:51      | But if you've got face ID and or an [[Apple Watch]], then your phone is probably going to                  |
 | 32:55      | unlock when you pick it up.                                                                            |
 | 32:58      | And it recognises either your face or your watch is nearby.                                            |
 | 33:01      | And then you can just kind of hover it over that and then it will run it from there.                   |
@@ -710,7 +710,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 42:39      | to help boost your knowledge with some idea of what's going on.                                        |
 | 42:44      | And I would suggest not necessarily going straight to [[ChatGPT]], but making sure that                   |
 | 42:48      | you use the other resources available, such as Stack Overflow and so on as well, because               |
-| 42:52      | there's a lot of stuff out there on the internet, especially for AppleScript already, where           |
+| 42:52      | there's a lot of stuff out there on the internet, especially for [[AppleScript]] already, where           |
 | 42:57      | somebody's written exactly what you want.                                                              |
 | 43:01      | And yeah, especially as we find more and more [[ChatGPT]] answers being posted on the internet,           |
 | 43:06      | that feeds the data set, which especially if it's wrong, is them feeding it more wrong                 |
@@ -725,8 +725,8 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 43:42      | Well, I think I'm more optimistic than you.                                                            |
 | 43:44      | The key question and the key phrase in Chase's question is using it as a launching point.              |
 | 43:50      | And I think it can work.                                                                               |
-| 43:51      | I mean, AppleScript to me is the one I keep throwing at these and it has the hardest time             |
-| 43:56      | with, because AppleScript was really meant to be kind of human, writable and readable.               |
+| 43:51      | I mean, [[AppleScript]] to me is the one I keep throwing at these and it has the hardest time             |
+| 43:56      | with, because [[AppleScript]] was really meant to be kind of human, writable and readable.               |
 | 44:01      | I mean, we've had salsa going on the show to talk about that in the past.                              |
 | 44:04      | So it's a weird language and I feel like [[ChatGPT]] stumbles on that one.                                |
 | 44:10      | I've had it write scripts for me just for tests.                                                       |
@@ -738,7 +738,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 44:28      | You just grab the script and you're off to the races.                                                  |
 | 44:32      | But if you're just hitting a brick wall, you can't find any good examples on the internet.             |
 | 44:38      | Using [[ChatGPT]] for I have subscribed because I'm trying to figure out this stuff like everybody        |
-| 44:44      | else while Rose was talking, I asked it, write an AppleScript to ask for a date and present           |
+| 44:44      | else while Rose was talking, I asked it, write an [[AppleScript]] to ask for a date and present           |
 | 44:50      | a dialogue box with a date two days before that.                                                       |
 | 44:54      | And this script looks to me like it'll work.                                                           |
 | 44:57      | I haven't, you know, I just did this and I haven't had time.                                           |
@@ -794,12 +794,12 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 47:54      | And then you would follow up to figure out if your intern knew what the heck he or she                 |
 | 47:58      | was talking about.                                                                                     |
 | 48:00      | And that's kind of the way you've got to approach this stuff.                                          |
-| 48:02      | But I do think, getting back to Chase, this is a good resource if you're learning Apple                |
-| 48:08      | Script and you can't figure out how to do something, you can't find it on the internet.                |
+| 48:02      | But I do think, getting back to Chase, this is a good resource if you're learning [[AppleScript]]       |
+| 48:08      | and you can't figure out how to do something, you can't find it on the Internet.                |
 | 48:12      | You know, go ahead and ask the question, see what it comes up with.                                    |
 | 48:14      | It's getting better.                                                                                   |
 | 48:16      | [[AppleScript]] to me, I think, is the hardest one for [[ChatGPT]] to get right.                             |
-| 48:20      | Like I had it do some JavaScript for me and everything was super clean.                                |
+| 48:20      | Like I had it do some [[JavaScript]] for me and everything was super clean.                                |
 | 48:24      | I have it too.                                                                                         |
 | 48:25      | [[AppleScript]] and sometimes it falls flat on its face.                                                  |
 | 48:27      | So just be wary.                                                                                       |
@@ -956,7 +956,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 58:12      | And I would say if you spend primarily your time on the Macintosh, you really should look              |
 | 58:16      | at timing because it tracks what's going on, on your computer and the automation, I mean,              |
 | 58:22      | there's lots of automation and I could go deeper down the rabbit hole because with timing,             |
-| 58:25      | you can write AppleScripts to do pretty much anything you can do with Timer, but, and I've            |
+| 58:25      | you can write [[AppleScript\|AppleScripts]] to do pretty much anything you can do with Timer, but, and I've            |
 | 58:29      | done some of that.                                                                                     |
 | 58:31      | But the real automation of timing really is you just train it whenever I'm at this web                 |
 | 58:36      | page and then track that as recording the automators podcast because you only go to                    |
@@ -1025,7 +1025,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:03:06   | You can get ones which will lift their mop section as they go on to carpet, that may                   |
 | 01:03:10   | be preferable for some people, the Roborock ones can do that, but it really depends on                 |
 | 01:03:16   | the kind of flooring you have as to what it is that you're going to want.                              |
-| 01:03:21   | These things can be incredibly cheap, Prime Day sales, Anker does the eufy range of                  |
+| 01:03:21   | These things can be incredibly cheap, Prime Day sales, Anker does the [[eufy]] range of                  |
 | 01:03:26   | robot vacuums, I had one of those before, it was great.                                                |
 | 01:03:30   | Personally I went with the auto emptying and self-cleaning mop heads because I will                    |
 | 01:03:36   | forget to do this, and there is nothing worse than coming home and finding that your robot             |
@@ -1125,18 +1125,18 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:09:43   | Yeah, a little bit of experience with Hoops.                                                           |
 | 01:09:46   | It's one of those things where it's definitely nice and easy because you just kind of buy              |
 | 01:09:51   | the box, you plug it in and it works.                                                                  |
-| 01:09:53   | Under the hood, it's basically running Homebridge.                                                     |
-| 01:09:56   | So if anybody's going, oh, that sounds really easy, it is running Homebridge.                          |
-| 01:10:02   | If you have a computer at home like a Synology or something, you can definitely run this               |
+| 01:09:53   | Under the hood, it's basically running [[Homebridge]].                                                     |
+| 01:09:56   | So if anybody's going, oh, that sounds really easy, it is running [[Homebridge]].                          |
+| 01:10:02   | If you have a computer at home like a [[Synology]] or something, you can definitely run this               |
 | 01:10:08   | yourself and you can make it a lot easier for yourself.                                                |
-| 01:10:14   | So Hoops is great.                                                                                     |
+| 01:10:14   | So Hoobs is great.                                                                                     |
 | 01:10:15   | I personally prefer [[Home Assistant]] for a load of the stuff, but yeah, there's a lot of great           |
 | 01:10:21   | options out there.                                                                                     |
 | 01:10:22   | It's worth considering.                                                                                |
-| 01:10:24   | That said, at the moment, a Hoops starter box is on sale for $249.99, so I feel like                   |
+| 01:10:24   | That said, at the moment, a Hoobs starter box is on sale for $249.99, so I feel like                   |
 | 01:10:33   | if somebody is looking at using this to solve their home automation problems, definitely               |
-| 01:10:38   | take a look at Homebridge and [[Home Assistant]] first because they are free.                              |
-| 01:10:42   | If you already have Hoops, that's great.                                                               |
+| 01:10:38   | take a look at [[Homebridge]] and [[Home Assistant]] first because they are free.                              |
+| 01:10:42   | If you already have Hoobs, that's great.                                                               |
 | 01:10:47   | It works.                                                                                              |
 | 01:10:48   | It's wonderful.                                                                                        |
 | 01:10:49   | That's good.                                                                                           |
@@ -1146,44 +1146,43 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:11:02   | automation devices, which will then work with [[Matter]] and [[HomeKit]] in the near future.                   |
 | 01:11:07   | How long do you think we're going to have to wait for Matter to really land?                           |
 | 01:11:13   | I mean, I kind of feel like to an extent it's already here.                                            |
-| 01:11:15   | I got the new SwitchBot Hub the other day, which I've only just started playing with                   |
-| 01:11:20   | it, but that's a Matter Hub.                                                                           |
-| 01:11:22   | That will integrate the things like the curtains, the SwitchBot curtains that I have into [[HomeKit]]      |
+| 01:11:15   | I got the new [[SwitchBot Hub]] the other day, which I've only just started playing with                   |
+| 01:11:20   | it, but that's a [[Matter]] hub.                                                                           |
+| 01:11:22   | That will integrate the things like the curtains, the [[SwitchBot Curtain Opener\|SwitchBot curtains]] that I have into [[HomeKit]]      |
 | 01:11:27   | directly as well as [[Home Assistant]], which is great.                                                    |
 | 01:11:31   | I'm looking forward to giving that a better try.                                                       |
 | 01:11:33   | I've only just set it up, so I can't really talk about that yet.                                       |
-| 01:11:37   | It feels like there's a lot of Matter-compatible devices here, and they're already bringing            |
+| 01:11:37   | It feels like there's a lot of [[Matter\|Matter-compatible]] devices here, and they're already bringing            |
 | 01:11:42   | things into systems that previously they weren't able to do, they weren't compatible with.             |
 | 01:11:49   | That said, the [[Matter]] and [[Thread]] spec, they're not fully rolled out yet, so there are limitations      |
 | 01:11:55   | to that, but we're definitely going down that path already.                                            |
 | 01:11:59   | It's coming faster than I thought it would.                                                            |
 | 01:12:02   | I still don't think that if you've got a bunch of Hue lights, you should be throwing                   |
-| 01:12:06   | them out to buy Matter-compatible ones.                                                                |
+| 01:12:06   | them out to buy [[Matter\|Matter-compatible]] ones.                                                                |
 | 01:12:08   | A, because Hue's got a hub coming, and just buy the new hub of people, please don't buy                |
 | 01:12:12   | all new light bulbs.                                                                                   |
 | 01:12:13   | That'll be very expensive.                                                                             |
-| 01:12:15   | And B, if AIM broke, don't fix it, don't change stuff that works just because there's                  |
+| 01:12:15   | And B, if it ain't broke, don't fix it, don't change stuff that works just because there's                  |
 | 01:12:20   | a theoretically better one out there.                                                                  |
 | 01:12:22   | If you're, for example, light bulb is too dim, and therefore you are looking to get                    |
-| 01:12:26   | a brighter light bulb, and you find a brighter light bulb that is also Matter-compatible,              |
+| 01:12:26   | a brighter light bulb, and you find a brighter light bulb that is also [[Matter\|Matter-compatible]],              |
 | 01:12:32   | then that's great.                                                                                     |
 | 01:12:33   | Bio means upgrade that, but yeah, don't throw away the stuff that's working just to get                |
 | 01:12:37   | it matched your stuff, it doesn't matter, at least with that much.                                     |
-| 01:12:45   | Don't replace equipment, but if you're buying new equipment, try and get Matter, because               |
+| 01:12:45   | Don't replace equipment, but if you're buying new equipment, try and get [[Matter]], because               |
 | 01:12:49   | I think that's what you're going to want to have in a few years, or even sooner.                       |
-| 01:12:55   | Another home kit product that is making the news right now is the Aqara Presence Sensor                |
-| 01:12:59   | FP2.                                                                                                   |
+| 01:12:55   | Another home kit product that is making the news right now is the [[Aqara Presence Sensor#FP2|Aqara Presence Sensor FP2]].                |
 | 01:13:00   | I can tell you, I've had like seven different listeners send me links to various reviews               |
 | 01:13:07   | and links to this product.                                                                             |
 | 01:13:09   | I wanted to talk to you about it, Rose.                                                                |
-| 01:13:10   | I actually looked at it, they're still not available on Amazon as we record this, apparently           |
+| 01:13:10   | I actually looked at it, they're still not available on [[Amazon]] as we record this, apparently           |
 | 01:13:14   | they sold out very quickly.                                                                            |
-| 01:13:17   | This is, it looks like a different device than the Aqara Human Presence Sensor that                    |
-| 01:13:22   | I ordered from Aliexpress, but I'm not sure.                                                           |
+| 01:13:17   | This is, it looks like a different device than the [[Aqara Presence Sensor\|Aqara Human Presence Sensor]] that                    |
+| 01:13:22   | I ordered from Ali Express, but I'm not sure.                                                           |
 | 01:13:27   | What do you know about it?                                                                             |
-| 01:13:28   | So Aqara has two FP products, they've got the FP1 and the FP2.                                         |
+| 01:13:28   | So [[Aqara]] has two FP products, they've got the [[Aqara Presence Sensor#FP1\|FP1]] and the [[Aqara Presence Sensor#FP2\|FP2]].                                         |
 | 01:13:36   | I'm just double-checking to refresh my memory.                                                         |
-| 01:13:38   | I know that the FP1 is a Zigbee-based present sensor and the FP2 is Wi-Fi-based.                       |
+| 01:13:38   | I know that the FP1 is a [[Zigbee]]-based presence sensor and the FP2 is Wi-Fi-based.                       |
 | 01:13:44   | Personally, I dislike Wi-Fi connected devices simply because why do I need more things on              |
 | 01:13:51   | my network that can talk to their own servers?                                                         |
 | 01:13:55   | That doesn't seem to make a huge amount of sense.                                                      |
@@ -1199,23 +1198,23 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:14:44   | It's one of those things.                                                                              |
 | 01:14:45   | I've heard very good things about it.                                                                  |
 | 01:14:46   | I've heard a lot of people loving it.                                                                  |
-| 01:14:49   | I did initially have some difficulties with my FP1, which is the Zigbee-based one, and                 |
+| 01:14:49   | I did initially have some difficulties with my [[Aqara Presence Sensor#FP1\|FP1]], which is the [[Zigbee]]-based one, and                 |
 | 01:14:54   | then I went through a couple of forum threads, fortunately the [[Home Assistant]] forum had some           |
 | 01:14:59   | and some other places, and it turned out, essentially, I was understanding how the sensors sense       |
 | 01:15:05   | things a little bit.                                                                                   |
 | 01:15:07   | I hadn't quite understood the labels, the way that they've been translated from Chinese                |
 | 01:15:12   | didn't quite tally up, and it turns out now I have a perfectly working [[Human Presence Sensor\|human presence sensor]],                  |
-| 01:15:18   | which is great, but yeah, the FP2 should be able to do multi-person detection.                 |
+| 01:15:18   | which is great, but yeah, the [[Aqara Presence Sensor#FP2\|FP2]] should be able to do multi-person detection.                 |
 | 01:15:23   | It's got a built-in light sensor.                                                                      |
-| 01:15:25   | It can do zone positioning, interference compensation on the Aqara hub.                                |
-| 01:15:30   | It does local automations to an extent with other Aqara products.                                      |
+| 01:15:25   | It can do zone positioning, interference compensation on the [[Aqara Hub]].                                |
+| 01:15:30   | It does local automations to an extent with other [[Aqara]] products.                                      |
 | 01:15:35   | I wouldn't necessarily want it to do that, but yeah, it's got some nice things in there.               |
 | 01:15:43   | The availability is the most difficult part.                                                           |
-| 01:15:45   | I was able to pick up the FP1 on Aliexpress pretty easily, not hugely expensive at the                 |
+| 01:15:45   | I was able to pick up the [[Aqara Presence Sensor#FP1\|FP1]] on Ali Express pretty easily, not hugely expensive at the                 |
 | 01:15:50   | time, and it just plugs into a USB slot.                                                               |
-| 01:15:54   | I'm not quite sure exactly what this uses for power, but just like the FP1, this is                    |
+| 01:15:54   | I'm not quite sure exactly what this uses for power, but just like the [[Aqara Presence Sensor#FP1\|FP1]], this is                    |
 | 01:15:59   | going to be a powered device, it's not running on battery.                                             |
-| 01:16:03   | When you say the FP1, is that the same thing as the [[Human Presence Sensor\|human presence sensor]] that I bought?               |
+| 01:16:03   | When you say the [[Aqara Presence Sensor#FP1\|FP1]], is that the same thing as the [[Human Presence Sensor\|human presence sensor]] that I bought?               |
 | 01:16:07   | That's what we have.                                                                                   |
 | 01:16:08   | Yes.                                                                                                   |
 | 01:16:09   | Yeah.                                                                                                  |
@@ -1227,7 +1226,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:16:17   | Generally, I find Wi-Fi devices a little slower, and they make everything a little worse               |
 | 01:16:22   | on my Wi-Fi network.                                                                                   |
 | 01:16:24   | Most I don't like to have a lot of them, but I'm super curious to see how this works.                  |
-| 01:16:27   | My biggest gripe with the FP1 is a little bit, it's just a little slow, and it's not                   |
+| 01:16:27   | My biggest gripe with the [[Aqara Presence Sensor#FP1\|FP1]] is a little bit, it's just a little slow, and it's not                   |
 | 01:16:34   | working quite as I thought.                                                                            |
 | 01:16:37   | I thought if I had this in here, and wanted to talk about my studio automation another                 |
 | 01:16:41   | day, but I've been working on it, but I would thought that it would always know I was in               |
@@ -1250,7 +1249,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:17:45   | to work differently for that.                                                                          |
 | 01:17:47   | So yeah.                                                                                               |
 | 01:17:48   | Well, either way, I feel like we're on the verge of something here with these human                    |
-| 01:17:52   | present sensors, and if they do work reliably, it's going to make the automation story so              |
+| 01:17:52   | presence sensors, and if they do work reliably, it's going to make the automation story so              |
 | 01:17:58   | much easier for people.                                                                                |
 | 01:17:59   | You can just have one that says, when I'm in the room, turn the lights on, when I leave                |
 | 01:18:02   | the room, turn the lights off, that kind of stuff reliably, that will be awesome.                      |

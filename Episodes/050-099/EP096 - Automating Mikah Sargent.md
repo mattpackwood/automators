@@ -216,7 +216,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 09:40      | I'll be joining that soon.                                                                              |
 | 09:42      | And then I also do Clockwise, hair on relay FM with Dan Moran, and a podcast called Unhelpful           |
 | 09:52      | Suggestions, which is just an occasional podcast I do with my pal, Joe Rosensteel, where we             |
-| 09:56      | mostly talk about sort of Apple TV and media, but also end up talking about pies and all                |
+| 09:56      | mostly talk about sort of [[Apple TV]] and media, but also end up talking about pies and all                |
 | 10:02      | sorts of all sorts of fun stuff.                                                                        |
 | 10:04      | And then the last one that I'll mention, because it's also more regular is a podcast called             |
 | 10:09      | Total Party Kill, The Dog and Pony Show, which is on the incomparable network.                          |
@@ -336,7 +336,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 17:55      | takes a link and shortens it using bit.ly.                                                              |
 | 18:00      | But what's cool about this snippet is that if there's a link shortening service for that                |
 | 18:10      | link that you're using, so apple.co or something, I can't remember what the short one is, but           |
-| 18:17      | apple has one, Amazon has one, a bunch of different ones have one, it will shorten it                   |
+| 18:17      | [[Apple]] has one, [[Amazon]] has one, a bunch of different ones have one, it will shorten it                   |
 | 18:22      | to that URL, like to that services shortener instead of just doing the bit.ly link.                     |
 | 18:28      | So that is very handy being able to use.                                                                |
 | 18:32      | I would say my most used snippet though is not a very complicated one.                                  |
@@ -597,7 +597,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 34:21      | very cool.                                                                                              |
 | 34:22      | Yeah, sorry about that.                                                                                 |
 | 34:23      | So thank you for that.                                                                                  |
-| 34:24      | I mean, the Apple Pencil and Notability are also great, but I'm frequently doing this                   |
+| 34:24      | I mean, the [[Apple Pencil]] and Notability are also great, but I'm frequently doing this                   |
 | 34:28      | like on my iPad.                                                                                        |
 | 34:30      | And then I want to look at everything and it's really nice to be able to have multiple                  |
 | 34:33      | shortcuts on my screen as well as the reference to what I was looking at.                               |
@@ -633,7 +633,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 36:25      | So it never, so it puts random capital.                                                                 |
 | 36:27      | I think that throws some of them because I do that too.                                                 |
 | 36:31      | And like I've, I've, I've found more apps struggle to recognise a photo of my handwriting,              |
-| 36:37      | but on the inverse side, things like notability with the Apple Pencil do a really great job             |
+| 36:37      | but on the inverse side, things like notability with the [[Apple Pencil]] do a really great job             |
 | 36:41      | of recognising my handwriting.                                                                          |
 | 36:43      | So swings and roundabouts.                                                                              |
 | 36:46      | So what I do is I'll take a picture of something I've written down and then if it's like day            |
@@ -741,8 +741,8 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 43:45      | with a variety of exercises to make sure you're not overwhelming anything.                              |
 | 43:49      | The FitBod app is so simple to use and recently got updated with a fantastic new design                 |
 | 43:54      | with brand new HD video tutorials shot from multiple angles to make sure that learning                  |
-| 44:00      | each exercise is a breeze, and it also integrates with your Apple Watch.                                |
-| 44:05      | Wear OS smartwatch and apps like Strava, Fitbit, and Apple Health.                                      |
+| 44:00      | each exercise is a breeze, and it also integrates with your [[Apple Watch]].                                |
+| 44:05      | Wear OS smartwatch and apps like Strava, Fitbit, and [[Apple Health]].                                      |
 | 44:10      | Personalised training of this quality can be expensive, but FitBod is just $12.99 a month               |
 | 44:15      | or $79.99 a year, and you can get an even better price.                                                 |
 | 44:19      | You can get 25% off your membership by signing up at fitbod.me/automators.                        |
@@ -800,7 +800,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 49:46      | that took a lot of time, and I knew that that process could be automated. Dan Sturm helped              |
 | 49:53      | me create a [[Keyboard Maestro]] macro that helped me to see all of those [[Safari]] tabs, get the              |
 | 50:03      | headline from those pages, because usually it's the title that gets put into the tab.                   |
-| 50:09      | Grab it from there. I think tab names is the deal in AppleScript or whatever. Then                      |
+| 50:09      | Grab it from there. I think tab names is the deal in [[AppleScript]] or whatever. Then                      |
 | 50:18      | there's a little bit of regular expression work that happens because the set of tabs always             |
 | 50:25      | is set up the same, where the first two tabs are my Gmail account because I have that pinned,           |
 | 50:32      | and then the next one to that is the one-note document. We worked out a regular expression to           |
@@ -957,22 +957,22 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:06:04   | in there sometime where we need to do like a landlord friendly automation show because that's           |
 | 01:06:09   | a problem a lot of people have. I mean, it's like I want to do automation, but I can't replace          |
 | 01:06:15   | light switches. I mean, what can I do? And I get it. It's got to be a struggle.                         |
-| 01:06:23   | Yeah. Yeah. I'm currently looking for a better alternative to the SwitchBot.                            |
-| 01:06:27   | SwitchBot for people who don't know is a tiny little device. It's got a plastic arm in it               |
-| 01:06:33   | and it's Bluetooth, but you stick it on something like a light switch and the arm reaches out and       |
+| 01:06:23   | Yeah. Yeah. I'm currently looking for a better alternative to the [[SwitchBot Bot\|SwitchBot]].                            |
+| 01:06:27   | [[SwitchBot Bot\|SwitchBot]] for people who don't know is a tiny little device. It's got a plastic arm in it               |
+| 01:06:33   | and it's [[Bluetooth]], but you stick it on something like a light switch and the arm reaches out and       |
 | 01:06:37   | presses the switch for you. So it's great for things like coffee makers and so on or a light            |
-| 01:06:43   | switch where you can't replace a light switch. The problem that it is is Bluetooth. Like [[Thread]]         |
+| 01:06:43   | switch where you can't replace a light switch. The problem that it is is [[Bluetooth]]. Like [[Thread]]         |
 | 01:06:49   | is much better, but these are not [[Thread]]. They are Bluetooth. And I think you had that, Micah,          |
 | 01:06:55   | with the Belkin Wemo switch until recently, until it finally got [[Thread]] where it was just              |
-| 01:07:01   | terrible. Like the SwitchBot curtains are great because let's face it, how often do you actually        |
+| 01:07:01   | terrible. Like the [[SwitchBot Curtain Opener\|SwitchBot curtains]] are great because let's face it, how often do you actually        |
 | 01:07:06   | interact with your curtains on a daily basis? Probably twice a day and having them open or              |
 | 01:07:10   | close a minute or so later, perhaps it's never even that long. It's fine. But when you walk into        |
 | 01:07:17   | a room and you want the light to turn on, waiting 30 seconds for the light to turn on, because          |
 | 01:07:23   | it's got to communicate via the hub and everything, that's not great. And so I would really have        |
-| 01:07:29   | find a better version of that that's controlled by a Zigbee or something that people can actually       |
+| 01:07:29   | find a better version of that that's controlled by a [[Zigbee]] or something that people can actually       |
 | 01:07:35   | use and rely on to work instantly when they want to do stuff. I mean, it's only going to be relatively  |
 | 01:07:40   | instantly because there's the arm that has to come out and press the button versus something            |
-| 01:07:45   | like a Lutron Casetas, which obviously is going to be pretty much instant. But I mean,                 |
+| 01:07:45   | like a [[Lutron]] Casetas, which obviously is going to be pretty much instant. But I mean,                 |
 | 01:07:50   | it's a great tool. I just wish that I knew of some better options than that. It is pretty good.         |
 | 01:07:56   | And if you use Homebridge, you can get it into [[HomeKit]] as well. They write their own Homebridge         |
 | 01:08:00   | plugin, but it is unfortunately Bluetooth. I have a question for you too as automators.                 |
@@ -1012,7 +1012,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:10:47   | And so my aim is to try and make it invisible, but then give people, you know,                          |
 | 01:10:52   | a way to toggle things like a light or something if they need it.                                       |
 | 01:10:57   | So yeah, I've got, like, Philip's Hue covers or, like, I've got the four button switches and I bought   |
-| 01:11:02   | covers from Amazon just that go over my light switches. And so the Hue buttons are on that.             |
+| 01:11:02   | covers from [[Amazon]] just that go over my light switches. And so the Hue buttons are on that.             |
 | 01:11:07   | And I can take the Hue button off and take part of the cover off and actually control                   |
 | 01:11:10   | the physical switch if I need to, but I rarely need to do that. But people look at it and they          |
 | 01:11:15   | press the top button to turn the light on, they press the button button to turn the light off.          |
@@ -1021,7 +1021,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:11:28   | the, you know, when I first started playing with the stuff, I was trying to use the smart               |
 | 01:11:32   | light bulbs, but then they would turn off the switch and the light bulb would stop working              |
 | 01:11:37   | and I'd be unhappy and they'd be unhappy because sometimes they would flip the switch and the           |
-| 01:11:42   | light wouldn't go off and on. And that's what led me down the road to the Lutron Casetaa               |
+| 01:11:42   | light wouldn't go off and on. And that's what led me down the road to the [[Lutron]] Caseta               |
 | 01:11:48   | switches. So now they can turn the switch off or on and I can also control the automation. And          |
 | 01:11:54   | you want to be as transparent as possible, but you really do have to have a conversation like,          |
 | 01:11:58   | look, hey, I really love you and you love me. Living with me means occasionally things are              |
@@ -1035,7 +1035,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:12:46   | wouldn't be fun if I had like a different song that would play, whether it's my wife or my daughter     |
 | 01:12:51   | or me. And it's just not smart enough yet. And even though they say they have the feature,              |
 | 01:12:56   | it doesn't work. So you have to experiment and realise where the limits are of this stuff,              |
-| 01:13:02   | even beyond what Apple or the manufacturers are telling you. Yeah, yeah. Yeah, definitely. Also         |
+| 01:13:02   | even beyond what [[Apple]] or the manufacturers are telling you. Yeah, yeah. Yeah, definitely. Also         |
 | 01:13:10   | invite requesting bug reports. It's an interesting experience, but also very useful. The last thing     |
 | 01:13:17   | you want if you're sharing home automations is for the person to never tell you that the thing is       |
 | 01:13:21   | broken from their perspective. That's a really good point. Yeah, because if something works the         |
@@ -1143,7 +1143,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:24:05   | trigger, that farms out to if this and that, which processes it as soon as it can, obviously,           |
 | 01:24:12   | but that's not necessarily going to be instant. And then it has to come back. You've got so many        |
 | 01:24:17   | potential points of failure added over something like [[HomeKit]] where the processing is done locally      |
-| 01:24:22   | in your home on a HomePod or an Apple TV. And that's why local based automations when you want          |
+| 01:24:22   | in your home on a HomePod or an [[Apple TV]]. And that's why local based automations when you want          |
 | 01:24:30   | the start and the ends to be local are usually the best. That's just the way that these things          |
 | 01:24:37   | end up working. So, Micah, if there's one area of automation you'd like to get better at, what is it?   |
 | 01:24:44   | Oh, man. I think it would be in more of the auto automations. It's the stuff that happens               |

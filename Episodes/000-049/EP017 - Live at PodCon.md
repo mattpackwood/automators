@@ -547,13 +547,13 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 25:39      | But of course, the listeners were not ready to wait for that.                                                      |
 | 25:43      | So there's a whole thread on this over at the forum.                                                               |
 | 25:48      | Sylumer found USB iBeacons, which looked pretty nice.                                                            |
-| 25:52      | Apparently, the ones we talked about on the show are no longer available on Amazon.                                |
+| 25:52      | Apparently, the ones we talked about on the show are no longer available on [[Amazon]].                                |
 | 25:56      | No.                                                                                                                |
 | 25:57      | So we're post using some by Estimote, and it looks like you can still buy individual ones                            |
-| 26:02      | on Amazon, but the packs of three or four may not be available, at least they're not                               |
+| 26:02      | on [[Amazon]], but the packs of three or four may not be available, at least they're not                               |
 | 26:08      | on amazon.com at the time of recording.                                                                            |
 | 26:11      | If CamelCamelCamel is working, then you can use the website camelcamelcamel.com to track                           |
-| 26:18      | an Amazon listing and find out when it becomes available again or when it goes on sale.                            |
+| 26:18      | an [[Amazon]] listing and find out when it becomes available again or when it goes on sale.                            |
 | 26:25      | So you may want to try that there as we record.                                                                    |
 | 26:28      | They are unfortunately having some server issues, but they should hopefully be back                                |
 | 26:32      | quite soon.                                                                                                        |
@@ -642,11 +642,11 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 30:27      | And there was a good question in the forum about how do you decide what tools you use                              |
 | 30:32      | for this stuff and quick ATB, I don't know if it's Qui Cat B, I don't know how he or                               |
 | 30:42      | she pronounces it.                                                                                                 |
-| 30:43      | But the question was, how do you choose between Automator, [[Alfred]], Keyboard, Maestro, Apple                        |
-| 30:47      | Script, [[Hazel]], I can think of a few more to perform actions.                                                       |
+| 30:43      | But the question was, how do you choose between [[Automator]], [[Alfred]], [[Keyboard Maestro]], [[AppleScript]],                        |
+| 30:47      | [Hazel]], I can think of a few more to perform actions.                                                       |
 | 30:53      | And I think it really depends on what you're doing.                                                                |
-| 30:58      | Just a quick rundown, tools like [[Spotlight]], Automator, I'm sorry [[Spotlight]], [[Alfred]], Launch                         |
-| 31:05      | Bar, those are tools that are allowing you to use your keyboard to do things on your                               |
+| 30:58      | Just a quick rundown, tools like [[Spotlight]], [[Automator]], I'm sorry [[Spotlight]], [[Alfred]], [[LaunchBar]],                         |
+| 31:05      | those are tools that are allowing you to use your keyboard to do things on your                               |
 | 31:09      | Mac quickly.                                                                                                       |
 | 31:10      | But they aren't really automation tools that much, although with [[Alfred]] and Launch Bar,                            |
 | 31:15      | there certainly are automation elements to them.                                                                   |
