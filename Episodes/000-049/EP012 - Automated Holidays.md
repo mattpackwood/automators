@@ -1,5 +1,5 @@
 ---
-status: "incomplete"
+status: "complete"
 fc-date:
   year: 2018
   month: 12
@@ -81,12 +81,12 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 00:27      | After some people, there are multiple holidays in the year, and it's a good opportunity to           |
 | 00:32      | bust out the automation tools and impress the relatives, or at the very least, make your             |
 | 00:35      | life a little easier.                                                                                |
-| 00:36      | Orchard, just in my case, just add some nerdiness to the holiday, which is just a purpose in         |
+| 00:36      | Or just in my case, just add some nerdiness to the holiday, which is just a purpose in         |
 | 00:42      | itself.                                                                                              |
 | 00:43      | Yes.                                                                                                 |
 | 00:44      | Well, it's a worthy purpose, because, you know, everybody should be enjoying themselves,             |
 | 00:48      | you know, at every time of year, hopefully, but especially during the holidays, so.                  |
-| 00:52      | We've covered this on the Mac Power users a few times over the years.                                |
+| 00:52      | We've covered this on the [[Mac Power Users]] a few times over the years.                                |
 | 00:55      | We'll go ahead and put some links in the show notes for those shows.                                 |
 | 00:59      | This episode, The Automators, we're going to go a little bit nerdier.                                |
 | 01:02      | We're going into some [[AppleScript]] and some other stuff.                                             |
@@ -104,7 +104,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 01:46      | You could also do a screensaver of fun images.                                                       |
 | 01:50      | And there are some actual, the really nice sets of images out there, which you can just              |
 | 01:55      | download as a whole group, or maybe add it to your photo library automatically.                      |
-| 02:01      | There's some Google Photos albums as well, which is a really nice, simple way that everybody         |
+| 02:01      | There's some [[Google Photos]] albums as well, which is a really nice, simple way that everybody         |
 | 02:06      | can add some fun to the holidays.                                                                    |
 | 02:08      | I went searching the other day for my iOS devices.                                                   |
 | 02:12      | I wanted a home screen that was appropriately festive, but also Star Wars.                           |
@@ -162,14 +162,14 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 04:18      | Like if you had a Christmas related kickoff automation that would tell you, that would               |
 | 04:24      | play your favourite music and turn on your lights and things, we're going to talk about               |
 | 04:27      | some of those later.                                                                                 |
-| 04:28      | There's nothing wrong with inserting some Siri shortcut code in there to figure out                  |
+| 04:28      | There's nothing wrong with inserting some [[Shortcuts\|Siri Shortcuts]] code in there to figure out                  |
 | 04:34      | the current day and subtract that from the holiday that you're looking for.                          |
 | 04:40      | And then you could create a text field to say, or just a text file that says, you know,              |
 | 04:45      | so many days until whatever the holiday is and have it say that or display it.                       |
 | 04:50      | That's really only two or three step shortcut.                                                       |
 | 04:52      | If you look at some of the stuff we did on date shortcuts earlier in the run of the show,            |
 | 04:57      | you could easily convert one of those to add specific code.                                          |
-| 05:00      | I mean, obviously [[Apple]] and Google all these have already hard coded in where you can just           |
+| 05:00      | I mean, obviously [[Apple]] and [[Google]] all these have already hard coded in where you can just           |
 | 05:06      | ask the device how many days until Christmas and it's going to know that.                            |
 | 05:09      | But if you want to include that in an automation, you're going to have to kind of build it yourself. |
 | 05:14      | But it's an easy date math automation.                                                               |
@@ -178,9 +178,9 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 05:23      | got silly jokes and things like that, which is perfect for either maybe you, if you enjoy            |
 | 05:28      | that kind of thing, I know I do.                                                                     |
 | 05:31      | And also to keep kids and family members entertained around the holidays.                            |
-| 05:35      | Yeah, my little niece, who's two now, she's got used to talking to the Google in her house.          |
+| 05:35      | Yeah, my little niece, who's two now, she's got used to talking to the [[Google]] in her house.          |
 | 05:45      | So now she tries to talk to the smoke detector.                                                      |
-| 05:49      | She thinks it's Google sitting in her crib.                                                          |
+| 05:49      | She thinks it's [[Google]] sitting in her crib.                                                          |
 | 05:52      | Well, there you go.                                                                                  |
 | 05:53      | That can be a project evil holiday project for somebody you want to mess with your relatives         |
 | 05:58      | or friends, kids, you know, like train them to talk to smoke detectors.                              |
@@ -197,10 +197,10 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 06:38      | I'm going to be [[Apple]] centric on this discussion because that's where I spend most of my time.       |
 | 06:44      | And and I since I have an [[Apple Music]] subscription, I have over the years put together what I think  |
 | 06:49      | is a mighty fine playlist.                                                                           |
-| 06:51      | I call it Yule, why you ULE and in fact, I'll put a link for it in the show notes.                   |
+| 06:51      | I call it Yule, Y-U-L-E and in fact, I'll put a link for it in the show notes.                   |
 | 06:57      | So if you want to subscribe to it, it's just a whole bunch of jazz related Christmas stuff           |
 | 07:01      | that I like.                                                                                         |
-| 07:02      | Yes, I subscribed to this last year, I believe, because you mentioned it on my power users           |
+| 07:02      | Yes, I subscribed to this last year, I believe, because you mentioned it on [[Mac Power Users]]           |
 | 07:06      | and I can second it.                                                                                 |
 | 07:08      | It's a very good playlist.                                                                           |
 | 07:09      | And I've been updating it.                                                                           |
@@ -210,13 +210,13 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 07:21      | So it's getting better and I and I'll share it.                                                      |
 | 07:24      | But my point is, you know, what if you want to play that?                                            |
 | 07:29      | So there's a lot of ways we talked about if you have a voice in the can, if you have an              |
-| 07:33      | Apple HomePod, it's very easy, especially for an [[Apple Music]] based playlist is to say,               |
+| 07:33      | [[Apple]] [[HomePod]], it's very easy, especially for an [[Apple Music]] based playlist is to say,               |
 | 07:39      | you know, magic phrase, play the Yule playlist, and it'll just happen.                               |
 | 07:44      | And that's great.                                                                                    |
 | 07:45      | That's almost as much automation as you need, because you can start it with your voice in            |
 | 07:50      | a few words and you can stop it at any time.                                                         |
 | 07:53      | But you can take that another level if you want.                                                     |
-| 07:57      | And and in Siri shortcuts, you have the ability to start a specific playlist and you can set         |
+| 07:57      | And and in [[Shortcuts\|Siri Shortcuts]], you have the ability to start a specific playlist and you can set         |
 | 08:04      | it to be random and play music.                                                                      |
 | 08:06      | In fact, Rose's got a shortcut we're going to share in the show notes of this show that              |
 | 08:11      | does something like that in relation to [[HomeKit]].                                                     |
@@ -227,13 +227,13 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 08:28      | Yeah, what is your complaint, David?                                                                 |
 | 08:30      | I want that playlist to play on my HomePod automatically, and yeah, currently no way                 |
 | 08:36      | to do that.                                                                                          |
-| 08:37      | No, I mean, the only way that you can do that is if you talk to the HomePod and you say,             |
+| 08:37      | No, I mean, the only way that you can do that is if you talk to the [[HomePod]] and you say,             |
 | 08:43      | hello, lady, please, can you run this shortcut and then you can run shortcuts, certain shortcuts.    |
 | 08:48      | I would hate to coax you on your HomePod and depending on how you set your shortcut up,              |
 | 08:55      | this might be one of them.                                                                           |
-| 08:56      | And then, of course, that HomePod will start playing the music.                                      |
-| 08:59      | And as anybody who owns a HomePod knows, the microphones on it are excellent.                        |
-| 09:03      | So if you could say the magic phrase with a HomePod somewhere nearby, I'm pretty sure                |
+| 08:56      | And then, of course, that [[HomePod]] will start playing the music.                                      |
+| 08:59      | And as anybody who owns a [[HomePod]] knows, the microphones on it are excellent.                        |
+| 09:03      | So if you could say the magic phrase with a [[HomePod]] somewhere nearby, I'm pretty sure                |
 | 09:07      | I heard mine just trigger through a closed door at the other end of the apartment.                   |
 | 09:14      | So it should be a trigger inside the actual series shortcut where you get to choose what             |
 | 09:21      | HomePod it plays on.                                                                                 |
@@ -241,7 +241,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 09:26      | It is the very first iteration, though, of [[Shortcuts\|Siri Shortcuts]].                                         |
 | 09:29      | So let's hope that...                                                                                |
 | 09:31      | I just feel like overall, in fact, that's one of the problems throughout some of the                 |
-| 09:35      | stuff we're talking about at the show today is the [[HomeKit]] HomePod stuff integration needs           |
+| 09:35      | stuff we're talking about at the show today is the [[HomeKit]] [[HomePod]] stuff integration needs           |
 | 09:40      | a little more muscle.                                                                                |
 | 09:41      | Yeah, it does.                                                                                       |
 | 09:43      | But I think we can get there on it, though.                                                          |
@@ -358,11 +358,11 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 15:45      | And a lot of times we're not home.                                                                   |
 | 15:46      | So what's the point of having lights turn on when nobody's home?                                     |
 | 15:51      | So I really wanted to make it more automation friendly, and it was really easy.                      |
-| 15:56      | What I did is I got some of those iHome plugs, and the iHome plugs are just a home kit friendly      |
+| 15:56      | What I did is I got some of those [[iHome Plug\|iHome plugs]], and the [[iHome Plug\|iHome plugs]] are just a [[HomeKit]] friendly      |
 | 16:01      | plug that you can plug into the wall, and you can plug a thing into that.                            |
-| 16:05      | So I've got the Disney main street, the two trees plugged into these iHome plugs.                    |
+| 16:05      | So I've got the Disney main street, the two trees plugged into these [[iHome Plug\|iHome plugs]].                    |
 | 16:11      | And then I have a trigger on my front door.                                                          |
-| 16:14      | It's just a magnetic switch that is also a home kit friendly, and I will look up the                 |
+| 16:14      | It's just a magnetic switch that is also a [[HomeKit]] friendly, and I will look up the                 |
 | 16:19      | name of the manufacturer.                                                                            |
 | 16:20      | I frankly forget who it was.                                                                         |
 | 16:21      | I've had them for some time now, but it's just a little magnetic switch.                             |
@@ -375,14 +375,14 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 16:46      | So with home kit, you can say the switch is thrown and it's dark outside.                            |
 | 16:51      | And when you do that, all that stuff happens, and it's great.                                        |
 | 16:54      | That is wonderful.                                                                                   |
-| 16:55      | Yes, because that is the advantage of integrating this into a home kit or Google Home or whatever    |
+| 16:55      | Yes, because that is the advantage of integrating this into a [[HomeKit]] or [[Google Home]] or whatever    |
 | 17:01      | setup that you're using.                                                                             |
 | 17:03      | You can make it happen only when you're at home and only have it ultimately turn on,                 |
 | 17:07      | say 45 minutes before sunset, because at least for me, it's getting pretty dark then already.        |
 | 17:13      | And things like that.                                                                                |
 | 17:14      | And that's really nice.                                                                              |
 | 17:15      | So of course, what I would recommend doing, if you hook this into any existing scenes                |
-| 17:21      | or whatever setup it is, groups in your home kit setup or home automation setup, make a              |
+| 17:21      | or whatever setup it is, groups in your [[HomeKit]] setup or home automation setup, make a              |
 | 17:27      | note of this, because otherwise I can guarantee somebody is not going to be happy after Christmas.   |
 | 17:32      | It'll probably be you because almost every system will go, I was unable to locate the                |
 | 17:37      | device Christmas tree or Christmas tree is not responding to something like that.                    |
@@ -390,10 +390,10 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 17:44      | And that's a very big buzz kill after what will hopefully be a very enjoyable season                 |
 | 17:48      | for you.                                                                                             |
 | 17:49      | Yeah, it's not that big of a deal.                                                                   |
-| 17:51      | And for instance, the outdoor lights I have on also an iHome switch, which does just that.           |
+| 17:51      | And for instance, the outdoor lights I have on also an [[iHome Switch\|iHome switch]], which does just that.           |
 | 17:58      | It looks at the sunset and it turns the lights on at sunset and it turns them off at a specified     |
 | 18:04      | time.                                                                                                |
-| 18:05      | I could have done that on a light sensitive switch, but these iHome things are super cheap.          |
+| 18:05      | I could have done that on a light sensitive switch, but these [[iHome]] things are super cheap.          |
 | 18:11      | So it wasn't that much more money to do it.                                                          |
 | 18:13      | And I like the ability to remotely turn them off or even turn them on if I want, like if             |
 | 18:19      | it's a cloudy rainy day, I can just be sitting at my desk and turn the lights on, you know.          |
@@ -426,7 +426,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 19:33      | We need the home kit triggers, be able to be a Siri shortcut trigger to start up actions,            |
 | 19:40      | if you understand what I mean.                                                                       |
 | 19:41      | Yes.                                                                                                 |
-| 19:42      | Currently, I cannot have Siri shortcuts say, when the front door opens, do this, do something.       |
+| 19:42      | Currently, I cannot have [[Shortcuts\|Siri Shortcuts]] say, when the front door opens, do this, do something.       |
 | 19:47      | I can address home kit as a scene to say, as part of my automation, I want you to activate           |
 | 19:54      | a specific scene, but I cannot to say when the door triggers or when I trigger the scene,            |
 | 20:01      | do something else.                                                                                   |
@@ -434,7 +434,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 20:09      | Christmas song start coming out of the HomePod and the Christmas lights go on.                       |
 | 20:13      | That's what I'm looking for, Rose.                                                                   |
 | 20:15      | Well, I mean, this is a bit of a rabbit hole.                                                        |
-| 20:17      | We're not strictly speaking of automating holidays now, but on this week's Connected,                |
+| 20:17      | We're not strictly speaking of automating holidays now, but on this week's [[Connected]],                |
 | 20:21      | [[Federico Viticci\|Federico]] was talking about how he set up [[Homebridge]] on his brand new Mac Mini.                       |
 | 20:26      | And he's using integration to trigger [[AppleScript\|AppleScripts]] on the Mac Mini via [[HomeKit]], which               |
 | 20:33      | means that it can then address iTunes, which means it can talk to specific HomePods and              |
@@ -443,8 +443,8 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 20:48      | by all means go at that and please report back.                                                      |
 | 20:50      | I have no experience with this.                                                                      |
 | 20:52      | I have used [[Homebridge]] before.                                                                       |
-| 20:55      | It's a third-party piece of software that you can run on something like a Raspberry                  |
-| 20:57      | Pi or a Mac Mini.                                                                                    |
+| 20:55      | It's a third-party piece of software that you can run on something like a [[Raspberry Pi]]                 |
+| 20:57      | or a Mac Mini.                                                                                    |
 | 21:00      | And then you can use it to add non-[[HomeKit]] compatible devices to your home.                          |
 | 21:05      | There's also [[Home Assistant]], which is another piece of open-source software, which you can           |
 | 21:10      | run to up your home automation that works with [[HomeKit]] things and everything else.                   |
@@ -456,19 +456,19 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 21:32      | this holiday season as an opportunity to get family members on board with automation, take           |
 | 21:37      | a leaf out of David's book and pick something simpler to start with, because David's been            |
 | 21:43      | in the doghouse in that area before.                                                                 |
-| 21:45      | I did something similar in the Hazel Field Guide.                                                     |
+| 21:45      | I did something similar in the [Hazel Field Guide](https://learn.macsparky.com/p/hazel).                                                     |
 | 21:49      | I covered it where I use an if this, then that trigger to create a text file, which                  |
 | 21:53      | then [[Hazel]] sees.                                                                                     |
 | 21:55      | And once [[Hazel]] sees the field guide, that's a trigger, and then I trigger an [[AppleScript]]            |
 | 21:59      | to play music.                                                                                       |
 | 22:01      | I am not sure if I can [[AppleScript]] address the output of the music instead of playing               |
-| 22:07      | it on my Mac to play it through a HomePod.                                                           |
-| 22:09      | I believe that what [[Federico]] said is you have to set up iTunes on the Mac to specifically            |
-| 22:14      | play to the HomePods, and then it works.                                                             |
+| 22:07      | it on my Mac to play it through a [[HomePod]].                                                           |
+| 22:09      | I believe that what [[Federico]] said is you have to set up [[iTunes]] on the Mac to specifically            |
+| 22:14      | play to the [[HomePod\|HomePods]], and then it works.                                                             |
 | 22:17      | So just leave it on as a default.                                                                    |
 | 22:18      | So you're not really scripting it.                                                                   |
 | 22:20      | That's just the native or the natural.                                                               |
-| 22:25      | That's just the intent of the app is to talk to the HomePod instead of playing through               |
+| 22:25      | That's just the intent of the app is to talk to the [[HomePod]] instead of playing through               |
 | 22:30      | the speakers.                                                                                        |
 | 22:31      | And then the question becomes, if you restart the Mac, do you have to redo?                          |
 | 22:34      | I mean, we're getting in the land of goofy automation right now where things work if everything      |
@@ -480,12 +480,11 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 22:47      | Yeah.                                                                                                |
 | 22:48      | I suspect I could probably get it to work either through that [[Hazel]] method I was talking             |
 | 22:52      | about or through the method [[Federico Viticci\|Federico]] was using.                                                      |
-| 22:55      | But what I'd really like is for it to be a lot easier and just build it into series                  |
-| 22:59      | shortcuts.                                                                                           |
+| 22:55      | But what I'd really like is for it to be a lot easier and just build it into [[Shortcuts\|Siri Shortcuts]].    |
 | 23:00      | I can already make it play a playlist.                                                               |
 | 23:03      | The only thing I'm missing now is the trigger and the ability to direct the playlist to              |
 | 23:07      | the specific speaker.                                                                                |
-| 23:08      | And like I said earlier, it is the first year of Apple [[Shortcuts\|Siri Shortcuts]].                             |
+| 23:08      | And like I said earlier, it is the first year of [[Apple]] [[Shortcuts\|Siri Shortcuts]].                             |
 | 23:13      | And it's pretty amazing how much that did get done.                                                  |
 | 23:16      | So I'm not going to be super upset.                                                                  |
 | 23:18      | It takes them another year to get that figured out.                                                  |
@@ -520,24 +519,24 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 24:39      | You can add, of course, emoji when you print it, or you can just add some pretty images              |
 | 24:44      | of some holly or something to represent the season to jazz up those Christmas cards.                 |
 | 24:49      | Yeah.                                                                                                |
-| 24:50      | And just to go a little deeper on this, this is one we have covered on MPU, and so you               |
+| 24:50      | And just to go a little deeper on this, this is one we have covered on [[Mac Power Users\|MPU]], and so you               |
 | 24:54      | can listen to those episodes.                                                                        |
 | 24:55      | But the mechanics of that is usually, I think the best way to do that on a Mac at this point         |
-| 25:02      | is to put it into a numbers or an Excel spreadsheet.                                                 |
+| 25:02      | is to put it into a numbers or an [[Excel]] spreadsheet.                                                 |
 | 25:08      | You can do it sort of out of the contacts database, but the problem is that the contact              |
 | 25:13      | fields in the contact database are kind of predesignated by [[Apple]], and there is no potential         |
 | 25:19      | field that you can say the Sparks family, which is what you'd want to say instead of                 |
 | 25:23      | David or Daisy.                                                                                      |
 | 25:25      | And I've actually talked to some of the developers that have been working on some of the contact     |
 | 25:28      | related apps, and they all are aware of this problem, but the problem is that the way the            |
-| 25:33      | contact database is, which is what every address book app uses is the [[Apple|Apple's]] native contact         |
+| 25:33      | contact database is, which is what every address book app uses is the [[Apple\|Apple's]] native contact         |
 | 25:39      | database, because it wouldn't make any sense to roll your own, because then you'd have               |
 | 25:43      | inconsistent data.                                                                                   |
-| 25:44      | So they've got to use [[Apple|Apple's]] database, and [[Apple|Apple's]] database simply doesn't have a field             |
+| 25:44      | So they've got to use [[Apple\|Apple's]] database, and [[Apple\|Apple's]] database simply doesn't have a field             |
 | 25:48      | for this.                                                                                            |
 | 25:49      | So what I would recommend is you export out of contacts, make a specific contact group               |
 | 25:56      | over the people you want to get your cards, export that out, then import it into numbers             |
-| 26:02      | or Excel.                                                                                            |
+| 26:02      | or [[Excel]].                                                                                            |
 | 26:03      | And then just add a field with the name of how you want it addressed.                                |
 | 26:07      | And then you can use that field in your mail merge instead of the actual name of the person.         |
 | 26:13      | And the point Katie made, because she's so practical and smart, was once you make it,                |
@@ -581,13 +580,13 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 27:50      | Like, what's better than putting on a nice film, sitting there and wrapping some presents            |
 | 27:54      | for the people that you really love?                                                                 |
 | 27:55      | Yeah.                                                                                                |
-| 27:56      | So just, there's been this joke on Mac Paris for years about how I love to wrap presents             |
+| 27:56      | So just, there's been this joke on [[Mac Power Users]] for years about how I love to wrap presents             |
 | 28:01      | and everybody thinks I'm like joking.                                                                |
 | 28:03      | A lot of people email me like, you don't really do that, do you?                                     |
 | 28:06      | And of course I do.                                                                                  |
 | 28:08      | So it's like a 15 minute video.                                                                      |
 | 28:09      | It's free.                                                                                           |
-| 28:10      | You can get it over at learn.macsparky called the gift wrap field guide and it shows you             |
+| 28:10      | You can get it over at [learn.macsparky](https://learn.macs) called [The Gift Wrap Field Guide](https://learn.macsparky.com/p/giftwrap) and it shows you             |
 | 28:14      | the tools I use and how I wrap a present.                                                            |
 | 28:16      | And I'm actually hearing from a lot of listeners who are like, they're like going to impress         |
 | 28:22      | their wives and husbands this year with this new found wrapping prowess.                             |
@@ -599,7 +598,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 28:41      | to wrap the presents and then you're going to deliver the presents.                                  |
 | 28:44      | But in order to make sure everything gets done, it's worth having a list.                            |
 | 28:48      | Really worth having a list for this.                                                                 |
-| 28:51      | And I've actually created two shortcuts, one for things and one for OmniFocus, where you             |
+| 28:51      | And I've actually created two shortcuts, one for things and one for [[OmniFocus]], where you             |
 | 28:56      | can choose some contacts.                                                                            |
 | 28:57      | And then for each of these, you get two tasks added to a project which is created for you            |
 | 29:03      | called by default Christmas 2018, but you can of course rename that to suit your needs.              |
@@ -607,9 +606,9 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 29:18      | to your task list, which is quite simple, but I believe that this could save me quite                |
 | 29:25      | a bit of time.                                                                                       |
 | 29:26      | Because last year I was there going, hmm, three years before Christmas, and I forgot                 |
-| 29:29      | to buy my boyfriend's mama Christmas present.                                                        |
+| 29:29      | to buy my boyfriend's mum a Christmas present.                                                        |
 | 29:31      | Oh man.                                                                                              |
-| 29:32      | That's the one person you got to take care of, Russ.                                                 |
+| 29:32      | That's the one person you got to take care of, Rose.                                                 |
 | 29:35      | Oh, trust me.                                                                                        |
 | 29:36      | I fixed that.                                                                                        |
 | 29:37      | We went out and I found a beautiful hat scarf and gloves set for her, which she was absolutely       |
@@ -648,20 +647,20 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 31:37      | to this stuff.                                                                                       |
 | 31:38      | But for him, it's always the resistance factor.                                                      |
 | 31:42      | How difficult is this to do?                                                                         |
-| 31:44      | You might have this amazing idea of this Trello board where you move the card from ideas to          |
+| 31:44      | You might have this amazing idea of this [[Trello]] board where you move the card from ideas to          |
 | 31:51      | purchasing and then from purchasing to wrapping and then from wrapping to delivering and             |
 | 31:55      | then from delivering to waiting for the thank you letter or something like that.                     |
 | 31:59      | That might be a lovely idea, but it's always about the acceptance of the other people that           |
 | 32:03      | are involved in this.                                                                                |
 | 32:04      | If you've got a four-year-old kid, is your four-year-old kid actually going to sit there             |
-| 32:08      | and learn how to use Trello or are they just going to drag the cards wherever they want              |
+| 32:08      | and learn how to use [[Trello]] or are they just going to drag the cards wherever they want              |
 | 32:11      | because they think it's a fun game?                                                                  |
 | 32:13      | So I would highly recommend if you, even if the other people in your life are really technical       |
 | 32:19      | and they are super into nerdiness, yeah, there's a lot of value in keeping it simple.                |
 | 32:24      | If you're looking for a cross-platform solution, I would highly recommend to do this.                |
 | 32:27      | That's what I'm sharing with my boyfriend.                                                           |
 | 32:29      | He keeps all of his project stuff in there.                                                          |
-| 32:31      | We have Alexa put groceries in there because at this time of year, you want to make sure             |
+| 32:31      | We have [[Amazon Alexa\|Alexa]] put groceries in there because at this time of year, you want to make sure             |
 | 32:35      | that you've got all of your groceries because at the very least in a little place in Europe,         |
 | 32:39      | the shops are just going to be shut for almost a week.                                               |
 | 32:42      | So you want to get everything purchased in advance.                                                  |
@@ -673,18 +672,18 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 33:03      | That's another one where you can add some degree of automation and I don't think we're               |
 | 33:06      | ever going to do a show on birthday gifts.                                                           |
 | 33:08      | So I'll tell you about it now.                                                                       |
-| 33:10      | For me, I just create an OmniFocus repeating task that shows up a week before the birthday           |
+| 33:10      | For me, I just create an [[OmniFocus]] repeating task that shows up a week before the birthday           |
 | 33:17      | and it allows you to, it says, hey, you need to get Rose a birthday gift or birthdays in             |
 | 33:22      | a week.                                                                                              |
 | 33:23      | And that's all I need to kind of get myself rolling on it.                                           |
-| 33:26      | And then in terms of the actual, like sending her a note on her birthday, I have calendars           |
+| 33:26      | And then in terms of the actual, like sending her a note on her birthday, I have [[Apple Calendar\|Calendars]]           |
 | 33:30      | tell me and that usually is enough.                                                                  |
 | 33:33      | As I'm saying it, of course, the automator inside me is going, oh, this would be kind                |
 | 33:37      | of fun.                                                                                              |
-| 33:38      | You could run a query with Siri shortcuts to look at the contacts database and pull out              |
+| 33:38      | You could run a query with [[Shortcuts\|Siri Shortcuts]] to look at the [[Apple Contacts\|Contacts]] database and pull out              |
 | 33:44      | all the birthdays because it actually can do that.                                                   |
 | 33:47      | And you can sort them by list and then display a list and maybe even manually select which           |
-| 33:51      | ones you want to create OmniFocus reminders for.                                                     |
+| 33:51      | ones you want to create [[OmniFocus]] reminders for.                                                     |
 | 33:56      | It's actually doable as a Siri shortcut, but maybe a case where the automation is you're             |
 | 34:01      | doing it just for the sake of the automation because there's not that many people that               |
 | 34:05      | I have birthdays for.                                                                                |
@@ -701,8 +700,8 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 34:30      | going to run out of time.                                                                            |
 | 34:31      | So having a reminder in your system is definitely a good way.                                        |
 | 34:35      | Well, what I was thinking was rather than just do the thing a normal person would do                 |
-| 34:39      | is look through my calendar and just create them each at a time I would have Siri shortcuts,         |
-| 34:45      | pull them and then create the OmniFocus repeating tasks for me.                                      |
+| 34:39      | is look through my calendar and just create them each at a time I would have [[Shortcuts\|Siri Shortcuts]],         |
+| 34:45      | pull them and then create the [[OmniFocus]] repeating tasks for me.                                      |
 | 34:49      | If that makes sense.                                                                                 |
 | 34:50      | But yeah, that is definitely case of automating for the sake of automating.                          |
 | 34:55      | No, that said, if you want to do it, it's a great exercise.                                          |
@@ -723,7 +722,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 35:24      | The other thing I would do is a lot of times when you're doing holiday shopping or just              |
 | 35:29      | kind of looking for gifts, whether for other people or for yourself, the way most of us              |
 | 35:33      | do that anymore is on the web.                                                                       |
-| 35:34      | I mean, so you're searching through, you've gone through Wirecutter, you've got the various          |
+| 35:34      | I mean, so you're searching through, you've gone through [Wirecutter](https://www.nytimes.com/wirecutter/), you've got the various          |
 | 35:40      | [[Amazon]] pages or whatever you found for the gifts that you want to give or get.                       |
 | 35:46      | And maybe you just need a list of those URLs.                                                        |
 | 35:50      | That's kind of an interesting problem to automate that issue.                                        |
@@ -735,25 +734,25 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 36:11      | And once again, you could cycle through those and automatically have it pull each one.               |
 | 36:16      | But the solution that I found the easiest because it's already been done for us is from              |
 | 36:21      | our friend [[Brett Terpstra]], who, by the way, we need to have on the automators.                       |
-| 36:26      | But the Brett made a series of things called the Markdown Service Tools, which is some               |
+| 36:26      | But the [[Brett Terpstra\|Brett]] made a series of things called the [[Markdown Service Tools]], which is some               |
 | 36:33      | of the best automation for Mac on the web and it's absolutely free.                                  |
 | 36:37      | I'm going to put a link in the show notes.                                                           |
-| 36:39      | Go check it out if you find value in these things, buy something else that Brett makes               |
+| 36:39      | Go check it out if you find value in these things, buy something else that [[Brett Terpstra\|Brett]] makes               |
 | 36:43      | or donate or do something for him because he's great.                                                |
-| 36:46      | But anyway, one of the Markdown Service Tools is just, it just grabs all the tabs from [[Safari]]        |
-| 36:53      | and creates a Markdown list of them.                                                                 |
+| 36:46      | But anyway, one of the [[Markdown Service Tools]] is just, it just grabs all the tabs from [[Safari]]        |
+| 36:53      | and creates a [[Markdown]] list of them.                                                                 |
 | 36:56      | So if you've got your [[Safari]] open on your Mac and you've got, you know, 17 tabs open                 |
 | 37:01      | to presence, you either want to buy for someone else or maybe something you want to tell people      |
 | 37:05      | you'd like, you just run this service, you right click in the text field of any text                 |
-| 37:11      | editor, text edit, pages, Ulysses, whatever, and it will run a script that goes to [[Safari]],           |
-| 37:18      | grabs each tab, creates a URL for the tab and then turns it into a Markdown list and                 |
+| 37:11      | editor, [[TextEdit]], [[Apple Pages\|Pages]], [[Ulysses]], whatever, and it will run a script that goes to [[Safari]],           |
+| 37:18      | grabs each tab, creates a URL for the tab and then turns it into a [[Markdown]] list and                 |
 | 37:23      | prints it right into the word processor that you're in.                                              |
 | 37:28      | And this is a great little tool and it's all done for you.                                           |
 | 37:31      | Yes, that is really useful.                                                                          |
-| 37:33      | I use Pinterest to store the things that I would like to receive as gifts just because               |
+| 37:33      | I use [[Pinterest]] to store the things that I would like to receive as gifts just because               |
 | 37:38      | it's very visual and I believe that list is actually public, but just because it makes               |
-| 37:43      | it easier, like my mom doesn't have to have a Pinterest account because she wants to know            |
-| 37:47      | what Pinterest is and it's very confusing, but if I just send her a page, pretty pictures            |
+| 37:43      | it easier, like my mom doesn't have to have a [[Pinterest]] account because she wants to know            |
+| 37:47      | what [[Pinterest]] is and it's very confusing, but if I just send her a page, pretty pictures            |
 | 37:51      | on it that she can click on and then purchase stuff for me, that's much easier.                      |
 | 37:56      | And yeah, that's good.                                                                               |
 | 37:58      | Don't forget as well, if you're looking for things to get people and you're stuck for                |
@@ -773,7 +772,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 38:57      | And I always, the Mac or iOS is always involved at some level.                                       |
 | 39:02      | This year we decided to do the Andy Warhol cards, the Andy Warhol posterised.                        |
 | 39:09      | So we took pictures of the four of us all looking really cool.                                       |
-| 39:13      | And then I just did that in Pixelmator on the Mac.                                                   |
+| 39:13      | And then I just did that in [[Pixelmator]] on the Mac.                                                   |
 | 39:17      | I could have done it on iOS as well by doing it on the Mac this year.                                |
 | 39:21      | So every year I use the technology to build the cards, and we've had a lot of fun with               |
 | 39:24      | that over the years.                                                                                 |
@@ -790,15 +789,15 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 40:01      | Yes.                                                                                                 |
 | 40:02      | All right, everybody.                                                                                |
 | 40:04      | So if you've got more ideas for holiday automation, we'd love to hear them.                          |
-| 40:09      | Head over to talk.automators.fm and in the notes for the show, I definitely will be reading          |
+| 40:09      | Head over to [talk.automators.fm](https://talk.automators.fm) and in the notes for the show, I definitely will be reading          |
 | 40:16      | them all and trying to crib ideas from you, because I love automating the holidays.                  |
 | 40:21      | And if you want to learn more about us, we are the Automators.                                       |
-| 40:25      | We're at automators.fm, we're over at Relay on relay.fm/automators.                              |
-| 40:32      | Rose is Rosemary Orchard on Twitter, I'm Matt MacSparky.                                             |
+| 40:25      | We're at [automators.fm](https://automators.fm), we're over at Relay on relay.fm/automators.                              |
+| 40:32      | Rose is @RosemaryOrchard on [[Twitter]], I'm @MacSparky.                                             |
 | 40:35      | What I miss, Rose.                                                                                   |
-| 40:37      | Automators is on Twitter too, Automators.fm.                                                         |
-| 40:39      | If you want to give us a Christmas present and you haven't followed us on Twitter, follow            |
-| 40:42      | us on Twitter.                                                                                       |
+| 40:37      | Automators is on [[Twitter]] too, @automatorsfm.                                                         |
+| 40:39      | If you want to give us a Christmas present and you haven't followed us on [[Twitter]], follow            |
+| 40:42      | us on [[Twitter]].                                                                                       |
 | 40:43      | There you go.                                                                                        |
 | 40:44      | And if you have followed us already, then that's okay.                                               |
 | 40:47      | I'd say if you want to give us a real Christmas present, give us a review, because we've never       |

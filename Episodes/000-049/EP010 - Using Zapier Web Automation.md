@@ -142,9 +142,9 @@ Today we venture into the brave new world of web automation, and we start with g
 | 03:09      | I was aware of.                                                                                                |
 | 03:09      | Before I was even aware of [[Zapier]],                                                                             |
 | 03:11      | I was using if this, then that.                                                                                |
-| 03:13      | And then Microsoft has a product called [[Microsoft Power Automate\|Microsoft Flow]],                                                        |
-| 03:15      | because Microsoft always has a product.                                                                        |
-| 03:19      | Google and Microsoft always, whatever gets big,                                                                |
+| 03:13      | And then [[Microsoft]] has a product called [[Microsoft Power Automate\|Microsoft Flow]],                                                        |
+| 03:15      | because [[Microsoft]] always has a product.                                                                        |
+| 03:19      | [[Google]] and [[Microsoft]] always, whatever gets big,                                                                |
 | 03:21      | they make a version of that for their customers as well.                                                       |
 | 03:25      | And we're probably going to talk about some of those                                                           |
 | 03:27      | in the future as well.                                                                                         |
@@ -238,13 +238,13 @@ Today we venture into the brave new world of web automation, and we start with g
 | 07:05      | which is where stuff gets really, really nice.                                                                 |
 | 07:09      | Yeah.                                                                                                          |
 | 07:10      | So maybe where we start that, well, actually,                                                                  |
-| 07:14      | let's talk about the connection with Siri Shortcuts too,                                                       |
+| 07:14      | let's talk about the connection with [[Shortcuts\|Siri Shortcuts]] too,                                                       |
 | 07:17      | because there is one, believe it or not.                                                                       |
 | 07:18      | Yeah.                                                                                                          |
 | 07:19      | So you might be thinking, what?                                                                                |
 | 07:20      | Wait, I have not seen [[Zapier]] in [[Shortcuts]].                                                                     |
 | 07:23      | And that's probably because it is hiding under a very cunning                                                  |
-| 07:27      | little thing called Get Contents of URL.                                                                       |
+| 07:27      | little thing called *Get Contents of URL*.                                                                       |
 | 07:29      | Because with Shortcuts, with that particular action,                                                           |
 | 07:32      | you can do get and post requests.                                                                              |
 | 07:35      | And in [[Zapier]], there is this great action called a [[Webhook]],                                                    |
@@ -311,9 +311,9 @@ Today we venture into the brave new world of web automation, and we start with g
 | 09:55      | And now I'm down to three zaps.                                                                                |
 | 09:57      | And that is audio, video, and blog posts.                                                                      |
 | 10:00      | So we do screencasts to accompany these episodes, which                                                        |
-| 10:04      | are available on YouTube and learn.macsparky.com.                                                              |
+| 10:04      | are available on [YouTube](https://youtube.com) and [learn.macsparky.com](https://learn.macsparky.com).                                                              |
 | 10:07      | And also, every episode has an accompanying blog post,                                                         |
-| 10:10      | either on my blog or on David's blog.                                                                          |
+| 10:10      | either on [my blog](https://rosemaryorchard.com) or on [David's blog](https://macsparky.com).                                                                          |
 | 10:13      | So we actually offer a consolidated [[RSS]]                                                                        |
 | 10:16      | feed for those of you that didn't know,                                                                        |
 | 10:18      | which is available on [automators.fm](https://automators.fm).                                                                           |
@@ -322,9 +322,9 @@ Today we venture into the brave new world of web automation, and we start with g
 | 10:28      | is we've got to start with the audio, right?                                                                   |
 | 10:30      | Because what's a podcast without audio doesn't exist.                                                          |
 | 10:33      | So I wait until the audio goes up,                                                                             |
-| 10:35      | and that happens in the realy.fm [[RSS]] feed.                                                                     |
+| 10:35      | and that happens in the relay.fm [[RSS]] feed.                                                                     |
 | 10:38      | And then the first thing I do is I                                                                             |
-| 10:40      | tweet the URL from the automators.fm account.                                                                  |
+| 10:40      | tweet the URL from the [automators.fm](https://automators.fm) account.                                                                  |
 | 10:44      | Then I use a [[Webhook]] to talk to [[Discourse]] to the forums                                                       |
 | 10:49      | and to make the forum post.                                                                                    |
 | 10:52      | Then I make a blog post on the Automators website                                                              |
