@@ -25,7 +25,7 @@ Certain programming languages and tools provide built-in support for UI scriptin
 ### Basic Workflow
 1. **Accessing Applications** - You can access and control macOS applications directly.
 2. **GUI Scripting** - [[AppleScript]] allows for UI scripting when direct access through standard commands isn't available.
-3. **AppleScript Editor** - Scripts are usually written and tested in the [[Apple Script Editor|Script Editor]], which is a default application on macOS though other editors (e.g. [[Script Debugger]]) are also available and can offer additional functionality.
+3. **AppleScript Editor** - Scripts are usually written and tested in the [[Script Editor]], which is a default application on macOS though other editors (e.g. [[Script Debugger]]) are also available and can offer additional functionality.
 
 ### Example
 The following [[AppleScript]] example opens the "[[Apple TextEdit\|TextEdit]]" application, creates a new document, and writes some text into it:
