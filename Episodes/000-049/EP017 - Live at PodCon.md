@@ -1,5 +1,5 @@
 ---
-status: "incomplete"
+status: "complete"
 fc-date:
   year: 2019
   month: 02
@@ -81,12 +81,12 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 01:05      | and we thought we'd do kind of a speed round of talking through how we did that stuff.                             |
 | 01:09      | Yeah. You want to go first?                                                                                        |
 | 01:10      | All right. I'm going to go first with the one that I preach about everywhere,                                      |
-| 01:14      | which is I use Tripit to automate my travel itineraries.                                                           |
-| 01:17      | So, Tripit is this really cool service. It's free. You can pay for it as well.                                     |
-| 01:21      | I am a Tripit pro user, but the stuff that I'm talking about right now                                             |
+| 01:14      | which is I use [[TripIt]] to automate my travel itineraries.                                                           |
+| 01:17      | So, [[TripIt]] is this really cool service. It's free. You can pay for it as well.                                     |
+| 01:21      | I am a [[TripIt]] pro user, but the stuff that I'm talking about right now                                             |
 | 01:24      | can be done for free.                                                                                              |
 | 01:25      | And essentially what you do, you book something, like a hotel, or a flight, or a train,                            |
-| 01:30      | and then you send the email that you get. You just forward it to Tripit,                                           |
+| 01:30      | and then you send the email that you get. You just forward it to [[TripIt]],                                           |
 | 01:33      | and then they just magically read everything.                                                                      |
 | 01:36      | They parse everything out, and they stick it all together.                                                         |
 | 01:38      | And then they create this trip plan for you so that you can see, like, hey, okay.                                  |
@@ -96,26 +96,26 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 01:49      | then I'm flying back to Washington, D.C., and then from there, I'm flying home to Vienna.                          |
 | 01:53      | And it just has all of that, and then you can just pray, make one PDF,                                             |
 | 01:57      | and it's like, I know what I'm doing now. Yay! That's always good.                                                 |
-| 02:02      | Yeah, you know, I have the homegrown Tripit thing.                                                                 |
-| 02:04      | What I do recently, I've been trying to use Bear, which is another note-taking app.                                |
+| 02:02      | Yeah, you know, I have the homegrown [[TripIt]] thing.                                                                 |
+| 02:04      | What I do recently, I've been trying to use [[Bear]], which is another note-taking app.                                |
 | 02:08      | I know. I like note-taking apps.                                                                                   |
 | 02:11      | But this one is very automation-friendly, and it allows you to append information                                  |
-| 02:16      | and files to a note. So whenever I take a trip, I create in Bear a new note.                                       |
+| 02:16      | and files to a note. So whenever I take a trip, I create in [[Bear]] a new note.                                       |
 | 02:22      | Like, I have one called 2019 PodCon.                                                                               |
 | 02:25      | So, when I first do it, I'll write down the details,                                                               |
 | 02:30      | maybe I'll write down the names of the people I'm going to be with,                                                |
 | 02:32      | or whatever details I know about the conference.                                                                   |
 | 02:36      | But then the emails start coming in, and we all get a bunch of email,                                              |
 | 02:39      | whether it's from the airline or the hotel or whatever.                                                            |
-| 02:41      | And I've got a simple thing what I do. It's a series shortcut extension.                                           |
+| 02:41      | And I've got a simple thing what I do. It's a [[Shortcuts\|Siri Shortcut]] extension.                                           |
 | 02:49      | So the way it works is in [[Airmail]], which is the mail application I'm using,                                        |
 | 02:53      | but you can do this in [[Apple Mail]] too.                                                                             |
 | 02:54      | You can render an email as a PDF, and then you press the extension button.                                         |
 | 03:00      | And it's just one action. In fact, let me just check here to make sure I got this right.                           |
-| 03:04      | And what it does is it just saves the file to Bear,                                                                |
+| 03:04      | And what it does is it just saves the file to [[Bear]],                                                                |
 | 03:09      | but it allows you to specify when you create the series shortcut                                                   |
-| 03:14      | which Bear file does it go to.                                                                                     |
-| 03:17      | And so I have it save it directly to the Bear file that's related to the trip.                                     |
+| 03:14      | which [[Bear]] file does it go to.                                                                                     |
+| 03:17      | And so I have it save it directly to the [[Bear]] file that's related to the trip.                                     |
 | 03:22      | So you could do this for any trip you take or any kind of event.                                                   |
 | 03:24      | So as emails start coming in, you just press one button, it saves that email to it.                                |
 | 03:30      | Now, this also works with a PDF.                                                                                   |
@@ -123,20 +123,20 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 03:35      | So it doesn't have to just be the text of an email, it could also be the attached PDFs.                            |
 | 03:39      | And by just hitting that one button as these things come in,                                                       |
 | 03:42      | then I've got one note that has all that stuff accumulated.                                                        |
-| 03:45      | It doesn't do like Tripit does a better job of making it pretty                                                    |
-| 03:48      | because Tripit really combines it nicely.                                                                          |
+| 03:45      | It doesn't do like [[TripIt]] does a better job of making it pretty                                                    |
+| 03:48      | because [[TripIt]] really combines it nicely.                                                                          |
 | 03:50      | But this is just a really simple way to put it all in one place.                                                   |
-| 03:53      | And then you've got it all in that bear note.                                                                      |
+| 03:53      | And then you've got it all in that [[Bear]] note.                                                                      |
 | 03:55      | So the day you go to leave, you've got your airline, your hotel, all that stuff in one place.                      |
-| 04:00      | Yeah. And one of the things I do, so I take that Tripit.                                                           |
-| 04:05      | So Tripit has a calendar that you can subscribe to.                                                                |
-| 04:07      | And I don't usually use Google Calendar, but for this, I use Google Calendar.                                      |
-| 04:11      | And so I've subscribed to my Tripit calendar in Google Calendar.                                                   |
-| 04:13      | And then I have Zapier watch it and whenever Zapier sees a new all day event                                       |
-| 04:17      | added to the Tripit calendar, it then takes that and it creates one task in my OmniFocus inbox.                    |
-| 04:24      | But this task is kind of special because it's actually got a OmniFocus URL in the notes field,                     |
-| 04:30      | which when I tap on it creates an entire trip project for me based on the information from the Tripit trip.        |
-| 04:38      | So that I know I have the name of the event and then they match up in OmniFocus and in Tripit.                     |
+| 04:00      | Yeah. And one of the things I do, so I take that [[TripIt]].                                                           |
+| 04:05      | So [[TripIt]] has a calendar that you can subscribe to.                                                                |
+| 04:07      | And I don't usually use [[Google Calendar]], but for this, I use [[Google Calendar]].                                      |
+| 04:11      | And so I've subscribed to my [[TripIt]] calendar in [[Google Calendar]].                                                   |
+| 04:13      | And then I have [[Zapier]] watch it and whenever [[Zapier]] sees a new all day event                                       |
+| 04:17      | added to the [[TripIt]] calendar, it then takes that and it creates one task in my [[OmniFocus]] inbox.                    |
+| 04:24      | But this task is kind of special because it's actually got a [[OmniFocus]] URL in the notes field,                     |
+| 04:30      | which when I tap on it creates an entire trip project for me based on the information from the [[TripIt]] trip.        |
+| 04:38      | So that I know I have the name of the event and then they match up in [[OmniFocus]] and in [[TripIt]].                     |
 | 04:42      | So it's all the same. So I can just look at it and be like, OK, right.                                             |
 | 04:46      | So it's 2019 slash 01 dash Seattle. That's the name of this trip.                                                  |
 | 04:50      | And it's the same everywhere.                                                                                      |
@@ -163,10 +163,10 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 06:04      | And [[Apple Reminders\|Reminders]] is the right speed for her.                                                                          |
 | 06:07      | I know there's some really cool packing apps, but and I have some good ideas of the [[Apple Reminders\|Reminders]],                     |
 | 06:12      | but forget everything because Rose has turned this into a Siri shortcut.                                        |
-| 06:16      | Well, I did used to use an app called TripList, which syncs with Tripit, but it hasn't updated for the iPhone 10.  |
+| 06:16      | Well, I did used to use an app called [[TripList]], which syncs with [[TripIt]], but it hasn't updated for the iPhone 10.  |
 | 06:22      | And now I have an iPhone 10S Max, so it just looks horrific.                                                       |
-| 06:24      | So I gave up on that and said, OK, I'm doing this in shortcuts.                                                    |
-| 06:28      | And essentially what I do is I build a dictionary in shortcuts.                                                    |
+| 06:24      | So I gave up on that and said, OK, I'm doing this in [[Shortcuts]].                                                    |
+| 06:28      | And essentially what I do is I build a dictionary in [[Shortcuts]].                                                    |
 | 06:32      | And so I have clothing and then list of different clothing that I might take.                                      |
 | 06:37      | So like T-shirts, jumpers, socks, et cetera.                                                                       |
 | 06:39      | You have fancy socks in your list?                                                                                 |
@@ -189,8 +189,8 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 07:25      | But for some trips, you don't need clothing because you're just going for like one night                           |
 | 07:28      | and it's just like, OK, I just need some clean underwear and we're good.                                           |
 | 07:31      | And then so I select the different things and it goes through and it builds a nicely                               |
-| 07:37      | layered series of action groups, which are Taskpaper, which I then add to OmniFocus.                              |
-| 07:44      | Because I do everything in OmniFocus, including my packing lists.                                                  |
+| 07:37      | layered series of action groups, which are [[Taskpaper]], which I then add to [[OmniFocus]].                              |
+| 07:44      | Because I do everything in [[OmniFocus]], including my packing lists.                                                  |
 | 07:46      | And what I do is I add a specific tag to everything.                                                               |
 | 07:50      | And this tag is called the packing tag.                                                                            |
 | 07:51      | And most of the time this tag is on hold because, for example, the trip to [[WWDC]],                                   |
@@ -220,7 +220,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 09:11      | We were walking around the show floor here, everybody has their paper they want to give                            |
 | 09:15      | us and then Rose got the cool swag bag, you know, it's full of stuff.                                              |
 | 09:20      | I don't like any of that stuff, you know, I don't want that paper.                                                 |
-| 09:24      | So I made a scanner pro automation for this scanner pro is a great app.                                            |
+| 09:24      | So I made a [[Scanner Pro]] automation for this [[Scanner Pro]] is a great app.                                            |
 | 09:29      | We haven't talked about it on the show yet, but it's an app that allows you to take a                              |
 | 09:33      | picture of anything turning into a PDF, but they're very automation friendly.                                      |
 | 09:37      | This one doesn't require a serious shortcut, you can do it right in the application.                               |
@@ -253,7 +253,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 10:49      | If you see a vendor you want, you take a picture of their poster.                                                  |
 | 10:53      | And at the end of the day, you've got this collection of PDFs that have saved to your                              |
 | 10:57      | [[Dropbox]] and you don't have to take any paper home.                                                                 |
-| 11:01      | And then I guess what I should do is I should add a create task in OmniFocus or whatever                           |
+| 11:01      | And then I guess what I should do is I should add a create task in [[OmniFocus]] or whatever                           |
 | 11:07      | your task manager of choice is to review that stuff in a week when you get home.                                   |
 | 11:10      | Yeah.                                                                                                              |
 | 11:11      | Because I mean, in the moment of travel, everything's like, oh my gosh, it's so pretty.                            |
@@ -268,16 +268,16 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 11:32      | we created.                                                                                                        |
 | 11:33      | We talked about creating project templates and that's something I do for all of my                                 |
 | 11:35      | trips every trip has a project template.                                                                           |
-| 11:40      | Another automation I have is I use Airmail.                                                                        |
+| 11:40      | Another automation I have is I use [[Airmail]].                                                                        |
 | 11:43      | We're both using Airmail right now as my mail app of choice.                                                       |
 | 11:46      | And it has these things that are called custom actions.                                                            |
 | 11:49      | And I have a trip action in there, which is just for travel.                                                       |
 | 11:54      | And so what it does is it marks the emails read.                                                                   |
 | 11:58      | So if, for example, I've got five or six emails related to the trip that are all coming                            |
 | 12:01      | together, I can just handle them all together.                                                                     |
-| 12:04      | It tags it with my travel tag, archives it, and forwards it to Tripit.                                             |
-| 12:09      | So then Tripit will then go suck it all in and parse it and turn it into something pretty.                         |
-| 12:15      | And of course, there is a filter in the backend to get rid of all the Tripit emails going,                         |
+| 12:04      | It tags it with my travel tag, archives it, and forwards it to [[TripIt]].                                             |
+| 12:09      | So then [[TripIt]] will then go suck it all in and parse it and turn it into something pretty.                         |
+| 12:15      | And of course, there is a filter in the backend to get rid of all the [[TripIt]] emails going,                         |
 | 12:18      | yes, thank you very much.                                                                                          |
 | 12:19      | We've received this email from you.                                                                                |
 | 12:21      | Like as long as it worked, I don't care.                                                                           |
@@ -290,7 +290,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 12:38      | Yeah.                                                                                                              |
 | 12:39      | It depends for me if it's a long trip, I will make an auto responder.                                              |
 | 12:43      | Yeah.                                                                                                              |
-| 12:44      | Also, if you use something like a sandbox, the occasional sponsor over in Mac Power users,                         |
+| 12:44      | Also, if you use something like a [[SaneBox]], the occasional sponsor over in [[Mac Power Users]],                         |
 | 12:48      | they have a vacation mode where it'll save emails just into a vacation folder and you                              |
 | 12:52      | can deal with it and you get back.                                                                                 |
 | 12:53      | Yeah.                                                                                                              |
@@ -308,14 +308,14 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 13:33      | has to be done and got it all done in the airport.                                                                 |
 | 13:35      | Is that like a British thing?                                                                                      |
 | 13:36      | Like Dr. Who, you have a problem?                                                                                  |
-| 13:38      | You get there day early?                                                                                           |
+| 13:38      | You get there a day early?                                                                                           |
 | 13:40      | In my case, it was just a case of I turned up at the airline desk and said, help me please.                        |
 | 13:45      | And they said, okay.                                                                                               |
 | 13:47      | So yeah, I got put on an early flight.                                                                             |
 | 13:52      | So yeah, I do think that finding a way to deal with email and your time when you're traveling                      |
 | 13:58      | is important.                                                                                                      |
 | 13:59      | We talked about time blocking and automation for time stuff.                                                       |
-| 14:02      | I find that one of my little series short shortcuts is what I call travel work and it's                            |
+| 14:02      | I find that one of my little [[Shortcuts\|Siri Short Shortcuts]] is what I call travel work and it's                            |
 | 14:08      | just a simple series shortcut that creates a series of events.                                                     |
 | 14:12      | And unfortunately, I just don't have the kind of life where I can just like completely unplug                      |
 | 14:16      | for a week at a time.                                                                                              |
@@ -329,7 +329,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 14:45      | So that's a very simple automation.                                                                                |
 | 14:46      | You just create an event and then I run that usually on the plane on the way to a trip.                            |
 | 14:51      | Yeah, I mean, I do something kind of similar.                                                                      |
-| 14:54      | I usually create a task, a tag, sorry, an OmniFocus.                                                              |
+| 14:54      | I usually create a task, a tag, sorry, an [[OmniFocus]].                                                              |
 | 15:00      | And this is especially useful for work things.                                                                     |
 | 15:02      | And I create a tag that's called after XYZ trip.                                                                   |
 | 15:06      | So in the run up to the trip, I'm looking at everything and people are going, Rose, can                            |
@@ -367,7 +367,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 16:13      | Oh, um, yes.                                                                                                       |
 | 16:16      | We don't have time for a lot of them.                                                                              |
 | 16:18      | Let me see.                                                                                                        |
-| 16:19      | I'm just going to have a quick look in shortcuts and see which ones I could go through super                       |
+| 16:19      | I'm just going to have a quick look in [[Shortcuts]] and see which ones I could go through super                       |
 | 16:24      | quickly.                                                                                                           |
 | 16:25      | Let me see.                                                                                                        |
 | 16:26      | I'll tell you, one of my favourite automations is making sure that my noise canceling headphones                    |
@@ -409,8 +409,8 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 18:00      | call me until she gets that text message.                                                                          |
 | 18:03      | Um, it's, it's, it's an example of something anybody can do.                                                       |
 | 18:07      | Everybody that's got an iOS device can load up [[Shortcuts\|Siri Shortcuts]], two steps, find location                          |
-| 18:12      | and the next one is send a text message and you're in another one, which I use is in find                          |
-| 18:17      | friends, uh, which is built into iOS, um, is, uh, the ability to either notify somebody                            |
+| 18:12      | and the next one is send a text message and you're in another one, which I use is in [[Find Friends]],                |
+| 18:17      | uh, which is built into iOS, um, is, uh, the ability to either notify somebody                            |
 | 18:24      | when you get to a location or if you are stalking somebody like this weekend, I'm stalking David,                  |
 | 18:30      | you can have it notify you when they get to a location.                                                            |
 | 18:33      | So David yesterday was on his way to the hotel from the airport and I just had it notify                           |
@@ -418,8 +418,8 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 18:41      | and look like I've been sitting there for hours waiting for him when actually I just                               |
 | 18:45      | got there like 30 seconds earlier.                                                                                 |
 | 18:47      | Yeah.                                                                                                              |
-| 18:48      | I think the find friends is a great thing on trips, you know, like family or friends.                              |
-| 18:52      | The first thing Rose and I did was we find friends for the duration of this trip and                               |
+| 18:48      | I think the [[Find Friends]] is a great thing on trips, you know, like family or friends.                              |
+| 18:52      | The first thing Rose and I did was we [[Find Friends]] for the duration of this trip and                               |
 | 18:55      | it makes it really easy to find each other.                                                                        |
 | 18:57      | Yeah.                                                                                                              |
 | 18:58      | Well, listen, we don't have much time left before, you know, the 10,000 people cycle                               |
@@ -433,7 +433,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 19:19      | I want to do one on my favourite luggage, the shampoo I use.                                                        |
 | 19:23      | Oh, yeah.                                                                                                          |
 | 19:24      | Yeah.                                                                                                              |
-| 19:25      | And Rose is going to do a screencast on that really cool OmniFocus script.                                         |
+| 19:25      | And Rose is going to do a screencast on that really cool [[OmniFocus]] script.                                         |
 | 19:29      | So we'll see that one too.                                                                                         |
 | 19:31      | Yep.                                                                                                               |
 | 19:32      | Thanks everybody for hanging out with us today and we'll see you next time.                                        |
@@ -479,7 +479,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 22:08      | Once again, that is expressvpn.com/automators for three extra months free with a one-year                    |
 | 22:14      | package.                                                                                                           |
 | 22:15      | And our thanks to ExpressVPN for their support of the automators and all of Relay FM.                              |
-| 22:20      | Well, welcome back from Seattle, David, we're not a pock on anymore.                                               |
+| 22:20      | Well, welcome back from Seattle, David, we're not at PodCon anymore.                                               |
 | 22:25      | It was sure nice spending some time with you up there though.                                                      |
 | 22:27      | We had a great time.                                                                                               |
 | 22:28      | Yes, it was amazing and we got to meet so many listeners as well.                                                  |
@@ -489,9 +489,9 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 22:44      | told the bar we were bringing and we were a little worried about it.                                               |
 | 22:47      | Like triple capacity.                                                                                              |
 | 22:48      | Yeah, we were a little worried about it and you and I had the opportunity to go and check                          |
-| 22:52      | out the Omni Group's kind of corporate headquarters.                                                               |
+| 22:52      | out the [[Omni Group\|Omni Group's]] kind of corporate headquarters.                                                               |
 | 22:57      | And we were telling them about it and they said, no problem, you can have it here.                                 |
-| 23:00      | They have a really great cafeteria area there at the Omni Group.                                                   |
+| 23:00      | They have a really great cafeteria area there at the [[Omni Group]].                                                   |
 | 23:05      | And so we changed the location and a lot of people showed up.                                                      |
 | 23:11      | We had a musical guest, I mean.                                                                                    |
 | 23:14      | Yes.                                                                                                               |
@@ -525,7 +525,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 24:27      | Yes.                                                                                                               |
 | 24:28      | Yes.                                                                                                               |
 | 24:29      | The first thing I would say is you really need, if you haven't, you need to really head                            |
-| 24:34      | over to talk.automators.fm.                                                                                        |
+| 24:34      | over to [talk.automators.fm](https://talk.automators.fm).                                                                                        |
 | 24:37      | It's a great community of folks.                                                                                   |
 | 24:39      | Yeah, everybody there is just extremely nice, very welcoming.                                                      |
 | 24:45      | If you post a question, you've got no idea where to start.                                                         |
@@ -541,46 +541,46 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 25:13      | what it looks like when it's finished so you can implement it yourself, which is lovely.                           |
 | 25:18      | And if you've made automations, you're very welcome to share them as well.                                         |
 | 25:21      | We would absolutely love to see more finished automations just being shared.                                       |
-| 25:25      | Well, we teased on the show, I believe it was on the episode where we talked about Launch                          |
-| 25:30      | Centre Pro, iBeacons and how we, at some point, we're going to do a show on it.                                    |
+| 25:25      | Well, we teased on the show, I believe it was on the episode where we talked about                          |
+| 25:30      | [[Launch Center Pro]], [[iBeacon\|iBeacons]] and how we, at some point, we're going to do a show on it.                                    |
 | 25:35      | I've got some, Rose's got some, and we've been both in plane with them.                                            |
 | 25:39      | But of course, the listeners were not ready to wait for that.                                                      |
 | 25:43      | So there's a whole thread on this over at the forum.                                                               |
-| 25:48      | Sylumer found USB iBeacons, which looked pretty nice.                                                            |
+| 25:48      | [[Stephen Millard\|Sylumer]] found USB [[iBeacon\|iBeacons]], which looked pretty nice.                                                            |
 | 25:52      | Apparently, the ones we talked about on the show are no longer available on [[Amazon]].                                |
 | 25:56      | No.                                                                                                                |
-| 25:57      | So we're post using some by Estimote, and it looks like you can still buy individual ones                            |
+| 25:57      | So we're both using some by [[Estimote]], and it looks like you can still buy individual ones                            |
 | 26:02      | on [[Amazon]], but the packs of three or four may not be available, at least they're not                               |
-| 26:08      | on amazon.com at the time of recording.                                                                            |
-| 26:11      | If CamelCamelCamel is working, then you can use the website camelcamelcamel.com to track                           |
+| 26:08      | on [amazon.com](https://amazon.com) at the time of recording.                                                                            |
+| 26:11      | If [CamelCamelCamel](https://camelcamelcamel.com) is working, then you can use the website [camelcamelcamel.com](https://camelcamelcamel.com) to track                           |
 | 26:18      | an [[Amazon]] listing and find out when it becomes available again or when it goes on sale.                            |
 | 26:25      | So you may want to try that there as we record.                                                                    |
 | 26:28      | They are unfortunately having some server issues, but they should hopefully be back                                |
 | 26:32      | quite soon.                                                                                                        |
 | 26:33      | And honestly, it's kind of hacky to buy these things and set them up right now.                                    |
 | 26:38      | Yeah, it is.                                                                                                       |
-| 26:39      | And like when we do the show out, we're going to have to go through that in detail how you                         |
+| 26:39      | And like when we do the show, we're going to have to go through that in detail how you                         |
 | 26:42      | do it.                                                                                                             |
 | 26:43      | But one of the things I was hoping is by the time we get around to doing that show that                            |
 | 26:47      | there'll be somebody with a product out there that's a little more consumer friendly.                              |
 | 26:50      | Well, we are keeping an eye out for that as well, because of course, everybody wants                               |
-| 26:55      | to have good iBeacons and we're very much hoping that somebody out there, a fellow nerd                            |
+| 26:55      | to have good [[iBeacon\|iBeacons]] and we're very much hoping that somebody out there, a fellow nerd                            |
 | 27:00      | is going to get on with it and create some of these.                                                               |
 | 27:03      | And as soon as we've got something like that, we will let you know.                                                |
 | 27:06      | Yeah.                                                                                                              |
 | 27:07      | Okay, other feedback, [[Scriptable]].                                                                                  |
-| 27:10      | Scriptable with [[Simon Støvring]] was one of our episodes, and I'm very much hoping I pronounce                      |
+| 27:10      | [[EP009 - Scriptable with Simon Støvring\|criptable with Simon Støvring]] was one of our episodes, and I'm very much hoping I pronounce                      |
 | 27:15      | Simon's surname correctly there.                                                                                   |
 | 27:16      | I can see how I let you do that.                                                                                   |
 | 27:19      | Yeah, yeah, that's very sneaky, and I approve.                                                                     |
 | 27:22      | That's fine.                                                                                                       |
-| 27:23      | Yeah, [[Simon Støvring\|| 27:23      | Yeah, Simon, who is lovely, and the Scriptable forums are in the Automated forums, actually,                       |]]Simon, who is lovely, and the Scriptable forums are in the Automated forums, actually,                       |
-| 27:29      | and somebody wrote a Scriptable script to identify car registration plates.                                        |
+| 27:23      | Yeah, Yeah, [[Simon Støvring\|Simon]], who is lovely, and the [[Scriptable]] forums are in the Automators forums, actually,                       |
+| 27:29      | and somebody wrote a [[Scriptable]] script to identify car registration plates.                                        |
 | 27:34      | I think we've reached peak automation right there.                                                                 |
 | 27:37      | You can just take a photo of a car registration plate, and Scriptable will identify it.                            |
 | 27:41      | That's so crazy.                                                                                                   |
 | 27:42      | I know, it's insane.                                                                                               |
-| 27:44      | But if you're looking for examples of things that you can do Scriptable, there are a lot                           |
+| 27:44      | But if you're looking for examples of things that you can do [[Scriptable]], there are a lot                           |
 | 27:48      | of other less crazy ones in the forums, which people have shared.                                                  |
 | 27:52      | Using this one, I'll make sure a link to this one is in the show notes so that everybody                           |
 | 27:55      | can find it and try and identify it.                                                                               |
@@ -598,7 +598,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 28:19      | Yeah, I'll just wear black heads of toe and try and look slightly terrifying.                                      |
 | 28:23      | I mean, I don't really know what security look like over here.                                                     |
 | 28:26      | I don't really see them that often.                                                                                |
-| 28:27      | I feel like if there was a Jane bond that you could probably pull it off.                                          |
+| 28:27      | I feel like if there was a Jane Bond that you could probably pull it off.                                          |
 | 28:33      | Well, challenge accepted.                                                                                          |
 | 28:37      | If I ever get access, I think I travel too much for that kind of security clearance.                               |
 | 28:42      | You definitely have the gizmos for it, right?                                                                      |
@@ -627,8 +627,8 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 29:30      | I think that's something my wife would really like.                                                                |
 | 29:33      | It's something that a lot of women quite like because it's quite large for a mirror.                               |
 | 29:39      | And it's round and flat, but it's very useful because it literally can do three things.                            |
-| 29:47      | And when I used to work, so along with, it seems quite a few people on the relay network,                          |
-| 29:52      | I used to work for Disney and the apartments that they give you, Disney and Paris are pretty                       |
+| 29:47      | And when I used to work, so along with, it seems quite a few people on the Relay network,                          |
+| 29:52      | I used to work for Disney and the apartments that they give you, at Disneyland Paris are pretty                       |
 | 29:57      | good, but the one thing that they do not have is a bedside lamp, which means that when you                         |
 | 30:01      | go to turn off the lights at night, so you turn off the lights and then suddenly you're                            |
 | 30:05      | by the front door in the dark.                                                                                     |
@@ -640,15 +640,15 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 30:19      | Yeah.                                                                                                              |
 | 30:20      | So on filing, we talked about that on the show last time.                                                          |
 | 30:27      | And there was a good question in the forum about how do you decide what tools you use                              |
-| 30:32      | for this stuff and quick ATB, I don't know if it's Qui Cat B, I don't know how he or                               |
+| 30:32      | for this stuff and Quicatb, I don't know if it's Qui Cat B, I don't know how he or                               |
 | 30:42      | she pronounces it.                                                                                                 |
 | 30:43      | But the question was, how do you choose between [[Automator]], [[Alfred]], [[Keyboard Maestro]], [[AppleScript]],                        |
-| 30:47      | [Hazel]], I can think of a few more to perform actions.                                                       |
+| 30:47      | [[Hazel]], I can think of a few more to perform actions.                                                       |
 | 30:53      | And I think it really depends on what you're doing.                                                                |
 | 30:58      | Just a quick rundown, tools like [[Spotlight]], [[Automator]], I'm sorry [[Spotlight]], [[Alfred]], [[LaunchBar]],                         |
 | 31:05      | those are tools that are allowing you to use your keyboard to do things on your                               |
 | 31:09      | Mac quickly.                                                                                                       |
-| 31:10      | But they aren't really automation tools that much, although with [[Alfred]] and Launch Bar,                            |
+| 31:10      | But they aren't really automation tools that much, although with [[Alfred]] and [[LaunchBar]],                            |
 | 31:15      | there certainly are automation elements to them.                                                                   |
 | 31:17      | Definitely, yeah.                                                                                                  |
 | 31:19      | I think that [[AppleScript]] is like a whole other level, it's something you need to learn                            |
@@ -689,7 +689,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 33:37      | So perhaps to avoid that or something similar, but yes, especially filing, you can use all                         |
 | 33:43      | of the tools pretty much.                                                                                          |
 | 33:45      | Yeah.                                                                                                              |
-| 33:46      | And it's kind of like you're talking like a 43 folder situation where you're putting                               |
+| 33:46      | And it's kind of like you're talking like a [43 folder](https://en.wikipedia.org/wiki/Tickler_file) situation where you're putting                               |
 | 33:50      | things into the future and then in that case, you do need to create those folders.                                 |
 | 33:54      | Yes.                                                                                                               |
 | 33:55      | I was going to give someone general advice about on their Mac getting automation going.                            |
@@ -697,13 +697,13 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 34:08      | can use so long as they're willing to spend a little bit of time kind of figuring out                              |
 | 34:11      | how they work.                                                                                                     |
 | 34:12      | I would agree with that 100%.                                                                                      |
-| 34:14      | I mean, Automator, if you're short on cash and you just want to get started, Automator                             |
+| 34:14      | I mean, Automator, if you're short on cash and you just want to get started, [[Automator]]                             |
 | 34:19      | is free and it's good, but once you've got the ability to spend money or you realise                               |
-| 34:27      | that there's something that you need to do that Automator can't do because Automator                               |
+| 34:27      | that there's something that you need to do that [[Automator]] can't do because [[Automator]]                               |
 | 34:31      | is limited, [[Keyboard Maestro]] is definitely the next step up.                                                       |
 | 34:34      | You don't need to know how to program to do any of this.                                                           |
-| 34:37      | It is the magic blocks just like shortcuts.                                                                        |
-| 34:41      | The [[Keyboard Maestro]] does, of course, predate shortcuts or workflow and yeah, it's excellent                       |
+| 34:37      | It is the magic blocks just like [[Shortcuts]].                                                                        |
+| 34:41      | The [[Keyboard Maestro]] does, of course, predate [[Shortcuts]] or [[Workflow]] and yeah, it's excellent                       |
 | 34:47      | and the developer Peter Lewis has really invested in the application and he's got his own user                     |
 | 34:53      | forum as well, which I will link to in the show notes.                                                             |
 | 34:55      | Of course, you're very welcome to discuss [[Keyboard Maestro]] items in our forums as well,                            |
@@ -714,13 +714,13 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 35:24      | you want and I got thinking that's a great solution to a problem because quite often                               |
 | 35:31      | there are weaknesses in the platform for one thing or another and I think mail merge is                            |
 | 35:35      | one where the Mac isn't particularly good.                                                                         |
-| 35:38      | I'm not that impressed with the way Microsoft solutions do it and with [[Keyboard Maestro]]                            |
+| 35:38      | I'm not that impressed with the way [[Microsoft]] solutions do it and with [[Keyboard Maestro]]                            |
 | 35:44      | he was able to make a solution that basically works across his Mac and that's just one                             |
 | 35:50      | example of solving a problem with that application.                                                                |
 | 35:53      | Yes.                                                                                                               |
 | 35:54      | Well, if that user is listening, please do share that in the forums because I'd love                               |
 | 35:57      | to see it and there was a question at one point, somebody was trying to create a contract.                         |
-| 36:01      | It may have been in the Mac Power Users forum actually, possibly Automators, where they                            |
+| 36:01      | It may have been in the [[Mac Power Users]] forum actually, possibly [[Automators]], where they                            |
 | 36:07      | wanted to create a contract and they wanted to use the contacts information to fill the                            |
 | 36:11      | name of the person and then they had different information that had to go in depending on                          |
 | 36:15      | which event the contract was for and that sounds like a mail merge.                                                |
@@ -740,17 +740,17 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 36:59      | computer.                                                                                                          |
 | 37:00      | This is assuming that you're either setting your current computer up from start, up from                           |
 | 37:05      | scratch or you're setting up a new computer and you don't want to just transfer everything                         |
-| 37:08      | over using something like Time Machine, Carbon Copy Cloner, et cetera.                                             |
-| 37:12      | Well, Burk on micro.blog shared this fabulous tip, which is you can use the terminal to                            |
+| 37:08      | over using something like [[Time Machine]], [[Carbon Copy Cloner]], et cetera.                                             |
+| 37:12      | Well, Burk on [micro.blog](https://micro.blog) shared this fabulous tip, which is you can use the terminal to                            |
 | 37:17      | get a list of all of the applications and save it into a text file and all you do is                               |
 | 37:23      | you open up terminal on your Mac and you don't need to know how it works and you just type                         |
 | 37:27      | ls slash and then applications for your applications folder and then you do a greater than symbol                  |
 | 37:34      | and then you put in a file name and a file extension.                                                              |
-| 37:39      | So for example, newsystemapps.txt and yeah, this will give you a list of all of your applications                  |
+| 37:39      | So for example, `newsystemapps.txt` and yeah, this will give you a list of all of your applications                  |
 | 37:46      | in a text file on your computer so that you can just grab that and use that when you're                            |
 | 37:51      | setting up a new machine.                                                                                          |
 | 37:53      | And yeah, I thought that that was an excellent tip because that is automation.                                     |
-| 37:58      | It's not as automated as just transferring everything via Time Machine, but there are                              |
+| 37:58      | It's not as automated as just transferring everything via [[Time Machine]], but there are                              |
 | 38:01      | times when you don't want to do that.                                                                              |
 | 38:03      | Yeah, it's really tough to cover terminal stuff on an audio podcast.                                               |
 | 38:07      | At some point, if we do a show on maybe terminal based automation, we will screencast the heck                     |
@@ -760,18 +760,18 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 38:15      | And I will be putting a link to Burk's post in the show notes because he's got the terminal.                       |
 | 38:23      | He's got the command written out for you there so you can literally just copy paste it and                         |
 | 38:27      | use it.                                                                                                            |
-| 38:28      | And when I was looking at that, JD followed up with, if you use Homebrew, you can also                             |
+| 38:28      | And when I was looking at that, JD followed up with, if you use [[Homebrew]], you can also                             |
 | 38:33      | type `brew leaves` to get a list of all the packages installed, which I thought was extremely                         |
 | 38:38      | useful.                                                                                                            |
-| 38:39      | So thank you to JD and Burk on Micro.blog for sharing this.                                                         |
-| 38:44      | The Launch Center Pro NFC stickers, what are you doing with yours at this point?                                   |
+| 38:39      | So thank you to JD and Burk on [micro.blog](https://micro.blog) for sharing this.                                                         |
+| 38:44      | The [[Launch Center Pro]] [[NFC]] stickers, what are you doing with yours at this point?                                   |
 | 38:49      | Oh, okay.                                                                                                          |
 | 38:50      | Well, do you remember we recently had an episode on time tracking?                                                 |
 | 38:53      | Yeah.                                                                                                              |
 | 38:54      | Well, time tracking, as I foresaw in that episode, has come to my workplace.                                       |
 | 39:00      | And we have to do it in a specific format, in a specific system, et cetera.                                        |
-| 39:04      | Basically I'm saving CSV files onto my iPhone.                                                                     |
-| 39:08      | And so I'm using Launch Center Pro, so I just pick up my iPhone and I tap it on sticker                            |
+| 39:04      | Basically I'm saving [[CSV]] files onto my iPhone.                                                                     |
+| 39:08      | And so I'm using [[Launch Center Pro]], so I just pick up my iPhone and I tap it on sticker                            |
 | 39:13      | and it runs a workflow or a shortcut rather that runs two shortcuts.                                               |
 | 39:18      | So we've talked before about running multiple, one shortcut that does lots of other things.                        |
 | 39:24      | This is a shortcut that runs a stop timer shortcut and a start timer shortcut.                                     |
@@ -779,7 +779,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 39:35      | And it's so useful.                                                                                                |
 | 39:37      | I love it.                                                                                                         |
 | 39:38      | And I literally just pick up my phone and I tap it on the sticker.                                                 |
-| 39:41      | And everybody else is there trying to use some clunky Windows program that they have                               |
+| 39:41      | And everybody else is there trying to use some clunky [[Microsoft Windows\|Windows]] program that they have                               |
 | 39:44      | to times into and press spacebar to get it to autofill.                                                            |
 | 39:48      | Why doesn't it just autofill when you click into the box?                                                          |
 | 39:52      | And things like that.                                                                                              |
@@ -812,18 +812,18 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 41:17      | If you've been trying to track time and you realise that you're not perfect, that's okay.                          |
 | 41:20      | That means that you're normal, like everybody else, just like us.                                                  |
 | 41:24      | And on that note, we've heard from a lot of people because we've been talking about an                             |
-| 41:26      | app that's not out, which we're not supposed to really do that, I guess, but Timery, which                         |
+| 41:26      | app that's not out, which we're not supposed to really do that, I guess, but [[Timery]], which                         |
 | 41:31      | is the app that's come up several times, people saying, hey, when's that coming out?                               |
 | 41:35      | Because if you are using toggle to track time, this app is going to make it so much easier.                        |
 | 41:40      | And all I can say is the betas are closer and closer.                                                              |
 | 41:44      | I think that we're not far.                                                                                        |
-| 41:46      | And I will say at the Automators Twitter account, it doesn't tweet much, it tweets when new                        |
+| 41:46      | And I will say at the Automators [[Twitter]] account, it doesn't tweet much, it tweets when new                        |
 | 41:50      | episodes come out.                                                                                                 |
 | 41:51      | It makes sure that you get a link to the forum thread and links to any YouTube videos that                         |
 | 41:54      | are there.                                                                                                         |
 | 41:56      | But it will be tweeting when this app releases.                                                                    |
-| 41:58      | So if you're not following at Automators FM on Twitter, please do so if you, well, whether                         |
-| 42:04      | or not you want to hear about Timery because it will be a one-time tweet, which David and                          |
+| 41:58      | So if you're not following at @AutomatorsFM on [[Twitter]], please do so if you, well, whether                         |
+| 42:04      | or not you want to hear about [[Timery]] because it will be a one-time tweet, which David and                          |
 | 42:08      | I will, of course, be tweeting as well from our accounts.                                                          |
 | 42:11      | But yeah, that will be an easy way to get poked when it's released if you are looking                              |
 | 42:16      | for an automated way to do so.                                                                                     |
@@ -833,7 +833,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 42:25      | But listening to the show, watching the screencast, they're finding themselves doing it.                           |
 | 42:30      | And it's an interesting muscle to develop because once you realise you have the power                              |
 | 42:34      | to automate something, even if you've never been a programmer, even if you don't know                              |
-| 42:39      | [[AppleScript]] and Perl and all these other things, with the tools we talk about on the                              |
+| 42:39      | [[AppleScript]] and [[Perl]] and all these other things, with the tools we talk about on the                              |
 | 42:43      | show, there's a lot you can automate.                                                                              |
 | 42:45      | And I just love hearing from people who have been empowered by what we've been doing and                           |
 | 42:49      | thanks and you guys feed us as well when you tell us about the great stuff you're doing.                           |
@@ -853,12 +853,12 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 43:36      | You've got a great guest lined up in a couple of weeks.                                                            |
 | 43:39      | Thanks to our sponsor, ExpressVPN, we're the Automators.                                                           |
 | 43:42      | You can find us over at relay.fm/automators.                                                                 |
-| 43:46      | You can check out our forums at talk.automators.fm.                                                                |
-| 43:50      | You can find Rose over at rosemaryorchard.com.                                                                      |
+| 43:46      | You can check out our forums at [talk.automators.fm](https://talk.automators.fm).                                                                |
+| 43:50      | You can find Rose over at [rosemaryorchard.com](https://rosemaryorchard.com).                                                                      |
 | 43:53      | Correct.                                                                                                           |
 | 43:54      | That's right.                                                                                                      |
 | 43:55      | I always think it's org, Rose.                                                                                     |
 | 43:57      | I don't know why I can't remember.                                                                                 |
-| 43:58      | You can find me over at macsparkyi.com and we'll see you in two weeks.                                               |
+| 43:58      | You can find me over at [macsparky.com](https://macsparky.com) and we'll see you in two weeks.                                               |
 | 44:02      | Yes.                                                                                                               |
 | 44:03      | Thanks for talking to everybody again then.                                                                        |
