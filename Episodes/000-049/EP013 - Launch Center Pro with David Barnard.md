@@ -1,5 +1,5 @@
 ---
-status: "incomplete"
+status: "complete"
 fc-date:
   year: 2018
   month: 12
@@ -62,14 +62,14 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 00:24      | deep on one of the very first automation apps for iOS.               |
 | 00:28      | Excellent and we have a guest.                                       |
 | 00:31      | We do and so hello, David.                                           |
-| 00:34      | David Bernard from Contrast.                                         |
+| 00:34      | David Bernard from [[Contrast]].                                         |
 | 00:36      | Excited to be here.                                                  |
-| 00:38      | David is the developer of Launch Center Pro,                          |
+| 00:38      | David is the developer of [[Launch Center Pro]],                          |
 | 00:42      | which is, as Rose was saying,                                        |
 | 00:43      | one of the very first apps that really gave us a path to             |
 | 00:48      | be automation-friendly on iOS and iPhone.                            |
 | 00:51      | As this show gets released,                                          |
-| 00:54      | we just recently released version three of Launch Center Pro.         |
+| 00:54      | we just recently released version three of [[Launch Center Pro]].         |
 | 00:58      | As we record, it's hopefully barring                                 |
 | 01:02      | any unforeseen rejections or                                         |
 | 01:05      | other bugs, circumstances, or otherwise.                             |
@@ -77,11 +77,11 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:12      | So I'm a little sleep deprived,                                      |
 | 01:15      | but quite excited and ready to get this thing out in the world.      |
 | 01:19      | It's funny when this app first came out.                             |
-| 01:22      | So Launch Center Pro is an app that at its most basic level,          |
+| 01:22      | So [[Launch Center Pro]] is an app that at its most basic level,          |
 | 01:27      | it's an app to launch other apps, hence the name.                    |
 | 01:30      | But it does so much more.                                            |
 | 01:32      | It's got all these ways you can run,                                 |
-| 01:34      | like you can run Siri shortcuts,                                     |
+| 01:34      | like you can run [[Shortcuts\|Siri Shortcuts]],                                     |
 | 01:35      | you can dial specific contacts or text specific people.              |
 | 01:40      | I remember the very first time you guys released this app            |
 | 01:44      | and I downloaded it and installed it.                                |
@@ -154,17 +154,17 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 05:15      | to create some shortcuts, even if you have to launch the app         |
 | 05:18      | and then trigger the shortcuts.                                      |
 | 05:19      | And so, you know, we put it out into the world                       |
-| 05:22      | and I've got to give a lot of credit to Viticci here.                 |
+| 05:22      | and I've got to give a lot of credit to [[Federico Viticci\|Viticci]] here.                 |
 | 05:27      | He just went nuts for it and immediately saw the potential.          |
-| 05:32      | So this was, and to clarify, this was actually launch centre,        |
-| 05:37      | pre-launch centre pro.                                               |
+| 05:32      | So this was, and to clarify, this was actually [[Launch Center Pro\|Launch Center]],        |
+| 05:37      | pre-[[Launch Center Pro]].                                               |
 | 05:39      | Yes.                                                                 |
 | 05:40      | So, and it was a completely different app                            |
-| 05:43      | from launch centre pro.                                              |
+| 05:43      | from[[Launch Center Pro]].                                              |
 | 05:44      | It didn't have tiles.                                                |
 | 05:45      | It was just kind of a list.                                          |
 | 05:48      | And so anyways, he fell in love,                                     |
-| 05:51      | started covering it on Mac stories                                   |
+| 05:51      | started covering it on [MacStories](https://www.macstories.net/)                                   |
 | 05:54      | and it started to have a little bit of a groundswell                 |
 | 05:56      | of people saying, you know, this is actually pretty handy            |
 | 05:59      | creating these shortcuts and having them all in an app.              |
@@ -175,7 +175,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 06:16      | more and more [[URL Schemes]] into their apps                            |
 | 06:17      | and we started finding more and more.                                |
 | 06:19      | And then by that summer, we released a whole new version             |
-| 06:24      | of it launch centre and called it launch centre pro.                 |
+| 06:24      | of it aunch centre and called it Launch Center pro.                 |
 | 06:28      | So that's how we got started.                                        |
 | 06:29      | It was not really intended to turn into this big automation          |
 | 06:34      | thing that it did, but it was just kind of a interesting way         |
@@ -215,7 +215,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 08:21      | some developers were starting to document their [[URL Schemes]].         |
 | 08:25      | And so we would ask around and scour the web                         |
 | 08:29      | and look at support docs.                                            |
-| 08:31      | But then by the time Launch Center Pro was released,                 |
+| 08:31      | But then by the time [[Launch Center Pro]] was released,                 |
 | 08:34      | it got a ton of press and started to gather a following              |
 | 08:38      | to where a lot of developers started submitting                      |
 | 08:42      | their [[URL Schemes]] to us directly.                                    |
@@ -229,7 +229,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 09:06      | we know how it all works and everything.                             |
 | 09:09      | So yeah, it's kind of been a hodgepodge                              |
 | 09:11      | over the years of trial and error,                                   |
-| 09:12      | looking at Plists, talking with developers, helping them.           |
+| 09:12      | looking at [[PLISTs\|PLIST]], talking with developers, helping them.           |
 | 09:16      | But yeah, it's definitely been a lot of work                         |
 | 09:21      | to cobble all that together.                                         |
 | 09:23      | Well, we all appreciate it.                                          |
@@ -238,17 +238,17 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 09:31      | is I feel like once this app took off,                               |
 | 09:34      | people started to take automation seriously on iOS.                  |
 | 09:36      | And I don't know that that was really happening                      |
-| 09:38      | before Launch Centre.                                                |
-| 09:40      | One of the things that I've been using Launch Center Pro for         |
+| 09:38      | before [[Launch Center Pro\|Launch Center]].                                                |
+| 09:40      | One of the things that I've been using [[Launch Center Pro]] for         |
 | 09:42      | for years, and this is not, well,                                    |
 | 09:44      | it is actually an automation trick,                                  |
 | 09:45      | is I've been using it to build [[URL Schemes]]                           |
 | 09:47      | because it seems to me that you guys                                 |
 | 09:49      | have got the definitive dictionary.                                  |
 | 09:52      | It's like when you open an [[AppleScript]] editor                       |
-| 09:54      | on the Mac script editor,                                            |
+| 09:54      | on the Mac, [[Script Editor]],                                            |
 | 09:55      | and you can find the dictionaries for all the applications.          |
-| 09:57      | I see Launch Center Pro as well as doing many other things           |
+| 09:57      | I see [[Launch Center Pro]] as well as doing many other things           |
 | 10:01      | as the dictionary for all of the [[URL Schemes]] on iOS as well.         |
 | 10:05      | And it lets me build them,                                           |
 | 10:06      | which that's something that I've not found                           |
@@ -274,25 +274,25 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 11:04      | and it has taken a lot to continue                                   |
 | 11:06      | to maintain over the years as well.                                  |
 | 11:08      | So speaking of kind of the early times in iOS automation             |
-| 11:13      | and what's led us to today with Shortcuts                            |
-| 11:16      | and Workflow before that,                                            |
+| 11:13      | and what's led us to today with [[Shortcuts]]                            |
+| 11:16      | and [[Workflow]] before that,                                            |
 | 11:18      | back in, and I think it was the fall of 2013,                        |
-| 11:22      | Ari, who founded Workflow                                            |
-| 11:24      | and is now at [[Apple]] working on Shortcuts.                            |
-| 11:26      | At the time, he was building this app called Desk Connect            |
+| 11:22      | Ari, who founded [[Workflow]]                                            |
+| 11:24      | and is now at [[Apple]] working on [[Shortcuts]].                            |
+| 11:26      | At the time, he was building this app called [[DeskConnect]]            |
 | 11:29      | and it would push files and the clipboard                            |
 | 11:33      | and other information back and forth from iOS to macOS.              |
-| 11:38      | Well, since early in Launch Centre, Pro,                             |
+| 11:38      | Well, since early in [[Launch Center Pro]],                             |
 | 11:42      | that's one of the things we had been considering doing               |
-| 11:44      | was how can we extend Launch Centre onto the desktop                 |
+| 11:44      | was how can we extend [[Launch Center Pro\|Launch Center]] onto the desktop                 |
 | 11:48      | and we thought it would be really interesting                        |
 | 11:50      | to kind of have a universal clipboard between iOS and Mac            |
 | 11:54      | and there's just a lot of interesting stuff                          |
 | 11:57      | for us in that space.                                                |
 | 11:58      | So he reached out to me in the fall                                  |
-| 12:00      | and said, hey, we'd love to partner with you on Desk Connect.        |
+| 12:00      | and said, hey, we'd love to partner with you on [[DeskConnect]].        |
 | 12:04      | Like how could we work together                                      |
-| 12:05      | to like integrate Desk Connect into Launch Centre                    |
+| 12:05      | to like integrate [[DeskConnect]] into [[Launch Center Pro\|Launch Center]]                    |
 | 12:08      | and are there some stuff we can work on?                             |
 | 12:10      | And I said at the time,                                              |
 | 12:13      | I said, you know, that's actually a direction                        |
@@ -301,13 +301,13 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 12:22      | because we may end up competitors soon.                              |
 | 12:26      | And turns out, you know, six months later,                           |
 | 12:31      | they were actually, I don't know the exact timeline,                 |
-| 12:35      | but months later, they started working on Workflow,                  |
+| 12:35      | but months later, they started working on [[Workflow]],                  |
 | 12:39      | which, you know, of course, in some ways,                            |
-| 12:41      | competed with Launch Center Pro.                                     |
+| 12:41      | competed with [[Launch Center Pro]].                                     |
 | 12:43      | And I was just relating that story to somebody recently              |
 | 12:45      | thinking how had we collaborated with them,                          |
-| 12:51      | they might not have actually built Workflow.                         |
-| 12:54      | And I say that not like we would not have ever built Workflow.       |
+| 12:51      | they might not have actually built [[Workflow]].                         |
+| 12:54      | And I say that not like we would not have ever built [[Workflow]].       |
 | 12:57      | And I've said this in tweets                                         |
 | 12:58      | and I think even blogged about it like, you know,                    |
 | 13:01      | so I don't actually do any of the coding.                            |
@@ -319,13 +319,13 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 13:17      | And we weren't gonna hire people.                                    |
 | 13:19      | We both had families.                                                |
 | 13:20      | We weren't working 18 hours a day.                                   |
-| 13:24      | You know, we were just doing what we couldn't,                       |
+| 13:24      | You know, we were just doing what we could and,                       |
 | 13:25      | building a great app.                                                |
-| 13:27      | So we would have never built Workflow.                               |
+| 13:27      | So we would have never built [[Workflow]].                               |
 | 13:29      | Like those guys are incredible programmers, super sharp.             |
 | 13:33      | You know, they were living in a coding hostel,                       |
-| 13:36      | programming like 24 seven as a whole team.                           |
-| 13:41      | So there's no way we would ever built Workflow                       |
+| 13:36      | programming like 24x7 as a whole team.                           |
+| 13:41      | So there's no way we would ever built [[Workflow]]                       |
 | 13:43      | or been acquired by [[Apple]] or anything like that.                     |
 | 13:45      | And so I no way regret this.                                         |
 | 13:48      | And I tell the story in a way to say it's kind of fun                |
@@ -338,57 +338,57 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 14:10      | And it's all a bit fuzzy now being five, six years ago.              |
 | 14:14      | That's an interesting question though,                               |
 | 14:15      | because I think a lot of listeners will wonder, you know,            |
-| 14:18      | what is the difference between Launch Center Pro                     |
-| 14:20      | and something like Workflow?                                         |
-| 14:22      | Or now Siri shortcuts and how do they work together?                 |
+| 14:18      | what is the difference between [[Launch Center Pro]]                     |
+| 14:20      | and something like [[Workflow]]?                                         |
+| 14:22      | Or now [[Shortcuts\|Siri Shortcuts]] and how do they work together?                 |
 | 14:26      | And I'd like to hear your answer to that,                            |
 | 14:28      | but my answer would be they really do empower each other             |
 | 14:33      | with this new version three.                                         |
-| 14:34      | For instance, you can put Siri shortcuts                             |
-| 14:37      | into Launch Center Pro.                                              |
+| 14:34      | For instance, you can put [[Shortcuts\|Siri Shortcuts]]                             |
+| 14:37      | into [[Launch Center Pro]].                                              |
 | 14:39      | And just to kind of give a peek of how I use the app,                |
-| 14:42      | I keep Launch Center Pro in my dock.                                 |
+| 14:42      | I keep [[Launch Center Pro]] in my dock.                                 |
 | 14:45      | And then when I open it up,                                          |
-| 14:47      | I've got some of my most key Siri shortcuts                          |
+| 14:47      | I've got some of my most key [[Shortcuts\|Siri Shortcuts]]                          |
 | 14:50      | right there under my thumb.                                          |
 | 14:53      | And one of the things I really like,                                 |
 | 14:54      | and I'm curious how you guys did this,                               |
 | 14:56      | is normally when you launch a Siri shortcut from the desktop,        |
 | 14:59      | you get this jiggling where it goes to [[Safari]]                        |
-| 15:02      | and then it goes to the Siri shortcuts app.                          |
+| 15:02      | and then it goes to the [[Shortcuts\|Siri Shortcuts]] app.                          |
 | 15:03      | And the whole thing feels pretty,                                    |
 | 15:06      | I don't know, feels pretty wonky to me.                              |
 | 15:08      | But for some reason, when you launch it out of your app,             |
 | 15:11      | it jumps straight to the Siri shortcut,                              |
 | 15:13      | which makes it feel more efficient.                                  |
 | 15:16      | But anyway, you know, they really do work together.                  |
-| 15:20      | Yeah, and that's, you know, when Workflow came out,                  |
+| 15:20      | Yeah, and that's, you know, when [[Workflow]] came out,                  |
 | 15:24      | you know, of course, we were a little bummed.                        |
 | 15:26      | I mean, you know, we were kind of the big guy in the space           |
-| 15:29      | and almost immediately, you know, Workflow took some                 |
+| 15:29      | and almost immediately, you know, [[Workflow]] took some                 |
 | 15:34      | of the use cases that we were covering.                              |
 | 15:37      | And it was obvious in the app too.                                   |
 | 15:39      | I mean, you know, they're really cool guys                           |
 | 15:42      | and have always been great to us.                                    |
-| 15:43      | So I don't say this at all disparageingly,                            |
-| 15:46      | but it's pretty obvious they looked at Launch Centre                 |
+| 15:43      | So I don't say this at all disparagingly,                            |
+| 15:46      | but it's pretty obvious they looked at [[Launch Center Pro\|Launch Center]]                 |
 | 15:49      | and said, okay, here are some of the ways                            |
-| 15:50      | people are using Launch Centre.                                      |
+| 15:50      | people are using [[Launch Center Pro\|Launch Center]].                                      |
 | 15:51      | Maybe we could do this,                                              |
-| 15:53      | but maybe do it even better in Workflow.                             |
-| 15:55      | So there were a lot of things in Launch Center Pro                   |
-| 15:58      | at the time that Workflow all of a sudden did.                       |
+| 15:53      | but maybe do it even better in [[Workflow]].                             |
+| 15:55      | So there were a lot of things in [[Launch Center Pro]]                   |
+| 15:58      | at the time that [[Workflow]] all of a sudden did.                       |
 | 16:03      | And in quite a few cases, honestly, did better.                      |
 | 16:07      | So at that point, you know, we realised that we,                     |
 | 16:10      | especially again, just as two guys, only one programmer,             |
-| 16:15      | you know, we knew we weren't gonna compete with Workflow             |
+| 16:15      | you know, we knew we weren't gonna compete with [[Workflow]]             |
 | 16:17      | on being a full automation suite.                                    |
 | 16:21      | And so we kind of shifted more towards                               |
-| 16:24      | the things that complimented Workflow                                |
+| 16:24      | the things that complimented [[Workflow]]                                |
 | 16:26      | and continue to this day to focus more                               |
 | 16:30      | on those complementary aspects                                       |
 | 16:32      | versus being the kind of end-all be-all.                             |
-| 16:35      | And at this point with shortcuts integrated                          |
+| 16:35      | And at this point with [[Shortcuts]] integrated                          |
 | 16:37      | so deep into iOS, like there's no way                                |
 | 16:39      | we're gonna compete on a direct automation basis.                    |
 | 16:43      | You know, we can't trigger an eye message                            |
@@ -396,14 +396,14 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 16:50      | We can't, I mean, there's just, we can't toggle settings.            |
 | 16:52      | We can't turn on and off alarms.                                     |
 | 16:54      | Like, here's so much amazing stuff                                   |
-| 16:56      | that's so deeply integrated into iOS with shortcuts now              |
+| 16:56      | that's so deeply integrated into iOS with [[Shortcuts]] now              |
 | 16:59      | that we'll just never be able to do.                                 |
 | 17:01      | So-                                                                  |
 | 17:02      | They're behind the wall, you know,                                   |
 | 17:03      | they're part of [[Apple]].                                               |
 | 17:04      | Exactly.                                                             |
 | 17:05      | Yeah, so it's kind of unfair competition.                            |
-| 17:09      | In a cool way though, like I love what Shortcuts is doing            |
+| 17:09      | In a cool way though, like I love what [[Shortcuts]] is doing            |
 | 17:12      | and I'm so glad [[Apple]] acquired them.                                 |
 | 17:14      | And I think like it's better for everybody.                          |
 | 17:16      | So we've shifted to focusing on the things                           |
@@ -418,11 +418,11 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 17:39      | launching are still a great place to go,                             |
 | 17:41      | find the [[URL Schemes\|URL scheme]] and set up a shortcut                            |
 | 17:44      | and you just get right there.                                        |
-| 17:46      | And then like you said, triggering shortcuts,                        |
+| 17:46      | And then like you said, triggering,                        |
 | 17:48      | you know, we've integrated in 3.0 a shortcut                         |
 | 17:53      | to import shortcuts and it even grabs the shortcut icon              |
-| 17:58      | that you created in the shortcut to app.                             |
-| 18:01      | So triggering shortcuts is great.                                    |
+| 17:58      | that you created in the [[Shortcuts]] app.                             |
+| 18:01      | So triggering [[Shortcuts]] is great.                                    |
 | 18:03      | And then for a lot of the more simple things like, you know,         |
 | 18:07      | calling my wife, texting her, you know,                              |
 | 18:09      | some of the like real basic stuff is still, you know,                |
@@ -431,20 +431,20 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 18:19      | using a sledgehammer on a nail to trigger a phone call               |
 | 18:24      | in shortcuts.                                                        |
 | 18:26      | So I feel like there is definitely a lot                             |
-| 18:29      | that Launch Center Pro still excels at.                              |
+| 18:29      | that [[Launch Center Pro]] still excels at.                              |
 | 18:33      | And then for now, I mean, I assume at some point,                    |
 | 18:35      | shortcuts is gonna, you know, add folders                            |
 | 18:37      | and better organisation and things of that nature.                   |
 | 18:41      | But for now, you know, we've really focused                          |
 | 18:43      | on continuing to be a much more customisable launch experience.      |
 | 18:47      | So, you know, once you have 25 or 30 shortcuts                       |
-| 18:50      | in the shortcuts app, it becomes pretty unwieldy.                    |
+| 18:50      | in the [[Shortcuts]] app, it becomes pretty unwieldy.                    |
 | 18:54      | And in the long run, it's gonna be interesting                       |
 | 18:56      | to see what they do with that                                        |
 | 18:57      | because I think in some ways they are looking                        |
 | 18:59      | to be kind of easier to use                                          |
 | 19:03      | and not necessarily quite as pro user focused                        |
-| 19:08      | as we can be with Launch Center Pro.                                 |
+| 19:08      | as we can be with [[Launch Center Pro]].                                 |
 | 19:11      | So we're actually working for next year                              |
 | 19:15      | on revamping the whole launch experience,                            |
 | 19:17      | even, and have some really cool ideas around                         |
@@ -453,27 +453,27 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 19:29      | or anything like that, but just got some really                      |
 | 19:32      | interesting ideas around making the launch experience                |
 | 19:35      | even more customisable and fast and fun and easy to use.             |
-| 19:40      | So, yeah, and I mean, NFC and 3.0,                                   |
+| 19:40      | So, yeah, and I mean, [[NFC]] and 3.0,                                   |
 | 19:45      | that's a whole new thing we're doing                                 |
-| 19:48      | where you can tap an NFC tag, it pops a notification,                |
+| 19:48      | where you can tap an [[NFC]] tag, it pops a notification,                |
 | 19:51      | you tap that and can launch anything, shortcuts,                     |
 | 19:54      | and go deep into other apps and stuff like that.                     |
-| 19:56      | iBeacons is another great example                                    |
+| 19:56      | [[iBeacon\|iBeacons]] is another great example                                    |
 | 19:59      | of kind of how we compliment shortcuts.                              |
-| 20:01      | You can have a set up an iBeacon                                     |
+| 20:01      | You can have a set up an [[iBeacon]]                                     |
 | 20:03      | to be a sort of proximity sensor                                     |
 | 20:05      | so that when you get close to your vehicle,                          |
 | 20:07      | it triggers a shortcut.                                              |
 | 20:10      | We used to with, if this and that,                                   |
 | 20:13      | be able to trigger in the background                                 |
-| 20:14      | and with iBeacons.                                                   |
+| 20:14      | and with [[iBeacon\|iBeacons]].                                                   |
 | 20:17      | And that's something we're actually exploring                        |
 | 20:19      | to get back in the app in the near future.                           |
 | 20:22      | Can I just stop for a second though,                                 |
 | 20:24      | because you went over the NFC tag thing pretty quickly.              |
 | 20:27      | Yeah, you know, that's like a major feature,                         |
 | 20:30      | which for anybody who missed it,                                     |
-| 20:32      | the iPhone XS, XS Max, and the XR can read an NFC tag                |
+| 20:32      | the iPhone XS, XS Max, and the XR can read an [[NFC]] tag                |
 | 20:38      | without you having to, you know,                                     |
 | 20:40      | open a specific application.                                         |
 | 20:41      | Now, when I say read, I don't mean they're gonna like,               |
@@ -484,36 +484,36 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 20:53      | that's gonna do something the user really                            |
 | 20:54      | doesn't want it to do.                                               |
 | 20:57      | So can you just walk us through like the workflow                    |
-| 21:00      | of how an NFC tag actually works                                     |
+| 21:00      | of how an [[NFC]] tag actually works                                     |
 | 21:01      | with these lovely new phones, David?                                 |
 | 21:04      | Sure.                                                                |
 | 21:05      | So when [[Apple]] announced the iPhone XS,                               |
 | 21:11      | XS Max, and XR, I don't even know                                    |
 | 21:15      | if they said it in the keynote,                                      |
-| 21:19      | but news sites started covering this whole background NFC            |
+| 21:19      | but news sites started covering this whole background [[NFC]]            |
 | 21:24      | and it was obvious pretty quick                                      |
 | 21:26      | that that could be a really interesting thing                        |
-| 21:28      | for launch in a pro.                                                 |
-| 21:30      | So I got some NFC tags and started experimenting                     |
+| 21:28      | for [[Launch Center Pro]].                                                 |
+| 21:30      | So I got some [[NFC]] tags and started experimenting                     |
 | 21:33      | and yeah, it turned out really cool                                  |
-| 21:38      | and we ended up printing thousands of NFC stickers                   |
+| 21:38      | and we ended up printing thousands of [[NFC]] stickers                   |
 | 21:41      | that hopefully aren't out of stock with this podcast errors.         |
 | 21:45      | I didn't know how many to get                                        |
 | 21:47      | and so I kind of got in the middle between conservative              |
 | 21:51      | and like extravagantly stocked.                                      |
-| 21:55      | So we printed custom NFC stickers                                    |
+| 21:55      | So we printed custom [[NFC]] stickers                                    |
 | 21:59      | that each have a unique ID.                                          |
 | 22:02      | So you can set up multiple stickers                                  |
-| 22:05      | to associate with multiple actions in Launch Center Pro              |
+| 22:05      | to associate with multiple actions in [[Launch Center Pro]]              |
 | 22:09      | and all you have to do is wake your screen                           |
 | 22:12      | which on XS, XS Max, and XR, it wakes as you lift.                   |
 | 22:18      | So the race to wake feature,                                         |
 | 22:21      | you just pick up your iPhone,                                        |
-| 22:23      | tap it down on the NFC sticker                                       |
+| 22:23      | tap it down on the [[NFC]] sticker                                       |
 | 22:26      | and it triggers a notification right there on the home screen        |
-| 22:31      | and you tap that and within Launch Center Pro                        |
+| 22:31      | and you tap that and within [[Launch Center Pro]]                        |
 | 22:34      | you can configure that to do pretty much anything                    |
-| 22:38      | with a combination of Launch Center Pro and shortcuts.               |
+| 22:38      | with a combination of [[Launch Center Pro]] and [[Shortcuts]].               |
 | 22:41      | So I have one set up in my car to start a podcast                    |
 | 22:45      | and bring out maps if I need to search a place.                      |
 | 22:49      | David, I know you told me via email                                  |
@@ -573,7 +573,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 25:33      | David, sorry, Sparky, can you tell us what you're doing              |
 | 25:36      | with the one on your writing desk?                                   |
 | 25:37      | Because I've been experimenting with all sorts of use cases          |
-| 25:39      | and at the moment, all of my NFC tags                                |
+| 25:39      | and at the moment, all of my [[NFC]] tags                                |
 | 25:41      | are stuck down with sticky tags so that I can move them              |
 | 25:43      | because I keep changing my mind as to what I want to do with them.   |
 | 25:47      | And we've been kind of dancing around it,                            |
@@ -583,14 +583,14 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 25:57      | and some sort of digital nonsense                                    |
 | 25:58      | that when your phone gets next to it, it triggers.                   |
 | 26:02      | The phone recognises it and can act on it.                           |
-| 26:04      | And Launch Center Pro can launch a Launch Centre action              |
+| 26:04      | And [[Launch Center Pro]] can launch a *Launch Center* action              |
 | 26:07      | based on the proximity or bumping up against the sticker.            |
 | 26:12      | So it's a way to make your phone do things                           |
 | 26:16      | just by being put in a specific space.                               |
 | 26:19      | And to my knowledge, there's no other way to do that.                |
-| 26:22      | Like we always complain about how Siri shortcuts                     |
+| 26:22      | Like we always complain about how [[Shortcuts\|Siri Shortcuts]]                     |
 | 26:25      | won't work automatically.                                            |
-| 26:27      | You know, you have to go in the Siri shortcuts app and trigger it.   |
+| 26:27      | You know, you have to go in the [[Shortcuts\|Siri Shortcuts]] app and trigger it.   |
 | 26:29      | Well, this is an opportunity to trigger a Siri shortcut.             |
 | 26:34      | And I have, because I'm a nerd, I have two desks.                    |
 | 26:37      | I have one that has all my digital bits on it                        |
@@ -621,8 +621,8 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 27:45      | it pushes it on to me a little more.                                 |
 | 27:48      | That's a really good use case.                                       |
 | 27:49      | I've got one, so I have like a little notebook.                      |
-| 27:53      | It's like a Field Notes notebook.                                    |
-| 27:55      | Not exactly the same, because Field Notes                            |
+| 27:53      | It's like a [Field Notes](https://fieldnotesbrand.com) notebook.                                    |
+| 27:55      | Not exactly the same, because [Field Notes](https://fieldnotesbrand.com)                            |
 | 27:57      | is a little hard to get here in Europe, it smells good.              |
 | 27:59      | But I've stuck a sticker to the front of that.                       |
 | 28:02      | And because I take that with me to meetings                          |
@@ -649,7 +649,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 28:48      | Cause obviously you're going to use up that notebook                 |
 | 28:50      | at some point and get a new one.                                     |
 | 28:52      | Okay, this is a really high tech solution.                           |
-| 28:54      | You know, these punished pockets that you can buy,                   |
+| 28:54      | You know, these punched pockets that you can buy,                   |
 | 28:57      | like the ones that you put in a binder.                              |
 | 28:58      | Essentially I have a small one of those                              |
 | 29:00      | and I stuck it inside the notebook                                   |
@@ -675,16 +675,16 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 29:42      | Like David was talking about how he uses in the car.                 |
 | 29:45      | What do you launch in your car with your sticker, David?             |
 | 29:48      | Well, one of the more frustrating things,                            |
-| 29:51      | so I have CarPlay in my car,                                         |
-| 29:53      | one of the more frustrating things with CarPlay                      |
+| 29:51      | so I have [[CarPlay]] in my car,                                         |
+| 29:53      | one of the more frustrating things with [[CarPlay]]                      |
 | 29:56      | is that it's supposed to always like pick up                         |
 | 29:59      | the last bit of audio and just start playing,                        |
 | 30:02      | but if you happen to be playing music at some point,                 |
 | 30:06      | it picks a random song from the start of your library                |
 | 30:11      | or stuff like that.                                                  |
 | 30:12      | So I just have a really simple shortcut set up                       |
-| 30:15      | to trigger Castro, which shortcuts can do in the background          |
-| 30:20      | because Castro has SiriKit integration                               |
+| 30:15      | to trigger [[Castro]], which shortcuts can do in the background          |
+| 30:20      | because [[Castro]] has [[SiriKit]] integration                               |
 | 30:24      | and they just launch maps.                                           |
 | 30:25      | So I don't have a lot of appointments or commute,                    |
 | 30:28      | I work out of the house.                                             |
@@ -700,23 +700,23 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 31:04      | what you can do shortcuts with these.                                |
 | 31:07      | So yeah, mine is just real simple though,                            |
 | 31:08      | just start a podcast so that I don't get whatever random audio       |
-| 31:13      | is just gonna start playing when I plug in CarPlay                   |
+| 31:13      | is just gonna start playing when I plug in [[CarPlay]]                   |
 | 31:16      | and then bring up maps in case I need to search.                     |
 | 31:18      | So, but you know, it's just that again,                              |
 | 31:20      | it's that several, it's reducing the friction.                       |
 | 31:25      | So in the past, I get in the car,                                    |
-| 31:28      | I've got to unlock my phone, find Castro,                            |
+| 31:28      | I've got to unlock my phone, find [[Castro]],                            |
 | 31:32      | start playing or I get in the car and I just plug it in              |
 | 31:35      | and then it's playing some random music.                             |
 | 31:37      | I'm already halfway out the driveway,                                |
-| 31:38      | then I gotta switch to Castro                                        |
+| 31:38      | then I gotta switch to [[Castro]]                                        |
 | 31:41      | and get it playing the right podcast or whatever.                    |
 | 31:44      | So it reduces that friction and brings maps right up.                |
 | 31:48      | So if I need to search, then maps is there.                          |
 | 31:49      | So I'm not, you know, jumping through multiple apps.                 |
 | 31:52      | I'm not having to focus on getting everything set up                 |
 | 31:55      | when I get in the car, I just get in the car,                        |
-| 31:57      | tap the NFC sticker, hit the notification                            |
+| 31:57      | tap the [[NFC]] sticker, hit the notification                            |
 | 31:59      | and it does what I need it to do every time I get in the car.        |
 | 32:03      | So it's really, it's really nice.                                    |
 | 32:06      | Yeah, and also doesn't maps suggest locations                        |
@@ -747,7 +747,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 33:06      | I think you're the first app that I'm aware of                       |
 | 33:08      | that's really effectively done this.                                 |
 | 33:10      | And when you combine it like you were saying earlier                 |
-| 33:13      | with the magic that is Siri shortcuts,                               |
+| 33:13      | with the magic that is [[Shortcuts\|Siri Shortcuts]],                               |
 | 33:16      | there's almost nothing you can't do with your phone                  |
 | 33:20      | when you get it near one of these stickers.                          |
 | 33:22      | So just everybody out there,                                         |
@@ -758,9 +758,9 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 33:32      | stickers are not the only way that you can, you know,                |
 | 33:34      | make use of all of this, which is fabulous.                          |
 | 33:37      | There's so many options.                                             |
-| 33:38      | Yeah, I kind of glossed over NFC stickers                            |
+| 33:38      | Yeah, I kind of glossed over [[NFC]] stickers                            |
 | 33:43      | because we were talking about just kind of all the ways              |
-| 33:45      | that Launch Center Pro complements shortcuts.                        |
+| 33:45      | that [[Launch Center Pro]] complements [[Shortcuts]].                        |
 | 33:48      | And the next one on my list was scheduling.                          |
 | 33:51      | So, you know, we've already done                                     |
 | 33:54      | a lot of really cool stuff with scheduling.                          |
@@ -776,23 +776,23 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 34:21      | And of course, that gives you a notification                         |
 | 34:24      | and then you can launch right into whatever you need to do.          |
 | 34:29      | And on that front, I have been all but begging [[Apple]]                 |
-| 34:34      | to give Launch Center Pro the critical alerts entitlement,           |
+| 34:34      | to give [[Launch Center Pro]] the critical alerts entitlement,           |
 | 34:39      | which I think would be incredible                                    |
 | 34:42      | if anybody at [[Apple]] listens to this,                                 |
 | 34:43      | probably not or might not be in a position                           |
-| 34:46      | to do anything about it, but if Launch Center Pro                    |
+| 34:46      | to do anything about it, but if [[Launch Center Pro]]                    |
 | 34:51      | were allowed to use that critical alerts entitlement,                |
-| 34:54      | it would bypass Do Not Disturb.                                      |
+| 34:54      | it would bypass *Do Not Disturb*.                                      |
 | 34:56      | So you could use it as an alarm.                                     |
-| 34:58      | So your morning alarm could be Launch Center Pro                     |
+| 34:58      | So your morning alarm could be [[Launch Center Pro]]                     |
 | 35:02      | where the alarm is guaranteed to wake you                            |
 | 35:05      | even if Do Not Disturb is on or is silence on or whatever.           |
 | 35:08      | But then also it's a notification                                    |
 | 35:10      | that can then start your morning routine.                            |
 | 35:13      | And even things like if you've got something scheduled               |
 | 35:19      | that's mission critical, but you happen to be driving,               |
-| 35:23      | well, if it's a schedule for Launch Center Pro,                      |
-| 35:26      | it might get lost in Do Not Disturb.                                 |
+| 35:23      | well, if it's a schedule for [[Launch Center Pro]],                      |
+| 35:26      | it might get lost in *Do Not Disturb*.                                 |
 | 35:29      | So anyways, I'm hoping at some point,                                |
 | 35:32      | [[Apple]] will give us access to that.                                   |
 | 35:34      | And there's several other things                                     |
@@ -851,7 +851,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 37:51      | That's Omni Group.com/OmniFocus.                                |
 | 37:55      | OmniFocus, accomplish more every day.                                |
 | 37:57      | Our thanks to the Omni Group for their support                        |
-| 38:01      | of this show and read AFM.                                           |
+| 38:01      | of this show and Relay FM.                                           |
 | 38:04      | Rose, how are you, since you're the one                              |
 | 38:06      | who instigated this, Rose, how are you using it?                     |
 | 38:09      | Yes, everybody should blame me for this.                             |
@@ -878,8 +878,8 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 38:59      | because otherwise you might get the push notification                |
 | 39:02      | to update, but you're in a meeting or something,                     |
 | 39:04      | you forget.                                                          |
-| 39:04      | And then so I was using TestFlight twice a day                       |
-| 39:07      | by a launch centre pro at 8 AM and 9 PM                              |
+| 39:04      | And then so I was using [[TestFlight]] twice a day                       |
+| 39:07      | by a [[Launch Center Pro]] at 8 AM and 9 PM                              |
 | 39:10      | to prompt me to update all of those applications                     |
 | 39:13      | on all of my devices,                                                |
 | 39:14      | which we're now down to two iOS devices over here.                   |
@@ -895,13 +895,13 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 39:38      | and I'd be there going, where is this feature?                       |
 | 39:41      | Like, wasn't this here just like an hour ago?                        |
 | 39:43      | And I've realised it was on the other iPad                           |
-| 39:44      | because I hadn't updated TestFlight on this iPad yet.                |
-| 39:48      | Or the applications in TestFlight.                                   |
+| 39:44      | because I hadn't updated [[TestFlight]] on this iPad yet.                |
+| 39:48      | Or the applications in [[TestFlight]].                                   |
 | 39:49      | So that's where that came from.                                      |
 | 39:50      | And I've got all sorts of things where it's like,                    |
 | 39:53      | okay, you know, at work at 9 AM,                                     |
 | 39:55      | you know, it is actually 9 AM Mondays and Fridays.                   |
-| 39:57      | I want reminders to open my OmniFocus review.                        |
+| 39:57      | I want reminders to open my [[OmniFocus]] review.                        |
 | 40:02      | And it takes me straight to the review section                       |
 | 40:04      | of OmniFocus so that I can review                                    |
 | 40:06      | all of my work projects correctly, you know,                         |
@@ -915,17 +915,17 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 40:24      | And yeah, it's nice to have all of that combined together now.       |
 | 40:29      | So thank you for that.                                               |
 | 40:30      | And what I'd also add is just if you used                            |
-| 40:33      | Launch Center Pro a long time ago,                                    |
+| 40:33      | [[Launch Center Pro]] a long time ago,                                    |
 | 40:35      | and I know there's listeners out there who used it,                  |
-| 40:37      | but then you eventually switched to workflow or whatever,            |
+| 40:37      | but then you eventually switched to [[Workflow]] or whatever,            |
 | 40:40      | it's time to go back and look at this app again                      |
-| 40:42      | because it does complement Siri shortcut so much.                    |
-| 40:45      | And it's really, it's not your daddy's Launch Center Pro.             |
+| 40:42      | because it does complement [[Shortcuts\|Siri Shortcuts]] so much.                    |
+| 40:45      | And it's really, it's not your daddy's [[Launch Center Pro]].             |
 | 40:49      | I mean, you guys, just going through the list of actions             |
 | 40:52      | you've got available now and like all of the system stuff            |
 | 40:55      | you've got in here, I mean, it is remarkable                         |
 | 40:59      | how many things you can automate or simplify                         |
-| 41:02      | into Launch Center Pro.                                               |
+| 41:02      | into [[Launch Center Pro]].                                               |
 | 41:03      | I mean, when I got in on the beta for version three,                 |
 | 41:07      | this app immediately went back into my dock                          |
 | 41:10      | because there's just so much I can do from this                      |
@@ -936,7 +936,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 41:22      | Yeah, thank you.                                                     |
 | 41:23      | Yeah, and you know, it's interesting.                                |
 | 41:25      | There's a lot that you aren't seeing also.                           |
-| 41:29      | So, you know, Launch Center Pro is first created in 2012.             |
+| 41:29      | So, you know, [[Launch Center Pro]] is first created in 2012.             |
 | 41:34      | You know, that's like the dark ages                                  |
 | 41:37      | almost in an iPhone development time.                                |
 | 41:41      | So we spent a considerable amount of time                            |
@@ -952,7 +952,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 42:10      | But we have some really cool stuff that's in the works               |
 | 42:14      | that 3.0 lays the foundation for.                                    |
 | 42:17      | And, you know, one of the things like you were talking about         |
-| 42:20      | how one of the great things about Launch Center Pro                   |
+| 42:20      | how one of the great things about [[Launch Center Pro]]                   |
 | 42:22      | is that it's just the quickest way to do a lot of things.            |
 | 42:25      | Well, one of the things that we spent a lot of time on               |
 | 42:28      | is optimising the launch speed                                       |
@@ -966,9 +966,9 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 42:55      | a few years ago and that's kind of a whole long side story.          |
 | 42:58      | And he kept trying to work on the app on the side                    |
 | 43:01      | and it didn't work.                                                  |
-| 43:02      | And so that's why Launch Center has kind of been on hiatus            |
+| 43:02      | And so that's why [[Launch Center Pro\|Launch Center]] has kind of been on hiatus            |
 | 43:04      | a little bit for the last few years,                                 |
-| 43:06      | was more job and timing and busyness                                 |
+| 43:06      | was more job and timing and busy-ness                                 |
 | 43:11      | versus not wanting to be working on the app.                         |
 | 43:15      | So actually Justin kind of made me a very fair way                   |
 | 43:22      | to kind of buy him out.                                              |
@@ -988,7 +988,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 44:04      | You know, if you just use the applications,                          |
 | 44:06      | it's very easy to look at it and think,                              |
 | 44:07      | oh, that's not a lot of work.                                        |
-| 44:09      | I frequently see that most primarily on Reddit                       |
+| 44:09      | I frequently see that most primarily on [[Reddit]]                       |
 | 44:11      | where people are like, yeah, this app's not worth any money.         |
 | 44:14      | Like I could program that in five minutes.                           |
 | 44:16      | It's like, OK, do that.                                              |
@@ -1022,31 +1022,31 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 45:39      | they continue using all the features they've paid for.               |
 | 45:42      | So we're not taking anything away from anybody.                      |
 | 45:45      | We're not forcing you to go download another app.                    |
-| 45:47      | You can continue using Launch Center Pro the way                     |
+| 45:47      | You can continue using [[Launch Center Pro]] the way                     |
 | 45:49      | you've always used it.                                               |
 | 45:51      | The new features require a subscription or a one-time                |
 | 45:55      | purchase.                                                            |
 | 45:55      | But what we're doing over the weekend                                |
 | 45:57      | is we're going to actually allow people to buy the features          |
 | 45:59      | they want and need.                                                  |
-| 46:00      | So if you love Launch Center Pro but aren't ever                     |
-| 46:03      | going to schedule anything, aren't really interested in iBeacons,    |
+| 46:00      | So if you love [[Launch Center Pro]] but aren't ever                     |
+| 46:03      | going to schedule anything, aren't really interested in [[iBeacon\|iBeacons]],    |
 | 46:07      | don't care about alternate icons or whatever,                        |
-| 46:10      | you can just buy the NFC in-app purchase.                            |
+| 46:10      | you can just buy the [[NFC]] in-app purchase.                            |
 | 46:14      | And so free app, buy one in-app purchase,                            |
 | 46:17      | and that covers your needs.                                          |
 | 46:18      | And that's a one-time purchase.                                      |
-| 46:20      | We're never going to charge you again for NFC.                       |
+| 46:20      | We're never going to charge you again for [[NFC]].                       |
 | 46:23      | We're going to continue to evolve those features.                    |
 | 46:27      | So the same thing, what finally prompted us to do this               |
 | 46:30      | is we got some feedback from beta testers who were saying,           |
-| 46:32      | hey, I paid for Launch Center Pro.                                   |
+| 46:32      | hey, I paid for [[Launch Center Pro]].                                   |
 | 46:34      | I love the app.                                                      |
 | 46:36      | But I don't like subscriptions or it                                 |
 | 46:40      | seems like the one-time purchase to unlock everything                |
 | 46:44      | is pretty steep.                                                     |
 | 46:45      | All I really want is the new black theme for the true black          |
-| 46:49      | theme for OLED devices.                                              |
+| 46:49      | theme for [[OLED]] devices.                                              |
 | 46:52      | And so now you can buy it.                                           |
 | 46:54      | You can buy just the theme pack.                                     |
 | 46:55      | So any themes that we currently have and all future themes           |
@@ -1078,7 +1078,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 48:11      | and be respectful of users.                                          |
 | 48:13      | Rose and I are going to, when this show publishes,                   |
 | 48:15      | we'll put up maybe some short videos of how we're using              |
-| 48:18      | Launch Center Pro and a few tips.                                    |
+| 48:18      | [[Launch Center Pro]] and a few tips.                                    |
 | 48:20      | But Rose, maybe we should all take turns talking                     |
 | 48:23      | about some of our favourite uses for the application.                 |
 | 48:29      | You want to go first?                                                |
@@ -1089,7 +1089,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 48:36      | All right, so I'll go first.                                         |
 | 48:38      | At approximately 7 AM every morning,                                 |
 | 48:41      | actually varies depending on the day of the week,                    |
-| 48:43      | Launch Center Pro reminds me to use the scales.                      |
+| 48:43      | [[Launch Center Pro]] reminds me to use the scales.                      |
 | 48:46      | And when I launch this, it launches a shortcut,                      |
 | 48:48      | which asks me how much I weigh and what my body fat percentage       |
 | 48:51      | is.                                                                  |
@@ -1108,38 +1108,38 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 49:19      | Christmas doesn't count.                                             |
 | 49:23      | All food is zero calories on Christmas.                              |
 | 49:25      | Yeah, definitely.                                                    |
-| 49:26      | In fact, we can set up a Launch Center Pro reminder                  |
+| 49:26      | In fact, we can set up a [[Launch Center Pro]] reminder                  |
 | 49:28      | to tell you that four times on Christmas Day.                        |
 | 49:32      | Yes.                                                                 |
 | 49:33      | And of course, we can actually share.                                |
 | 49:35      | So what I'm going to do, I'm going                                   |
 | 49:36      | to, in the blog post that accompanies this episode,                  |
-| 49:39      | I'm going to share both the Launch Center Pro action                 |
+| 49:39      | I'm going to share both the [[Launch Center Pro]] action                 |
 | 49:41      | that you can install as well as the shortcut for that                |
 | 49:43      | so that you can get the two-in-one package.                          |
 | 49:46      | Yeah, so you're doing that the series shortcut                       |
 | 49:48      | in the background.                                                   |
 | 49:49      | Yeah, yeah.                                                          |
-| 49:49      | So it then runs the series shortcut,                                 |
+| 49:49      | So it then runs the Siri shortcut,                                 |
 | 49:51      | but it does that at 7.15 approximately every day.                    |
-| 49:55      | And I did consider tying it to an NFC tag,                           |
+| 49:55      | And I did consider tying it to an [[NFC]] tag,                           |
 | 49:58      | but if I don't hit the NFC tag, then it won't prompt me              |
 | 50:02      | on my phone and I would look at it and go, oh, OK.                   |
 | 50:06      | I really think the NFC tags, the trick to that,                      |
 | 50:09      | is not to find a place where you can force your phone                |
-| 50:14      | into an NFC tag, but a place where your phone naturally              |
-| 50:17      | hits an NFC tag, if that makes any sense.                            |
+| 50:14      | into an [[NFC]] tag, but a place where your phone naturally              |
+| 50:17      | hits an [[NFC]] tag, if that makes any sense.                            |
 | 50:19      | Like when I'm at my writing desk,                                    |
 | 50:21      | I am going to put the phone on that stand.                           |
 | 50:24      | It's not something I'm doing deliberately                            |
 | 50:27      | to trigger the NFC tag.                                              |
-| 50:28      | I think that's the trick to it, is if you put an NFC tag             |
-| 50:31      | where you have to remember to put the phone on top of that NFC       |
+| 50:28      | I think that's the trick to it, is if you put an [[NFC]] tag             |
+| 50:31      | where you have to remember to put the phone on top of that [[NFC]]       |
 | 50:34      | tag, then it's not going to work.                                    |
 | 50:36      | It's going to be like in your car,                                   |
 | 50:38      | you set it into a cradle, which gets your car thing going.           |
 | 50:42      | Or if you've got a place that the phone is already going,            |
-| 50:46      | that's a great candidate for an NFC tag.                             |
+| 50:46      | that's a great candidate for an [[NFC]] tag.                             |
 | 50:49      | Yeah, or somewhere very close to it.                                 |
 | 50:50      | Yeah, I think, I mean, from what I'm                                 |
 | 50:52      | hearing from beta tester, it can actually work both ways.             |
@@ -1172,19 +1172,19 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 52:11      | but yes, absolutely, the sticker can work like that.                 |
 | 52:13      | And that's kind of how it works with my work notebook.               |
 | 52:16      | I stack my phone on top of it, but that's                            |
-| 52:18      | because I see the NFC tag.                                           |
+| 52:18      | because I see the [[NFC]] tag.                                           |
 | 52:21      | Real quick too, one thing that y'all don't know yet,                 |
 | 52:23      | but will be public by the time this is out.                          |
-| 52:27      | In addition to the Launch Center Pro icon stickers,                  |
+| 52:27      | In addition to the [[Launch Center Pro]] icon stickers,                  |
 | 52:30      | so we had custom printed stickers                                    |
-| 52:32      | that show the Launch Center Pro icon.                                |
+| 52:32      | that show the [[Launch Center Pro]] icon.                                |
 | 52:35      | We're also releasing clear stickers                                  |
 | 52:39      | so that they'll blend in more and then white stickers                |
 | 52:42      | that you can write on with a Sharpie.                                |
 | 52:44      | So we'll kind of have a full suite of stickers                       |
 | 52:46      | where you can kind of make it blend in a little more,                |
 | 52:49      | you can write your own custom things                                 |
-| 52:51      | where you can have the fun Launch Center Pro icon.                   |
+| 52:51      | where you can have the fun [[Launch Center Pro]] icon.                   |
 | 52:55      | So yeah, there's gonna be lots of options for that as well           |
 | 52:57      | as far as blending in a little more                                  |
 | 52:59      | and having more options of where to stick things.                    |
@@ -1193,13 +1193,13 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 53:06      | Let's just get this over with.                                       |
 | 53:10      | You cannot order them now.                                           |
 | 53:13      | I will send you some personally.                                     |
-| 53:16      | I will have them all live on the contrast shop                       |
+| 53:16      | I will have them all live on the [[Contrast]] shop                       |
 | 53:21      | hours before the app launches on Tuesday the 18th.                   |
 | 53:24      | So by the time anybody's listening to this,                          |
 | 53:26      | if they're not out of stock                                          |
 | 53:28      | or if I've hopefully got them restocked                              |
 | 53:31      | if they did go out of stock,                                         |
-| 53:33      | you'll be able to buy them at shop.contrast.co                       |
+| 53:33      | you'll be able to buy them at [shop.contrast.co](https://shop.contrast.co)                       |
 | 53:36      | or you can buy them within the app                                   |
 | 53:38      | and if you're a subscriber, you'll get 10% off.                      |
 | 53:40      | So it's kind of an automatic thing                                   |
@@ -1208,7 +1208,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 53:45      | and you can use [[Apple Pay]] inside the app,                            |
 | 53:48      | it'll automatically apply a 10% discount to your whole cart.         |
 | 53:51      | So there'll also be t-shirts and mugs and hats                       |
-| 53:56      | and I'm actually wearing my Launch Center Pro hat right now.         |
+| 53:56      | and I'm actually wearing my [[Launch Center Pro]] hat right now.         |
 | 53:59      | So you'll get 10% off anything you wanna buy from the store          |
 | 54:03      | and of course 10% off the stickers as well.                          |
 | 54:05      | So.                                                                  |
@@ -1217,16 +1217,16 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 54:10      | I will take it.                                                      |
 | 54:11      | I'll tell you, Rose,                                                 |
 | 54:15      | I think that's a great use of the scale.                             |
-| 54:17      | My use of Launch Center Pro at this point                            |
+| 54:17      | My use of [[Launch Center Pro]] at this point                            |
 | 54:20      | really is still pretty traditional in a lot of ways.                 |
 | 54:24      | Like I have several shortcuts set up                                 |
 | 54:27      | for sending text messages to groups and people that I know.          |
 | 54:31      | I have a bunch of launching things.                                  |
 | 54:33      | Like I've been really on this kind of spirit quest                   |
-| 54:36      | about am I putting Siri shortcuts on my home screen                  |
+| 54:36      | about am I putting [[Shortcuts\|Siri Shortcuts]] on my home screen                  |
 | 54:39      | or am I putting app icons?                                           |
 | 54:41      | And at this point, it's kind of a mixture of them,                   |
-| 54:44      | but Launch Center Pro allows me                                      |
+| 54:44      | but [[Launch Center Pro]] allows me                                      |
 | 54:46      | to have a really clean home screen                                   |
 | 54:49      | and then get kind of the other stuff                                 |
 | 54:51      | that I still want to access quickly,                                 |
@@ -1240,24 +1240,24 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 55:13      | that is just a ton of different actions                              |
 | 55:16      | that you can do in [[OmniFocus]].                                       |
 | 55:19      | It's a combination of some of their [[URL Schemes]]                      |
-| 55:21      | and some of my own custom Siri shortcuts                             |
+| 55:21      | and some of my own custom [[Shortcuts\|Siri Shortcuts]]                             |
 | 55:23      | to get me to particular views                                        |
 | 55:25      | and some to make specific new actions.                               |
 | 55:28      | And it's a big list                                                  |
 | 55:29      | and it doesn't make sense necessarily on my home screen,             |
-| 55:33      | but it fits perfect in Launch Center Pro                             |
+| 55:33      | but it fits perfect in [[Launch Center Pro]]                             |
 | 55:35      | and I access that multiple times a day.                              |
 | 55:39      | And it's just a great way to get access to things like that.         |
 | 55:42      | That I can see that being a really, really useful use case.          |
 | 55:46      | There's a lot of words, use words in that, but yes,                  |
 | 55:48      | I've been one of the really nerdy ones for quite a while.            |
-| 55:52      | I use iBeacons with Launch Center Pro.                               |
+| 55:52      | I use [[iBeacon\|iBeacons]] with [[Launch Center Pro]].                               |
 | 55:54      | So David mentioned earlier, it's like a proximity sensor,            |
 | 55:58      | because I work on the sixth floor at work                            |
 | 56:00      | and I live on the fourth floor of this building.                     |
-| 56:03      | And if I get a GPS reminder,                                         |
+| 56:03      | And if I get a [[GPS]] reminder,                                         |
 | 56:06      | that's like when I'm a block or so away generally.                   |
-| 56:09      | I mean, it depends, but GPS isn't all that accurate.                 |
+| 56:09      | I mean, it depends, but [[GPS]] isn't all that accurate.                 |
 | 56:13      | And so if I do that, then I get a notification                       |
 | 56:15      | that, hey, you wanted to do this when you got home                   |
 | 56:18      | or when you got into the office.                                     |
@@ -1271,22 +1271,22 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 56:34      | from home from work and which one is the most optimal.               |
 | 56:37      | Of course, the true note in me is shining out in this episode.       |
 | 56:40      | And when I get to work, it prompts me to clock in                    |
-| 56:43      | and it then check my OmniFocus work perspective                      |
+| 56:43      | and it then check my [[OmniFocus]] work perspective                      |
 | 56:47      | for the really urgent and important things                           |
 | 56:50      | that are needing to be done this week.                               |
 | 56:52      | And that's all really useful for me.                                 |
-| 56:54      | And it wouldn't be possible without Launch Center Pro.               |
-| 56:57      | And for the listeners, I'm using iBeacons too                        |
+| 56:54      | And it wouldn't be possible without [[Launch Center Pro]].               |
+| 56:57      | And for the listeners, I'm using [[iBeacon\|iBeacons]] too                        |
 | 56:59      | and we are going to do a show on that soon.                          |
 | 57:01      | So if you like that idea, put a pin in it, we're coming back.        |
-| 57:05      | Yeah, essentially, if you're not sure what an iBeacon is,            |
-| 57:08      | it's a Bluetooth little device                                       |
+| 57:05      | Yeah, essentially, if you're not sure what an [[iBeacon]] is,            |
+| 57:08      | it's a [[Bluetooth]] little device                                       |
 | 57:09      | and it is more accurate location based on where you put it.          |
 | 57:13      | So it's not like saying to your phone, like,                         |
 | 57:15      | hey, you're exactly a coordinates X, Y, Z, A, B, C.                  |
 | 57:19      | It's more like, hey, phone, you made it here.                        |
 | 57:21      | Like, here's the information that you're here.                       |
-| 57:23      | And then in Launch Center Pro's case, it takes that                  |
+| 57:23      | And then in [[Launch Center Pro\Launch Center Pro's]] case, it takes that                  |
 | 57:25      | and it turns it into whatever you've hooked it up to                 |
 | 57:28      | on the other end that might be running a shortcut.                   |
 | 57:30      | That might be, you know, prompting you to add a reminder             |
@@ -1297,7 +1297,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 57:42      | And things like that, yeah.                                          |
 | 57:44      | And we've got some interesting things coming                         |
 | 57:46      | on that front as well.                                               |
-| 57:47      | So all the fun things in Launch Center Pro are gonna                 |
+| 57:47      | So all the fun things in [[Launch Center Pro]] are gonna                 |
 | 57:53      | see lots of new fun things to do in the near future.                 |
 | 57:57      | So again, can't promise when, but there should be news               |
 | 58:02      | on the iBeacon front in not too distant future.                      |
@@ -1331,21 +1331,21 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 59:10      | So David.                                                            |
 | 59:11      | Hey, I didn't,                                                       |
 | 59:12      | I was just gonna say I didn't get to tell y'all                      |
-| 59:15      | how I use Launch in a Pro.                                           |
+| 59:15      | how I use [[Launch Center Pro]].                                           |
 | 59:17      | And I was about to ask you, so let's hear about it.                  |
 | 59:21      | All right.                                                           |
-| 59:22      | So here's my absolute favourite Launch in a Pro shortcut.             |
+| 59:22      | So here's my absolute favourite [[Launch Center Pro]] shortcut.             |
 | 59:28      | And this is something that I actually don't use a ton,               |
 | 59:31      | but when I use it, it is just so handy.                              |
-| 59:34      | So I created a list in for Wolfram Alpha                             |
+| 59:34      | So I created a list in for [[Wolfram Alpha]]                             |
 | 59:42      | that has my birthday, my wife's birthday,                            |
 | 59:46      | the birthdays of our four kids and our wedding anniversary.          |
 | 59:51      | So the list is just those dates.                                     |
 | 59:53      | And then what it does is when you launch it,                         |
 | 59:56      | it gives you the list                                                |
 | 59:57      | and then you pick the name or the anniversary.                       |
-| 01:00:01   | It sends the date to Wolfram Alpha.                                  |
-| 01:00:04   | And then in Wolfram Alpha, you see that,                             |
+| 01:00:01   | It sends the date to [[Wolfram Alpha]].                                  |
+| 01:00:04   | And then in [[Wolfram Alpha]], you see that,                             |
 | 01:00:08   | I've been married 11 years, one month and 25 days.                   |
 | 01:00:12   | It's 581 weeks and six days.                                         |
 | 01:00:15   | It tells you things that happened on that day.                       |
@@ -1360,7 +1360,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:00:37   | and I can tell you down to the day how old he is.                    |
 | 01:00:40   | And helpful for remembering,                                         |
 | 01:00:42   | have we been married 10 years now?                                   |
-| 01:00:44   | Or a little, and then hit the shortcut.                              |
+| 01:00:44   | Or a lit err eh, and then hit the shortcut.                              |
 | 01:00:48   | And I know exactly, so.                                              |
 | 01:00:49   | Wow, man, you better be careful there, brother.                      |
 | 01:00:52   | But that's just it.                                                  |
@@ -1379,16 +1379,16 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:01:20   | to keep that kind of stuff at the top of mind.                       |
 | 01:01:22   | So here's the trick.                                                 |
 | 01:01:23   | Get your wife for Christmas a nice hat                               |
-| 01:01:25   | and put an NFC sticker on the inside.                                |
+| 01:01:25   | and put an [[NFC]] sticker on the inside.                                |
 | 01:01:29   | Just hold your phone up,                                             |
 | 01:01:33   | then let it run more formal for you.                                 |
 | 01:01:34   | There you go.                                                        |
 | 01:01:35   | Problem solved.                                                      |
 | 01:01:36   | I'm sure she'll.                                                     |
-| 01:01:37   | The best thing to do would be to put an iBeacon inside of it         |
+| 01:01:37   | The best thing to do would be to put an [[iBeacon]] inside of it         |
 | 01:01:40   | because then whenever you get nearer the wife's hat,                 |
 | 01:01:43   | then you would get the information.                                  |
-| 01:01:45   | I may or may not be considering embedding an iBeacon                 |
+| 01:01:45   | I may or may not be considering embedding an [[iBeacon]]                 |
 | 01:01:47   | into my boyfriend's phone.                                           |
 | 01:01:48   | Okay, Rose, you can just ask him                                     |
 | 01:01:51   | to just keep it on his forehead.                                     |
@@ -1398,7 +1398,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:01:59   | I'm not sure it's kind of fashion statement                          |
 | 01:02:00   | he's looking for, but.                                               |
 | 01:02:04   | So a few of my other favourites.                                      |
-| 01:02:08   | A lot of people don't realise Launch Center Pro                      |
+| 01:02:08   | A lot of people don't realise [[Launch Center Pro]]                      |
 | 01:02:10   | has a barcode scanner in it.                                         |
 | 01:02:12   | So I have an action to scan a barcode                                |
 | 01:02:15   | and launch a search in [[Amazon]].                                       |
@@ -1406,10 +1406,10 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:02:21   | or even just want to add something to a wish list                    |
 | 01:02:23   | that somebody else had or whatever,                                  |
 | 01:02:26   | barcode scan to [[Amazon]].                                              |
-| 01:02:29   | I do a lot of searching on the App Store                             |
+| 01:02:29   | I do a lot of searching on the [[App Store]]                             |
 | 01:02:31   | to kind of keep tabs on different categories                         |
 | 01:02:34   | and that kind of stuff.                                              |
-| 01:02:36   | So I have a whole bunch of pre-programmed App Store searches.        |
+| 01:02:36   | So I have a whole bunch of pre-programmed [[App Store]] searches.        |
 | 01:02:41   | And then I use a lot of the basic stuff too.                         |
 | 01:02:43   | So call my wife, text my wife.                                       |
 | 01:02:45   | It's funny, the saying cobbler shoes are always,                     |
@@ -1422,15 +1422,15 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:03:11   | and I happen to have a test database                                 |
 | 01:03:13   | and not my personal database.                                        |
 | 01:03:15   | So because I'd now just do so many basic things,                     |
-| 01:03:19   | calling and texting and searching 1Password                       |
+| 01:03:19   | calling and texting and searching [[1Password]]                       |
 | 01:03:21   | and launching.                                                       |
 | 01:03:24   | Another thing a lot of people don't necessarily know                 |
-| 01:03:26   | is you can share a URL from the Notes app on iOS.                    |
-| 01:03:31   | And then that URL can be put in Launch Center Pro                    |
+| 01:03:26   | is you can share a URL from the [[Apple Notes\|Notes]] app on iOS.                    |
+| 01:03:31   | And then that URL can be put in [[Launch Center Pro]]                    |
 | 01:03:34   | and it'll take you right to a specific note                          |
-| 01:03:36   | in the Notes app.                                                    |
+| 01:03:36   | in the [[Apple Notes\|Notes]] app.                                                    |
 | 01:03:38   | So I have several notes that I reference regularly                   |
-| 01:03:42   | and so those are just icons in Launch Center Pro now                 |
+| 01:03:42   | and so those are just icons in [[Launch Center Pro]] now                 |
 | 01:03:45   | where I can get right to it.                                         |
 | 01:03:46   | Another fun one is I put a clipboard action                          |
 | 01:03:53   | to put a zero width space on my clipboard.                           |
@@ -1444,7 +1444,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:04:20   | Yeah, that's exactly the kind of things that especially,             |
 | 01:04:23   | I think a lot of our listeners they want to use                      |
 | 01:04:26   | all this stuff and it sounds like it's really complicated            |
-| 01:04:29   | but Launch Center Pro does have a really great action                |
+| 01:04:29   | but [[Launch Center Pro]] does have a really great action                |
 | 01:04:31   | composer and it's got the ability to allow you                       |
 | 01:04:35   | to input as part of the action.                                      |
 | 01:04:38   | That sounds much more complicated.                                   |
@@ -1457,7 +1457,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:04:58   | or it can ask you to peck contact                                    |
 | 01:05:00   | or input numbers or text or something                                |
 | 01:05:04   | and it's really easy to do.                                          |
-| 01:05:05   | And in some ways it's easier than shortcuts                          |
+| 01:05:05   | And in some ways it's easier than [[Shortcuts]]                          |
 | 01:05:08   | because you don't have to say like, okay,                            |
 | 01:05:11   | I'm gonna ask for input                                              |
 | 01:05:12   | and then I'm gonna take that ask for input                           |
@@ -1472,8 +1472,8 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:05:33   | it's just gonna take whatever you input for that                     |
 | 01:05:36   | and stick it right in that field and run it,                         |
 | 01:05:38   | which is so nice to use.                                             |
-| 01:05:40   | And I've actually got my parents using Launch Center Pro.            |
-| 01:05:43   | I don't think they realised they're using Launch Center Pro.         |
+| 01:05:40   | And I've actually got my parents using [[Launch Center Pro]].            |
+| 01:05:43   | I don't think they realised they're using [[Launch Center Pro]].         |
 | 01:05:45   | They probably have never heard of the application                    |
 | 01:05:47   | apart from the fact it's this app that's on their home screen        |
 | 01:05:50   | which they used to send me like the last picture                     |
@@ -1492,9 +1492,9 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:06:23   | that you wouldn't have otherwise.                                    |
 | 01:06:25   | So we're always pushing the envelope on iOS.                         |
 | 01:06:28   | Yeah, and I was gonna say,                                           |
-| 01:06:29   | I actually have my mom using Launch Center Pro as well.              |
+| 01:06:29   | I actually have my mom using [[Launch Center Pro]] as well.              |
 | 01:06:33   | It's funny because it is one of those apps                           |
-| 01:06:36   | where, I mean, kind of like shortcuts                                |
+| 01:06:36   | where, I mean, kind of like [[Shortcuts]]                                |
 | 01:06:40   | where we as kind of automation nerds                                 |
 | 01:06:44   | can go set things up for people                                      |
 | 01:06:47   | who would never think to set them up for themselves                  |
@@ -1514,7 +1514,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:07:37   | of her life every time she came and went from the house              |
 | 01:07:41   | was spent doing this.                                                |
 | 01:07:42   | And so I set her up with a pre-programmed                            |
-| 01:07:49   | Launch Center Pro action, put it in her widget.                      |
+| 01:07:49   | [[Launch Center Pro]] action, put it in her widget.                      |
 | 01:07:51   | So now she just scrolls to notification centre,                      |
 | 01:07:53   | taps one button and she still has an iPhone, I think seven           |
 | 01:07:58   | plus, so she puts her finger on the thumbprint                       |
@@ -1547,15 +1547,15 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:09:11   | I don't think they did, right?                                       |
 | 01:09:12   | No, they did not.                                                    |
 | 01:09:13   | They did not.                                                        |
-| 01:09:15   | iPads do not have NFC at all, which is,                              |
+| 01:09:15   | iPads do not have [[NFC]] at all, which is,                              |
 | 01:09:19   | I can understand from one perspective,                               |
-| 01:09:22   | I think they see the NFC as like [[Apple Pay]]                           |
+| 01:09:22   | I think they see the [[NFC]] as like [[Apple Pay]]                           |
 | 01:09:27   | and card scanning and like ID card kind of replacements              |
 | 01:09:33   | and getting in and out of buildings and things like that.            |
 | 01:09:35   | So in some ways I can see that they don't think                      |
 | 01:09:38   | that tapping an iPad to a sticker is a great use case,               |
 | 01:09:42   | but I think they kind of looked past the potential                   |
-| 01:09:46   | for apps like Launch Center Pro                                      |
+| 01:09:46   | for apps like [[Launch Center Pro]]                                      |
 | 01:09:49   | to make use of the technology.                                       |
 | 01:09:50   | So who knows, like if this really takes off                          |
 | 01:09:53   | and people really love it,                                           |
@@ -1566,7 +1566,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:10:02   | the correct place to address this query                              |
 | 01:10:04   | is apple.com/feedback.                                         |
 | 01:10:07   | If we all tell [[Apple]] that we want it, then, you know,                |
-| 01:10:09   | maybe you guys at Contrast Co                                        |
+| 01:10:09   | maybe you guys at [[Contrast\|Contrast Co]]                                        |
 | 01:10:11   | will get the ability to implement that into the iPad.                |
 | 01:10:13   | But to be clear, you can do all of the other stuff                   |
 | 01:10:16   | on the iPad version, you know,                                       |
@@ -1576,7 +1576,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:10:24   | Well, either way, I think that I'm just so happy                     |
 | 01:10:27   | that you guys have just come on so strong                            |
 | 01:10:29   | with this version three.                                             |
-| 01:10:31   | And I love having Launch Center Pro back in my dock.                 |
+| 01:10:31   | And I love having [[Launch Center Pro]] back in my dock.                 |
 | 01:10:34   | And not only have you made it more functional,                       |
 | 01:10:37   | like you said earlier,                                               |
 | 01:10:38   | the app is much snappier now                                         |
@@ -1608,20 +1608,20 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:11:42   | Well, for me has definitely been a gateway drug                      |
 | 01:11:45   | to automation and I am definitely a very happy user                  |
 | 01:11:50   | of version.                                                          |
-| 01:11:51   | I don't think I use Launch Centre itself,                            |
+| 01:11:51   | I don't think I use [[Launch Center Pro\|Launch Center]] itself,                            |
 | 01:11:53   | but I did use another app which you had,                             |
-| 01:11:55   | which was very similar called Contacts                               |
-| 01:11:57   | and I've been using Launch Center Pro for a very long time.          |
+| 01:11:55   | which was very similar called [[Contacts]]                               |
+| 01:11:57   | and I've been using [[Launch Center Pro]] for a very long time.          |
 | 01:12:00   | So it's great to have it back in my dock                             |
 | 01:12:03   | because that's where it deserves to be.                              |
 | 01:12:05   | So Rose, what's in your dock right now?                              |
 | 01:12:08   | My dock currently contains three applications.                       |
-| 01:12:11   | It contains [[Drafts]], OmniFocus and Launch Center Pro.                 |
-| 01:12:15   | I've got [[Drafts]], Launch Center Pro and Fantastic Health.             |
+| 01:12:11   | It contains [[Drafts]], [[OmniFocus]] and [[Launch Center Pro]].                 |
+| 01:12:15   | I've got [[Drafts]], [[Launch Center Pro]] and Fantastic Health.             |
 | 01:12:20   | How about you, David, what's in your dock?                           |
 | 01:12:25   | I guess I'm the odd man out here.                                    |
-| 01:12:29   | I have mail, Launch Center Pro, [[Safari]]                               |
-| 01:12:34   | and my Weather app, Weather app.                                     |
+| 01:12:29   | I have [[Apple Mail\|Mail]], [[Launch Center Pro]], [[Safari]]                               |
+| 01:12:34   | and my weather app, [[Weather Up]].                                     |
 | 01:12:36   | So.                                                                  |
 | 01:12:36   | Yeah, I live in California.                                          |
 | 01:12:37   | I don't even need a weather app.                                     |
@@ -1631,10 +1631,10 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:12:47   | So we're sorry about keeping you a long time,                        |
 | 01:12:50   | but it was, there was just a lot to talk about                       |
 | 01:12:52   | and we're both, Rose and I are super happy                           |
-| 01:12:54   | that Launch Center Pro is back.                                      |
+| 01:12:54   | that [[Launch Center Pro]] is back.                                      |
 | 01:12:56   | I feel like we're entering a new golden age of automation            |
 | 01:12:59   | on iOS, so we're really happy to share this stuff with you.          |
-| 01:13:02   | Go check out Launch Center Pro.                                      |
+| 01:13:02   | Go check out [[Launch Center Pro]].                                      |
 | 01:13:03   | It's a great app.                                                    |
 | 01:13:04   | Like I said, they've got a model that works for you.                 |
 | 01:13:07   | Download it.                                                         |
@@ -1644,28 +1644,28 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:13:16   | just do things when you just set it down in a dock.                  |
 | 01:13:18   | I think that's great.                                                |
 | 01:13:20   | Thanks to our sponsor today, Omni Group                              |
-| 01:13:22   | with a new version of [[OmniFocus]] out for Mac and iOS.                |
+| 01:13:22   | with a new version of OmniFocus out for Mac and iOS.                |
 | 01:13:26   | And where can we find you, David,                                    |
 | 01:13:28   | if people want to follow up?                                         |
-| 01:13:31   | Sure, you can find me personally at DR Barnard on Twitter.           |
-| 01:13:37   | You can find Launch Center Pro at Launch Center Pro,                 |
-| 01:13:40   | no spaces, and then contrast.co is the website.                      |
+| 01:13:31   | Sure, you can find me personally @drbarnard on [[Twitter]].           |
+| 01:13:37   | You can find [[Launch Center Pro]] at [[Launch Center Pro]],                 |
+| 01:13:40   | no spaces, and then [contrast.co](https://contrast.co) is the website.                      |
 | 01:13:46   | Yeah, that's about it.                                               |
 | 01:13:47   | There will be links to that.                                         |
 | 01:13:48   | And of course, there are other applications,                         |
-| 01:13:50   | including weather up in the show notes.                              |
+| 01:13:50   | including [[Weather Up]] in the show notes.                              |
 | 01:13:52   | And as always, we would love to hear your feedback                   |
 | 01:13:55   | in the forums.                                                       |
-| 01:13:56   | Tell us what you're doing with Launch Center Pro                     |
+| 01:13:56   | Tell us what you're doing with [[Launch Center Pro]]                     |
 | 01:13:58   | and what stuff you're nerding out with.                              |
-| 01:14:01   | And if you've got some of these NFC tags,                            |
+| 01:14:01   | And if you've got some of these [[NFC]] tags,                            |
 | 01:14:03   | then share your use cases,                                           |
 | 01:14:05   | because I'm sure everybody is dying to know,                         |
 | 01:14:08   | not just me and Sparky, but David as well.                           |
 | 01:14:11   | David, where can people find you?                                    |
 | 01:14:13   | I'm David.                                                           |
-| 01:14:13   | I met Sparky on the web, macsparky.com                               |
-| 01:14:16   | and MacSparky on Twitter.                                            |
-| 01:14:19   | Our forum is talk.automators.fm                                      |
+| 01:14:13   | I met Sparky on the web, [macsparky.com](https://macsparky.com)                               |
+| 01:14:16   | and MacSparky on [[Twitter]].                                            |
+| 01:14:19   | Our forum is [talk.automators.fm](https://talk.automators.fm)                                      |
 | 01:14:23   | and we will see you all in two weeks.                                |
 | 01:14:26   | Thank you.                                                           |
